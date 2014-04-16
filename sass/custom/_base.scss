@@ -1,0 +1,54 @@
+body {
+  color: #444;
+  font-family: Helvetica;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $head-sans;
+}
+
+p, ul, ol {
+  line-height: 1.4em;
+}
+
+ul, ol {
+  margin-left: 40px;
+}
+
+ul {
+  list-style: inherit;
+}
+
+ol {
+  list-style: decimal;
+}
+
+a {
+  text-decoration: none;
+  color: $anchor;
+  &:hover {
+    opacity: 0.8;
+  }
+  &:visited {
+    color: $anchor;
+  }
+}
+
+#main {
+  margin: 10px $body-margin-left;
+}
+
+.img {
+  background: #eee;
+  padding: 5px;
+  text-align: center;
+  margin: 0 auto 1.5rem;
+  max-width: 80%;
+  img {
+    max-width: 500px;
+  }
+  .alt {
+    font-style: italic;
+    font-size: 13px;
+  }
+}

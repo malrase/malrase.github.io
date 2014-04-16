@@ -1,0 +1,11 @@
+---
+layout: post
+title: "JKL"
+date: 2013-05-29 12:02:33 -0700
+comments: false
+categories: books reviews 2013-challenge
+---
+
+- Joyce, James - Dubliners - 8.5/10
+- Kingsolver, Barbara - The Poisonwood Bible - 8.3/10
+- Lively, Penelope - Moon Tiger - 6.1/10

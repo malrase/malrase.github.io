@@ -1,0 +1,11 @@
+---
+layout: post
+title: "GHI"
+date: 2013-05-21 12:02:42 -0700
+comments: false
+categories: books reviews 2013-challenge
+---
+
+- Graves, Robert - I Claudius - 9.1/10
+- Harris, Robert - Fatherland - 7.6/10
+- Ibsen, Henrik - Peer Gynt - 4.3/10
