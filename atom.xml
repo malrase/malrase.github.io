@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[mjlcatlin]]></title>
-  <link href="http://mjlcatlin.com/atom.xml" rel="self"/>
-  <link href="http://mjlcatlin.com/"/>
-  <updated>2014-04-16T12:31:16-07:00</updated>
-  <id>http://mjlcatlin.com/</id>
+  <link href="http://malrase.github.io/atom.xml" rel="self"/>
+  <link href="http://malrase.github.io/"/>
+  <updated>2014-04-16T13:42:10-07:00</updated>
+  <id>http://malrase.github.io/</id>
   <author>
     <name><![CDATA[Michael]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Upcoming Travel]]></title>
-    <link href="http://mjlcatlin.com/blog/2014/04/15/upcoming-travel/"/>
+    <link href="http://malrase.github.io/blog/2014/04/15/upcoming-travel/"/>
     <updated>2014-04-15T13:40:14-07:00</updated>
-    <id>http://mjlcatlin.com/blog/2014/04/15/upcoming-travel</id>
+    <id>http://malrase.github.io/blog/2014/04/15/upcoming-travel</id>
     <content type="html"><![CDATA[<p>For the next seven months, Hampton and I will be travelling around Europe and the East Coast. We have few solid plans aside from some conferences (<a href="http://codefront.io/">Codefront.io</a>, <a href="http://2014.la-conf.org/">La Conf</a>, <a href="http://hybridconf.net/">HybridConf</a> and <a href="http://sassconf.com/">SassConf</a>).</p>
 
 <p>A friend gave me the idea to blog as we travel. I&rsquo;ve been lax with this blog recently, and I hope that switching platforms (from WordPress to Octopress) will spur me to write more.</p>
@@ -26,9 +26,9 @@
   
   <entry>
     <title type="html"><![CDATA[2013 in Review]]></title>
-    <link href="http://mjlcatlin.com/blog/2013/12/30/2013-in-review/"/>
+    <link href="http://malrase.github.io/blog/2013/12/30/2013-in-review/"/>
     <updated>2013-12-30T10:42:14-08:00</updated>
-    <id>http://mjlcatlin.com/blog/2013/12/30/2013-in-review</id>
+    <id>http://malrase.github.io/blog/2013/12/30/2013-in-review</id>
     <content type="html"><![CDATA[<p>Here&rsquo;s a quick list of some of the things this year that I enjoyed the most. The films, TV episodes, music and moments are all chosen from 2013. However, as I mainly read &ldquo;older&rdquo; books this year, the books were from whenever – I just read them this year.</p>
 
 <h3>Films</h3>
@@ -89,9 +89,9 @@
   
   <entry>
     <title type="html"><![CDATA[VWXYZ]]></title>
-    <link href="http://mjlcatlin.com/blog/2013/11/05/v-w-x-y-z/"/>
+    <link href="http://malrase.github.io/blog/2013/11/05/v-w-x-y-z/"/>
     <updated>2013-11-05T10:48:54-08:00</updated>
-    <id>http://mjlcatlin.com/blog/2013/11/05/v-w-x-y-z</id>
+    <id>http://malrase.github.io/blog/2013/11/05/v-w-x-y-z</id>
     <content type="html"><![CDATA[<ul>
 <li>Vaughan, Brian K &ndash; Y: The Last Man &ndash; 7.0</li>
 <li>West, Nathanael &ndash; The Day of the Locust &ndash; 7.5</li>
@@ -111,9 +111,9 @@
   
   <entry>
     <title type="html"><![CDATA[STU]]></title>
-    <link href="http://mjlcatlin.com/blog/2013/10/06/s-t-u/"/>
+    <link href="http://malrase.github.io/blog/2013/10/06/s-t-u/"/>
     <updated>2013-10-06T11:50:48-07:00</updated>
-    <id>http://mjlcatlin.com/blog/2013/10/06/s-t-u</id>
+    <id>http://malrase.github.io/blog/2013/10/06/s-t-u</id>
     <content type="html"><![CDATA[<ul>
 <li>Saramago, José &ndash; Blindness &ndash; 8.0</li>
 <li>Thompson, Hunter S &ndash; Fear and Loathing in Las Vegas &ndash; 8.2</li>
@@ -129,9 +129,9 @@
   
   <entry>
     <title type="html"><![CDATA[PQR]]></title>
-    <link href="http://mjlcatlin.com/blog/2013/08/17/p-q-r/"/>
+    <link href="http://malrase.github.io/blog/2013/08/17/p-q-r/"/>
     <updated>2013-08-17T11:52:15-07:00</updated>
-    <id>http://mjlcatlin.com/blog/2013/08/17/p-q-r</id>
+    <id>http://malrase.github.io/blog/2013/08/17/p-q-r</id>
     <content type="html"><![CDATA[<ul>
 <li>Pynchon, Thomas &ndash; The Crying of Lot 49 &ndash; 9.0/10</li>
 <li>Quigley, Sheila &ndash; Thorn In My Side &ndash; 5.6/10</li>
@@ -145,11 +145,11 @@
   
   <entry>
     <title type="html"><![CDATA[Cocktail: Brass Check]]></title>
-    <link href="http://mjlcatlin.com/blog/2013/07/27/cocktail-brass-check/"/>
+    <link href="http://malrase.github.io/blog/2013/07/27/cocktail-brass-check/"/>
     <updated>2013-07-27T11:53:41-07:00</updated>
-    <id>http://mjlcatlin.com/blog/2013/07/27/cocktail-brass-check</id>
+    <id>http://malrase.github.io/blog/2013/07/27/cocktail-brass-check</id>
     <content type="html"><![CDATA[<div class="img">
-  <img src="http://mjlcatlin.com/images/cocktails/brass-check.jpg">
+  <img src="http://malrase.github.io/images/cocktails/brass-check.jpg">
   <div class="alt">Brass Check</div>
 </div>
 
@@ -170,13 +170,13 @@
   
   <entry>
     <title type="html"><![CDATA[Cocktail: Breakfast of Champions]]></title>
-    <link href="http://mjlcatlin.com/blog/2013/06/29/cocktail-breakfast-of-champions/"/>
+    <link href="http://malrase.github.io/blog/2013/06/29/cocktail-breakfast-of-champions/"/>
     <updated>2013-06-29T11:55:01-07:00</updated>
-    <id>http://mjlcatlin.com/blog/2013/06/29/cocktail-breakfast-of-champions</id>
+    <id>http://malrase.github.io/blog/2013/06/29/cocktail-breakfast-of-champions</id>
     <content type="html"><![CDATA[<p>When you eat at a fancy restaurant (or at least a restaurant with a world-renowned chef), you have to get the weirdest thing on the menu. That chef (or restaurant) is famous for a reason &ndash; it creates flavour profiles that are going to be pleasing. So why waste your time on something standard?</p>
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/cocktails/breakfast-of-champions.jpg">
+  <img src="http://malrase.github.io/images/cocktails/breakfast-of-champions.jpg">
   <div class="alt">Breakfast of Champions</div>
 </div>
 
@@ -200,9 +200,9 @@
   
   <entry>
     <title type="html"><![CDATA[MNO]]></title>
-    <link href="http://mjlcatlin.com/blog/2013/06/23/m-n-o/"/>
+    <link href="http://malrase.github.io/blog/2013/06/23/m-n-o/"/>
     <updated>2013-06-23T11:59:56-07:00</updated>
-    <id>http://mjlcatlin.com/blog/2013/06/23/m-n-o</id>
+    <id>http://malrase.github.io/blog/2013/06/23/m-n-o</id>
     <content type="html"><![CDATA[<ul>
 <li>Morrison, Toni &ndash; The Bluest Eye &ndash; 7.6/10</li>
 <li>Naipaul, V.S. &ndash; A House for Mr Biswas &ndash; 8.3/10</li>
@@ -224,9 +224,9 @@
   
   <entry>
     <title type="html"><![CDATA[JKL]]></title>
-    <link href="http://mjlcatlin.com/blog/2013/05/29/j-k-l/"/>
+    <link href="http://malrase.github.io/blog/2013/05/29/j-k-l/"/>
     <updated>2013-05-29T12:02:33-07:00</updated>
-    <id>http://mjlcatlin.com/blog/2013/05/29/j-k-l</id>
+    <id>http://malrase.github.io/blog/2013/05/29/j-k-l</id>
     <content type="html"><![CDATA[<ul>
 <li>Joyce, James &ndash; Dubliners &ndash; 8.5/10</li>
 <li>Kingsolver, Barbara &ndash; The Poisonwood Bible &ndash; 8.3/10</li>
@@ -238,9 +238,9 @@
   
   <entry>
     <title type="html"><![CDATA[GHI]]></title>
-    <link href="http://mjlcatlin.com/blog/2013/05/21/g-h-i/"/>
+    <link href="http://malrase.github.io/blog/2013/05/21/g-h-i/"/>
     <updated>2013-05-21T12:02:42-07:00</updated>
-    <id>http://mjlcatlin.com/blog/2013/05/21/g-h-i</id>
+    <id>http://malrase.github.io/blog/2013/05/21/g-h-i</id>
     <content type="html"><![CDATA[<ul>
 <li>Graves, Robert &ndash; I Claudius &ndash; 9.1/10</li>
 <li>Harris, Robert &ndash; Fatherland &ndash; 7.6/10</li>
@@ -252,9 +252,9 @@
   
   <entry>
     <title type="html"><![CDATA[DEF]]></title>
-    <link href="http://mjlcatlin.com/blog/2013/04/04/d-e-f/"/>
+    <link href="http://malrase.github.io/blog/2013/04/04/d-e-f/"/>
     <updated>2013-04-04T12:02:50-07:00</updated>
-    <id>http://mjlcatlin.com/blog/2013/04/04/d-e-f</id>
+    <id>http://malrase.github.io/blog/2013/04/04/d-e-f</id>
     <content type="html"><![CDATA[<p>Following on from my previous post, the next three novels I read were by authors with surnames beginning with D, E, and F:</p>
 
 <ul>
@@ -278,9 +278,9 @@
   
   <entry>
     <title type="html"><![CDATA[ABC]]></title>
-    <link href="http://mjlcatlin.com/blog/2013/03/03/a-b-c/"/>
+    <link href="http://malrase.github.io/blog/2013/03/03/a-b-c/"/>
     <updated>2013-03-03T11:02:56-08:00</updated>
-    <id>http://mjlcatlin.com/blog/2013/03/03/a-b-c</id>
+    <id>http://malrase.github.io/blog/2013/03/03/a-b-c</id>
     <content type="html"><![CDATA[<p>Last year I read War and Peace &ndash; it has 365 chapters, so fit neatly into one year at a chapter a day. It was nice having a challenge to finish such an epic book and gave me a reason to read every day.</p>
 
 <p>I needed to come up with a challenge for 2013 (although it&rsquo;ll probably spill into 2014). After writing down a list of books I wanted to read, I noticed that there was a string of authors with surnames starting with consecutive letters of the alphabet. I started expanding the list to fit other letters. The only rule is that I can&rsquo;t have read the author before.</p>
@@ -299,15 +299,15 @@
   
   <entry>
     <title type="html"><![CDATA[Midsummer House: 22nd December 2012]]></title>
-    <link href="http://mjlcatlin.com/blog/2013/01/05/midsummer-house/"/>
+    <link href="http://malrase.github.io/blog/2013/01/05/midsummer-house/"/>
     <updated>2013-01-05T11:10:32-08:00</updated>
-    <id>http://mjlcatlin.com/blog/2013/01/05/midsummer-house</id>
+    <id>http://malrase.github.io/blog/2013/01/05/midsummer-house</id>
     <content type="html"><![CDATA[<p>We were in the UK for Christmas, and my parents told us to keep one evening free from seeing our friends &ndash; they had a plan. They didn&rsquo;t tell us what it was &ndash; not even on the cab ride there. We were equally intrigued (what could it be? It had to be dinner, right?) and anxious (what if we didn&rsquo;t like it?).</p>
 
 <p>As we entered the backroads of northern Cambridge, we realised we were going to Midsummer House, the 2-Michelin-starred restaurant where we got married just over three years ago. Needless to say, we were both incredibly excited. We had the tasting menu with wine pairings, and it was incredible. I think it supersedes other meals I&rsquo;ve had there to be the best meal of my life. I took some pictures, so here you go:</p>
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/midsummer-house/bloody-mary.jpg">
+  <img src="http://malrase.github.io/images/midsummer-house/bloody-mary.jpg">
   <div class="alt">
     Bloody Mary amuse-bouche
   </div>
@@ -315,7 +315,7 @@
 
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/midsummer-house/goats-cheese.jpg">
+  <img src="http://malrase.github.io/images/midsummer-house/goats-cheese.jpg">
   <div class="alt">
     Celery, goat&#8217;s cheese, and horseradish ice-cream.
   </div>
@@ -323,7 +323,7 @@
 
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/midsummer-house/scallop.jpg">
+  <img src="http://malrase.github.io/images/midsummer-house/scallop.jpg">
   <div class="alt">
     Sautéed scallop, celeriac and truffle.
   </div>
@@ -331,7 +331,7 @@
 
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/midsummer-house/trestle.jpg">
+  <img src="http://malrase.github.io/images/midsummer-house/trestle.jpg">
   <div class="alt">
     Before the third course arrived, we had this placed in front of us&#8230;
   </div>
@@ -339,7 +339,7 @@
 
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/midsummer-house/sweetbreads.jpg">
+  <img src="http://malrase.github.io/images/midsummer-house/sweetbreads.jpg">
   <div class="alt">
     Turns out, it was to hold this: sweetbreads, pistachio, maple syrup and mouli.
   </div>
@@ -347,7 +347,7 @@
 
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/midsummer-house/brill.jpg">
+  <img src="http://malrase.github.io/images/midsummer-house/brill.jpg">
   <div class="alt">
     Roast brill, surf clams, cucumber, wasabi, sorrel.
   </div>
@@ -355,7 +355,7 @@
 
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/midsummer-house/beef.jpg">
+  <img src="http://malrase.github.io/images/midsummer-house/beef.jpg">
   <div class="alt">
     Beef fillet, sautéed tongue, horseradish, turnip and Paris browns.
   </div>
@@ -363,7 +363,7 @@
 
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/midsummer-house/pousse-cafe.jpg">
+  <img src="http://malrase.github.io/images/midsummer-house/pousse-cafe.jpg">
   <div class="alt">
     Pousse-café - maple syrup, egg-yolk, and Jack Daniels and chive foam.
   </div>
@@ -371,7 +371,7 @@
 
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/midsummer-house/kumkwats.jpg">
+  <img src="http://malrase.github.io/images/midsummer-house/kumkwats.jpg">
   <div class="alt">
     Poached kumquats with lemon and thyme ice-cream.
   </div>
@@ -379,7 +379,7 @@
 
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/midsummer-house/chocolate.jpg">
+  <img src="http://malrase.github.io/images/midsummer-house/chocolate.jpg">
   <div class="alt">
     Chocolate, caramel and chestnuts, chestnut frangipane.
   </div>
@@ -394,9 +394,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Artist (2011)]]></title>
-    <link href="http://mjlcatlin.com/blog/2012/02/25/the-artist/"/>
+    <link href="http://malrase.github.io/blog/2012/02/25/the-artist/"/>
     <updated>2012-02-25T11:21:15-08:00</updated>
-    <id>http://mjlcatlin.com/blog/2012/02/25/the-artist</id>
+    <id>http://malrase.github.io/blog/2012/02/25/the-artist</id>
     <content type="html"><![CDATA[<p>As it&rsquo;s the Oscars tomorrow, we decided to watch The Artist. I think it&rsquo;s still the frontrunner for the major awards, so it seems appropriate. And this year I&rsquo;m really excited, as it&rsquo;s the first time I&rsquo;ll be able to watch the Academy Awards LIVE! (I&rsquo;m a dork, I know.)</p>
 
 <p>It was pretty awesome, I must say. At first the lack of dialogue was (weirdly enough) distracting, but I soon got into it. The two leads are adorable, as is the dog. I want to own that dog. The music was great (I guess you have to have pretty awesome music if you&rsquo;re going to make a silent film&hellip;).</p>
@@ -413,15 +413,15 @@
   
   <entry>
     <title type="html"><![CDATA[San Francisco: Part Two]]></title>
-    <link href="http://mjlcatlin.com/blog/2011/12/30/san-francisco-part-two/"/>
+    <link href="http://malrase.github.io/blog/2011/12/30/san-francisco-part-two/"/>
     <updated>2011-12-30T11:25:25-08:00</updated>
-    <id>http://mjlcatlin.com/blog/2011/12/30/san-francisco-part-two</id>
+    <id>http://malrase.github.io/blog/2011/12/30/san-francisco-part-two</id>
     <content type="html"><![CDATA[<p>My first post on SF was a bit tourist-y. This one will be more focused on food and drink. And other funstuff.</p>
 
 <p>We ate at a neat burger place on Union Sq &ndash; the aptly-named Burger Bar.</p>
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/san-francisco/burger-bar-view.jpg">
+  <img src="http://malrase.github.io/images/san-francisco/burger-bar-view.jpg">
   <div class="alt">View from Burger Bar.</div>
 </div>
 
@@ -429,7 +429,7 @@
 
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/san-francisco/burger-bar.jpg">
+  <img src="http://malrase.github.io/images/san-francisco/burger-bar.jpg">
   <div class="alt">The burger I had. I think it was buffalo?</div>
 </div>
 
@@ -439,7 +439,7 @@
 <p>We went to an awesome beach &ndash; China Beach. It was really quiet and had insane views of the Golden Gate and its bridge.</p>
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/san-francisco/china-beach.jpg">
+  <img src="http://malrase.github.io/images/san-francisco/china-beach.jpg">
 </div>
 
 
@@ -451,15 +451,15 @@
   
   <entry>
     <title type="html"><![CDATA[San Francisco: Part One]]></title>
-    <link href="http://mjlcatlin.com/blog/2011/11/27/san-francisco-part-one/"/>
+    <link href="http://malrase.github.io/blog/2011/11/27/san-francisco-part-one/"/>
     <updated>2011-11-27T11:25:29-08:00</updated>
-    <id>http://mjlcatlin.com/blog/2011/11/27/san-francisco-part-one</id>
+    <id>http://malrase.github.io/blog/2011/11/27/san-francisco-part-one</id>
     <content type="html"><![CDATA[<p>After Jacksonville, we headed on to San Francisco. Hampton&rsquo;s company (Moovweb) is based there.</p>
 
 <p>We flew United 2623 from CLT to SFO. They had WIFI!!!!! Zomg. It&rsquo;s still a novelty for me. I don&rsquo;t have many photos of the CLT-SFO flight, just the food pretty much.</p>
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/plane/ua2623-pasta.jpg">
+  <img src="http://malrase.github.io/images/plane/ua2623-pasta.jpg">
   <div class="alt">
     Dinner - some OK pasta thing.
   </div>
@@ -467,7 +467,7 @@
 
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/plane/ua2623-dessert.jpg">
+  <img src="http://malrase.github.io/images/plane/ua2623-dessert.jpg">
   <div class="alt">
     This dessert was amazing: tortoise cheesecake, or something.
   </div>
@@ -475,7 +475,7 @@
 
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/plane/ua2623-wifi.jpg">
+  <img src="http://malrase.github.io/images/plane/ua2623-wifi.jpg">
   <div class="alt">
     Wi-fi! In the air!
   </div>
@@ -485,7 +485,7 @@
 <p>I&rsquo;d never been to San Francisco before, so it was a bit of an adventure. We only spent a couple of days doing touristy things, and the rest of the time was mostly Hampton working at Moovweb and me working on the book. Here&rsquo;s some tourist photos.</p>
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/san-francisco/pier-39.jpg">
+  <img src="http://malrase.github.io/images/san-francisco/pier-39.jpg">
   <div class="alt">
     I am such a tourist: at Pier 39
   </div>
@@ -493,7 +493,7 @@
 
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/san-francisco/sea-lions.jpg">
+  <img src="http://malrase.github.io/images/san-francisco/sea-lions.jpg">
   <div class="alt">
     Sea lions!
   </div>
@@ -501,7 +501,7 @@
 
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/san-francisco/alcatraz-fog.jpg">
+  <img src="http://malrase.github.io/images/san-francisco/alcatraz-fog.jpg">
   <div class="alt">
     Gazing over at Alcatraz
   </div>
@@ -511,7 +511,7 @@
 <p>(We didn&rsquo;t actually go to Alcatraz, even though I reaaaaally wanted to.)</p>
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/san-francisco/transam.jpg">
+  <img src="http://malrase.github.io/images/san-francisco/transam.jpg">
   <div class="alt">
     TransAmerica tower.
   </div>
@@ -519,7 +519,7 @@
 
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/san-francisco/hyatt-view.jpg">
+  <img src="http://malrase.github.io/images/san-francisco/hyatt-view.jpg">
   <div class="alt">
     The view from the Grand Hyatt in San Francisco.
   </div>
@@ -532,13 +532,13 @@
   
   <entry>
     <title type="html"><![CDATA[The Amazing Trip]]></title>
-    <link href="http://mjlcatlin.com/blog/2011/09/25/the-amazing-trip/"/>
+    <link href="http://malrase.github.io/blog/2011/09/25/the-amazing-trip/"/>
     <updated>2011-09-25T12:44:18-07:00</updated>
-    <id>http://mjlcatlin.com/blog/2011/09/25/the-amazing-trip</id>
+    <id>http://malrase.github.io/blog/2011/09/25/the-amazing-trip</id>
     <content type="html"><![CDATA[<p>So&hellip; I really need to start blogging about an amazing trip I&rsquo;ve been on. It&rsquo;s been going for about two months now. It started in July, when we moved out of our apartment in Cambridge, England.</p>
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/cambridge/boxes.jpg">
+  <img src="http://malrase.github.io/images/cambridge/boxes.jpg">
   <div class="alt">All our stuff in boxes hours before we left.</div>
 </div>
 
@@ -565,9 +565,9 @@
   
   <entry>
     <title type="html"><![CDATA[A Few Hours in London]]></title>
-    <link href="http://mjlcatlin.com/blog/2011/07/18/a-few-hours-in-london/"/>
+    <link href="http://malrase.github.io/blog/2011/07/18/a-few-hours-in-london/"/>
     <updated>2011-07-18T12:39:25-07:00</updated>
-    <id>http://mjlcatlin.com/blog/2011/07/18/a-few-hours-in-london</id>
+    <id>http://malrase.github.io/blog/2011/07/18/a-few-hours-in-london</id>
     <content type="html"><![CDATA[<p>Last weekend, we went to London to see some of our best friends. We only really had an afternoon and evening. We started by heading to South Kensington and wandering around the <a href="http://www.vam.ac.uk/">V&amp;A</a> for a bit. I love the V&amp;A. It&rsquo;s got enough variety to keep things interesting. We visited rooms on architecture,  Islamic history and British design in the late Victorian era in the space of a couple of hours. Awesome stuff.</p>
 
 <p>Anyway, we went to a pub, then to sushi at <a href="http://www.urbanspoon.com/r/52/565671/restaurant/London/Kulu-Kulu-Sushi-South-Kensington">Kulu Kulu</a>, a conveyor belt place. Lots of delicious food&hellip; but weirdly lacking on the fish. Still, I&rsquo;m not complaining. Their stewed aubergine thing with soy sauce was amazing. Nom!</p>
@@ -577,7 +577,7 @@
 <p>We decided to skip cocktails with absinthe and go straight to the pure stuff. There was a great theatricality to the process. A water cooler (in 19th century French style, of course) was put on the table with four miniature taps.</p>
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/london/absinthe.jpg">
+  <img src="http://malrase.github.io/images/london/absinthe.jpg">
 </div>
 
 
@@ -595,15 +595,15 @@
   
   <entry>
     <title type="html"><![CDATA[Lyon: Part Deux (La Cuisine)]]></title>
-    <link href="http://mjlcatlin.com/blog/2011/06/30/lyon-part-deux-la-cuisine/"/>
+    <link href="http://malrase.github.io/blog/2011/06/30/lyon-part-deux-la-cuisine/"/>
     <updated>2011-06-30T12:46:56-07:00</updated>
-    <id>http://mjlcatlin.com/blog/2011/06/30/lyon-part-deux-la-cuisine</id>
+    <id>http://malrase.github.io/blog/2011/06/30/lyon-part-deux-la-cuisine</id>
     <content type="html"><![CDATA[<p>I didn&rsquo;t realise that Lyon was the centre for French gastronomy. But apparently it is. Anyway, I thought I&rsquo;d devote a whole post to the food I ate there, in addition to my first post on the city itself.</p>
 
 <p>The first night, we ate at <a href="http://www.brasseriegeorges.com/">Brasserie Georges</a>. It&rsquo;s apparently pretty famous (it has a <a href="http://en.wikipedia.org/wiki/Brasserie_Georges">Wikipedia article</a> &ndash; a sure sign of prominence). They served some traditional Lyon food &ndash; including a pistachio sausage thing, which was pretty nice. Also on the list of traditional Lyon foods were a mustard sausage and calf&rsquo;s head. I think I made the right choice with a pistachio sausage.</p>
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/lyon/georges.jpg">
+  <img src="http://malrase.github.io/images/lyon/georges.jpg">
   <div class="alt">
     I forgot to take pictures of the food, so here&#8217;s one of Hampton.
   </div>
@@ -613,7 +613,7 @@
 <p>The second evening, we went to a place called <a href="http://maps.google.com/maps/place?hl=en&amp;safe=off&amp;bav=on.2,or.r_gc.r_pw.&amp;biw=1256&amp;bih=738&amp;um=1&amp;ie=UTF-8&amp;q=Les+enfants+terribles+lyon&amp;fb=1&amp;hq=Les+enfants+terribles&amp;hnear=0x47f4ea516ae88797:0x408ab2ae4bb21f0,Lyon,+France&amp;cid=9879979365541420669">Les Enfants Terribles</a>&hellip; it was OK. Nothing too special. The duck salad I had to start had too much mustard dressing on it. The main was beef, coupled with some deeeeelicious dauphinoise potatoes. I think they must have used chicken stock or something. The dessert was pretty good&hellip; but that&rsquo;s not much of a surprise as I love all tartes au citron. The filling had a strange granular texture &ndash; I think they might have added ground almonds or something.</p>
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/lyon/duck-salad.jpg">
+  <img src="http://malrase.github.io/images/lyon/duck-salad.jpg">
   <div class="alt">
     Starter: duck salad with some foie gras.
   </div>
@@ -621,7 +621,7 @@
 
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/lyon/beef.jpg">
+  <img src="http://malrase.github.io/images/lyon/beef.jpg">
   <div class="alt">
     Main: beef with dauphinoise potatoes.
   </div>
@@ -629,7 +629,7 @@
 
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/lyon/tarte-citron.jpg">
+  <img src="http://malrase.github.io/images/lyon/tarte-citron.jpg">
   <div class="alt">
     Dessert: tarte au citron.
   </div>
@@ -641,7 +641,7 @@
 <p>On our final night, we ended up at <a href="http://www.hippopotamus.fr/">Hippopotamus</a>. I&rsquo;ve seen a few in Paris. They&rsquo;re some kind of chain that serves vaguely French food &ndash; steaks, etc. It was, as we kinda expected, mediocre. I had an assortment of fried goods. It was very American.</p>
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/lyon/hippo.jpg">
+  <img src="http://malrase.github.io/images/lyon/hippo.jpg">
   <div class="alt">
     The fried stuff from Hippopotamus.
   </div>
@@ -651,7 +651,7 @@
 <p>One of the better meals I had was (strangely?) at the airport. It was the airport branch of the 2-Michelin-starred <a href="http://www.nicolaslebec.com/">Nicolas Le Bec</a>, which is in the centre of Lyon. It&rsquo;s called <a href="http://www.espace-lebec.com/">Espace Le Bec</a>. We both had a really delicious penne with bolognese. It had the most amazing cheese sliced over it, too. SO GOOD.</p>
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/lyon/lys-pasta.jpg">
+  <img src="http://malrase.github.io/images/lyon/lys-pasta.jpg">
   <div class="alt">
     Amazing penne with bolognese. And a delicious shaved cheese on top.
   </div>
@@ -664,15 +664,15 @@
   
   <entry>
     <title type="html"><![CDATA[Lyon: Part Un]]></title>
-    <link href="http://mjlcatlin.com/blog/2011/06/28/lyon-part-un/"/>
+    <link href="http://malrase.github.io/blog/2011/06/28/lyon-part-un/"/>
     <updated>2011-06-28T12:46:49-07:00</updated>
-    <id>http://mjlcatlin.com/blog/2011/06/28/lyon-part-un</id>
+    <id>http://malrase.github.io/blog/2011/06/28/lyon-part-un</id>
     <content type="html"><![CDATA[<p>I haven&rsquo;t visited many cities in France. Honestly, I&rsquo;m a bit lazy. I think, &ldquo;Why would you want to go anywhere other than Paris?&rdquo;</p>
 
 <p>However! Hampton was invited to a conference in Lyon (<a href="http://rulu.eu/">Ruby Lugdunum</a>, named after the Roman moniker for the town). As we were mostly either at the conference or eating, I didn&rsquo;t get a chance to look around most of the city. But I&rsquo;m still going to judge it based on what I did see.</p>
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/lyon/rhone.jpg">
+  <img src="http://malrase.github.io/images/lyon/rhone.jpg">
   <div class="alt">Hampton on the Rhone</div>
 </div>
 
@@ -684,12 +684,12 @@
 <p>The architecture was odd. I guess the city had mostly grown in the 60s/70s. There was lots of brutalist stuff &ndash; not that I&rsquo;m complaining, as I love the <a href="http://en.wikipedia.org/wiki/B%C3%A9ton_brut">béton</a> look. <a href="http://en.wikipedia.org/wiki/Claude_Bernard_University_Lyon_1">The Université Lyon 1</a> (where the conference was held) was made up pretty much exclusively of this stuff.</p>
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/lyon/college-1.jpg">
+  <img src="http://malrase.github.io/images/lyon/college-1.jpg">
 </div>
 
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/lyon/college-hut.jpg">
+  <img src="http://malrase.github.io/images/lyon/college-hut.jpg">
 </div>
 
 
@@ -698,12 +698,12 @@
 <p>Oh, and on the topic of architecture, LYS had an awesome <a href="http://en.wikipedia.org/wiki/Gare_de_Lyon_Saint-Exup%C3%A9ry">train station</a>, designed by Santiago Calatrava.</p>
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/lyon/gare-from-plane.jpg">
+  <img src="http://malrase.github.io/images/lyon/gare-from-plane.jpg">
 </div>
 
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/lyon/gare-lys.jpg">
+  <img src="http://malrase.github.io/images/lyon/gare-lys.jpg">
 </div>
 
 

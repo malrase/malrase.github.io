@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Nightlife | mjlcatlin]]></title>
-  <link href="http://mjlcatlin.com/blog/categories/nightlife/atom.xml" rel="self"/>
-  <link href="http://mjlcatlin.com/"/>
-  <updated>2014-04-16T12:31:16-07:00</updated>
-  <id>http://mjlcatlin.com/</id>
+  <link href="http://malrase.github.io/blog/categories/nightlife/atom.xml" rel="self"/>
+  <link href="http://malrase.github.io/"/>
+  <updated>2014-04-16T13:42:10-07:00</updated>
+  <id>http://malrase.github.io/</id>
   <author>
     <name><![CDATA[Michael]]></name>
     
@@ -15,15 +15,15 @@
   
   <entry>
     <title type="html"><![CDATA[San Francisco: Part Two]]></title>
-    <link href="http://mjlcatlin.com/blog/2011/12/30/san-francisco-part-two/"/>
+    <link href="http://malrase.github.io/blog/2011/12/30/san-francisco-part-two/"/>
     <updated>2011-12-30T11:25:25-08:00</updated>
-    <id>http://mjlcatlin.com/blog/2011/12/30/san-francisco-part-two</id>
+    <id>http://malrase.github.io/blog/2011/12/30/san-francisco-part-two</id>
     <content type="html"><![CDATA[<p>My first post on SF was a bit tourist-y. This one will be more focused on food and drink. And other funstuff.</p>
 
 <p>We ate at a neat burger place on Union Sq &ndash; the aptly-named Burger Bar.</p>
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/san-francisco/burger-bar-view.jpg">
+  <img src="http://malrase.github.io/images/san-francisco/burger-bar-view.jpg">
   <div class="alt">View from Burger Bar.</div>
 </div>
 
@@ -31,7 +31,7 @@
 
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/san-francisco/burger-bar.jpg">
+  <img src="http://malrase.github.io/images/san-francisco/burger-bar.jpg">
   <div class="alt">The burger I had. I think it was buffalo?</div>
 </div>
 
@@ -41,7 +41,7 @@
 <p>We went to an awesome beach &ndash; China Beach. It was really quiet and had insane views of the Golden Gate and its bridge.</p>
 
 <div class="img">
-  <img src="http://mjlcatlin.com/images/san-francisco/china-beach.jpg">
+  <img src="http://malrase.github.io/images/san-francisco/china-beach.jpg">
 </div>
 
 

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Bourbon | mjlcatlin]]></title>
-  <link href="http://mjlcatlin.com/blog/categories/bourbon/atom.xml" rel="self"/>
-  <link href="http://mjlcatlin.com/"/>
-  <updated>2014-04-16T12:31:16-07:00</updated>
-  <id>http://mjlcatlin.com/</id>
+  <link href="http://malrase.github.io/blog/categories/bourbon/atom.xml" rel="self"/>
+  <link href="http://malrase.github.io/"/>
+  <updated>2014-04-16T13:42:10-07:00</updated>
+  <id>http://malrase.github.io/</id>
   <author>
     <name><![CDATA[Michael]]></name>
     
@@ -15,11 +15,11 @@
   
   <entry>
     <title type="html"><![CDATA[Cocktail: Brass Check]]></title>
-    <link href="http://mjlcatlin.com/blog/2013/07/27/cocktail-brass-check/"/>
+    <link href="http://malrase.github.io/blog/2013/07/27/cocktail-brass-check/"/>
     <updated>2013-07-27T11:53:41-07:00</updated>
-    <id>http://mjlcatlin.com/blog/2013/07/27/cocktail-brass-check</id>
+    <id>http://malrase.github.io/blog/2013/07/27/cocktail-brass-check</id>
     <content type="html"><![CDATA[<div class="img">
-  <img src="http://mjlcatlin.com/images/cocktails/brass-check.jpg">
+  <img src="http://malrase.github.io/images/cocktails/brass-check.jpg">
   <div class="alt">Brass Check</div>
 </div>
 

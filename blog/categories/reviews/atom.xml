@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Reviews | mjlcatlin]]></title>
-  <link href="http://mjlcatlin.com/blog/categories/reviews/atom.xml" rel="self"/>
-  <link href="http://mjlcatlin.com/"/>
-  <updated>2014-04-16T12:31:16-07:00</updated>
-  <id>http://mjlcatlin.com/</id>
+  <link href="http://malrase.github.io/blog/categories/reviews/atom.xml" rel="self"/>
+  <link href="http://malrase.github.io/"/>
+  <updated>2014-04-16T13:42:10-07:00</updated>
+  <id>http://malrase.github.io/</id>
   <author>
     <name><![CDATA[Michael]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[VWXYZ]]></title>
-    <link href="http://mjlcatlin.com/blog/2013/11/05/v-w-x-y-z/"/>
+    <link href="http://malrase.github.io/blog/2013/11/05/v-w-x-y-z/"/>
     <updated>2013-11-05T10:48:54-08:00</updated>
-    <id>http://mjlcatlin.com/blog/2013/11/05/v-w-x-y-z</id>
+    <id>http://malrase.github.io/blog/2013/11/05/v-w-x-y-z</id>
     <content type="html"><![CDATA[<ul>
 <li>Vaughan, Brian K &ndash; Y: The Last Man &ndash; 7.0</li>
 <li>West, Nathanael &ndash; The Day of the Locust &ndash; 7.5</li>
@@ -37,9 +37,9 @@
   
   <entry>
     <title type="html"><![CDATA[STU]]></title>
-    <link href="http://mjlcatlin.com/blog/2013/10/06/s-t-u/"/>
+    <link href="http://malrase.github.io/blog/2013/10/06/s-t-u/"/>
     <updated>2013-10-06T11:50:48-07:00</updated>
-    <id>http://mjlcatlin.com/blog/2013/10/06/s-t-u</id>
+    <id>http://malrase.github.io/blog/2013/10/06/s-t-u</id>
     <content type="html"><![CDATA[<ul>
 <li>Saramago, José &ndash; Blindness &ndash; 8.0</li>
 <li>Thompson, Hunter S &ndash; Fear and Loathing in Las Vegas &ndash; 8.2</li>
@@ -55,9 +55,9 @@
   
   <entry>
     <title type="html"><![CDATA[PQR]]></title>
-    <link href="http://mjlcatlin.com/blog/2013/08/17/p-q-r/"/>
+    <link href="http://malrase.github.io/blog/2013/08/17/p-q-r/"/>
     <updated>2013-08-17T11:52:15-07:00</updated>
-    <id>http://mjlcatlin.com/blog/2013/08/17/p-q-r</id>
+    <id>http://malrase.github.io/blog/2013/08/17/p-q-r</id>
     <content type="html"><![CDATA[<ul>
 <li>Pynchon, Thomas &ndash; The Crying of Lot 49 &ndash; 9.0/10</li>
 <li>Quigley, Sheila &ndash; Thorn In My Side &ndash; 5.6/10</li>
@@ -71,9 +71,9 @@
   
   <entry>
     <title type="html"><![CDATA[MNO]]></title>
-    <link href="http://mjlcatlin.com/blog/2013/06/23/m-n-o/"/>
+    <link href="http://malrase.github.io/blog/2013/06/23/m-n-o/"/>
     <updated>2013-06-23T11:59:56-07:00</updated>
-    <id>http://mjlcatlin.com/blog/2013/06/23/m-n-o</id>
+    <id>http://malrase.github.io/blog/2013/06/23/m-n-o</id>
     <content type="html"><![CDATA[<ul>
 <li>Morrison, Toni &ndash; The Bluest Eye &ndash; 7.6/10</li>
 <li>Naipaul, V.S. &ndash; A House for Mr Biswas &ndash; 8.3/10</li>
@@ -95,9 +95,9 @@
   
   <entry>
     <title type="html"><![CDATA[JKL]]></title>
-    <link href="http://mjlcatlin.com/blog/2013/05/29/j-k-l/"/>
+    <link href="http://malrase.github.io/blog/2013/05/29/j-k-l/"/>
     <updated>2013-05-29T12:02:33-07:00</updated>
-    <id>http://mjlcatlin.com/blog/2013/05/29/j-k-l</id>
+    <id>http://malrase.github.io/blog/2013/05/29/j-k-l</id>
     <content type="html"><![CDATA[<ul>
 <li>Joyce, James &ndash; Dubliners &ndash; 8.5/10</li>
 <li>Kingsolver, Barbara &ndash; The Poisonwood Bible &ndash; 8.3/10</li>

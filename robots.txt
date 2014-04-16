@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://mjlcatlin.com/sitemap.xml 
+Sitemap: http://malrase.github.io/sitemap.xml 
