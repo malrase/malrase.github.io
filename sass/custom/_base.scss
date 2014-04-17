@@ -26,12 +26,16 @@ ol {
 a {
   text-decoration: none;
   color: $anchor;
-  &:hover {
-    opacity: 0.8;
-  }
   &:visited {
     color: $anchor;
   }
+  &:hover {
+    color: darken($anchor, 17%);
+  }
+  -webkit-transition: color 0.3s;
+  -moz-transition: color 0.3s;
+  -o-transition: color 0.3s;
+  transition: color 0.3s;
 }
 
 article h1 {
@@ -80,11 +84,17 @@ article {
 }
 
 .basic-alignment {
-  margin-top: 40px;
+  margin-top: 30px;
   &.left {
     float: left;
+    > span {
+      margin-right: 5px;
+    }
   }
   &.right {
     float: right;
+    > span {
+      margin-left: 5px;
+    }
   }
 }
