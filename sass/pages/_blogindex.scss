@@ -11,5 +11,14 @@
   margin: 0 0 30px;
   .prev {
     margin-right: 40px;
+    > span {
+      margin-right: 5px;
+    }
+  }
+  .next {
+    float: right;
+    > span {
+      margin-left: 5px;
+    }
   }
 }

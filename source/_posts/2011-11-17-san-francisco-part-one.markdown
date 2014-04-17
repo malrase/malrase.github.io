@@ -18,7 +18,7 @@ We flew United 2623 from CLT to SFO. They had WIFI!!!!! Zomg. It's still a novel
 <div class="img">
   <img src="/images/plane/ua2623-dessert.jpg">
   <div class="alt">
-    This dessert was amazing: tortoise cheesecake, or something.
+    Dessert – tortoise cheesecake, or something.
   </div>
 </div>
 <div class="img">
@@ -59,7 +59,7 @@ I'd never been to San Francisco before, so it was a bit of an adventure. We only
 <div class="img">
   <img src="/images/san-francisco/hyatt-view.jpg">
   <div class="alt">
-    The view from the Grand Hyatt in San Francisco.
+    The view from the Grand Hyatt.
   </div>
 </div>
 

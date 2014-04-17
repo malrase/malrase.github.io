@@ -6,9 +6,9 @@ comments: false
 categories: books reviews 2013-challenge
 ---
 
-- Morrison, Toni - The Bluest Eye - 7.6/10
-- Naipaul, V.S. - A House for Mr Biswas - 8.3/10
-- O'Brien, Flan - At Swim-Two-Birds - 2.1/10 °
+- [Morrison, Toni](http://en.wikipedia.org/wiki/Toni_Morrison) - [The Bluest Eye](http://en.wikipedia.org/wiki/The_Bluest_Eye) - 7.6/10
+- [Naipaul, V.S.](http://en.wikipedia.org/wiki/V._S._Naipaul) - [A House for Mr Biswas](http://en.wikipedia.org/wiki/A_House_for_Mr._Biswas) - 8.3/10
+- [O'Brien, Flann](http://en.wikipedia.org/wiki/Flann_O%27Brien) - [At Swim-Two-Birds](http://en.wikipedia.org/wiki/At_Swim-Two-Birds) - 2.1/10 °
 
 As I'm just over half-way through the alphabet, I'm going to do a top five books so far:
 

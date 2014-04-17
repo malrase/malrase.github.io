@@ -8,7 +8,7 @@ categories: food reviews cambridge michelin
 
 We were in the UK for Christmas, and my parents told us to keep one evening free from seeing our friends - they had a plan. They didn't tell us what it was - not even on the cab ride there. We were equally intrigued (what could it be? It had to be dinner, right?) and anxious (what if we didn't like it?).
 
-As we entered the backroads of northern Cambridge, we realised we were going to Midsummer House, the 2-Michelin-starred restaurant where we got married just over three years ago. Needless to say, we were both incredibly excited. We had the tasting menu with wine pairings, and it was incredible. I think it supersedes other meals I've had there to be the best meal of my life. I took some pictures, so here you go:
+As we entered the backroads of northern Cambridge, we realised we were going to [Midsummer House](http://www.midsummerhouse.co.uk/), the 2-Michelin-starred restaurant where we got married just over three years ago. Needless to say, we were both incredibly excited. We had the tasting menu with wine pairings, and it was incredible. I think it supersedes other meals I've had there to be the best meal of my life. I took some pictures, so here you go:
 
 
 <div class="img">

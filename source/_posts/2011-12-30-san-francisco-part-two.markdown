@@ -8,7 +8,7 @@ categories: san-francisco CAoS nightlife travel food
 
 My first post on SF was a bit tourist-y. This one will be more focused on food and drink. And other funstuff.
 
-We ate at a neat burger place on Union Sq - the aptly-named Burger Bar.
+We ate at a neat burger place on Union Sq - the aptly-named [Burger Bar](http://www.burger-bar.com/).
 
 <div class="img">
   <img src="/images/san-francisco/burger-bar-view.jpg">

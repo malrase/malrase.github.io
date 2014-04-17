@@ -6,11 +6,11 @@ comments: false
 categories: books reviews 2013-challenge
 ---
 
-- Vaughan, Brian K - Y: The Last Man - 7.0
-- West, Nathanael - The Day of the Locust - 7.5
-- Xinran - Sky Burial - 6.9
-- Yates, Richard - Revolutionary Road - 8.6
-- Zeltserman, Dave - The Caretaker of Lorne Field - 7.3
+- [Vaughan, Brian K](http://en.wikipedia.org/wiki/Brian_K._Vaughan) - [Y: The Last Man](http://en.wikipedia.org/wiki/Y_the_last_man) - 7.0
+- [West, Nathanael](http://en.wikipedia.org/wiki/Nathaniel_West) - [The Day of the Locust](http://en.wikipedia.org/wiki/The_Day_of_the_Locust) - 7.5
+- [Xinran](http://en.wikipedia.org/wiki/Xinran) - [Sky Burial](http://en.wikipedia.org/wiki/Sky_Burial) - 6.9
+- [Yates, Richard](http://en.wikipedia.org/wiki/Richard_Yates_(novelist\)) - [Revolutionary Road](http://en.wikipedia.org/wiki/Revolutionary_Road) - 8.6
+- [Zeltserman, Dave](http://en.wikipedia.org/wiki/Dave_Zeltserman) - The Caretaker of Lorne Field - 7.3
 
 There's a couple of things worth mentioning about these last few letters of the alphabet. X and Z were surprisingly good considering they were "throwaway" letters.
 

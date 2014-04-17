@@ -6,6 +6,6 @@ comments: false
 categories: books reviews 2013-challenge
 ---
 
-- Graves, Robert - I Claudius - 9.1/10
-- Harris, Robert - Fatherland - 7.6/10
-- Ibsen, Henrik - Peer Gynt - 4.3/10
+- [Graves, Robert](http://en.wikipedia.org/wiki/Robert_Graves) - [I, Claudius](http://en.wikipedia.org/wiki/I_Claudius) - 9.1/10
+- [Harris, Robert](http://en.wikipedia.org/wiki/Robert_Harris_(novelist\)) - [Fatherland](http://en.wikipedia.org/wiki/Fatherland_(novel\)) - 7.6/10
+- [Ibsen, Henrik](http://en.wikipedia.org/wiki/Henrik_Ibsen) - [Peer Gynt](http://en.wikipedia.org/wiki/Peer_Gynt) - 4.3/10

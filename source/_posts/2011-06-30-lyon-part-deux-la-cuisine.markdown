@@ -12,7 +12,7 @@ The first night, we ate at [Brasserie Georges](http://www.brasseriegeorges.com/)
 <div class="img">
   <img src="/images/lyon/georges.jpg">
   <div class="alt">
-    I forgot to take pictures of the food, so here's one of Hampton.
+    I forgot to take pictures of the food.
   </div>
 </div>
 
@@ -50,7 +50,7 @@ One of the better meals I had was (strangely?) at the airport. It was the airpor
 <div class="img">
   <img src="/images/lyon/lys-pasta.jpg">
   <div class="alt">
-    Amazing penne with bolognese. And a delicious shaved cheese on top.
+    Penne with bolognese.
   </div>
 </div>
 
