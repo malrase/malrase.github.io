@@ -34,21 +34,57 @@ a {
   }
 }
 
+article h1 {
+  font-size: 2.3rem;
+  margin-bottom: 10px;
+}
+article {
+  margin-bottom: 40px;
+  margin-right: 60px;
+  padding-bottom: 20px;
+  @media screen and (max-width: $break) {
+    margin-right: 10px;
+  }
+}
+
 #main {
   margin: 10px $body-margin-left;
+  @media screen and (max-width: $break) {
+    margin: 10px;
+  }
 }
 
 .img {
   background: #eee;
-  padding: 5px;
+  padding: 10px;
   text-align: center;
-  margin: 0 auto 1.5rem;
-  max-width: 80%;
+  margin: 0 3rem 1.5rem;
+  display: inline-block;
+  @media screen and (max-width: $break) {
+    margin: 0 10px 20px;
+  }
   img {
     max-width: 500px;
+    @media screen and (max-width: $break) {
+      max-width: 240px;
+    }
   }
   .alt {
     font-style: italic;
     font-size: 13px;
+    padding: 10px;
+    @media screen and (max-width: $break) {
+      padding: 5px;
+    }
+  }
+}
+
+.basic-alignment {
+  margin-top: 40px;
+  &.left {
+    float: left;
+  }
+  &.right {
+    float: right;
   }
 }

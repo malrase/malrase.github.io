@@ -1,0 +1,26 @@
+.post { 
+  article {
+    border-bottom: none;
+  }
+  header .meta {
+    opacity: 0.7;
+  }
+  footer {
+    margin-top: 40px;
+    .categories {
+      display: block;
+    }
+    .fn {
+      font-weight: bold;
+    }
+  }
+  .sharing {
+    > * {
+      display: block;
+      margin-bottom: 10px;
+    }
+    > #twitter-widget-0 {
+
+    }
+  }
+}

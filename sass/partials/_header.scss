@@ -1,5 +1,10 @@
 body > header {
   padding: 10px $body-margin-left;
+  h1 {
+    @media screen and (max-width: $break) {
+      text-align: center;
+    }
+  }
   a {
     color: #444;
     font-family: $head-serif;
@@ -23,6 +28,9 @@ body > nav {
     float: right;
     margin-top: 3px;
     width: 240px;
+    @media screen and (max-width: $small-break) {
+      width: 100%;
+    }
     &:focus {
       outline: none;
     }

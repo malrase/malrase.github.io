@@ -1,13 +1,15 @@
 .blog-index {
-  article h1 {
-    font-size: 2.3rem;
-    margin-bottom: 10px;
-  }
   article {
-    margin-bottom: 60px;
-    margin-right: 60px;
+    border-bottom: 1px solid #eee;
   }
   .meta {
     opacity: 0.5;
+  }
+}
+
+.pagination {
+  margin: 0 0 30px;
+  .prev {
+    margin-right: 40px;
   }
 }

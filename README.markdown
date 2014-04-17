@@ -1,3 +1,7 @@
+Site for the personal blog of Michael Lintorn Catlin.
+
+Made using Octopress; instructions on how to run are below.
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.

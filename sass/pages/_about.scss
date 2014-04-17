@@ -1,0 +1,13 @@
+.profile {
+  img {
+    max-width: 200px;
+    float: right;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    @media screen and (max-width: $small-break) {
+      margin: 0 auto 20px;
+      float: none;
+      display: block;
+    }
+  }
+}
