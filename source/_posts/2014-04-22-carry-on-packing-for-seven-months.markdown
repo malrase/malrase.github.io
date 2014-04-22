@@ -2,7 +2,7 @@
 layout: post
 title: "Packing for Seven Months in a Carry-on"
 date: 2014-04-22 10:09:09 -0700
-preview: true
+published: false
 comments: true
 categories: travel packing the-journey-2014
 ---
