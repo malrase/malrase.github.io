@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Napa | mjlcatlin]]></title>
-  <link href="http://malrase.github.io/blog/categories/napa/atom.xml" rel="self"/>
-  <link href="http://malrase.github.io/"/>
-  <updated>2014-04-22T14:49:24-07:00</updated>
-  <id>http://malrase.github.io/</id>
+  <link href="http://www.mjlcatlin.com/blog/categories/napa/atom.xml" rel="self"/>
+  <link href="http://www.mjlcatlin.com/"/>
+  <updated>2014-04-22T16:51:16-07:00</updated>
+  <id>http://www.mjlcatlin.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
     
@@ -15,13 +15,13 @@
   
   <entry>
     <title type="html"><![CDATA[Cocktail: Breakfast of Champions]]></title>
-    <link href="http://malrase.github.io/blog/2013/06/29/cocktail-breakfast-of-champions/"/>
+    <link href="http://www.mjlcatlin.com/blog/2013/06/29/cocktail-breakfast-of-champions/"/>
     <updated>2013-06-29T11:55:01-07:00</updated>
-    <id>http://malrase.github.io/blog/2013/06/29/cocktail-breakfast-of-champions</id>
+    <id>http://www.mjlcatlin.com/blog/2013/06/29/cocktail-breakfast-of-champions</id>
     <content type="html"><![CDATA[<p>When you eat at a fancy restaurant (or at least a restaurant with a world-renowned chef), you have to get the weirdest thing on the menu. That chef (or restaurant) is famous for a reason &ndash; it creates flavour profiles that are going to be pleasing. So why waste your time on something standard?</p>
 
 <div class="img">
-  <img src="http://malrase.github.io/images/cocktails/breakfast-of-champions.jpg">
+  <img src="http://www.mjlcatlin.com/images/cocktails/breakfast-of-champions.jpg">
   <div class="alt">Breakfast of Champions</div>
 </div>
 
