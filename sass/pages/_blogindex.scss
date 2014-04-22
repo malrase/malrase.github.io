@@ -8,15 +8,20 @@
 }
 
 .pagination {
-  margin: 0 0 30px;
+  margin: 0 0 30px 0;
+  @media screen and (max-width: $break) {
+    margin-right: 10px;
+  }
   .prev {
-    margin-right: 40px;
     > span {
       margin-right: 5px;
     }
   }
+  .archives {
+    text-align: center;
+  }
   .next {
-    float: right;
+    text-align: right;
     > span {
       margin-left: 5px;
     }

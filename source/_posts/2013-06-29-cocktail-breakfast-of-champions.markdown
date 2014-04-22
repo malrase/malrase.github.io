@@ -14,7 +14,7 @@ When you eat at a fancy restaurant (or at least a restaurant with a world-renown
 </div>
 
 
-That philosophy was how I ended up getting the Breakfast of Champions cocktail, pictured above, at ad hoc the other weekend. Ingredients:
+That philosophy was how I ended up getting the Breakfast of Champions cocktail, pictured above, at [ad hoc](http://www.adhocrestaurant.com/) the other weekend. Ingredients:
 
 - St George Botanivore gin
 - Fruit Loop-infused milk
