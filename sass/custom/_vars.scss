@@ -1,9 +1,16 @@
 $head-serif: "Nixie One", Georgia, serif;
 $head-sans: "Raleway", Helvetica, sans-serif;
 
-$anchor: #4FA490; // teal
-$nav-bar-color: #444; // gray
-$input-color: #fff; // white
+$teal: #4FA490;
+$grey: #444444;
+$white: #FFFFFF;
+
+$primary: $grey;
+$secondary: $teal;
+
+$nav-bar-color: $primary;
+$anchor: $secondary;
+$input-color: $white; // white
 
 $body-margin-left: 10%;
 
