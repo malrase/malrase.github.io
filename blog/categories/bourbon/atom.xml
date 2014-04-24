@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Bourbon | mjlcatlin]]></title>
-  <link href="http://www.mjlcatlin.com/blog/categories/bourbon/atom.xml" rel="self"/>
-  <link href="http://www.mjlcatlin.com/"/>
-  <updated>2014-04-22T16:51:16-07:00</updated>
-  <id>http://www.mjlcatlin.com/</id>
+  <title><![CDATA[Category: Bourbon | malrase]]></title>
+  <link href="http://www.malrase.com/blog/categories/bourbon/atom.xml" rel="self"/>
+  <link href="http://www.malrase.com/"/>
+  <updated>2014-04-24T15:05:14-04:00</updated>
+  <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
     
@@ -15,11 +15,11 @@
   
   <entry>
     <title type="html"><![CDATA[Cocktail: Brass Check]]></title>
-    <link href="http://www.mjlcatlin.com/blog/2013/07/27/cocktail-brass-check/"/>
-    <updated>2013-07-27T11:53:41-07:00</updated>
-    <id>http://www.mjlcatlin.com/blog/2013/07/27/cocktail-brass-check</id>
+    <link href="http://www.malrase.com/blog/2013/07/27/cocktail-brass-check/"/>
+    <updated>2013-07-27T14:53:41-04:00</updated>
+    <id>http://www.malrase.com/blog/2013/07/27/cocktail-brass-check</id>
     <content type="html"><![CDATA[<div class="img">
-  <img src="http://www.mjlcatlin.com/images/cocktails/brass-check.jpg">
+  <img src="http://www.malrase.com/images/cocktails/brass-check.jpg">
   <div class="alt">Brass Check</div>
 </div>
 
