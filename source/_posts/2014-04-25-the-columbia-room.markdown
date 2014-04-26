@@ -1,0 +1,54 @@
+---
+layout: post
+title: "The Columbia Room"
+date: 2014-04-25 14:29:59 -0400
+comments: false
+categories: cocktail washington-dc the-columbia-room the-journey-2014
+---
+
+
+I was glad our friend had already been to [The Columbia Room](http://columbiaroomdc.com/) and met us outside, otherwise I don't think we would have been able to find it. It's hidden in the back of an upscale dive bar called The Passenger on 7th St in D.C. Inside, it's tiny (I think there were ten seats) and sparsely-decorated (some apothecary-style bottles with herbs were behind the bar). The service, level of expertise from the bartenders, and the inventiveness of flavour pairings reminded me of the few Michelin-starred restaurants I've been to. Except with liquor instead of food.
+
+The set menu consists of three drinks and a couple of snacks, coming in at around $65 per person. Pricey, but worth it.
+
+After being offered cold towels scented with cucumber (!), we started out with a rum and lemon-based punch served in a teacup. It tasted pretty much like iced tea – but, y'know, alcoholic. So better than regular iced tea.
+
+The second drink, the Getaway, had two main ingredients: a black rum and [cynar](http://en.wikipedia.org/wiki/Cynar) (*chee*-nar). 
+
+<div class="img">
+  <img src="/images/the-journey/dc/getaway-ingredients.jpg">
+  <div class="alt">Ingredients for the Getaway</div>
+</div>
+
+Cynar is a dark brown artichoke-based liqueur. It has a number of other spices in it, so it's not like you're drinking artichoke juice or anything. Mixed with the dark rum, some salted bitters and a bit of lemon, and wow. With each sip you went through four or five different flavour profiles – acidity of the lemon, saltiness, herbs, molasses. It was extremely drinkable and all three of us had to pace ourselves so we didn't finish it in two gulps.
+
+The Getaway was served with an artichoke (to pair with the cynar) and green olive tapenade-type thing. It was pretty tasty, but I wish there had been more of it. Or maybe I should have eaten more for dinner.
+
+For last cocktail of the set, we had a choice. Either a cynar and grapefruit/blood orange soda **or** a cynar and [akvavit](http://en.wikipedia.org/wiki/Akvavit) combination. Two of us plumped for the cynar/aquavit drink – it tasted a lot like a negroni. The soda drink was refreshing and a nice end to the tasting.
+
+As the previous cocktails were so good, we decided to stay for another one each. We asked the bartender for two gin-based drinks – one with citrus and one without.
+
+<div class="img">
+  <img src="/images/the-journey/dc/dry-martini.jpg">
+  <div class="alt">Dry Martini</div>
+</div>
+
+Hampton got a dry martini with Plymouth gin. It was pretty delicious. The bartender recommended Plymouth as a good go-to gin that mixes well with other ingredients.
+
+<div class="img">
+  <img src="/images/the-journey/dc/last-word-ingredients.jpg">
+  <div class="alt">Last Word Ingredients</div>
+</div>
+
+I received a [Last Word](http://en.wikipedia.org/wiki/The_Last_Word_(cocktail\)) – Tanqueray 10 gin, Luxardo [maraschino liqueur](http://en.wikipedia.org/wiki/Maraschino), lime juice and [Chartreuse](http://en.wikipedia.org/wiki/Chartreuse_(liqueur\)). I had been drinking Chartreuse the previous Saturday, both neat and in a Chartreuse gimlet. I liked it a lot, so I was pretty excited it came up in the cocktail the bartender made for me here.
+
+The Maraschino liqueur was strange. I'm familiar with Luxardo-style maraschino cherries, so was expecting the liqueuer to be a deep purple syrup. However, it looked and tasted more like a simple syrup that had a hint of cherry flavour.
+
+<div class="img">
+  <img src="/images/the-journey/dc/last-word-cocktail.jpg">
+  <div class="alt">Last Word</div>
+</div>
+
+Mixing all of them together was amazing. The freshness of the limes worked well with the herbal qualities of the gin and the Chartreuse. The Maraschino added a touch of sweetness to round it all out. Apparently, the bartender likes to put a little more gin compared to normal Last Word-style drinks, which is what he said gives his the edge over the competition.
+
+I highly recommend visiting this place if you're in the D.C. area. We managed to make reservations a couple of weeks in advance for a Wednesday night. I hear the building is being taken over soon – although I assume they will be moving to a new location.
