@@ -7,8 +7,20 @@
   }
   footer {
     margin-top: 30px;
+    @media screen and (max-width: $break) {
+      margin-bottom: 50px;
+    }
     .categories {
       display: block;
+    }
+    .meta .basic-alignment {
+      &.left {
+        width: 45%;
+      }
+      &.right {
+        width: 45%;
+        text-align: right;
+      }
     }
   }
   .info {
