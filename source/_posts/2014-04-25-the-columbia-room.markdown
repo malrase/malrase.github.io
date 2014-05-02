@@ -9,7 +9,9 @@ categories: cocktail washington-dc the-columbia-room the-journey-2014
 
 I was glad our friend had already been to [The Columbia Room](http://columbiaroomdc.com/) and met us outside, otherwise I don't think we would have been able to find it. It's hidden in the back of an upscale dive bar called The Passenger on 7th St in D.C. Inside, it's tiny (I think there were ten seats) and sparsely-decorated (some apothecary-style bottles with herbs were behind the bar). The service, level of expertise from the bartenders, and the inventiveness of flavour pairings reminded me of the few Michelin-starred restaurants I've been to. Except with liquor instead of food.
 
-The set menu consists of three drinks and a couple of snacks, coming in at around $65 per person. Pricey, but worth it.
+The set menu consists of three drinks and a couple of snacks, coming in at around $65 per person. Pricey, but definitely worth it.
+
+<!-- more -->
 
 After being offered cold towels scented with cucumber (!), we started out with a rum and lemon-based punch served in a teacup. It tasted pretty much like iced tea – but, y'know, alcoholic. So better than regular iced tea.
 
