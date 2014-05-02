@@ -11,4 +11,25 @@
     list-style: none;
     margin-left: 0;
   }
+  .toggler-icon {
+    font-size: 18px;
+    float: right;
+    display: none;
+    color: #666;
+  }
+  @media screen and (max-width: 650px) {
+    padding-right: 10px;
+    [data-ur-toggler-component="button"] {
+      cursor: pointer;
+      &[data-ur-state="disabled"] .ion-plus {
+        display: block;
+      }
+      &[data-ur-state="enabled"] .ion-minus {
+        display: block;
+      }
+    }
+    [data-ur-toggler-component="content"][data-ur-state="disabled"] {
+      display: none;
+    }
+  }
 }

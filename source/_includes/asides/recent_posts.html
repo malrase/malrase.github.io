@@ -1,6 +1,10 @@
-<section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
+<section data-ur-set="toggler">
+  <h1 data-ur-toggler-component="button">
+    Recent Posts
+    <span class="toggler-icon ion-plus"></span>
+    <span class="toggler-icon ion-minus"></span>
+  </h1>
+  <ul id="recent_posts" data-ur-toggler-component="content">
     {% for post in site.posts limit: site.recent_posts %}
       <li class="post">
         <a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a>
