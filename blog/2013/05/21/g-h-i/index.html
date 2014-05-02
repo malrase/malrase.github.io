@@ -33,6 +33,8 @@ Ibsen, Henrik &ndash; Peer Gynt &ndash; 4.3/10 ">
 <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Nixie+One' rel='stylesheet' type='text/css'>
 
+<script src="http://downloads.moovweb.com/uranium/1.0.162/uranium.js"></script>
+
   
 
 </head>
@@ -155,17 +157,25 @@ Ibsen, Henrik &ndash; Peer Gynt &ndash; 4.3/10 ">
 
 <aside class="sidebar unit one-of-five">
   
-    <section>
-  <h1>Things</h1>
-  <ul>
+    <section data-ur-set="toggler">
+  <h1 data-ur-toggler-component="button">
+    Things 
+    <span class="toggler-icon ion-plus"></span>
+    <span class="toggler-icon ion-minus"></span>
+  </h1>
+  <ul data-ur-toggler-component="content">
     <li><a href="/about">About</a></li>
     <li><a href="/blog/archives">Archives</a></li>
     <li><a href="http://twitter.com/malrase">Twitter</a></li>
   </ul>
 </section>
-<section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
+<section data-ur-set="toggler">
+  <h1 data-ur-toggler-component="button">
+    Recent Posts
+    <span class="toggler-icon ion-plus"></span>
+    <span class="toggler-icon ion-minus"></span>
+  </h1>
+  <ul id="recent_posts" data-ur-toggler-component="content">
     
       <li class="post">
         <a href="/blog/2014/04/25/the-columbia-room/">The Columbia Room</a>
