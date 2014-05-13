@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Local-edition | malrase dot com]]></title>
+  <link href="http://www.malrase.com/blog/categories/local-edition/atom.xml" rel="self"/>
+  <link href="http://www.malrase.com/"/>
+  <updated>2014-05-13T14:25:42+02:00</updated>
+  <id>http://www.malrase.com/</id>
+  <author>
+    <name><![CDATA[Michael]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Cocktail: Brass Check]]></title>
+    <link href="http://www.malrase.com/blog/2013/07/27/cocktail-brass-check/"/>
+    <updated>2013-07-27T20:53:41+02:00</updated>
+    <id>http://www.malrase.com/blog/2013/07/27/cocktail-brass-check</id>
+    <content type="html"><![CDATA[<div class="img">
+  <img src="http://www.malrase.com/images/cocktails/brass-check.jpg">
+  <div class="alt">Brass Check</div>
+</div>
+
+
+<p>At <a href="http://localeditionsf.com/">Local Edition</a> on Market at 3rd, there&rsquo;s a nice bourbon-based cocktail called the Brass Check. I think it&rsquo;s my favourite on their menu. The grapefruit comes through, but the syrup softens it so it&rsquo;s not too sour. The Rosebud is pretty good, too.</p>
+
+<ul>
+<li>Buffalo Trace Bourbon</li>
+<li>Cyanar</li>
+<li>Grapefruit</li>
+<li>Lemon</li>
+<li>Maple syrup</li>
+<li>Strawberry</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
