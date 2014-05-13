@@ -6,7 +6,7 @@ comments: false
 categories: the-journey-2014 philadelphia murals cocktails revolution
 ---
 
-After a quick trip to Jacksonville for my father-in-law's birthday, our next stop was Philadelphia. I had only visited Philadelphia by passing through its airport, and I've heard a lot about it as a city, so I was excited to spend a few days there. 
+After a quick trip to Jacksonville for my father-in-law's birthday, our next stop was Philadelphia. I had only visited Philadelphia by passing through its airport, and I've heard a lot about it as a city, so I was excited to spend a few days there. I was on my best behaviour and only made one joke about [it being sunny](http://en.wikipedia.org/wiki/It's_Always_Sunny_in_Philadelphia).
 
 <div class="img">
   <img src="/images/the-journey/phl/chesse-steak.jpg">
@@ -32,19 +32,19 @@ We stopped in [a neat store](http://www.yelp.com/biz/jinxed-tuckers-digs-philade
 
 <div class="img">
   <img src="/images/the-journey/phl/kater-mural.jpg">
-  <div class="alt">South side</div>
+  <div class="alt">South side of Kater St</div>
 </div>
 
 <div class="img">
   <img src="/images/the-journey/phl/mural-selfie.jpg">
-  <div class="alt">Up close</div>
+  <div class="alt">Up close: mosaic selfie! </div>
 </div>
 
 The mosaics are the work of [Isaiah Zagar](http://en.wikipedia.org/wiki/Isaiah_Zagar), who has around 200 mosaics in the South Street area of Philadelphia. They use a lot of mirror pieces and include quotations and the address of the place. They were mesmerising and I felt I could have spent hours sitting in front of them. Apparently there's [a movie about him](http://en.wikipedia.org/wiki/In_a_Dream_(film\)), so I'll have to check that out.
 
 <div class="img">
   <img src="/images/the-journey/phl/kater-mural2.jpg">
-  <div class="alt">North side</div>
+  <div class="alt">North side of Kater St</div>
 </div>
 
 <div class="img">
@@ -60,6 +60,6 @@ The amount of history in Philadelphia, especially regarding the founding of the 
 
 Obviously, I'm not ignorant of the history between the UK and the USA. Being British in the USA leads to good-natured ribbing about [being a redcoat](http://en.wikipedia.org/wiki/Red_coat_(British_army\)). However, wandering around the centre of where the USA was founded and independence was sought is different. Everywhere there's information about how the revolutionaries were throwing off their repressive chains and seeking liberty. Implicit in all of the historical placards and explanatory signage was that they wanted to get away from the baddies. And in this case, the baddies were my ancestors (well, kinda).
 
-I felt defensive, like I needed to stand up for my country: the UK wasn't *that* bad, was it? I'm not a patriotic person, so feeling protective about my homeland was novel. I also felt conspicuous – that some tell would give me away, and people would be mad that the enemy was desecrating their site simply by standing there. I was sure I was only a moment away from being kicked out of the Constitution Museum or something.
+I felt defensive, like I needed to stand up for my country: the UK wasn't *that* bad, was it? I'm not a patriotic person, so feeling protective about my homeland was novel. I also felt conspicuous – that some tell would give me away, and people would be mad that the enemy was desecrating their site,  even though I was just standing there. I was sure I was only a moment away from being kicked out of the Constitution Museum or something.
 
 I've never really lived in another country, so I assume this is a pretty standard foreigner's paranoia. Maybe I should start wearing one of those sweet [stars-and-stripes, eagle-soaring shirts](http://www.animalshirts.net/americanflagshirts/eaglefly.jpg) to blend in more.
