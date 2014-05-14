@@ -30,7 +30,7 @@ Getting it into the suitcase was simple by rolling everything up. If you're not 
   <div class="alt">Second side</div>
 </div>
 
-The two images above contain about two weeks' worth of clothes.Making sure I wear bulky items when travelling means that the lighter versions (e.g. a lighter jacket, thinner shoes) fit in the suitcase. The contact lenses should be [allowed as medical liquids](https://www.tsa.gov/traveler-information/medically-necessary-liquids).
+The two images above contain about two weeks' worth of clothes. Making sure I wear bulky items when travelling means that the lighter versions (e.g. a lighter jacket, thinner shoes) fit in the suitcase. The contact lenses should be [allowed as medical liquids](https://www.tsa.gov/traveler-information/medically-necessary-liquids).
 
 Here's the full list:
 
