@@ -69,12 +69,16 @@ article, .comments {
   }
 }
 
+
 .img {
   background: #eee;
   padding: 10px;
   text-align: center;
-  margin: 0 1.5rem 1.5rem;
-  display: inline-block;
+  @media screen and (min-width: $break) {
+    margin: 0px auto 30px;
+    display: block;
+    width: 520px;
+  }
   @media screen and (max-width: $break) {
     margin: 0px 0px 20px;
   }
