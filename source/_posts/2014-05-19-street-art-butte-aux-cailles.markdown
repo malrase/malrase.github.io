@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Street Art in the Butte-aux-Cailles"
+title: "Street Art in the Butte-aux-Cailles, Paris"
 date: 2014-05-19 12:43:05 +0200
 comments: true
 categories: street-art paris butte-aux-cailles the-journey-2014 walking-tour sampsa miss-tic urbansolid janaundjs
