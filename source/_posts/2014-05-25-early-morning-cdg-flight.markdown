@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Early Morning CDG Flight"
-date: 2014-05-13 13:59:34 +0200
+date: 2014-05-25 13:59:34 +0200
 comments: true
 categories: the-journey-2014 CDG paris flight
 published: false
@@ -19,13 +19,17 @@ The cab showed up at 5:20am (!), and we had to rush a little to get out the door
 
 We only picked up one other couple (the taxi had room for seven people), and we arrived at the airport with plenty of time.
 
-- **Cost**: €46.30 for two
+- **Cost**: €46.30 for two (~$62)
 - **Wake-up time**: 5:05am (for 7:20am flight)
 
 ## Option 2: Hotel
 
-For our second flight, we decided to get a room in a hotel airport. 
+For our second flight, we decided to get a room in a hotel airport. We chose the [ibis CDG Airport](http://www.ibis.com/gb/hotel-1404-ibis-paris-cdg-airport/index.shtml) – it's pretty much at Terminal 3, and was about a 15-minute trip (CDGVAL terminal shuttle and walking) to our check-in gate.
 
-- **Cost**: €90 for two
+Our flight was on a Sunday, so we arrived at the hotel on the Saturday. Despite advertising a lot of food options, there was only one buffet for lunch so we ended up going into the airport itself for lunch.
+
+As we were on an EasyJet flight, we had to get to the airport pretty early. On EasyJet, you're only allowed one carry-on (not one suitcase and a laptop bag, **just one**). Baggage drop closes 40 mins before departure, and gates close 30 mins before departure. So we had to be there a lot earlier than our previous flight.
+
+- **Cost**: €97 for two (~132)
 - **Wake-up time**: ???? (for 7:00am flight)
 
