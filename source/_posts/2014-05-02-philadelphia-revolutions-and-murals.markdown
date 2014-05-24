@@ -3,7 +3,7 @@ layout: post
 title: "Philadelphia"
 date: 2014-05-02 16:00:41 -0400
 comments: false
-categories: the-journey-2014 philadelphia murals cocktails revolution
+categories: the-journey-2014 philadelphia murals cocktail revolution
 ---
 
 After a quick trip to Jacksonville for my father-in-law's birthday, our next stop was Philadelphia. I had only visited Philadelphia by passing through its airport, and I've heard a lot about it as a city, so I was excited to spend a few days there. I was on my best behaviour and only made one joke about [it being sunny](http://en.wikipedia.org/wiki/It's_Always_Sunny_in_Philadelphia).
