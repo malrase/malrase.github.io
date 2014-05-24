@@ -24,4 +24,4 @@ We went to another cocktail bar/tapas restaurant nearby Candelaria: [Le Mary Cel
 
 It's worth pointing out that cocktails in Paris are expensive. €13 (~$18) was not unusual. Compare that to cocktails in San Francisco, where anything more than $12 would be considered pricey. It's a trade-off, obviously – the price of a baguette (80¢ or ~$1.10) or some great cheese is way less in Paris than in San Francisco.
 
-I'm happy we found these places, most were a little tricky to pinpoint but fun to investigate. It's good to know there are decent cocktial bars in Paris – even if you have to walk down a weird side-alley to get to them.
+I'm happy we found these places. Most were a little tricky to track down, but fun to drink at. It's good to know there are decent cocktial bars in Paris – even if you have to walk down a weird side-alley to get to them. I look forward to finding more next time we're in the city.
