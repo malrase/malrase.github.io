@@ -3,7 +3,7 @@ layout: post
 title: "Cocktail: Brass Check"
 date: 2013-07-27 11:53:41 -0700
 comments: false
-categories: cocktail bourbon local-edition
+categories: cocktails bourbon local-edition
 ---
 
 

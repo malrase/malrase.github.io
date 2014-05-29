@@ -3,7 +3,7 @@ layout: post
 title: "San Francisco: Part One"
 date: 2011-11-27 12:25:29 -0700
 comments: false
-categories: san-francisco travel SFO united
+categories: san-francisco travel SFO united usa
 ---
 
 After Jacksonville, we headed on to San Francisco. Hampton's company (Moovweb) is based there.

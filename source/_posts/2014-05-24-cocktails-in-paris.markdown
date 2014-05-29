@@ -3,7 +3,7 @@ layout: post
 title: "Cocktails in Paris"
 date: 2014-05-24 14:08:01 +0200
 comments: true
-categories: the-journey-2014 cocktails paris
+categories: the-journey-2014 cocktails paris france
 ---
 
 Living in San Francisco, we're spoiled when it comes to cocktails. Almost any bar you wander into could make a half-decent manhattan or gimlet. As [I've brought up before](/blog/2014/05/13/linz), cocktails in Europe are a little lacking. Hampton and I wanted to find some decent mixed drinks, so did some research on the cocktail scene in Paris. 

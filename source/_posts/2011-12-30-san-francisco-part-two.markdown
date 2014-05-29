@@ -3,7 +3,7 @@ layout: post
 title: "San Francisco: Part Two"
 date: 2011-12-30 12:25:25 -0700
 comments: false
-categories: san-francisco CAoS nightlife travel food
+categories: san-francisco usa CAoS nightlife travel food
 ---
 
 My first post on SF was a bit tourist-y. This one will be more focused on food and drink. And other funstuff.

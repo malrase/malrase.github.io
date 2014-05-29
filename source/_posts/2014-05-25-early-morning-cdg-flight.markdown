@@ -3,7 +3,7 @@ layout: post
 title: "Early Morning CDG Flight"
 date: 2014-05-25 13:59:34 +0200
 comments: true
-categories: the-journey-2014 CDG paris flight
+categories: the-journey-2014 CDG paris france flight airport
 published: false
 ---
 
@@ -26,10 +26,16 @@ We only picked up one other couple (the taxi had room for seven people), and we 
 
 For our second flight, we decided to get a room in a hotel airport. We chose the [ibis CDG Airport](http://www.ibis.com/gb/hotel-1404-ibis-paris-cdg-airport/index.shtml) – it's pretty much at Terminal 3, and was about a 15-minute trip (CDGVAL terminal shuttle and walking) to our check-in gate.
 
-Our flight was on a Sunday, so we arrived at the hotel on the Saturday. Despite advertising a lot of food options, there was only one buffet for lunch so we ended up going into the airport itself for lunch.
+Our flight was on a Sunday, so we arrived at the hotel on the Saturday. Despite advertising a lot of food options, there was only one buffet for lunch so we ended up going into the airport itself for lunch. That evening, only *one* of the restaurants was open, with a 30-minute wait time for food and a long line out the door. Pretty poor, to be honest.
 
-As we were on an EasyJet flight, we had to get to the airport pretty early. On EasyJet, you're only allowed one carry-on (not one suitcase and a laptop bag, **just one**). Baggage drop closes 40 mins before departure, and gates close 30 mins before departure. So we had to be there a lot earlier than our previous flight.
+We were on an EasyJet flight to Malága, so we had to get to the airport pretty early. On EasyJet, you're only allowed one carry-on (not one suitcase and one laptop bag, **just one** bag). Baggage drop closes 40 mins before departure, and gates close 30 mins before departure. So we had to be there earlier than our previous flight. However, we still managed to get up later. 
 
 - **Cost**: €97 for two (~132)
-- **Wake-up time**: ???? (for 7:00am flight)
+- **Wake-up time**: 5:30am (for 7:00am flight)
+
+## Verdict
+
+Despite the hotel we chose having a number of flaws, I'd definitely recommend getting a hotel rather than the early-morning cab.
+
+The peace of mind knowing you're in the airport complex, plus the convenience of a 15-minute automated train and walking journey, far outweigh the difference in price. 
 

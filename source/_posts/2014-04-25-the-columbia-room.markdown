@@ -3,7 +3,7 @@ layout: post
 title: "The Columbia Room"
 date: 2014-04-25 14:29:59 -0400
 comments: false
-categories: cocktail washington-dc the-columbia-room the-journey-2014
+categories: cocktail washington-dc the-columbia-room the-journey-2014 usa
 ---
 
 

@@ -3,7 +3,7 @@ layout: post
 title: "Cocktail: Breakfast of Champions"
 date: 2013-06-29 11:55:01 -0700
 comments: false
-categories: cocktail gin ad-hoc napa
+categories: cocktails gin ad-hoc napa
 ---
 
 When you eat at a fancy restaurant (or at least a restaurant with a world-renowned chef), you have to get the weirdest thing on the menu. That chef (or restaurant) is famous for a reason - it creates flavour profiles that are going to be pleasing. So why waste your time on something standard?

@@ -3,7 +3,7 @@ layout: post
 title: "Midsummer House: 22nd December 2012"
 date: 2013-01-05 12:10:32 -0700
 comments: false
-categories: food reviews cambridge michelin
+categories: food reviews cambridge michelin uk
 ---
 
 We were in the UK for Christmas, and my parents told us to keep one evening free from seeing our friends - they had a plan. They didn't tell us what it was - not even on the cab ride there. We were equally intrigued (what could it be? It had to be dinner, right?) and anxious (what if we didn't like it?).
