@@ -4,7 +4,6 @@ title: "Early Morning CDG Flight"
 date: 2014-05-25 13:59:34 +0200
 comments: true
 categories: the-journey-2014 CDG paris france flight airport
-published: false
 ---
 
 We realised we had booked two early-morning flights from [Charles de Gaulle](http://en.wikipedia.org/wiki/Charles_de_Gaulle_Airport), the main airport for Paris. We looked up if the metro/RER was running that early, but from our stop the times didn't work out. So the RER wasn't an option. 
