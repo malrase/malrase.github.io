@@ -4,6 +4,7 @@ title: "Drinking in the Costa del Sol"
 date: 2014-05-29 11:37:41 +0200
 comments: true
 categories: cocktails spain gin mijas the-journey-2014
+published: false
 ---
 
 The next stage of our trip took us to the south of Spain – the "[Costa del Sol]()," a clichéd destination for sun-starved Brits. My family were meeting us there and spending a few days in a villa in [Mijas]() – a small village scattered on mountains overlooking the Mediterranean.
