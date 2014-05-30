@@ -30,7 +30,7 @@ Our flight was on a Sunday, so we arrived at the hotel on the Saturday. Despite 
 
 We were on an EasyJet flight to Malága, so we had to get to the airport pretty early. On EasyJet, you're only allowed one carry-on (not one suitcase and one laptop bag, **just one** bag). Baggage drop closes 40 mins before departure, and gates close 30 mins before departure. So we had to be there earlier than our previous flight. However, we still managed to get up later. 
 
-- **Cost**: €97 for two (~132)
+- **Cost**: €97 for two (~$132)
 - **Wake-up time**: 5:30am (for 7:00am flight)
 
 ## Verdict

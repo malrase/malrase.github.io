@@ -61,3 +61,5 @@ I should also mention the tapas: it was really good. It was more inventive than 
 </div>
 
 We were only in Spain a few days. Despite that, we managed to do two excellent day trips: one to Granada to see the [Alhambra](), and one to [Gibraltar](). If you're ever in the south of Spain, I highly recommend taking a trip to those. I also hear Seville is great, but we didn't make it there.
+
+We're now on our way to the UK, which I'm worried will be a bit of a shock. We're leaving sunny, 24ºC weather and heading towards a rainy 10ºC.
