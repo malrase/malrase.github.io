@@ -2,7 +2,7 @@
 layout: review
 title: "The Columbia Room"
 date: 2014-04-25 14:29:59 -0400
-comments: false
+comments: true
 categories: cocktails washington-dc the-columbia-room the-journey-2014 usa
 ---
 
@@ -62,4 +62,5 @@ categories: cocktails washington-dc the-columbia-room the-journey-2014 usa
       <meta itemprop="best" content="10"/> / 10
     </span> 
   </p>
+  
 </div>
