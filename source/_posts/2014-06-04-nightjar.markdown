@@ -3,7 +3,7 @@ layout: review
 title: "Nightjar"
 date: 2014-06-04 12:49:00 +0100
 comments: true
-categories: london uk cocktails nightjar
+categories: london uk cocktails nightjar the-journey-2014
 ---
 
 <div itemprop="description">
@@ -88,5 +88,13 @@ categories: london uk cocktails nightjar
   </ul>
 
   <p>The cocktails weren't too expensive – between £8 and £12 was the average. Considering that such care went into not only the flavours, but also the decoration and presentation, I found it to be a worthwhile treat.</p>
-  <p><span itemprop="summary">Nightjar serves innovative cocktails in both taste and presentation.</span> Definitely a <span itemprop="rating">5</span> out of 5 place. I can see Hampton and I coming back here whenever we're in London. </p>
+
+  <p><span itemprop="summary">Nightjar serves innovative cocktails in both taste and presentation.</span> I can see Hampton and I coming back here whenever we're in London. </p>
+
+  <p class="score">
+    <span itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating">
+      <span itemprop="value">9.6</span> 
+      <meta itemprop="best" content="10"/> / 10
+    </span> 
+  </p>
 </div>
