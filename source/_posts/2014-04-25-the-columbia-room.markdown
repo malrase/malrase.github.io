@@ -7,6 +7,7 @@ categories: cocktails washington-dc the-columbia-room the-journey-2014 usa
 ---
 
 <div itemprop="description">
+  
   <p>I was glad our friend had already been to <a href="http://columbiaroomdc.com/">The Columbia Room</a> and met us outside, otherwise I don't think we would have been able to find it. It's hidden in the back of an upscale dive bar called The Passenger on 7th St in D.C. Inside, it's tiny (I think there were ten seats) and sparsely-decorated (some apothecary-style bottles with herbs were behind the bar). The service, level of expertise from the bartenders, and the inventiveness of flavour pairings reminded me of the few Michelin-starred restaurants I've been to. Except with liquor instead of food.</p>
 
   <p>The set menu consists of three drinks and a couple of snacks, coming in at around $65 per person. Pricey, but definitely worth it.</p>
