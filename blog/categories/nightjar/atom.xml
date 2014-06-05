@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Nightjar | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/nightjar/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2014-06-05T11:12:21+01:00</updated>
+  <updated>2014-06-05T13:49:49+01:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -100,7 +100,15 @@
   </ul>
 
   <p>The cocktails weren't too expensive – between £8 and £12 was the average. Considering that such care went into not only the flavours, but also the decoration and presentation, I found it to be a worthwhile treat.</p>
-  <p><span itemprop="summary">Nightjar serves innovative cocktails in both taste and presentation.</span> Definitely a <span itemprop="rating">5</span> out of 5 place. I can see Hampton and I coming back here whenever we're in London. </p>
+
+  <p><span itemprop="summary">Nightjar serves innovative cocktails in both taste and presentation.</span> I can see Hampton and I coming back here whenever we're in London. </p>
+
+  <p class="score">
+    <span itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating">
+      <span itemprop="value">9.6</span> 
+      <meta itemprop="best" content="10"/> / 10
+    </span> 
+  </p>
 </div>
 
 ]]></content>
