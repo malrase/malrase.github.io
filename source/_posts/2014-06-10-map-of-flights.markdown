@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Map of Flights"
+date: 2014-06-10 10:35:59 +0100
+comments: false
+categories: map the-journey-2014
+---
+
+Here's a geographically inaccurate map I made to show the flights we have taken and will be taking over the next few months. The future ones aren't set in stone, so there might be some changes towards the end of the trip. 
+
+<div class="img">
+  <img src="/images/the-journey/flight-map.jpg">
+</div>
+
+Current airport list: SFO-IAD-JAX-PHL-CDG-VIE-CDG-AGP-LPL-STN-PRA-TXL-AMS-ARN-CDG-PHL-YYZ-JFK-MCO-JAX-SFO
+
+(Made with [Paper](https://www.fiftythree.com/paper).)
