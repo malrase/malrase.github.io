@@ -12,6 +12,6 @@ Here's a geographically inaccurate map I made to show the flights we have taken 
   <img src="/images/the-journey/flight-map.jpg">
 </div>
 
-Current airport list: SFO-IAD-JAX-PHL-CDG-VIE-CDG-AGP-LPL-STN-PRA-TXL-AMS-ARN-CDG-PHL-YYZ-JFK-MCO-JAX-SFO
+Current airport list: SFO-IAD-JAX-PHL-CDG-VIE-CDG-AGP-LPL-STN-PRA-TXL-AMS-ARN-CDG-PHL-YYZ-JFK-MCO-JAX-SFO. In a couple of hours, we'll be on the STN-PRA leg.
 
 (Made with [Paper](https://www.fiftythree.com/paper).)
