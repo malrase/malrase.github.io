@@ -1,15 +1,18 @@
 .sidebar {
   h1 {
-    font-size: 1.5rem;
-    margin-bottom: 1rem;
+    font-size: 1.5em;
+    margin-bottom: 1em;
   }
   section {
-    margin-bottom: 2rem;
+    margin-bottom: 2em;
   }
   ul {
-    line-height: 2;
+    line-height: 1.5em;
     list-style: none;
     margin-left: 0;
+    > li {
+      margin-bottom: 20px;
+    }
   }
   .toggler-icon {
     font-size: 18px;
