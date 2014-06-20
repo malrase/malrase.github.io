@@ -90,10 +90,4 @@ This, now, is our third anniversary. I doubt it will be anything other than a da
 
 Three anniversaries does give you an excuse for three times as many anniversary dinners, so that's nice. Plus I got to marry a guy I love three times (and I'd do it at least three times more – after that, I'd probably wonder why we needed all these extra commitment ceremonies). 
 
-
-
-
-
-
-
-
+The legal stuff, though? That's been a headache. Hopefully, for us, the worst of it is over. But there are many other countries and states where it's not. And that's why we try to keep informing people of our struggles, so people realise why same-sex marriage matters.
