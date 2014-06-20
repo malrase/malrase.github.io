@@ -17,7 +17,7 @@ categories: cocktails prague czech-republic the-journey-2014
 
     <div class="img">
     <img src="/images/the-journey/prague/castle_dusk.jpg">
-    <div class="alt">Prague sunset over the Vltava</div>
+    <div class="alt">Sunset over the Vltava</div>
   </div>
 
   <p>The bar itself is cosy, with three or four small rooms spread over two floors. Pictures of Hemingway line all the walls, as do various drinking vessels – most of which seem to be actually used for drinks.</p>
