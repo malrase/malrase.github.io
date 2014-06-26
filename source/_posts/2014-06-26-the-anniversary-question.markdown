@@ -25,7 +25,7 @@ On 24th October, 2009, we entered into a civil partnership in Cambridge, England
 
 (Hampton once snarkily asked "Oh, so it's like they're *separate but equal*, right?" and I eagerly agreed, not being familiar with the [US legal term](http://en.wikipedia.org/wiki/Separate_but_equal).)
 
-Civil partnerships are often the first step a country takes in offering rights to same-sex couples who would like to commit to each other – a [skim milk marriage](http://www.huffingtonpost.com/2013/03/27/ginsburg-doma_n_2966548.html). A number of countries introduced them before then proceeding to same-sex marriage, and today in many places (such as states in the US) they are the only way a same-sex couple can be recognised by the government. They range from offering a few cohabitation rights to all the rights an opposite-sex couple would expect when they become married. Thankfully, the UK had one of the more encompassing civil partnerships.
+Civil partnerships are often the first step a country takes in offering rights to same-sex couples who would like to commit to each other – a [skim milk marriage](http://www.huffingtonpost.com/2013/03/27/ginsburg-doma_n_2966548.html). A number of countries introduced them before then proceeding to same-sex marriage, and today in many places ([certain states in the US](http://en.wikipedia.org/wiki/Same-sex_unions_in_the_United_States#States_with_Civil_unions_.28table.29), for example) they are the only way a same-sex couple can be recognised by the government. They range from offering a few cohabitation rights to all the rights an opposite-sex couple would expect when they become married. Thankfully, the UK had one of the more encompassing civil partnerships.
 
 In the UK you can only get a civil partnership in a council office ([this is Cambridge's](http://en.wikipedia.org/wiki/Cambridgeshire_County_Council#mediaviewer/File:Shire_Hall,_Cambridge_-_geograph.org.uk_-_84489.jpg)). It's not a pretty building, so we decided to do it with just us and our witnesses (my dad and my brother). It was in tiny office and was over in about five minutes. We read out the legally-required pre-written lines, signed some paper, and we were set.
 
@@ -42,7 +42,7 @@ Soon after our civil partnership ceremony, on 11th November 2009, we had a gathe
 
 <div class="img">
   <img src="/images/marriage/uk-couple.jpg">
-  <div class="alt">Why didn't I get a hair cut?</div>
+  <div class="alt">I should have got a hair cut</div>
 </div>
 
 We had written some short vows to say to each other. Before the meal we had Hampton's dad do a little ceremony where we read them out in front of our families.
@@ -58,11 +58,11 @@ To us, this is our most important anniversary. We stood up in front of everyone 
 
 Jump to 2013 – three and a half years into our partnership and things get much better for same-sex couples, but also a little more complex for us.
 
-Although we had been introducing ourselves as "married," that wasn't strictly true. We were "civil partnershipped"... but that doesn't have quite the same ring to it. The distinction between the two is pretty important. Despite civil partnerships offering all the same rights to same-sex couples *in the UK*, internationally it's a different story. 
+For those three and a half years, although we had been introducing ourselves as "married," that wasn't strictly true. We were "civil partnershipped"... but that doesn't have quite the same ring to it. Socially, it's a lot easier (and less of a mouthful) to say "married." Legally, however, the distinction between the two is pretty important. Despite civil partnerships offering all the same rights to same-sex couples *in the UK*, internationally it's a different story. 
 
-The United States federal government did not recognise civil partnerships from other countries. As immigration is federal, I couldn't base my US visa off my partnership with Hampton. This was a key point that a lot of people didn't understand. They would often ask why we didn't just get married in, say, Massachusetts and apply off that – well, the federal immigration service didn't care about what a random state decided to legalise, so it wouldn't have made any difference to us.
+The United States federal government did not recognise civil partnerships from other countries. As immigration is federal, I couldn't base my US visa off my partnership with Hampton. This was a key point that a lot of people didn't quite realise. They would often ask why we didn't just get married in, say, Massachusetts and apply off that – well, the federal immigration service didn't care about what a random state decided to legalise, so it wouldn't have made any difference to us.
 
-So, instead of being on a marriage-based visa, I was in the US on a work-based visa (the [H1B](http://en.wikipedia.org/wiki/H-1B_visa) for visa nerds), and if I left my job I would have had to leave the US. 
+Instead of being on a marriage-based visa, I was in the US on a work-based visa (the [H1B](http://en.wikipedia.org/wiki/H-1B_visa) for visa nerds), and if I left my job I would have had to leave the US. 
 
 In early Summer 2013, a few things happened at the same time. Firstly, in the UK there was a vote in Parliament and it became clear that [same-sex marriage would become a reality in the near future](http://en.wikipedia.org/wiki/Marriage_(Same_Sex_Couples\)_Act_2013). Part of this would mean that couples who were in civil partnerships (like us) would be able to "upgrade" to marriage.
 
@@ -85,19 +85,19 @@ So, we booked an appointment at San Francisco City Hall and on 10th July 2013 we
   <div class="alt">In San Francisco City Hall</div>
 </div>
 
-Afterwards, we started the immigration process and I successsfully got a green card. As I mentioned previously, it's a little frustrating that the US government only sees us as being married for just under a year. My green card is only valid for two years because of this. If we'd been married for more than two years, it would have been valid for ten years. Obviously, to us, we've been married about four and a half years, so it's a little weird.
+Afterwards, we started the immigration process and I successsfully got a green card. As I mentioned previously, it's a little frustrating that the US government only sees us as being married for just under a year. My green card is only valid for two years because of this. If we'd been married for more than two years, it would have been valid for ten years. Obviously, to us, we've been married about four and a half years, so it's a little incongruous.
 
 This, now, is our third anniversary. I doubt it will be anything other than a date I have to remember from time to time when filling out immigration paperwork.
 
 Three anniversaries does give you an excuse for three times as many anniversary dinners, so that's nice. Plus I got to marry a guy I love three times (and I'd do it at least three times more! Any more than that, though, I'd probably be wondering why we needed all these extra commitment ceremonies).
 
-The legal stuff, though? That's been a headache. Most people are surprised when we explain all of the above. They don't realise how difficult it's been and how many loopholes we had to jump through.
+The legal stuff, though? That's been a headache. Most people are surprised when we explain all of the above. They don't realise how difficult it's been and how many loopholes we've had to jump through.
 
-For us, in our home state, we hope the worst is over. But there are many places – countries and states – where things are still difficult. Take the bridge below, the [Arlington Memorial Bridge](http://en.wikipedia.org/wiki/Arlington_Memorial_Bridge). We walked along it this winter. It crosses between the District of Columbia and the state of Virginia. We realised that in DC, [we have full rights as a married couple](http://en.wikipedia.org/wiki/Same-sex_marriage_in_the_District_of_Columbia). The state we were walking towards, Virginia, [does not recognise same-sex marriages](http://en.wikipedia.org/wiki/Same-sex_marriage_in_Virginia). In the process of walking across that bridge, we were giving up our rights. If Hampton needed to go to the hospital and we were in Virginia, we would be treated as strangers (this [actually happens](http://www.nytimes.com/2009/05/19/health/19well.html)).
+For us, in our home state, we hope the worst is over. But there are many places – countries and states – where things are still inequal for same-sex couples. Take the bridge below, the [Arlington Memorial Bridge](http://en.wikipedia.org/wiki/Arlington_Memorial_Bridge). We walked along it this winter. It crosses between the District of Columbia and the state of Virginia. We realised that in DC, [we have full rights as a married couple](http://en.wikipedia.org/wiki/Same-sex_marriage_in_the_District_of_Columbia). The state we were walking towards, Virginia, [does not recognise our marriage](http://en.wikipedia.org/wiki/Same-sex_marriage_in_Virginia). In the process of walking across that bridge, we were giving up our rights. If Hampton needed to go to the hospital and we were in Virginia, we would be treated as strangers (this [actually happens](http://www.nytimes.com/2009/05/19/health/19well.html)).
 
 <div class="img">
   <img src="http://upload.wikimedia.org/wikipedia/commons/2/25/Arlington_Memorial_Bridge_DC_12_2011_00091.JPG">
-  <div class="alt">Arlington Memorial Bridge (photo credit: Wikipedia)</div>
+  <div class="alt">Arlington Memorial Bridge (photo credit: <a href="http://en.wikipedia.org/wiki/Arlington_Memorial_Bridge#mediaviewer/File:Arlington_Memorial_Bridge_DC_12_2011_00091.JPG">Wikipedia</a>)</div>
 </div>
 
 In many ways, we have a long journey ahead.
