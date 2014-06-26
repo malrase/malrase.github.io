@@ -104,12 +104,14 @@ article, .comments {
     float: left;
     > span {
       margin-right: 5px;
+      top: 1px;
     }
   }
   &.right {
     float: right;
     > span {
       margin-left: 5px;
+      top: 1px;
     }
   }
 }
