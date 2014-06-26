@@ -10,7 +10,7 @@ Today is the one-year anniversary of two historic decisions by the Supreme Court
 
 <div class="img">
   <img src="/images/marriage/nytimes.png">
-  <div class="alt">26th June 2013 – That's us in the top left!</div>
+  <div class="alt">26th June 2013 – that's us in the top left!</div>
 </div>
 
 It was a great moment, and soon afterwards we got married in San Francisco city hall. This caused some confusion around our friends, as up to that point we introduced ourselves as a married couple. Weren't we already married? Why did we need to get married a second time?
