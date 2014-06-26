@@ -54,7 +54,7 @@ We had written some short vows to say to each other. Before the meal we had Hamp
 
 To us, this is our most important anniversary. We stood up in front of everyone and made a new, joined family by committing ourselves to each other. 11/11 is when we celebrate our anniversary by going out for a meal or whatever. If you ask how long we've been married – we'll probably count from this date. Which is strange, as it's the least legally-binding of our anniversaries.
 
-## Anniversary Three: Marriage
+## Anniversary Three: Full Marriage
 
 Jump to 2013 – three and a half years into our partnership and things get much better for same-sex couples, but also a little more complex for us.
 
