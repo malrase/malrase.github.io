@@ -100,4 +100,4 @@ For us, in our home state, we hope the worst is over. But there are many placesÂ
   <div class="alt">Arlington Memorial Bridge (photo credit: <a href="http://en.wikipedia.org/wiki/Arlington_Memorial_Bridge#mediaviewer/File:Arlington_Memorial_Bridge_DC_12_2011_00091.JPG">Wikipedia</a>)</div>
 </div>
 
-In many ways, we have a long journey ahead.
+In many ways, we still have a long journey ahead.
