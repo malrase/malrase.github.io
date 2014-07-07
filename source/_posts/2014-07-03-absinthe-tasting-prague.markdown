@@ -30,11 +30,11 @@ published: false
 
   <p>My two favourites were the least conventional absinthes. Both produced in the Czech Republic, one was based on honey and one was from an American recipe. </p>
 
-  <p><span itemprop="summary">SUMMARY OF EXPERIENCE</span></p>
+  <p><span itemprop="summary">Absinthe Prague is great, and something you should definitely do if you're seeking out a unique, informative evening with some tasty spirits.</span></p>
 
   <p class="score">
     <span itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating">
-      <span itemprop="value">VALUE</span> 
+      <span itemprop="value">8.8</span> 
       <meta itemprop="best" content="10"/> / 10
     </span> 
   </p>

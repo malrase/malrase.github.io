@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Day Trip to Kutná Hora"
-date: 2014-06-27 17:44:03 +0200
+date: 2014-07-07 17:44:03 +0200
 comments: true
 categories: ossuary kutna-hora czech-republic the-journey-2014
-published: false
 ---
 
 Prague has excellent rail connections to many smaller cities and towns in the Czech Republic. Taking day (or weekend) trips, especially if you're staying in Prague for an extended time, is pretty easy. [Kutná Hora](http://en.wikipedia.org/wiki/Kutn%C3%A1_Hora) was our first destination.
@@ -22,7 +21,7 @@ The ossuary was neat. It was a lot smaller than I was expecting – basically on
   <div class="alt">Bones, skull and crossbones, bone chandelier, bone signature.</div>
 </div>
 
-They hand out laminated sheets with some information on them, so you get a little historical information. However, I'd recommend either loading up Wikipedia or having it on your phone.
+They hand out laminated sheets with some information on them, so you get a little historical information. However, I'd recommend either loading up Wikipedia or having it on your phone for more detail.
 
 <div class="img">
   <img src="/images/the-journey/kutna-hora/bone-arms.jpg">
@@ -84,4 +83,4 @@ There were a few stained glass windows from the 1910s, which were neat. The one 
 
 After we had explored the cathedral, we started our journey back to Prague. Rather than walk the 40 minutes back to Kutná Hora hl. n., we went to the station in the centre of town – Kutná Hora město. It's tiny and rural, without any real platforms. There's a shuttle train that runs between this station and the main station. When we arrived, the next train was in 40 minutes(!), and we didn't have much choice but to wait for it. We changed at the main station to a train to Kolín. From Kolín to Prague we ended up on the Berlin train, an EC-class train. It was slightly nicer than the R-class we took on the way there, but not by much. It ended up taking us about two hours for the return journey. I'd recommend timing your trip back carefully.
 
-All in all it was a pretty nice day trip. If you're travelling around the Czech Republic, or you're staying in Prague for a while and want to get out of the city, I'd recommend it.
+All in all it was a pretty nice day trip. If you're travelling around the Czech Republic, or you're staying in Prague for a while and want to get out of the city, it's a fun thing to do.
