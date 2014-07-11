@@ -1,10 +1,9 @@
 ---
 layout: review
 title: "Absinthe Tasting in Prague"
-date: 2014-07-09 14:38:26 +0200
+date: 2014-07-11 14:38:26 +0200
 comments: true
 categories: absinthe cocktails prague czech-republic the-journey-2014
-published: false
 ---
 
 <div itemprop="description">
@@ -13,7 +12,7 @@ published: false
 
   <p>I'd had absinthe before in London, and I remembered enjoying it despite not liking anise-flavoured things. I was looking forward to tasting a range of absinthes to see if I could taste any differences.</p>
 
-  <p>The tasting itself is in <a href="http://groovebar.cz/">Groove Bar</a>, a great cocktail bar <a href="https://www.google.com/maps/place/Groove+Bar/@50.080446,14.416966,17z/data=!3m1!4b1!4m2!3m1!1s0x470b94f1c418d2a1:0xe8a4fa7d2309d51f">just off the river</a>. The host is Aaron Johns, an ex-pat living in Prague who definitely knows his stuff – both about absinthe and beer (he runs a <a href="http://tastelocalbeer.com/">local beer tour</a>, too). He gave a lot of interesting history on absinthe, a lot of which I didn't know about. He explained in detail all about how it's made, why it's made that way, and even about the ban. He was great at answering questions, too.</p>
+  <p>The tasting itself is in the basement of <a href="http://groovebar.cz/">Groove Bar</a>, a trendy cocktail bar <a href="https://www.google.com/maps/place/Groove+Bar/@50.080446,14.416966,17z/data=!3m1!4b1!4m2!3m1!1s0x470b94f1c418d2a1:0xe8a4fa7d2309d51f">just off the river</a>. The host is Aaron Johns, an ex-pat living in Prague who definitely knows his stuff – both about absinthe and beer (he runs a <a href="http://tastelocalbeer.com/">local beer tour</a>, too). He gave a lot of interesting history on absinthe, most of which I had no clue about. He explained in detail all about how it's made, why it's made that way, and even about the ban. He was great at answering questions, too.</p>
 
   <p>The ritual of drinking absinthe was enjoyable to learn about and even more fun to do – the sugar cube, the <a href="http://en.wikipedia.org/wiki/Ouzo_effect">louche</a>, the absinthe spoon all came together to produce a great experience. You get a little absinthe in a glass, then balance the spoon over the top. Then you place a sugar cube on the spoon and drip ice-cold water onto the sugar until there's a ratio of about five parts water to one part absinthe. As you drip the water in, the absinthe goes from clear to cloudy (the "louche"). At that point it's ready to drink.</p>
 
