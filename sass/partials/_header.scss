@@ -28,6 +28,9 @@ body > nav {
     float: right;
     margin-top: 3px;
     width: 240px;
+    @media screen and (min-width: $break) {
+      width: 23.8%;
+    }
     @media screen and (max-width: $small-break) {
       width: 100%;
     }

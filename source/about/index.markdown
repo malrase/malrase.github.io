@@ -12,9 +12,9 @@ footer: true
   <img src="/images/me.jpg">
 </div>
 
-Hi, I'm Michael, a front-end web developer living in San Francisco, California. That there is a photo of me looking like a hipster.
+Hi, I'm Michael, a front-end web developer and technical writer. Usually, I live in San Francisco, California, but currently I'm nomadic for a while. That there is a photo of me looking like a hipster.
 
-Although my family is from [the North of England](http://en.wikipedia.org/wiki/St_Helens,_Merseyside), I grew up in [small](http://en.wikipedia.org/wiki/Bluntisham) [villages](http://en.wikipedia.org/wiki/Swavesey) in [Cambridgeshire](http://en.wikipedia.org/wiki/Cambridgeshire). I studied [biochemistry](http://en.wikipedia.org/wiki/Biochemistry) at Oxford, then a bit of developmental biology at Cambridge. After those, I switched from biological sciences to technology. 
+I grew up in [small](http://en.wikipedia.org/wiki/Bluntisham) [villages](http://en.wikipedia.org/wiki/Swavesey) in [Cambridgeshire](http://en.wikipedia.org/wiki/Cambridgeshire). I studied [biochemistry](http://en.wikipedia.org/wiki/Biochemistry) at Oxford, then a bit of developmental biology at Cambridge. After those, I switched from biological sciences to technology. 
 
 I co-wrote (with [Hampton](http://twitter.com/hcatlin)) the [Pragmatic Guide to Sass](http://pragprog.com/book/pg_sass/pragmatic-guide-to-sass). I also worked at [Moovweb](http://moovweb.com), where I wrote the [Programmers' Guide to Mobile Development](http://books.google.com/books/about/The_Moovweb_Platform.html?id=5R8ynwEACAAJ). I currently work at [rarebit](http://teamrarebit.com), which I co-founded with Hampton. I do front-end web development – plus design and back-end from time-to-time.
 
