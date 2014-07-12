@@ -11,7 +11,14 @@ We've been exploring the Prague cocktail scene for the past month, and I thought
 
 **[Groove Bar]()**: 
 
-**[Bonvivants](http://www.tripadvisor.com/Restaurant_Review-g274707-d6375998-Reviews-BONVIVANT_s_CTC-Prague_Bohemia.html)**: I really wanted to like this place. I read about it in the New York Times in a [36 Hours in Prague](http://www.nytimes.com/2014/04/20/travel/36-hours-in-prague.html) travel piece. 
+**[Bonvivants](http://www.tripadvisor.com/Restaurant_Review-g274707-d6375998-Reviews-BONVIVANT_s_CTC-Prague_Bohemia.html)**: I really wanted to like this place. I read about it in the New York Times in a [36 Hours in Prague](http://www.nytimes.com/2014/04/20/travel/36-hours-in-prague.html) travel piece. It's a tapas restaurant/cocktail bar/café. We went early on a Friday, and it was pretty empty. The menu was good and we ordered a couple of tapas and a cocktail each. Mine was the Provence cocktail – it had gin, chartreuse, lemon and lavender in it. It was tasty!
+
+<div class="img">
+  <img src="/images/the-journey/prague/cocktails/bonvivants.jpg">
+  <div class="alt">Provence Cocktail</div>
+</div>
+
+Hampton had a manhattan (obviously), and the vermouth was off. That's where things started going wrong. It took ages to get our food – and when it did come, only one plate of the two came out. The food was decent, but not spectacular, and not really worth the wait.
 
 Overall: 5.8/10
 
@@ -37,8 +44,18 @@ I was pretty disappointed, to be honest. That plus my confusion (or their confus
 
 Overall: 3.4/10
 
-**[Tretter's](http://www.tretters.cz/en/)**: styled as a "New York" bar, this place has a great menu – a mix of classics and modern.
+**[Tretter's](http://www.tretters.cz/en/)**: styled as a "New York" bar, this place has a great menu – a mix of classics and modern inventions. We're both a little tired of the faux-20s-New York thing that seems to be popular in Europe. Putting a bunch of black and white photos of Manhattan on your wall doesn't work. I'd like to see someone do an L.A.-style bar from the 40s. That'd be neat.
 
-Overall: 7.2/10
+Anyway, despite that, we really enjoyed this place. The cocktails were delicious and the bartenders were super-friendly. I'd recommend this place over Bugsy's Bar!
 
-**[Black Angel Bar](http://www.blackangelsbar.cz/)**
+Overall: 7.5/10
+
+**[Black Angel Bar](http://www.blackangelsbar.cz/)**: this place was recomended to us by a number of people – both bartenders and general cocktail-lovers. It's in a basement just off the old town square, underneath a hotel. As we were taken down to the bar, we were warned about a long list of "no nos": no cameras, no hats, no speaking too loud. It was a weird way to be introduced to a bar.
+
+The cocktails were inventive and presented well. They had a broad menu – a bunch of famous bartenders (I can't vouch for their renown as I hadn't heard of any of them. Saying that, I don't know if I *could* name a famous bartender.) came up with a list of drinks. There's a lot of award-winning cocktails in there too. I had a couple of pre-prohibition ones, which were delicious.
+
+Despite the cocktails being great, there was something a little off about the place. I'm not sure if it was the number of tourists (it is just off the main square, after all) or the man at the piano playing the theme song to Forrest Gump (?!), but it wasn't as enjoyable of an experience as I thought it would be.
+
+Oh, and watch out for the bathrooms. They charge for their use for non-customers. I got confused and paid the person, but turns out that wasn't necessary. (There was a sign saying "No charge for guests," but I assumed they meant guests of the hotel.)
+
+Overall: 6.8/10
