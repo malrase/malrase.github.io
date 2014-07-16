@@ -3,7 +3,7 @@ layout: review
 title: "Hemingway Bar, Prague"
 date: 2014-06-20 11:38:18 +0200
 comments: true
-categories: cocktails prague czech-republic the-journey-2014
+categories: review cocktails prague czech-republic the-journey-2014
 ---
 
 <div itemprop="description">
