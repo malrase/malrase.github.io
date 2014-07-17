@@ -7,7 +7,7 @@ categories: review cocktails prague czech-republic the-journey-2014
 ---
 
 <div itemprop="description">
-  <p>We moved to a (slightly) different area of Prague the other day. I was pretty excited because hey, there'll be a whole new bunch of cocktail bars to go to! Looking online, it seemed like <a href="http://www.bugsysbar.cz/"><span itemprop="itemreviewed">Bugsy's Bar</span></a> is one of the nicer cocktail bars in Prague. If you like Hemmingways, Foursquare said, you'd like Bugsy's. Their website is very slick – look how dapper the bartenders are, with their bow-ties and braces! Anyway, we went past a scary bouncer and down into a basement where the only lighting seemed to come from neon-pink spotlights pointed at the ceiling.</p>
+  <p>We moved to a (slightly) different area of Prague the other day. I was pretty excited because hey, there'll be a whole new bunch of cocktail bars to go to! Looking online, it seemed like <a href="http://www.bugsysbar.cz/"><span itemprop="itemreviewed">Bugsy's Bar</span></a> is one of the nicer cocktail bars in Prague. If you like <a href="/blog/2014/06/20/hemingway-bar-prague">Hemmingway</a>, Foursquare said, you'd like Bugsy's. Their website is very slick – look how dapper the bartenders are, with their bow-ties and braces! Anyway, we gave it a shot. We weaved our way through old town street, went past a scary bouncer and down into a basement where the only lighting seemed to come from neon-pink spotlights pointed at the ceiling.</p>
 
   <div class="img">
     <img src="/images/the-journey/prague/cocktails/bugsys-interior.jpg">
