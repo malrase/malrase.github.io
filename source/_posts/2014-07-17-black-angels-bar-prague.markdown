@@ -1,10 +1,9 @@
 ---
 layout: review
 title: "Black Angel's Bar, Prague"
-date: 2014-07-16 11:35:09 +0200
+date: 2014-07-17 10:35:09 +0200
 comments: true
 categories: review cocktails prague czech-republic the-journey-2014
-published: false
 ---
 
 <div itemprop="description">
