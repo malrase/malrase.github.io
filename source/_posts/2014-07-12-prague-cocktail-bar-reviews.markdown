@@ -30,6 +30,10 @@ Anyway, despite that, we really enjoyed this place. The cocktails were delicious
 
 Overall: 7.5/10
 
+**[Hoffa]()**: 
+
+Overall: 7.0/10
+
 **[Black Angel's Bar](http://www.blackangelsbar.cz/)**: [Reviewed here](), overall: 6.8/10.
 
 **[Cloud 9 Bar]()**: [Reviewed here](), overall: 6.3/10.

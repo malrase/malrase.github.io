@@ -27,7 +27,7 @@ categories: absinthe cocktails prague czech-republic the-journey-2014
 
   <p>We then moved onto two "classic" absinthes – one French and one Swiss. They were both heavier on the wormwood, and less on the anise flavour. The French one, made by Pernod, was quite nice. The <a href="http://absinthe-prague.com/products/absinthe-roquette-1797/">Roqeutte 1797</a> was apparently based on a recipe from the original inventor of absinthe. It had a really complex palate, having hints of citrus as well as the other anise/wormwood flavours. It was a little intense for me.</p>
 
-  <p>My two favourites were the unconventional absinthes. Both produced in the Czech Republic, one was based on a honey liquor and one was from an American recipe. The honey one didn't even need sugar added, and it went down really smoothly. It almost tasted like a cocktail. The American-recipe absinthe, <a href="http://absinthe-prague.com/products/absinthe-butterfly/">Butterfly</a> had almost a gin-like flavour.</p>
+  <p>My two favourites were the unconventional absinthes. Both produced in the Czech Republic, one was based on a honey liquor and one was from an American recipe. The honey one didn't even need sugar added, and it went down really smoothly. It almost tasted like a cocktail. The American-recipe absinthe, <a href="http://absinthe-prague.com/products/absinthe-butterfly/">Butterfly</a>, had almost a gin-like flavour. Perhaps I enjoyed it so much because it had flavours more like a liquor I was used to?</p>
 
   <p>The last absinthe was French: <a href="http://absinthe-prague.com/products/la-grenouille-by-zufanek/">La Grenouille</a>. I was glad it was saved to the end, cause it had a very intense flavour.</p>
 

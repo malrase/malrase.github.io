@@ -70,7 +70,7 @@ categories: review prague czech-republic the-journey-2014
 
   <p>The sticky toffee pudding was the favourite, but the cookie/peanut ice-cream came a close second.</p>
 
-  <p>The seven courses and came out at about 1000CZK (~50USD) per person, so pretty pricey for Prague. Plus they did this thing that I've noticed a lot of restaurants do here, which is give you something without you asking, then charge you for it. It's happened with bread and jugs of water a bunch of times. I kind of assume that if something's placed down on the table and I haven't specifically asked for it, it's going to be free. I don't know if this is just a traditional thing or what, but I haven't noticed it elsewhere in Europe really.</p>
+  <p>The seven courses and came out at about 1000Kč (~$50) per person, so pretty pricey for Prague. Plus they did this thing that I've noticed a lot of restaurants do here, which is give you something without you asking, then charge you for it. It's happened with bread and jugs of water a bunch of times. I kind of assume that if something's placed down on the table and I haven't specifically asked for it, it's going to be free. I don't know if this is just a traditional thing or what, but I haven't noticed it elsewhere in Europe really.</p>
 
   <p>All in all, <span itemprop="summary">Sansho is a great place for a special meal, with some inventive twists on Asian cuisine.</span> If you're here for a special occasion and want something a little out of the ordinary, I'd recommend it. Just make sure you're prepared for the bill.</p>
 
