@@ -94,4 +94,6 @@ categories: review cocktails prague czech-republic the-journey-2014
       <meta itemprop="best" content="10"/> / 10
     </span> 
   </p>
+
+  <p><strong>UPDATE</strong>: I went to the bar in the other Hilton and turns out, it was <a href="">way worse</a>.</p>
 </div>

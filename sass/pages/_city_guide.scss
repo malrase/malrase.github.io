@@ -1,0 +1,17 @@
+.city-guide {
+  .info {
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    padding: 20px 0;    
+  }
+  .sharing {
+    > a {
+      color: $nav-bar-color;
+      font-size: 18px;
+      margin: 0 10px;
+      &:hover {
+        color: $anchor;
+      }
+    }
+  }
+}
