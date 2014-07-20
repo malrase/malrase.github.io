@@ -6,20 +6,16 @@ sharing: false
 footer: true
 ---
 
-There are a number of posts for every city, so each guide acts as a collection of these posts as well as broad overall tips on the city. I'll recommend places to eat and drink, too.
+As I've travelled, there have been cities that I've visited a bunch of times, or stayed in for a while. I decided to collate a lot of the information into city guides, as I sometimes write a number of posts for some cities. Each guide acts as a collection of these posts as well as broad overall tips on the city, where I've enjoyed eating, and, most importantly, good drinking spots.
 
 Hopefully this list will grow as I spend more time in various cities.
 
 ### Europe 
 
-- [Paris](city-guides/europe/paris)
-- [Prague](city-guides/europe/prague)
-
-<!-- [London]()
-[Cambridge]()
-
-
-[Berlin]()
+ - [London](city-guides/europe/london)
+ - [Paris](city-guides/europe/paris)
+ - [Prague](city-guides/europe/prague)
 
 ### North America
-[San Francisco]() -->
+
+ - [San Francisco](city-guides/north-america/san-francisco)

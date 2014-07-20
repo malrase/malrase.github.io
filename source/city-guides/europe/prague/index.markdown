@@ -6,20 +6,19 @@ sharing: true
 footer: true
 ---
 
+Prague 
 
+- [Things to Do](#Things-to-Do)
+- [Bars](#Bars)
+- [Restaurants](#Restaurants)
 
-
-### Overall
-
+<a name="Things-to-Do"></a>
 ### Things to Do
 
+<a name="Bars"></a>
 ### Bars
 
-The level of cocktail competency in Prague is far, far higher than most other European cities we've visited. However there are a number of over-hyped bars too.
-
-[Map](https://mapsengine.google.com/map/edit?mid=zSa_dTkSRnX0.k-PlCRk2mXRs).
-
-Some of the places have their own posts, but some are just written here. I've ordered them by my ranking, from highest to lowest, so if you're visiting Prague... start at the top and work your way down.
+The level of cocktail competency in Prague is far, far higher than most other European cities we've visited. However there are a number of over-hyped bars too. I've listed places we've been to by my ranking, from highest to lowest, so if you're visiting Prague... start at the top and work your way down. I also made a [handy map](https://mapsengine.google.com/map/edit?mid=zSa_dTkSRnX0.k-PlCRk2mXRs).
 
 **[Hemingway Bar](http://www.hemingwaybar.cz/bar-prague/)**: [Reviewed here](/blog/2014/06/20/hemingway-bar-prague/), overall: 8.1/10.
 
@@ -59,9 +58,10 @@ Overall: 5.1/10
 
 **[Bugsy's Bar](http://www.bugsysbar.cz/)**: [Reviewed here](/blog/2014/07/17/bugsys-bar-prague), overall: 3.4/10.
 
+<a name="Restaurants"></a>
 ### Restaurants
 
-I've been posting way too much about drinking, so I thought I'd talk about some of the food we've had in Prague. Of course, there's Czech food a-plenty. Much as in Paris you can't walk 100ft without finding a brasserie, in Prague there's a huge number of traditional restaurants.
+Naturally, there's Czech food a-plenty in Prague. Much as in Paris you can't walk 100ft without finding a brasserie, in Prague there's a huge number of traditional restaurants.
 
 Lots of dumplings, cabbage, stewed meats. [picture] There's a surprising amount of rabbit on menus over here. It's nice when "unconventional" meats (I use quotes as it's relative to North American food) are regularly on the menu. I usually eat way too much lamb when I'm in Europe.
 
