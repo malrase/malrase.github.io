@@ -6,7 +6,7 @@ sharing: true
 footer: true
 ---
 
-!! CURRENTLY A WORK IN PROGRESS !!
+[Prague](http://en.wikipedia.org/wiki/Prague), the capital of the Czech Republic, is a beautiful city. Gothic and Renaissance buildings are everywhere, and it's wonderful just to walk around the city.
 
 - [Things to Do](#Things-to-Do)
 - [Bars](#Bars)
@@ -15,8 +15,18 @@ footer: true
 <a name="Things-to-Do"></a>
 ### Things to Do
 
+I've [written](/blog/2014/07/01/prague) about tourist-y things to do (and some to not do). I'd highly recommend doing the [Rick Steves City Walk Tour](https://www.ricksteves.com/watch-read-listen/audio/audio-tours/eastern-europe). You see all the main sights and get some historical info.
+
+I didn't care for [Prague Castle](http://en.wikipedia.org/wiki/Prague_castle) or the other super-touristy stuff we did. What I enjoyed most was looking up concerts or events via [expats.cz](http://www.expats.cz/entertainment/) and going to those. You get a nice dose of culture, and the buildings/areas they're in are usually just as opulent as a tourist trap.
+
+Aside from that, I'd suggest picking a church, synagogue, museum, or whatever, and walk there. Wander through the streets and take in all the architecture. It's extremely rewarding and in the Old Town, difficult to find anywhere that isn't gorgeous.
+
 <a name="Bars"></a>
 ### Bars
+
+Beer is everywhere, and it's extremely cheap. You can easily get a pint for $1.30, and I'm sure even that would be considered expensive in some parts.
+
+There's a fair amount of Czech wine (usually from the [Moravia region](http://en.wikipedia.org/wiki/Moravia)), and places usually have a house white and red. It's pretty good stuff, and I'd recommend drinking some while you're here, as I don't think I've seen it in many other places.
 
 The level of cocktail competency in Prague is far, far higher than most other European cities we've visited. However there are a number of over-hyped bars too. I've listed places we've been to by my ranking, from highest to lowest, so if you're visiting Prague... start at the top and work your way down. I also made a [handy map](https://mapsengine.google.com/map/edit?mid=zSa_dTkSRnX0.k-PlCRk2mXRs).
 
