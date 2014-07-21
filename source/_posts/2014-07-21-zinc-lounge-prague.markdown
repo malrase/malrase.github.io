@@ -1,10 +1,9 @@
 ---
 layout: review
 title: "Zinc Lounge, Prague"
-date: 2014-07-20 12:33:10 +0200
+date: 2014-07-21 11:52:10 +0200
 comments: true
 categories: review cocktails prague czech-republic the-journey-2014
-published: false
 ---
 
 <div itemprop="description">

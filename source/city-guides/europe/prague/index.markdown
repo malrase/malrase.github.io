@@ -6,7 +6,7 @@ sharing: true
 footer: true
 ---
 
-Prague 
+!! CURRENTLY A WORK IN PROGRESS !!
 
 - [Things to Do](#Things-to-Do)
 - [Bars](#Bars)
@@ -54,7 +54,7 @@ Hampton had a manhattan (obviously), and the vermouth was off. That's where thin
 
 Overall: 5.1/10
 
-**[Zinc Lounge (in the Hilton Prague Old Town)](http://www.hiltonpragueoldtown.com/loungebar-en.html)**: [Reviewed here](), overall: 4.6/10
+**[Zinc Lounge (in the Hilton Prague Old Town)](http://www.hiltonpragueoldtown.com/loungebar-en.html)**: [Reviewed here](/blog/2014/07/21/zinc-loung-prague), overall: 4.6/10
 
 **[Bugsy's Bar](http://www.bugsysbar.cz/)**: [Reviewed here](/blog/2014/07/17/bugsys-bar-prague), overall: 3.4/10.
 

@@ -12,10 +12,10 @@ Hopefully this list will grow as I spend more time in various cities.
 
 ### Europe 
 
- - [London](city-guides/europe/london)
- - [Paris](city-guides/europe/paris)
+ - London (coming soon!)
+ - Paris (coming soon!)
  - [Prague](city-guides/europe/prague)
 
 ### North America
 
- - [San Francisco](city-guides/north-america/san-francisco)
+ - San Francisco (coming soon!)
