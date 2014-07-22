@@ -12,61 +12,81 @@ As we entered the backroads of northern Cambridge, we realised we were going to 
 
 
 <div class="img">
-  <img src="/images/midsummer-house/bloody-mary.jpg">
+  <a href="{{ root_url }}/images/midsummer-house/bloody-mary.jpg">
+    <img src="/images/midsummer-house/bloody-mary.jpg">
+  </a>
   <div class="alt">
     Bloody Mary amuse-bouche
   </div>
 </div>
 <div class="img">
-  <img src="/images/midsummer-house/goats-cheese.jpg">
+  <a href="{{ root_url }}/images/midsummer-house/goats-cheese.jpg">
+    <img src="/images/midsummer-house/goats-cheese.jpg">
+  </a>
   <div class="alt">
     Celery, goat's cheese, and horseradish ice-cream.
   </div>
 </div>
 <div class="img">
-  <img src="/images/midsummer-house/scallop.jpg">
+  <a href="{{ root_url }}/images/midsummer-house/scallop.jpg">
+    <img src="/images/midsummer-house/scallop.jpg">
+  </a>
   <div class="alt">
     Sautéed scallop, celeriac and truffle.
   </div>
 </div>
 <div class="img">
-  <img src="/images/midsummer-house/trestle.jpg">
+  <a href="{{ root_url }}/images/midsummer-house/trestle.jpg">
+    <img src="/images/midsummer-house/trestle.jpg">
+  </a>
   <div class="alt">
     Before the third course arrived, we had this placed in front of us...
   </div>
 </div>
 <div class="img">
-  <img src="/images/midsummer-house/sweetbreads.jpg">
+  <a href="{{ root_url }}/images/midsummer-house/sweetbreads.jpg">
+    <img src="/images/midsummer-house/sweetbreads.jpg">
+  </a>
   <div class="alt">
     Turns out, it was to hold this: sweetbreads, pistachio, maple syrup and mouli.
   </div>
 </div>
 <div class="img">
-  <img src="/images/midsummer-house/brill.jpg">
+  <a href="{{ root_url }}/images/midsummer-house/brill.jpg">
+    <img src="/images/midsummer-house/brill.jpg">
+  </a>
   <div class="alt">
     Roast brill, surf clams, cucumber, wasabi, sorrel.
   </div>
 </div>
 <div class="img">
-  <img src="/images/midsummer-house/beef.jpg">
+  <a href="{{ root_url }}/images/midsummer-house/beef.jpg">
+    <img src="/images/midsummer-house/beef.jpg">
+  </a>
   <div class="alt">
     Beef fillet, sautéed tongue, horseradish, turnip and Paris browns.
   </div>
 </div>
 <div class="img">
-  <img src="/images/midsummer-house/pousse-cafe.jpg">
+  <a href="{{ root_url }}/images/midsummer-house/pousse-cafe.jpg">
+    <img src="/images/midsummer-house/pousse-cafe.jpg">
+  </a>
   <div class="alt">
     Pousse-café - maple syrup, egg-yolk, and Jack Daniels and chive foam.
   </div>
 </div>
 <div class="img">
-  <img src="/images/midsummer-house/kumkwats.jpg">
+  <a href="{{ root_url }}/images/midsummer-house/kumkwats.jpg">
+    <img src="/images/midsummer-house/kumkwats.jpg">
+  </a>
   <div class="alt">
     Poached kumquats with lemon and thyme ice-cream.
   </div>
 </div>
 <div class="img">
-  <img src="/images/midsummer-house/chocolate.jpg">
+  <a href="{{ root_url }}/images/midsummer-house/chocolate.jpg">
+    <img src="/images/midsummer-house/chocolate.jpg">
+  </a>
   <div class="alt">
     Chocolate, caramel and chestnuts, chestnut frangipane.
   </div>

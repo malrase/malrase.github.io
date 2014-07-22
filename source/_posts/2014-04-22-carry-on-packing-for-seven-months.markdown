@@ -28,7 +28,7 @@ Getting it into the suitcase was simple by rolling everything up. If you're not 
 </div>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/side-one.JPG">
+  <a href="{{ root_url }}/images/the-journey/side-two.JPG">
     <img src="/images/the-journey/side-two.JPG">
   </a>
   <div class="alt">Second side</div>

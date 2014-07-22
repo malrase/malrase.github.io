@@ -10,19 +10,25 @@ After Jacksonville, we headed on to San Francisco. Hampton's company (Moovweb) i
 
 We flew United 2623 from CLT to SFO. They had WIFI!!!!! Zomg. It's still a novelty for me. I don't have many photos of the CLT-SFO flight, just the food pretty much.
 <div class="img">
-  <img src="/images/plane/ua2623-pasta.jpg">
+  <a href="{{ root_url }}/images/plane/ua2623-pasta.jpg">
+    <img src="/images/plane/ua2623-pasta.jpg">
+  </a>
   <div class="alt">
     Dinner - some OK pasta thing.
   </div>
 </div>
 <div class="img">
-  <img src="/images/plane/ua2623-dessert.jpg">
+  <a href="{{ root_url }}/images/plane/ua2623-dessert.jpg">
+    <img src="/images/plane/ua2623-dessert.jpg">
+  </a>
   <div class="alt">
     Dessert – tortoise cheesecake, or something.
   </div>
 </div>
 <div class="img">
-  <img src="/images/plane/ua2623-wifi.jpg">
+  <a href="{{ root_url }}/images/plane/ua2623-wifi.jpg">
+    <img src="/images/plane/ua2623-wifi.jpg">
+  </a>
   <div class="alt">
     Wi-fi! In the air!
   </div>
@@ -30,19 +36,25 @@ We flew United 2623 from CLT to SFO. They had WIFI!!!!! Zomg. It's still a novel
 
 I'd never been to San Francisco before, so it was a bit of an adventure. We only spent a couple of days doing touristy things, and the rest of the time was mostly Hampton working at Moovweb and me working on the book. Here's some tourist photos.
 <div class="img">
-  <img src="/images/san-francisco/pier-39.jpg">
+  <a href="{{ root_url }}/images/san-francisco/pier-39.jpg">
+    <img src="/images/san-francisco/pier-39.jpg">
+  </a>
   <div class="alt">
     I am such a tourist: at Pier 39
   </div>
 </div>
 <div class="img">
-  <img src="/images/san-francisco/sea-lions.jpg">
+  <a href="{{ root_url }}/images/san-francisco/sea-lions.jpg">
+    <img src="/images/san-francisco/sea-lions.jpg">
+  </a>
   <div class="alt">
     Sea lions!
   </div>
 </div>
 <div class="img">
-  <img src="/images/san-francisco/alcatraz-fog.jpg">
+  <a href="{{ root_url }}/images/san-francisco/alcatraz-fog.jpg">
+    <img src="/images/san-francisco/alcatraz-fog.jpg">
+  </a>
   <div class="alt">
     Gazing over at Alcatraz
   </div>
@@ -51,13 +63,17 @@ I'd never been to San Francisco before, so it was a bit of an adventure. We only
 (We didn't actually go to Alcatraz, even though I reaaaaally wanted to.)
 
 <div class="img">
-  <img src="/images/san-francisco/transam.jpg">
+  <a href="{{ root_url }}/images/san-francisco/transam.jpg">
+    <img src="/images/san-francisco/transam.jpg">
+  </a>
   <div class="alt">
     TransAmerica tower.
   </div>
 </div>
 <div class="img">
-  <img src="/images/san-francisco/hyatt-view.jpg">
+  <a href="{{ root_url }}/images/san-francisco/hyatt-view.jpg">
+    <img src="/images/san-francisco/hyatt-view.jpg">
+  </a>
   <div class="alt">
     The view from the Grand Hyatt.
   </div>

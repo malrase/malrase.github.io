@@ -14,26 +14,34 @@ published: false
   <p>First and foremost: this is a non-smoking bar! Yay! That automatically gets you points in my book. Most bars have smoking and non-smoking areas, but that's not quite the same. Location-wise, it's on a little intersection near the main train station (so great for people-watching), and has big windows. The decor is neat – they have a massive trompe-l'œil mural on one side so it looks like you're in a warehouse.</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/cocktails/hoffa-mural.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/hoffa-mural.jpg">
+      <img src="/images/the-journey/prague/cocktails/hoffa-mural.jpg">
+    </a>
     <div class="alt">Mural in Hoffa</div>
   </div>
 
   <div class="img">
-    <img src="/images/the-journey/prague/cocktails/hoffa-bar.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/hoffa-bar.jpg">
+      <img src="/images/the-journey/prague/cocktails/hoffa-bar.jpg">
+    </a>
     <div class="alt">The bar</div>
   </div>
 
   <p>They have mostly traditional drinks, with some specials on a chalkboard. The drink I had was pretty good, but nothing amazing. I went for a glass of Pimm's as it was ridiculously hot outside.</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/cocktails/hoffa-pimms.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/hoffa-pimms.jpg">
+      <img src="/images/the-journey/prague/cocktails/hoffa-pimms.jpg">
+    </a>
     <div class="alt">Pimm's!</div>
   </div>
 
   <p>They offer decent bar snacks, too. We got some tortilla chips with salsa and sour cream.</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/cocktails/hoffa-tortillas.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/hoffa-tortillas.jpg">
+      <img src="/images/the-journey/prague/cocktails/hoffa-tortillas.jpg">
+    </a>
     <div class="alt">Tortilla chips with salsa and sour cream</div>
   </div>
 
@@ -42,7 +50,9 @@ published: false
   <p>The bathroom doors were pretty neat, too.</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/cocktails/hoffa-bathroom.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/hoffa-mural.jpg">
+      <img src="/images/the-journey/prague/cocktails/hoffa-bathroom.jpg">
+    </a>
     <div class="alt">Bathroom door</div>
   </div>
 

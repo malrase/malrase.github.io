@@ -15,7 +15,9 @@ One of our friends had heard about an absinthe bar nearby. In fact, it was under
 We decided to skip cocktails with absinthe and go straight to the pure stuff. There was a great theatricality to the process. A water cooler (in 19th century French style, of course) was put on the table with four miniature taps.
 
 <div class="img">
-  <img src="/images/london/absinthe.jpg">
+  <a href="{{ root_url }}/images/london/absinthe.jpg">
+    <img src="/images/london/absinthe.jpg">
+  </a>
 </div>
 
 This was filled with ice-cold water. (Sorry the pictures are so dark. It was underground and mainly lit by candles.)

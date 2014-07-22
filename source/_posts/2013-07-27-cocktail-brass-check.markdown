@@ -8,7 +8,9 @@ categories: cocktails bourbon local-edition
 
 
 <div class="img">
-  <img src="/images/cocktails/brass-check.jpg">
+  <a href="{{ root_url }}/images/cocktails/brass-check.jpg">
+    <img src="/images/cocktails/brass-check.jpg">
+  </a>
   <div class="alt">Brass Check</div>
 </div>
 

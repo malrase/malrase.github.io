@@ -9,7 +9,9 @@ categories: cocktails gin ad-hoc napa
 When you eat at a fancy restaurant (or at least a restaurant with a world-renowned chef), you have to get the weirdest thing on the menu. That chef (or restaurant) is famous for a reason - it creates flavour profiles that are going to be pleasing. So why waste your time on something standard?
 
 <div class="img">
-  <img src="/images/cocktails/breakfast-of-champions.jpg">
+  <a href="{{ root_url }}/images/cocktails/breakfast-of-champions.jpg">
+    <img src="/images/cocktails/breakfast-of-champions.jpg">
+  </a>
   <div class="alt">Breakfast of Champions</div>
 </div>
 

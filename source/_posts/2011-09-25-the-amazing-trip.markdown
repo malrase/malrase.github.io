@@ -9,7 +9,9 @@ categories: travel
 So... I really need to start blogging about an amazing trip I've been on. It's been going for about two months now. It started in July, when we moved out of our apartment in Cambridge, England.
 
 <div class="img">
-  <img src="/images/cambridge/boxes.jpg">
+  <a href="{{ root_url }}/images/cambridge/boxes.jpg">
+    <img src="/images/cambridge/boxes.jpg">
+  </a>
   <div class="alt">All our stuff in boxes hours before we left.</div>
 </div>
 
