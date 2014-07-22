@@ -17,14 +17,18 @@ Finally, we went to [Donnau Techno](http://www.donautechno.com/main/). It's behi
 The next morning it was beautiful out, so Sebastian took us on a quick yet thorough walking tour of Vienna. We started in the [Museumsquartier](http://en.wikipedia.org/wiki/Museumsquartier) (or "MQ"), a quadrangle with a number of museums.
 
 <div class="img">
-  <img src="/images/the-journey/aus/mumok.jpg">
+  <a href="{{ root_url }}/images/the-journey/aus/mumok.jpg">
+    <img src="/images/the-journey/aus/mumok.jpg">
+  </a>
   <div class="alt">Modern art museum – "mumok"</div>
 </div>
 
 Unfortunately, we didn't have time to stop in any of them. Next time, I promise. We wandered past the Natural History Museum to the [Hofburg Palace](http://en.wikipedia.org/wiki/Hofburg_Palace), the winter residence of the Hapsburgs and the current residence of the President of Austria.
 
 <div class="img">
-  <img src="/images/the-journey/aus/palace.jpg">
+  <a href="{{ root_url }}/images/the-journey/aus/palace.jpg">
+    <img src="/images/the-journey/aus/palace.jpg">
+  </a>
   <div class="alt">Hofburg Palace</div>
 </div>
 
@@ -33,7 +37,9 @@ We then walked past the [Rathaus](http://en.wikipedia.org/wiki/Rathaus,_Vienna),
 We ended up in [Stephansplatz](http://en.wikipedia.org/wiki/Stephansplatz,_Vienna), containing the impressive [Stephansdom](http://en.wikipedia.org/wiki/Stephansdom). The roof in particular, a mosaic of coloured tiles, was spectacular.
 
 <div class="img">
-  <img src="/images/the-journey/aus/stephansplatz.jpg">
+  <a href="{{ root_url }}/images/the-journey/aus/stephansplatz.jpg">
+    <img src="/images/the-journey/aus/stephansplatz.jpg">
+  </a>
   <div class="alt">Stephansplatz</div>
 </div>
 

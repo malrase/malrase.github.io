@@ -21,12 +21,16 @@ I also made sure to pack some older clothes, too, so I could throw things out if
 Getting it into the suitcase was simple by rolling everything up. If you're not familiar with [the "roll" style of packing](http://www.nytimes.com/slideshow/2010/05/06/business/businessspecial/20100506-pack-ss.html?_r=0), it's excellent and allows you to fit a lot more in a suitcase (and keep things mostly wrinkle-free).
 
 <div class="img">
-  <img src="/images/the-journey/side-one.JPG">
+  <a href="{{ root_url }}/images/the-journey/side-one.JPG">
+    <img src="/images/the-journey/side-one.JPG">
+  </a>
   <div class="alt">First side</div>
 </div>
 
 <div class="img">
-  <img src="/images/the-journey/side-two.JPG">
+  <a href="{{ root_url }}/images/the-journey/side-one.JPG">
+    <img src="/images/the-journey/side-two.JPG">
+  </a>
   <div class="alt">Second side</div>
 </div>
 

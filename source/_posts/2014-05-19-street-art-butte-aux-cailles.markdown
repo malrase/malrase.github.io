@@ -17,19 +17,25 @@ Anyway, the thing that struck me the most about the area was that it seems to ha
 The most famous (as far as I can tell) street art in the area is done by [Sampsa](http://en.wikipedia.org/wiki/Sampsa_(street_artist\)), the "Finnish Banksy."
 
 <div class="img">
-  <img src="/images/the-journey/paris/butte-art/hadopi-2.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/hadopi-2.jpg">
+    <img src="/images/the-journey/paris/butte-art/hadopi-2.jpg">
+  </a>
   <div class="alt">HADOPI gang</div>
 </div>
 
 <div class="img">
-  <img src="/images/the-journey/paris/butte-art/hadopi.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/hadopi.jpg">
+    <img src="/images/the-journey/paris/butte-art/hadopi.jpg">
+  </a>
   <div class="alt">Close-up of a HADOPI enforcer</div>
 </div>
 
 The two pieces by Sampsa were in protest of the [HADOPI law](http://en.wikipedia.org/wiki/HADOPI_law) – a copyright infringement law from around 2009. Amusingly, the first logo for the HADOPI agency used [a typeface without appropriate licensing](http://www.telegraph.co.uk/news/worldnews/europe/france/6974249/Anti-piracy-agencys-logo-broke-copyright.html).
 
 <div class="img">
-  <img src="/images/the-journey/paris/butte-art/blood-sucking.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/blood-sucking.jpg">
+    <img src="/images/the-journey/paris/butte-art/blood-sucking.jpg">
+  </a>
   <div class="alt">The blood sucking HADOPI</div>
 </div>
 
@@ -38,21 +44,27 @@ The mosquito art was [censored for a while](http://motherboard.vice.com/blog/par
 There are a bunch artworks done in mostly muted blues and greys. They're all of children. At first glance, they're kind of peaceful.
 
 <div class="img">
-  <img src="/images/the-journey/paris/butte-art/boat.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/boat.jpg">
+    <img src="/images/the-journey/paris/butte-art/boat.jpg">
+  </a>
   <div class="alt">Boat</div>
 </div>
 
 However when I started to study them there was something unnerving about them. The children never had faces. 
 
 <div class="img">
-  <img src="/images/the-journey/paris/butte-art/boy.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/boy.jpg">
+    <img src="/images/the-journey/paris/butte-art/boy.jpg">
+  </a>
   <div class="alt">Painter boy</div>
 </div>
 
 As well as the lack of faces, the children are usually disappearing. They're walking through a waterfall or curtain into another world. Or they're being partially submerged. They're a little eerie.
 
 <div class="img">
-  <img src="/images/the-journey/paris/butte-art/kneel.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/kneel.jpg">
+    <img src="/images/the-journey/paris/butte-art/kneel.jpg">
+  </a>
   <div class="alt">Kneeling</div>
 </div>
 
@@ -61,24 +73,32 @@ As well as the lack of faces, the children are usually disappearing. They're wal
 I've done my best to translate the captions, but they'll no doubt be a little off. If anyone wants to correct me, please do!
 
 <div class="img">
-  <img src="/images/the-journey/paris/butte-art/miss-tic1.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/miss-tic1.jpg">
+    <img src="/images/the-journey/paris/butte-art/miss-tic1.jpg">
+  </a>
   <div class="alt">"I have men-ancholy" (I think it's a pun on "avoir du vague à l'âme," meaning "to be melancholy")</div>
 </div>
 
 <div class="img">
-  <img src="/images/the-journey/paris/butte-art/miss-tic2.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/miss-tic2.jpg">
+    <img src="/images/the-journey/paris/butte-art/miss-tic2.jpg">
+  </a>
   <div class="alt">"Abuse of pleasure is great for your health"</div>
 </div>
 
 Miss.tic doesn't only do scantily-clad ladies, though.
 
 <div class="img">
-  <img src="/images/the-journey/paris/butte-art/miss-tic3.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/miss-tic3.jpg">
+    <img src="/images/the-journey/paris/butte-art/miss-tic3.jpg">
+  </a>
   <div class="alt">"In our secret gardens, desire is created"</div>
 </div>
 
 <div class="img">
-  <img src="/images/the-journey/paris/butte-art/miss-tic4.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/miss-tic4.jpg">
+    <img src="/images/the-journey/paris/butte-art/miss-tic4.jpg">
+  </a>
   <div class="alt">"Porn is an error of desire"</div>
 </div>
 
@@ -86,12 +106,16 @@ Miss.tic doesn't only do scantily-clad ladies, though.
 There are a couple of sculptures by the Italian street art group [UrbanSolid](http://www.urbansolid.org/).
 
 <div class="img">
-  <img src="/images/the-journey/paris/butte-art/ears.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/ears.jpg">
+    <img src="/images/the-journey/paris/butte-art/ears.jpg">
+  </a>
   <div class="alt">"Listening Area"</div>
 </div>
 
 <div class="img">
-  <img src="/images/the-journey/paris/butte-art/sculpture-prison.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/sculpture-prison.jpg">
+    <img src="/images/the-journey/paris/butte-art/sculpture-prison.jpg">
+  </a>
   <div class="alt">Out of Eden</div>
 </div>
 
@@ -100,12 +124,16 @@ I liked these, although the prisoner is just around a tight corner, and at night
 There are a few pieces by [Jana und JS](http://www.janaundjs.com/). They have a nice style, and do work in a number of European cities. I like their focus on photography/photographers, who appear in a lot of their works.
 
 <div class="img">
-  <img src="/images/the-journey/paris/butte-art/photo.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/photo.jpg">
+    <img src="/images/the-journey/paris/butte-art/photo.jpg">
+  </a>
   <div class="alt">Urban photographer</div>
 </div>
 
 <div class="img">
-  <img src="/images/the-journey/paris/butte-art/window.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/window.jpg">
+    <img src="/images/the-journey/paris/butte-art/window.jpg">
+  </a>
   <div class="alt">Window</div>
 </div>
 
@@ -114,17 +142,23 @@ You may have noticed a small gecko logo next to a lot of the art. I'm not 100% s
 Finally, here's a bunch of other neat stuff I saw that seemed to be one-offs by artists (at least, one-offs for this area).
 
 <div class="img">
-  <img src="/images/the-journey/paris/butte-art/moss-bird.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/moss-bird.jpg">
+    <img src="/images/the-journey/paris/butte-art/moss-bird.jpg">
+  </a>
   <div class="alt">"Natural" street art: bird made of moss</div>
 </div>
 
 <div class="img">
-  <img src="/images/the-journey/paris/butte-art/skeleton.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/skeleton.jpg">
+    <img src="/images/the-journey/paris/butte-art/skeleton.jpg">
+  </a>
   <div class="alt">Looks like something for Day of the Dead (by <a href="http://www.bunnym.com/">Bunny M</a>)</div>
 </div>
 
 <div class="img">
-  <img src="/images/the-journey/paris/butte-art/world.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/world.jpg">
+    <img src="/images/the-journey/paris/butte-art/world.jpg">
+  </a>
   <div class="alt">Pixelated world</div>
 </div>
 

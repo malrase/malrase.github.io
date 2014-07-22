@@ -13,7 +13,9 @@ Our fruitful cocktail hunt in Paris was great. However, we didn't want to push o
 First up: fino. [Fino](http://en.wikipedia.org/wiki/Fino) is a dry sherry served very cold. It's taken as an apéretif, and apparently it's what all the locals drink. I'm a fan of sherry, so I thought I'd try it out.
 
 <div class="img">
-  <img src="/images/the-journey/mijas/fino.jpg">
+  <a href="{{ root_url }}/images/the-journey/mijas/fino.jpg">
+    <img src="/images/the-journey/mijas/fino.jpg">
+  </a>
   <div class="alt">Glass of fino</div>
 </div>
 
@@ -22,7 +24,9 @@ With regular sherry, the sweetness cuts through some of the flavour of the alcoh
 Next up, at [a local tapas bar called Pampa](http://www.tripadvisor.co.uk/Restaurant_Review-g580271-d2413104-Reviews-Pampa_Tablas_y_Tapas-Mijas_Costa_del_Sol_Province_of_Malaga_Andalucia.html), we tried the stereotypical Spanish alcoholic drink: [sangria](http://en.wikipedia.org/wiki/Sangria).
 
 <div class="img">
-  <img src="/images/the-journey/mijas/sangria.jpg">
+  <a href="{{ root_url }}/images/the-journey/mijas/sangria.jpg">
+    <img src="/images/the-journey/mijas/sangria.jpg">
+  </a>
   <div class="alt">Glass and pitcher of sangria</div>
 </div>
 
@@ -33,14 +37,18 @@ On our final night, we went to a "gin bar." It's a slight misnomer: for one, it'
 The bar we were at, [Bodega El Placer](http://www.bodegaelplacer.com/), had about thirty gins on offer. There were five of us and we asked for five different gins, so we could sample them all. Each gin came in a big glass with ice and individually-prepared garnishes.
 
 <div class="img">
-  <img src="/images/the-journey/mijas/just-gin.jpg">
+  <a href="{{ root_url }}/images/the-journey/mijas/just-gin.jpg">
+    <img src="/images/the-journey/mijas/just-gin.jpg">
+  </a>
   <div class="alt">Gin with garnishes</div>
 </div>
 
 The garnishes ranged from juniper berries, cinnamon sticks and cardamom seeds to a simple lemon slice. The gins were all pretty different. Luckily, I liked a deep-flavoured sour gin that no one else enjoyed, so I didn't have to fight to finish that one off. I believe it was [Bulldog gin](http://www.bulldoggin.com/).
 
 <div class="img">
-  <img src="/images/the-journey/mijas/tonic-regular.jpg">
+  <a href="{{ root_url }}/images/the-journey/mijas/tonic-regular.jpg">
+    <img src="/images/the-journey/mijas/tonic-regular.jpg">
+  </a>
   <div class="alt">Gin and tonic</div>
 </div>
 
@@ -49,14 +57,18 @@ Fun fact: in most of Europe, when you want a gin and tonic, you just say "ginton
 They also had a blue tonic, but I'm not really sure what the difference between regular tonic and the blue stuff was. I was a bad scientist and didn't do a same-gin, different-tonic experiment.
 
 <div class="img">
-  <img src="/images/the-journey/mijas/tonic-blue.jpg">
+  <a href="{{ root_url }}/images/the-journey/mijas/tonic-blue.jpg">
+    <img src="/images/the-journey/mijas/tonic-blue.jpg">
+  </a>
   <div class="alt">Blue tonic?!</div>
 </div>
 
 I should also mention the tapas: it was really good. It was more inventive than I was expecting – they had tempura aubergine with a honey sauce, and a melt-in-your-mouth tuna sashimi plate. My favourite, of course, was the jamón. It was one of the better jamón ibérico we had while in Spain.
 
 <div class="img">
-  <img src="/images/the-journey/mijas/jamon.jpg">
+  <a href="{{ root_url }}/images/the-journey/mijas/jamon.jpg">
+    <img src="/images/the-journey/mijas/jamon.jpg">
+  </a>
   <div class="alt">Jamón ibérico</div>
 </div>
 

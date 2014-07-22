@@ -9,14 +9,18 @@ categories: the-journey-2014 philadelphia murals cocktails revolution usa
 After a quick trip to Jacksonville for my father-in-law's birthday, our next stop was Philadelphia. I had only visited Philadelphia by passing through its airport, and I've heard a lot about it as a city, so I was excited to spend a few days there. I was on my best behaviour and only made one joke about [it being sunny](http://en.wikipedia.org/wiki/It's_Always_Sunny_in_Philadelphia).
 
 <div class="img">
-  <img src="/images/the-journey/phl/chesse-steak.jpg">
+  <a href="{{ root_url }}/images/the-journey/phl/chesse-steak.jpg">
+    <img src="/images/the-journey/phl/chesse-steak.jpg">
+  </a>
   <div class="alt">Classic Philly chesse steak</div>
 </div>
 
 Our first night we went to [the Ranstead Room](http://www.yelp.com/biz/the-ranstead-room-philadelphia), at 20th and Ranstead. It's down an alley behind a modest black door.
 
 <div class="img">
-  <img src="/images/the-journey/phl/ranstead.jpg">
+  <a href="{{ root_url }}/images/the-journey/phl/ranstead.jpg">
+    <img src="/images/the-journey/phl/ranstead.jpg">
+  </a>
   <div class="alt">Door to Ranstead Room</div>
 </div>
 
@@ -31,24 +35,32 @@ They serve food from the pared-down menu of their sister restaurant, El Rey. The
 We stopped in [a neat store](http://www.yelp.com/biz/jinxed-tuckers-digs-philadelphia) that seemed to sell a lot of odd items (including lamps made out of what looked like spinal columns). On the way out, I looked down a small alley – [Kater St](https://www.google.com/maps/@39.941169,-75.148958,3a,75y,102.7h,81.52t/data=!3m4!1e1!3m2!1sQadqWDkEoiNfRxrUPPZrGA!2e0) – to see some incredible mosaic-murals.
 
 <div class="img">
-  <img src="/images/the-journey/phl/kater-mural.jpg">
+  <a href="{{ root_url }}/images/the-journey/phl/kater-mural.jpg">
+    <img src="/images/the-journey/phl/kater-mural.jpg">
+  </a>
   <div class="alt">South side of Kater St</div>
 </div>
 
 <div class="img">
-  <img src="/images/the-journey/phl/mural-selfie.jpg">
+  <a href="{{ root_url }}/images/the-journey/phl/mural-selfie.jpg">
+    <img src="/images/the-journey/phl/mural-selfie.jpg">
+  </a>
   <div class="alt">Up close: mosaic selfie! </div>
 </div>
 
 The mosaics are the work of [Isaiah Zagar](http://en.wikipedia.org/wiki/Isaiah_Zagar), who has around 200 mosaics in the South Street area of Philadelphia. They use a lot of mirror pieces and include quotations and the address of the place. They were mesmerising and I felt I could have spent hours sitting in front of them. Apparently there's [a movie about him](http://en.wikipedia.org/wiki/In_a_Dream_(film\)), so I'll have to check that out.
 
 <div class="img">
-  <img src="/images/the-journey/phl/kater-mural2.jpg">
+  <a href="{{ root_url }}/images/the-journey/phl/kater-mural2.jpg">
+    <img src="/images/the-journey/phl/kater-mural2.jpg">
+  </a>
   <div class="alt">North side of Kater St</div>
 </div>
 
 <div class="img">
-  <img src="/images/the-journey/phl/mural-selfie2.jpg">
+  <a href="{{ root_url }}/images/the-journey/phl/mural-selfie2.jpg">
+    <img src="/images/the-journey/phl/mural-selfie2.jpg">
+  </a>
   <div class="alt">Up close</div>
 </div>
 

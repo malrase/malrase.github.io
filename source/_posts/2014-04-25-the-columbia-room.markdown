@@ -19,7 +19,9 @@ categories: cocktails washington-dc the-columbia-room the-journey-2014 usa
   <p>The second drink, the Getaway, had two main ingredients: a black rum and <a href="http://en.wikipedia.org/wiki/Cynar">cynar</a> (<em>chee</em>-nar). </p>
 
   <div class="img">
-    <img src="/images/the-journey/dc/getaway-ingredients.jpg">
+    <a href="{{ root_url }}/images/the-journey/dc/getaway-ingredients.jpg">
+      <img src="/images/the-journey/dc/getaway-ingredients.jpg">
+    </a>
     <div class="alt">Ingredients for the Getaway</div>
   </div>
 
@@ -32,14 +34,18 @@ categories: cocktails washington-dc the-columbia-room the-journey-2014 usa
   <p>As the previous cocktails were so good, we decided to stay for another one each. We asked the bartender for two gin-based drinks – one with citrus and one without.</p>
 
   <div class="img">
-    <img src="/images/the-journey/dc/dry-martini.jpg">
+    <a href="{{ root_url }}/images/the-journey/dc/dry-martini.jpg">
+      <img src="/images/the-journey/dc/dry-martini.jpg">
+    </a>
     <div class="alt">Dry Martini</div>
   </div>
 
   <p>Hampton got a dry martini with Plymouth gin. It was pretty delicious. The bartender recommended Plymouth as a good go-to gin that mixes well with other ingredients.</p>
 
   <div class="img">
-    <img src="/images/the-journey/dc/last-word-ingredients.jpg">
+    <a href="{{ root_url }}/images/the-journey/dc/last-word-ingredients.jpg">
+      <img src="/images/the-journey/dc/last-word-ingredients.jpg">
+    </a>
     <div class="alt">Last Word Ingredients</div>
   </div>
 
@@ -48,7 +54,9 @@ categories: cocktails washington-dc the-columbia-room the-journey-2014 usa
   <p>The Maraschino liqueur was strange. I'm familiar with Luxardo-style maraschino cherries, so was expecting the liqueuer to be a deep purple syrup. However, it looked and tasted more like a simple syrup that had a hint of cherry flavour.</p>
 
   <div class="img">
-    <img src="/images/the-journey/dc/last-word-cocktail.jpg">
+    <a href="{{ root_url }}/images/the-journey/dc/last-word-cocktail.jpg">
+      <img src="/images/the-journey/dc/last-word-cocktail.jpg">
+    </a>
     <div class="alt">Last Word</div>
   </div>
 
