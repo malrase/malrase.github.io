@@ -10,12 +10,8 @@ There are a few cities that I've become familiar with – through frequent trave
 
 Hopefully this list will grow as I spend more time in various cities.
 
-### Europe 
 
  - London (coming soon!)
  - Paris (coming soon!)
  - [Prague](city-guides/europe/prague)
-
-### North America
-
  - San Francisco (coming soon!)
