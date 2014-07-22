@@ -9,7 +9,9 @@ categories: lgbt marriage civil-partnership
 Today is the one-year anniversary of two historic decisions by the Supreme Court. [United States v. Windsor](http://en.wikipedia.org/wiki/United_States_v._Windsor) permitted federal recognition of same-sex marriages, and [Hollingsworth v. Perry](http://en.wikipedia.org/wiki/Hollingsworth_v._Perry) allowed same-sex marriages in California to resume. Here's us on the front page of the New York Times website one year ago today:
 
 <div class="img">
-  <img src="/images/marriage/nytimes.png">
+  <a href="{{ root_url }}/images/marriage/nytimes.png">
+    <img src="/images/marriage/nytimes.png">
+  </a>
   <div class="alt">26th June 2013 – that's us in the top left!</div>
 </div>
 
@@ -30,7 +32,9 @@ Civil partnerships are often the first step a country takes in offering rights t
 In the UK you can only get a civil partnership in a council office ([this is Cambridge's](http://en.wikipedia.org/wiki/Cambridgeshire_County_Council#mediaviewer/File:Shire_Hall,_Cambridge_-_geograph.org.uk_-_84489.jpg)). It's not a pretty building, so we decided to do it with just us and our witnesses (my dad and my brother). It was in tiny office and was over in about five minutes. We read out the legally-required pre-written lines, signed some paper, and we were set.
 
 <div class="img">
-  <img src="/images/marriage/civilpartnership.jpg">
+  <a href="{{ root_url }}/images/marriage/civilpartnership.jpg">
+    <img src="/images/marriage/civilpartnership.jpg">
+  </a>
   <div class="alt">Our Civil Partnership certificate</div>
 </div>
 
@@ -41,14 +45,18 @@ This then became an important date for Hampton's immigration paperwork, so one w
 Soon after our civil partnership ceremony, on 11th November 2009, we had a gathering of our friends and family for a celebration. We went to [Midsummer House](http://www.midsummerhouse.co.uk/), a fancy restaurant in Cambridge. Twelve people attended (including us) – both of our immediate families, and some of our closest friends.
 
 <div class="img">
-  <img src="/images/marriage/uk-couple.jpg">
+  <a href="{{ root_url }}/images/marriage/uk-couple.jpg">
+    <img src="/images/marriage/uk-couple.jpg">
+  </a>
   <div class="alt">I should have got a hair cut</div>
 </div>
 
 We had written some short vows to say to each other. Before the meal we had Hampton's dad do a little ceremony where we read them out in front of our families.
 
 <div class="img">
-  <img src="/images/marriage/uk-vows.jpg">
+  <a href="{{ root_url }}/images/marriage/uk-vows.jpg">
+    <img src="/images/marriage/uk-vows.jpg">
+  </a>
   <div class="alt">Saying our vows</div>
 </div>
 
@@ -81,7 +89,9 @@ We went to see an immigration lawyer. She said it would be fine for the immigrat
 So, we booked an appointment at San Francisco City Hall and on 10th July 2013 we got married. Again.
 
 <div class="img">
-  <img src="/images/marriage/us-cityhall.jpg">
+  <a href="{{ root_url }}/images/marriage/us-cityhall.jpg">
+    <img src="/images/marriage/us-cityhall.jpg">
+  </a>
   <div class="alt">In San Francisco City Hall</div>
 </div>
 
@@ -96,7 +106,9 @@ The legal stuff, though? That's been a headache. Most people are surprised when 
 For us, in our home state, we hope the worst is over. But there are many places – countries and states – where things are still inequal for same-sex couples. Take the bridge below, the [Arlington Memorial Bridge](http://en.wikipedia.org/wiki/Arlington_Memorial_Bridge). We walked along it this winter. It crosses between the District of Columbia and the state of Virginia. We realised that in DC, [we have full rights as a married couple](http://en.wikipedia.org/wiki/Same-sex_marriage_in_the_District_of_Columbia). The state we were walking towards, Virginia, [does not recognise our marriage](http://en.wikipedia.org/wiki/Same-sex_marriage_in_Virginia). In the process of walking across that bridge, we were giving up our rights. If Hampton needed to go to the hospital and we were in Virginia, we would be treated as strangers (this [actually happens](http://www.nytimes.com/2009/05/19/health/19well.html)).
 
 <div class="img">
-  <img src="http://upload.wikimedia.org/wikipedia/commons/2/25/Arlington_Memorial_Bridge_DC_12_2011_00091.JPG">
+  <a href="http://upload.wikimedia.org/wikipedia/commons/2/25/Arlington_Memorial_Bridge_DC_12_2011_00091.JPG">
+    <img src="http://upload.wikimedia.org/wikipedia/commons/2/25/Arlington_Memorial_Bridge_DC_12_2011_00091.JPG">
+  </a>
   <div class="alt">Arlington Memorial Bridge (photo credit: <a href="http://en.wikipedia.org/wiki/Arlington_Memorial_Bridge#mediaviewer/File:Arlington_Memorial_Bridge_DC_12_2011_00091.JPG">Wikipedia</a>)</div>
 </div>
 

@@ -15,7 +15,9 @@ The first seven days we were here, four nights had fireworks displays. There was
 Having said all of that... there are a tonne of tourists in certain areas – and this is where I maybe see why some people say Prague has lost its charm. We are (thankfully) staying about 10 minutes' walk from the [Old Town Square](http://en.wikipedia.org/wiki/Old_Town_Square_(Prague\)). We can easily get there if we want to see the [Astronomical Clock](http://en.wikipedia.org/wiki/Prague_Orloj) chime, but we're not trapped by the tourists.
 
 <div class="img">
-  <img src="/images/the-journey/prague/oldtownsq.jpg">
+  <a href="{{ root_url }}/images/the-journey/prague/oldtownsq.jpg">
+    <img src="/images/the-journey/prague/oldtownsq.jpg">
+  </a>
   <div class="alt">All the tourists, ever</div>
 </div>
 
@@ -28,7 +30,9 @@ Anyway, I've jotted down some thoughts on the tourist-type stuff we've done.
 The first thing we did, and the first thing I'd suggest doing, is a self-guided walking tour. I've been thoroughly impressed with the Rick Steves walking tours we've done in previous cities, and his [Prague city walk tour](https://www.ricksteves.com/watch-read-listen/audio/audio-tours/eastern-europe) was no different. The tour is available as a free podcast and takes about two or three hours. The recording itself is just over one hour, but we stopped in museums and cafés as we went.
 
 <div class="img">
-  <img src="/images/the-journey/prague/ourladyoftyn.jpg">
+  <a href="{{ root_url }}/images/the-journey/prague/ourladyoftyn.jpg">
+    <img src="/images/the-journey/prague/ourladyoftyn.jpg">
+  </a>
   <div class="alt">Listening to Rick in the Old Town Square</div>
 </div>
 
@@ -37,7 +41,9 @@ The tour covers a lot of the history of not just Prague, but the Czech Republic 
 Another pretty common tourist thing to visit is [Prague Castle](http://en.wikipedia.org/wiki/Prague_castle), which you can see from most places in Prague. We decided to foolishly climb up. I would not recommend it – it's a pretty steep climb. Take transit there instead! 
 
 <div class="img">
-  <img src="/images/the-journey/prague/viewfromcastle.jpg">
+  <a href="{{ root_url }}/images/the-journey/prague/viewfromcastle.jpg">
+    <img src="/images/the-journey/prague/viewfromcastle.jpg">
+  </a>
   <div class="alt">Those are the steps we had to climb up</div>
 </div>
 
@@ -46,7 +52,9 @@ The castle itself is apparently one of the largest castle complexes in the world
 There are a couple of ticket options – one has four of the major sights, the other has all ten of them. We went for the four-sight option, which was plenty. The audioguides were all out of battery (?!) when we went on a Monday, so that meant we didn't get quite as much information out of our visit. [St Vitus' Cathedral](http://en.wikipedia.org/wiki/St._Vitus_Cathedral) was the highlight by a long shot. It had some gorgeous art nouveau stained glass windows.
 
 <div class="img">
-  <img src="/images/the-journey/prague/stvitusstainedglass.jpg">
+  <a href="{{ root_url }}/images/the-journey/prague/stvitusstainedglass.jpg">
+    <img src="/images/the-journey/prague/stvitusstainedglass.jpg">
+  </a>
   <div class="alt">Stained glass windows by Alphonse Mucha</div>
 </div>
 
@@ -55,7 +63,9 @@ The other attractions ([St George's Basilica](http://en.wikipedia.org/wiki/St._G
 [Petřín Hill](http://en.wikipedia.org/wiki/Pet%C5%99%C3%ADn) is another imposing feature on the Prague skyline. We took the funicular to the top, which Hampton enjoyed because he loves funiculars. Apart from that, there wasn't much up there. Looking at the hill, it's covered in trees. We didn't quite realise that that meant there'd be no view from the top of the hill. All you can see from up there is forest, pretty much. You could pay 100Kč or so (~$5) to go up a replica of the Eiffel Tower, which I'm sure had better views, but we decided to spend our money instead on an old mirror maze.
 
 <div class="img">
-  <img src="/images/the-journey/prague/houseofmirrors.jpg">
+  <a href="{{ root_url }}/images/the-journey/prague/houseofmirrors.jpg">
+    <img src="/images/the-journey/prague/houseofmirrors.jpg">
+  </a>
   <div class="alt">19th century mirror maze</div>
 </div>
 

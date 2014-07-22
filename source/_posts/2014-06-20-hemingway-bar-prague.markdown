@@ -15,8 +15,10 @@ categories: review cocktails prague czech-republic the-journey-2014
 
   <p>It's on one of the <a href="https://www.google.com/maps/preview?ie=UTF-8&fb=1&cid=2095651347638903815&q=Hemingway+Bar&ei=cQSkU-TBPMrsO6zsgJAH&ved=0CKkBEPwSMA4">narrow winding streets of Old Town</a>, just off the river – so it makes for a nice walk, especially at dusk with the lights of the castle just coming on.</p>
 
-    <div class="img">
-    <img src="/images/the-journey/prague/castle_dusk.jpg">
+  <div class="img">
+    <a href="{{ root_url }}/images/the-journey/prague/castle_dusk.jpg">
+      <img src="/images/the-journey/prague/castle_dusk.jpg">
+    </a>
     <div class="alt">Sunset over the Vltava</div>
   </div>
 
@@ -25,28 +27,36 @@ categories: review cocktails prague czech-republic the-journey-2014
   <p>The best cocktail (and the one Hampton keeps going back to) is the Red Carpet. It's like an old fashioned/whiskey sour/manhattan mix-up. It's delicious and refreshing, especially on a hot day. Oh, and it comes served on a little square of red carpet. Cute.</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/hemingway/redcarpet.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/hemingway/redcarpet.jpg">
+      <img src="/images/the-journey/prague/hemingway/redcarpet.jpg">
+    </a>
     <div class="alt">Red Carpet</div>
   </div>
 
  <p> I had a gin-lillet cocktail that was also pretty refreshing (maybe it was just because it was 32ºC outside?). With a name like "Corpse Reviver," I thought I'd be getting something throat-burning, but it was really smooth.</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/hemingway/corpsereviver2.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/hemingway/corpsereviver2.jpg">
+      <img src="/images/the-journey/prague/hemingway/corpsereviver2.jpg">
+    </a>
     <div class="alt">Corpse Reviver Nº2</div>
   </div>
 
   <p>Next adorable drink: a martinez using Earl Grey-infused gin. It came in a teacup with a biscuit to nibble on. Perfect!</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/hemingway/marteanez.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/hemingway/marteanez.jpg">
+      <img src="/images/the-journey/prague/hemingway/marteanez.jpg">
+    </a>
     <div class="alt">Mar-tea-nez</div>
   </div>
 
   <p>Hampton got the Nick Adams Penicilin, named after <a href="http://en.wikipedia.org/wiki/Nick_Adams_(character)">a character in a number of Hemingway's short stories</a>. It came on a tray with a glass of ice, a small aspirin-shaped sweet, a bottle of lemon/honey/whisky, and an Erlenmeyer flask of 10-year malt whisky. We were instructed to pour the bottle over the ice, then float the 10-year malt over the top. It was fun! Also get the Hemingway's New Fashioned if you're into process-heavy drinks with multiple components.</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/hemingway/nickadamspenicillin.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/hemingway/nickadamspenicillin.jpg">
+      <img src="/images/the-journey/prague/hemingway/nickadamspenicillin.jpg">
+    </a>
     <div class="alt">Nick Adams Penicillin (with everything poured)</div>
   </div>
 
@@ -55,7 +65,9 @@ categories: review cocktails prague czech-republic the-journey-2014
   <p>What's this rant got to do with the bar? Well, as part of Gin Fest, occuring this week in Prague, they had a special cocktail. It was called "The Bronx." I was recommended it by the bartender, so I got it. It came on a graffiti coaster and a pipette filled with a dark liquid. The bartender squirted the liquid on top of the drink and explained with a cheeky grin that it represented blood.</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/hemingway/thebronx.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/hemingway/thebronx.jpg">
+      <img src="/images/the-journey/prague/hemingway/thebronx.jpg">
+    </a>
     <div class="alt">The Bronx</div>
   </div>
 

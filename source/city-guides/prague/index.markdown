@@ -47,6 +47,8 @@ Anyway, despite that, we really enjoyed this place. The cocktails were delicious
 
 Overall: 7.5/10
 
+**[Orange Bar](http://www.orangebar.cz/en/homepage.html)**: [Reviewed here](), overall: 7.1/10
+
 **[Hoffa](http://www.hoffa.cz/)**: [Reviewed here](), overall: 7.0/10
 
 **[Black Angel's Bar](http://www.blackangelsbar.cz/)**: [Reviewed here](/blog/2014/07/17/black-angels-bar-prague), overall: 6.8/10.

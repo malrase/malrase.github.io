@@ -19,7 +19,9 @@ categories: absinthe cocktails prague czech-republic the-journey-2014
   <p>The tasting covered six absinthes – two each from France, Switzerland and the Czech Republic. They all had unique characters and it was a lot of fun comparing notes with what others thought.</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/absinthe.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/absinthe.jpg">
+      <img src="/images/the-journey/prague/absinthe.jpg">
+    </a>
     <div class="alt">The absinthes we tasted</div>
   </div>
 

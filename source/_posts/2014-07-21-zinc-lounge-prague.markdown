@@ -15,21 +15,27 @@ categories: review cocktails prague czech-republic the-journey-2014
   <p>Inside, it's decorated like a dreary hotel lobby. Leather seats and low, round wooden tables. Holey partitions of wood try to separate the actual hotel lobby from the bar. Despite their best efforts, we were still drinking around a bunch of people loudly chatting on Skype (I assume there's free wi-fi in the lobby area) and wheeling their luggage around, waiting for their ride to the airport.</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/cocktails/zinc-bar.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/zinc-bar.jpg">
+      <img src="/images/the-journey/prague/cocktails/zinc-bar.jpg">
+    </a>
     <div class="alt">Zinc Bar</div>
   </div>
 
   <p>The menu consisted almost entirely of classic cocktails. There was nothing inventive or fancy like at Cloud 9. We stuck to our staples and got a gimlet and a manhattan. They were both OK – competently done and similar to what you could find at a lot of bars in Prague.</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/cocktails/zinc-cocktails.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/zinc-cocktails.jpg">
+      <img src="/images/the-journey/prague/cocktails/zinc-cocktails.jpg">
+    </a>
     <div class="alt">Drinks: gimlet and a manhattan</div>
   </div>
 
   <p>The thing is, these cocktails were 220Kč (~$11) each. And there was me going off on how expensive the Cloud 9 cocktails were, at 185Kč (~$9)! Like I said in the beginning, I'M SORRY CLOUD 9. The Cloud 9 cocktails were far more reasonably-priced (I still think they're expensive, though). At least you get something different, innovative. At Zinc you get a standard cocktail that at another bar (say, Groove Bar) would be 100Kč (~$5).</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/cocktails/zinc-interior.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/zinc-interior.jpg">
+      <img src="/images/the-journey/prague/cocktails/zinc-interior.jpg">
+    </a>
     <div class="alt">Hampton looking SUPREMELY DISAPPOINTED</div>
   </div>
 

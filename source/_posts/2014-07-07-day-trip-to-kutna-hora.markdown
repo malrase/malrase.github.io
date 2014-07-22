@@ -17,21 +17,27 @@ Getting to the ossuary was pretty simple – there were some signs pointing in t
 The ossuary was neat. It was a lot smaller than I was expecting – basically one room, with a tonne of bones. It was creepy, but the number of tourists taking photos in there made it feel more like a room in the [Pirates of the Caribbean queue](http://dedicatedtodlp.com/wp-content/uploads/2011/09/potc-queue1.jpg).
 
 <div class="img">
-  <img src="/images/the-journey/kutna-hora/bones.png">
+  <a href="{{ root_url }}/images/the-journey/kutna-hora/bones.png">
+    <img src="/images/the-journey/kutna-hora/bones.png">
+  </a>
   <div class="alt">Bones, skull and crossbones, bone chandelier, bone signature.</div>
 </div>
 
 They hand out laminated sheets with some information on them, so you get a little historical information. However, I'd recommend either loading up Wikipedia or having it on your phone for more detail.
 
 <div class="img">
-  <img src="/images/the-journey/kutna-hora/bone-arms.jpg">
+  <a href="{{ root_url }}/images/the-journey/kutna-hora/bone-arms.jpg">
+    <img src="/images/the-journey/kutna-hora/bone-arms.jpg">
+  </a>
   <div class="alt">Coat of Arms in bones, cause, y'know, why not?</div>
 </div>
 
 After the ossuary, we went to the Church of the Assumption of Our Lady. We were the only people in there. It was a little strange – I've not really been in a Gothic-looking cathedral where all the walls are painted beige/yellow.
 
 <div class="img">
-  <img src="/images/the-journey/kutna-hora/church-of-our-lady.jpg">
+  <a href="{{ root_url }}/images/the-journey/kutna-hora/church-of-our-lady.jpg">
+    <img src="/images/the-journey/kutna-hora/church-of-our-lady.jpg">
+  </a>
   <div class="alt">Church of the Assumption of Our Lady</div>
 </div>
 
@@ -44,40 +50,52 @@ There are a number of winding cobblestone back-streets with beautiful buildings.
 The walk up to the cathedral was beautiful – there's a promenade-type thing with statues along it that reminded us of [Charles Bridge](http://en.wikipedia.org/wiki/Charles_Bridge).
 
 <div class="img">
-  <img src="/images/the-journey/kutna-hora/walk-to-cathedral.jpg">
+  <a href="{{ root_url }}/images/the-journey/kutna-hora/walk-to-cathedral.jpg">
+    <img src="/images/the-journey/kutna-hora/walk-to-cathedral.jpg">
+  </a>
   <div class="alt">Walking towards St Barbara's</div>
 </div>
 
 From the promenade you get a great view looking over Kutná Hora.
 
 <div class="img">
-  <img src="/images/the-journey/kutna-hora/view.jpg">
+  <a href="{{ root_url }}/images/the-journey/kutna-hora/view.jpg">
+    <img src="/images/the-journey/kutna-hora/view.jpg">
+  </a>
   <div class="alt">View over Kutná Hora</div>
 </div>
 
 Inside, St Barbara's was amazing. Much better than the Church of the Assumption of Our Lady.
 
 <div class="img">
-  <img src="/images/the-journey/kutna-hora/st-barbaras.jpg">
+  <a href="{{ root_url }}/images/the-journey/kutna-hora/st-barbaras.jpg">
+    <img src="/images/the-journey/kutna-hora/st-barbaras.jpg">
+  </a>
   <div class="alt">Beautiful gothic interior.</div>
 </div>
 
 There were murals all along the apse and the sides of the nave.
 
 <div class="img">
-  <img src="/images/the-journey/kutna-hora/apse-mural.jpg">
+  <a href="{{ root_url }}/images/the-journey/kutna-hora/apse-mural.jpg">
+    <img src="/images/the-journey/kutna-hora/apse-mural.jpg">
+  </a>
   <div class="alt">Mural in the apse</div>
 </div>
 
 <div class="img">
-  <img src="/images/the-journey/kutna-hora/nave-mural.jpg">
+  <a href="{{ root_url }}/images/the-journey/kutna-hora/nave-mural.jpg">
+    <img src="/images/the-journey/kutna-hora/nave-mural.jpg">
+  </a>
   <div class="alt">14th century mural at the back of the nave</div>
 </div>
 
 There were a few stained glass windows from the 1910s, which were neat. The one which I found interesting was from 2013. I find modern stained glass intriguiging as it's not really a standard modern art form (aside from [Gilbert and George](http://en.wikipedia.org/wiki/Gilbert_%26_George)).
 
 <div class="img">
-  <img src="/images/the-journey/kutna-hora/stained-window.jpg">
+  <a href="{{ root_url }}/images/the-journey/kutna-hora/stained-window.jpg">
+    <img src="/images/the-journey/kutna-hora/stained-window.jpg">
+  </a>
   <div class="alt">Stained glass window from 2013</div>
 </div>
 

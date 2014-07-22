@@ -15,28 +15,36 @@ categories: review cocktails prague czech-republic the-journey-2014
   <p>Once you've found your way in (use the west entrance to the Hilton, and take a sharp right for the lift to the ninth floor), the views are the first thing that strike you. It was early evening as we came in, and the sun slowly setting gave some nice cloud patterns. However, I guess I was expecting more of a grand view of the <em>centre</em> of Prague. Instead, you get a beautiful view of the Allianz building next door.</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/cloud9/view-west.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cloud9/view-west.jpg">
+      <img src="/images/the-journey/prague/cloud9/view-west.jpg">
+    </a>
     <div class="alt">The view west, towards the centre of Prague</div>
   </div>
 
   <p>I suppose I'm being a little harsh – you can just see the top of <a href="http://en.wikipedia.org/wiki/Church_of_Our_Lady_before_T%C3%BDn">Church of Our Lady before Týn</a> on the left. </p>
   
   <div class="img">
-    <img src="/images/the-journey/prague/cloud9/view-tyn.png">
+    <a href="{{ root_url }}/images/the-journey/prague/cloud9/view-tyn.jpg">
+      <img src="/images/the-journey/prague/cloud9/view-tyn.png">
+    </a>
     <div class="alt">I found <span class="strike">Wally</span> the Church!</div>
   </div>
 
   <p>The north and east views are nicer – but more pastoral than the gothic spires I was imagining.</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/cloud9/view-north.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cloud9/view-north.jpg">
+      <img src="/images/the-journey/prague/cloud9/view-north.jpg">
+    </a>
     <div class="alt">The view north</div>
   </div>
 
   <p>The bar itself was decorated like a hotel bar. Clean lines, mirrors everywhere, leather-backed chairs. They had a couple of outside seating areas, but these were filled up with hotel guests.</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/cloud9/bar-interior.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cloud9/bar-interior.jpg">
+      <img src="/images/the-journey/prague/cloud9/bar-interior.jpg">
+    </a>
     <div class="alt">Interior of the bar.</div>
   </div>
 
@@ -45,33 +53,43 @@ categories: review cocktails prague czech-republic the-journey-2014
   <p>The menu was interesting, and had a good mix of classics plus some that had been made up in the bar. Their inventions all had new-agey, etherial names like SUNSHINE and MYSTIC and DESIRE. Their most famous cocktail (according to them, at least) is the CHARISMA.</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/cloud9/charisma.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cloud9/charisma.jpg">
+      <img src="/images/the-journey/prague/cloud9/charisma.jpg">
+    </a>
     <div class="alt">Charisma</div>
   </div>
 
   <p>The Charisma is so famous that it has intricate instructions for drinking.</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/cloud9/charisma-instructions.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cloud9/charisma-instructions.jpg">
+      </a><img src="/images/the-journey/prague/cloud9/charisma-instructions
+      .jpg">
     <div class="alt">Instructions for drinking</div>
   </div>
 
   <p>Despite that, you still look like a wally drinking something with a giant chili pepper sticking out of it.</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/cloud9/charisma-drinking.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cloud9/charisma-drinking.jpg">
+      <img src="/images/the-journey/prague/cloud9/charisma-drinking.jpg">
+    </a>
     <div class="alt">Looking suave</div>
   </div>
 
   <p>My drinks weren't nearly as exciting. They didn't even have instructions on how to drink them. Sad times.</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/cloud9/mystic.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cloud9/mystic.jpg">
+      <img src="/images/the-journey/prague/cloud9/mystic.jpg">
+    </a>
     <div class="alt">Mystic</div>
   </div>
 
   <div class="img">
-    <img src="/images/the-journey/prague/cloud9/desire.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cloud9/desire.jpg">
+      <img src="/images/the-journey/prague/cloud9/desire.jpg">
+    </a>
     <div class="alt">Desire (the thumbs up is for size reference, not endorsement)</div>
   </div>
 
@@ -80,7 +98,9 @@ categories: review cocktails prague czech-republic the-journey-2014
   <p>The bar snacks were delicious. We never really found out what they were, due to the language barrier, but it seemed to be some kind of caramel-coated peanut in a crispy shell dusted in salt and dried tomato (? maybe). We scarfed them down in about five minutes.</p>
 
   <div class="img">
-    <img src="/images/the-journey/prague/cloud9/bar-snack.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cloud9/bar-snack.jpg">
+      <img src="/images/the-journey/prague/cloud9/bar-snack.jpg">
+    </a>
     <div class="alt">Bar snacks</div>
   </div>
 
