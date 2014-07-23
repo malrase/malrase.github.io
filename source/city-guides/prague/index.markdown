@@ -24,7 +24,7 @@ Aside from that, I'd suggest picking a church, synagogue, museum, or whatever, a
 <a name="Bars"></a>
 ### Bars
 
-Beer is everywhere, and it's extremely cheap. You can easily get a pint for $1.30, and I'm sure even that would be considered expensive in some parts.
+Beer is everywhere, and it's extremely cheap. You can easily get a pint for $1.30, and I'm sure even that would be considered expensive in some parts. The [Prague Beer Museum](http://www.praguebeermuseum.com) (note: it's not a museum) is **WHAT**
 
 There's a fair amount of Czech wine (usually from the [Moravia region](http://en.wikipedia.org/wiki/Moravia)), and places usually have a house white and red. It's pretty good stuff, and I'd recommend drinking some while you're here, as I don't think I've seen it in many other places.
 
@@ -47,9 +47,9 @@ Anyway, despite that, we really enjoyed this place. The cocktails were delicious
 
 Overall: 7.5/10
 
-**[Orange Bar](http://www.orangebar.cz/en/homepage.html)**: [Reviewed here](), overall: 7.1/10
+**[Orange Bar](http://www.orangebar.cz/en/homepage.html)**: [Reviewed here](/blog/2014/07/23/orange-bar-prague), overall: 7.1/10
 
-**[Hoffa](http://www.hoffa.cz/)**: [Reviewed here](), overall: 7.0/10
+**[Hoffa](http://www.hoffa.cz/)**: [Reviewed here](/blog/2014/07/23/hoffa-prague), overall: 7.0/10
 
 **[Black Angel's Bar](http://www.blackangelsbar.cz/)**: [Reviewed here](/blog/2014/07/17/black-angels-bar-prague), overall: 6.8/10.
 
@@ -77,7 +77,9 @@ Naturally, there's Czech food a-plenty in Prague. Much as in Paris you can't wal
 
 Lots of dumplings, cabbage, stewed meats. [picture] There's a surprising amount of rabbit on menus over here. It's nice when "unconventional" meats (I use quotes as it's relative to North American food) are regularly on the menu. I usually eat way too much lamb when I'm in Europe.
 
-Our favourite Czech restaurant so far was [Rainer Maria Rilke](http://www.rmrilke.cz/) (which is conveniently just by [Hemingway Bar!](/blog/2014/06/20/hemingway-bar-prague)). Other good places are [U Medvídků](http://www.umedvidku.cz/index.php/en/) or [Restaurace Ostrovní](http://www.restauraceostrovni.cz/en/).
+Our favourite Czech restaurant so far was [La Degustation]().
+
+For something cheaper and more traditional, try out [Rainer Maria Rilke](http://www.rmrilke.cz/) (which is conveniently just by [Hemingway Bar](/blog/2014/06/20/hemingway-bar-prague)). Other good places are [U Medvídků](http://www.umedvidku.cz/index.php/en/) or [Restaurace Ostrovní](http://www.restauraceostrovni.cz/en/).
 
 There's also a number of great non-Czech restaurants, especially French and Italian cuisine. On the French side of things, the best we've eaten has been at [Renommé](http://renomme.cz/). We had a beautiful salmon-dill tartare and foie gras to start. We've been eating so much foie gras on this trip as you can [no longer buy it in California](http://en.wikipedia.org/wiki/California_foie_gras_law). For our main, Hampton got their hamburger (yes, I know that's not French, but whatever) and it was incredible. Layers of bacon, cheese, caramelised onions, truffle mayonnaise. I got the rabbit (duh), mainly for the herb spaetzle. The richness of the rabbit was cut with the herbiness of the spaetzle and it was amazing.
 
@@ -87,14 +89,14 @@ I forgot to take photos, but I've found a couple on the internet. Here's [a pict
 
 **[School]()**:
 
-Italian food is everywhere – especially pizza. There's really good delivery, which is always nice. I've also had some of the best gnocchi while here. [Uno](http://www.unorestaurant.cz/), despite being in a [massive shopping centre](http://en.wikipedia.org/wiki/Palladium_\(Prague)), had some great pasta. At least, the chicken-mushroom gnocchi was.
+Italian food is everywhere – especially pizza. There's really good delivery, which is always nice. I've also had some of the best gnocchi while here. [Uno](http://www.unorestaurant.cz/), despite being in a [massive shopping centre](http://en.wikipedia.org/wiki/Palladium_(Prague\)), had some great pasta. At least, the chicken-mushroom gnocchi was.
 
 There is a large [Vietnamese community](http://en.wikipedia.org/wiki/Vietnamese_people_in_the_Czech_Republic) in the Czech Republic, and I've had some pretty great pho since I've been here. In particular, [Wok & Sushi](https://foursquare.com/v/wok--sushi/53839b8b498ebb8d532928ed) was delicious.
 
 Sansho, [already reviewed](/blog/2014/07/15/sansho-prague).
 
 We tried out a conveyor-belt all-you-can-eat sushi, also in the Palladium:
-[Makakiko](http://www.makakiko.cz/enmain.php). I know, it sounds absurd. And it was. I've only been to a couple of conveyor-belt sushi places before, and those wer in the UK. It seemed
+[Makakiko](http://www.makakiko.cz/enmain.php). I know, it sounds absurd. And it was. I've only been to a couple of conveyor-belt sushi places before, and those were in the UK. It seemed
 
 ### Blog Posts
 

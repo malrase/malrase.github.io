@@ -1,10 +1,9 @@
 ---
 layout: review
 title: "Hoffa, Prague"
-date: 2014-07-23 14:39:20 +0200
+date: 2014-07-23 10:32:20 +0200
 comments: true
 categories: review cocktails prague czech-republic the-journey-2014
-published: false
 ---
 
 <div itemprop="description">
