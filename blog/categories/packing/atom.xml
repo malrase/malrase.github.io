@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Packing | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/packing/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2014-07-25T13:07:39+02:00</updated>
+  <updated>2014-07-25T15:09:19+02:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -34,7 +34,7 @@
 <p>Getting it into the suitcase was simple by rolling everything up. If you&rsquo;re not familiar with <a href="http://www.nytimes.com/slideshow/2010/05/06/business/businessspecial/20100506-pack-ss.html?_r=0">the &ldquo;roll&rdquo; style of packing</a>, it&rsquo;s excellent and allows you to fit a lot more in a suitcase (and keep things mostly wrinkle-free).</p>
 
 <div class="img">
-  <a href="/images/the-journey/side-one.JPG">
+  <a href="{{ root_url }}/images/the-journey/side-one.JPG">
     <img src="http://www.malrase.com/images/the-journey/side-one.JPG">
   </a>
   <div class="alt">First side</div>
@@ -44,7 +44,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/side-two.JPG">
+  <a href="{{ root_url }}/images/the-journey/side-two.JPG">
     <img src="http://www.malrase.com/images/the-journey/side-two.JPG">
   </a>
   <div class="alt">Second side</div>
