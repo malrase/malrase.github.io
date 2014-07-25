@@ -19,7 +19,7 @@ I've [written](/blog/2014/07/01/prague) about tourist-y things to do (and some t
 
 I didn't care for [Prague Castle](http://en.wikipedia.org/wiki/Prague_castle) or the other super-touristy stuff we did. What I enjoyed most was looking up concerts or events via [expats.cz](http://www.expats.cz/entertainment/) and going to those. You get a nice dose of culture, and the buildings/areas they're in are usually just as opulent as a tourist trap.
 
-Aside from that, I'd suggest picking a church, synagogue, museum, or whatever, and walk there. Wander through the streets and take in all the architecture. It's extremely rewarding and in the Old Town, difficult to find anywhere that isn't gorgeous.
+Aside from that, I'd suggest picking a church, synagogue, museum, or whatever, and walk there. Wander through the streets and take in all the architecture. It's extremely rewarding and in the Old Town, difficult to find anywhere that isn't gorgeous. To start, I'd suggest the [synagogues of the Jewish Quarter]().
 
 <a name="Bars"></a>
 ### Bars
@@ -77,17 +77,13 @@ Naturally, there's Czech food a-plenty in Prague. Much as in Paris you can't wal
 
 Lots of dumplings, cabbage, stewed meats. [picture] There's a surprising amount of rabbit on menus over here. It's nice when "unconventional" meats (I use quotes as it's relative to North American food) are regularly on the menu. I usually eat way too much lamb when I'm in Europe.
 
-Our favourite Czech restaurant so far was [La Degustation]().
-
-For something cheaper and more traditional, try out [Rainer Maria Rilke](http://www.rmrilke.cz/) (which is conveniently just by [Hemingway Bar](/blog/2014/06/20/hemingway-bar-prague)). Other good places are [U Medvídků](http://www.umedvidku.cz/index.php/en/) or [Restaurace Ostrovní](http://www.restauraceostrovni.cz/en/).
+Our favourite Czech restaurant so far was [La Degustation](). For something cheaper and more traditional, try out [Rainer Maria Rilke](http://www.rmrilke.cz/) (which is conveniently just by [Hemingway Bar](/blog/2014/06/20/hemingway-bar-prague)). Other good places are [U Medvídků](http://www.umedvidku.cz/index.php/en/) or [Restaurace Ostrovní](http://www.restauraceostrovni.cz/en/).
 
 There's also a number of great non-Czech restaurants, especially French and Italian cuisine. On the French side of things, the best we've eaten has been at [Renommé](http://renomme.cz/). We had a beautiful salmon-dill tartare and foie gras to start. We've been eating so much foie gras on this trip as you can [no longer buy it in California](http://en.wikipedia.org/wiki/California_foie_gras_law). For our main, Hampton got their hamburger (yes, I know that's not French, but whatever) and it was incredible. Layers of bacon, cheese, caramelised onions, truffle mayonnaise. I got the rabbit (duh), mainly for the herb spaetzle. The richness of the rabbit was cut with the herbiness of the spaetzle and it was amazing.
 
 I forgot to take photos, but I've found a couple on the internet. Here's [a picture of their hamburger](http://www.expats.cz/content_files/2765/palanda-2.jpg), and [one of the foie gras](http://www.praguepost.cz/pictures/1-20120125-11823-8100-pic.jpg).
 
-[La Gare](http://www.brasserielagare.cz/):
-
-**[School]()**:
+[La Gare](http://www.brasserielagare.cz/) was another great French brasserie. The side-dishes of snow peas and mashed potatoes were really tasty (but I don't want to think about how much butter was in them.)
 
 Italian food is everywhere – especially pizza. There's really good delivery, which is always nice. I've also had some of the best gnocchi while here. [Uno](http://www.unorestaurant.cz/), despite being in a [massive shopping centre](http://en.wikipedia.org/wiki/Palladium_(Prague\)), had some great pasta. At least, the chicken-mushroom gnocchi was.
 
