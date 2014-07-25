@@ -3,7 +3,7 @@ layout: post
 title: "Touring the Jewish Quarter of Prague"
 date: 2014-07-25 12:58:05 +0200
 comments: true
-categories: prague czech-republic the-journey-2014
+categories: walking-tour prague czech-republic the-journey-2014
 ---
 
 The [Jewish Quarter](http://en.wikipedia.org/wiki/Josefov) (or Josefov) of Prague is in the Old Town, just north of the Old Town Square. We'd been told that the [Pinkas Synagogue](http://www.jewishmuseum.cz/en/apinkas.htm) was a must-see, so we set off on a visit without learning much about it. All I knew was that it's now a memorial to victims of the [Holocaust](http://en.wikipedia.org/wiki/The_Holocaust).
@@ -128,5 +128,5 @@ Fun fact: it doesn't seem to be clear why it's called the Spanish Synagogue. One
 
 Like the Klausen Synagogue, the Spanish Synagogue is a museum as well as a religious building. I was mostly distracted by the detailing on the walls, but I did look at a couple of the display cases in the upper balconies. They were pretty interesting, detailing the history of Josefov across the centuries. If it hadn't been over 30ºC in there, I would have stayed longer.
 
-I'm glad we ended up seeing more of the Jewish Quarter than just the Pinkas Synagogue, but I'm not sure I'd see the Klausen Synagogu and the Ceremonial Hall if I were pushed for time. I definitely found it more rewarding than most of Prague Castle, though.
+I'm glad we ended up seeing more of the Jewish Quarter than just the Pinkas Synagogue, but I'm not sure I'd see the Klausen Synagogu and the Ceremonial Hall if I were pushed for time. I definitely found it more rewarding than most of Prague Castle, though. I made a [map of the route we took](https://www.google.com/maps/dir/Maiselova+38%2F15,+110+00+Praha,+Czech+Republic/Pinkas+Synagogue,+%C5%A0irok%C3%A1+23%2F3,+110+00+Praha,+Czech+Republic/Klausov%C3%A1+synagoga,+U+star%C3%A9ho+h%C5%99bitova+3a,+110+00+Praha-Josefov,+Czech+Republic/The+Old-New+Synagogue,+Maiselova+18,+110+01+Praha+1,+Czech+Republic/50.0900973,14.4211259/@50.090032,14.4178231,18z/data=!4m32!4m31!1m5!1m1!1s0x470b94e8669ff2a5:0xb73abb80fc435169!2m2!1d14.4181715!2d50.089592!1m5!1m1!1s0x470b94e85e9af185:0x294f2ae19539722d!2m2!1d14.416972!2d50.089277!1m5!1m1!1s0x470b94e877e558db:0xdd1a2cc59bf35380!2m2!1d14.417069!2d50.09002!1m10!1m1!1s0x470b94e868e5c8c9:0x94be0e2fdb884bfa!2m2!1d14.418567!2d50.090051!3m4!1m2!1d14.4190562!2d50.0899754!3s0x470b94e844b3b4d3:0x32c184f0e15a1660!1m0!3e2) – but note that the bit from the Pinkas to Klausen is through the cemetery rather than around Maiselova.
 

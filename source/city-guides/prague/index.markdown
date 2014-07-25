@@ -8,9 +8,17 @@ footer: true
 
 [Prague](http://en.wikipedia.org/wiki/Prague), the capital of the Czech Republic, is a beautiful city. Gothic and Renaissance buildings are everywhere, and it's wonderful just to walk around the city.
 
+- [Where to Stay](#Where-to-Stay)
 - [Things to Do](#Things-to-Do)
 - [Bars](#Bars)
 - [Restaurants](#Restaurants)
+
+<a name="Where-to-Stay"></a>
+### Where to Stay
+
+Firstly, I'd recommend *not* staying in the centre of town. Unless you've stayed in Times Square and enjoyed it. The Old Town Square and its surrounding area are just way too touristy to enjoy.
+
+Try to keep south of the Old Town Square and east of Náměstí Republiky. We haven't really explored the west bank of the river, but it seems to be pretty nice. The town is so walkable it doesn't matter if you're a little outside the centre.
 
 <a name="Things-to-Do"></a>
 ### Things to Do
@@ -19,12 +27,12 @@ I've [written](/blog/2014/07/01/prague) about tourist-y things to do (and some t
 
 I didn't care for [Prague Castle](http://en.wikipedia.org/wiki/Prague_castle) or the other super-touristy stuff we did. What I enjoyed most was looking up concerts or events via [expats.cz](http://www.expats.cz/entertainment/) and going to those. You get a nice dose of culture, and the buildings/areas they're in are usually just as opulent as a tourist trap.
 
-Aside from that, I'd suggest picking a church, synagogue, museum, or whatever, and walk there. Wander through the streets and take in all the architecture. It's extremely rewarding and in the Old Town, difficult to find anywhere that isn't gorgeous. To start, I'd suggest the [synagogues of the Jewish Quarter]().
+Aside from that, I'd suggest picking a church, synagogue, museum, or whatever, and walk there. Wander through the streets and take in all the architecture. It's extremely rewarding and in the Old Town, difficult to find anywhere that isn't gorgeous. To start, I'd suggest the [synagogues of the Jewish Quarter](/blog/2014/07/25/jewish-quarter-prague).
 
 <a name="Bars"></a>
 ### Bars
 
-Beer is everywhere, and it's extremely cheap. You can easily get a pint for $1.30, and I'm sure even that would be considered expensive in some parts. The [Prague Beer Museum](http://www.praguebeermuseum.com) (note: it's not a museum) is **WHAT**
+Beer is everywhere, and it's extremely cheap. You can easily get a pint for $1.30, and I'm sure even that would be considered expensive in some parts. I haven't particularly been looking to try new beers (the [Taste Local Beer tour](http://tastelocalbeer.com) would have been good for that), but most places seem to serve lagers (Pilsner Urquel is pretty popular). However, I did stumble upon the [Prague Beer Museum](http://www.praguebeermuseum.com) (note: it's not a museum) which had [thirty beers on tap](http://www.praguebeermuseum.com/en/beers-on-tap) and a make-your-own sampler of either five or ten beers. They had a wide range, and two great IPAs: one made for Prague Beer Museum itself, and [Matuška Brewery's](http://www.beeradvocate.com/beer/profile/23493/) Raptor IPA.
 
 There's a fair amount of Czech wine (usually from the [Moravia region](http://en.wikipedia.org/wiki/Moravia)), and places usually have a house white and red. It's pretty good stuff, and I'd recommend drinking some while you're here, as I don't think I've seen it in many other places.
 
