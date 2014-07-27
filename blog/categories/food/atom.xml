@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Food | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/food/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2014-07-25T15:09:19+02:00</updated>
+  <updated>2014-07-27T11:35:15+02:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -12,6 +12,69 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[La Degustation]]></title>
+    <link href="http://www.malrase.com/blog/2014/07/27/la-degustation/"/>
+    <updated>2014-07-27T11:30:00+02:00</updated>
+    <id>http://www.malrase.com/blog/2014/07/27/la-degustation</id>
+    <content type="html"><![CDATA[<div itemprop="description">
+
+  <p><a href="http://www.ladegustation.cz/en/#index"><span itemprop="itemreviewed">La Degustation</span></a>, one of two restaurants in Prague to have <a href="http://www.viamichelin.com/web/Restaurants/Restaurants-Prague-_-Praha_hlavni_mesto-Czech_Republic?strLocid=31MzhkeDEwY05UQXVNRGczT0RFPWNNVFF1TkRJd05EWT0=">a Michelin star</a>, was our special treat as our time in Prague is coming to an end. Its slogan is "bohême bourgeoise," which I found amusing.</p>
+
+  <p>Inside, I don't know if anything can be gothic minimalist, but I think that's an accurate description. Arches ribbed the ceiling, and artfully-placed dim spotlights created wonderful shadows. The walls were bare and painted a light grey, and the furniture was all low-backed and dark wood. The windows onto the street had the restaurant's signature checkered pattern.</p>
+
+  <p>As we sat down, the waiter came over and gave us an envelope.</p>
+
+  <div class="img">
+    <a href="/images/the-journey/prague/degustation/envelope.jpg">
+      <img src="http://www.malrase.com/images/the-journey/prague/degustation/envelope.jpg">
+    </a>
+    <div class="alt">We were handed an envelope</div>
+  </div>
+
+  <div class="img">
+    <a href="/images/the-journey/prague/degustation/back-envelope.jpg">
+      <img src="http://www.malrase.com/images/the-journey/prague/degustation/back-envelope.jpg">
+    </a>
+    <div class="alt">The back of the envelope</div>
+  </div>
+
+  <div class="img">
+    <a href="/images/the-journey/prague/degustation/contents.jpg">
+      <img src="http://www.malrase.com/images/the-journey/prague/degustation/contents.jpg">
+    </a>
+    <div class="alt">Open it to find the checkered pattern</div>
+  </div>
+
+  <div class="img">
+    <a href="/images/the-journey/prague/degustation/menu.jpg">
+      <img src="http://www.malrase.com/images/the-journey/prague/degustation/menu.jpg">
+    </a>
+    <div class="alt">Two menu options</div>
+  </div>
+
+  <p>We went for the eleven-course menu, with wine pairings. It was definitely a lot of food, and I wish I hadn't eaten so much of the delicious bread they brought. The menu focussed on Czech ingredients and dishes, but with modern, vaguely molecular-gastronomic twists. Apparently a lot of the inspiration for their dishes comes from a late-19th century Czech cookbook.</p>
+
+  <p>I didn't take pictures and I won't bore you with a course-by-course detailing of everything. A couple of stand-out dishes, though: dijon mustard ice-cream with hot tomato sauce. The sauce was the perfect distillation of tomato flavour. Add that to the mustard (which wasn't too spicy), plus the mixing of the hot sauce with the cold ice-cream and you get an incredible dish that's not quite like anything I've had before.</p>
+
+  <p>There was a foie gras course where the liver had been finely grated over wine jelly and pistachio. I'd never eaten foie gras grated before, and it really helped take away the heaviness you sometimes get. Then there was the beef tongue "signature dish." </p>
+
+  <p>I really enjoyed the wine pairings. They used mostly Czech wines, and it was nice to see the variety in types they produce here. There was also a great unfiltered Slovenian wine called <a href="http://www.scurek.com/www/index.php/en/wines/white-wines">Kontra</a>. The cheese course came with a delicious IPA from the <a href="http://www.beeradvocate.com/beer/profile/23493/">Matuška Brewery</a>.</p>
+
+  <p><span itemprop="summary">If you're willing to splash out, this place is definitely worth it. It's a modern take on Czech flavours and ingredients, and the courses are presented beautifully.</span></p>
+
+  <p class="score">
+    <span itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating">
+      <span itemprop="value">9.3</span> 
+      <meta itemprop="best" content="10"/> / 10
+    </span> 
+  </p>
+
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Midsummer House: 22nd December 2012]]></title>
@@ -23,7 +86,7 @@
 <p>As we entered the backroads of northern Cambridge, we realised we were going to <a href="http://www.midsummerhouse.co.uk/">Midsummer House</a>, the 2-Michelin-starred restaurant where we got married just over three years ago. Needless to say, we were both incredibly excited. We had the tasting menu with wine pairings, and it was incredible. I think it supersedes other meals I&rsquo;ve had there to be the best meal of my life. I took some pictures, so here you go:</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/midsummer-house/bloody-mary.jpg">
+  <a href="/images/midsummer-house/bloody-mary.jpg">
     <img src="http://www.malrase.com/images/midsummer-house/bloody-mary.jpg">
   </a>
   <div class="alt">
@@ -33,7 +96,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/midsummer-house/goats-cheese.jpg">
+  <a href="/images/midsummer-house/goats-cheese.jpg">
     <img src="http://www.malrase.com/images/midsummer-house/goats-cheese.jpg">
   </a>
   <div class="alt">
@@ -43,7 +106,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/midsummer-house/scallop.jpg">
+  <a href="/images/midsummer-house/scallop.jpg">
     <img src="http://www.malrase.com/images/midsummer-house/scallop.jpg">
   </a>
   <div class="alt">
@@ -53,7 +116,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/midsummer-house/trestle.jpg">
+  <a href="/images/midsummer-house/trestle.jpg">
     <img src="http://www.malrase.com/images/midsummer-house/trestle.jpg">
   </a>
   <div class="alt">
@@ -63,7 +126,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/midsummer-house/sweetbreads.jpg">
+  <a href="/images/midsummer-house/sweetbreads.jpg">
     <img src="http://www.malrase.com/images/midsummer-house/sweetbreads.jpg">
   </a>
   <div class="alt">
@@ -73,7 +136,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/midsummer-house/brill.jpg">
+  <a href="/images/midsummer-house/brill.jpg">
     <img src="http://www.malrase.com/images/midsummer-house/brill.jpg">
   </a>
   <div class="alt">
@@ -83,7 +146,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/midsummer-house/beef.jpg">
+  <a href="/images/midsummer-house/beef.jpg">
     <img src="http://www.malrase.com/images/midsummer-house/beef.jpg">
   </a>
   <div class="alt">
@@ -93,7 +156,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/midsummer-house/pousse-cafe.jpg">
+  <a href="/images/midsummer-house/pousse-cafe.jpg">
     <img src="http://www.malrase.com/images/midsummer-house/pousse-cafe.jpg">
   </a>
   <div class="alt">
@@ -103,7 +166,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/midsummer-house/kumkwats.jpg">
+  <a href="/images/midsummer-house/kumkwats.jpg">
     <img src="http://www.malrase.com/images/midsummer-house/kumkwats.jpg">
   </a>
   <div class="alt">
@@ -113,7 +176,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/midsummer-house/chocolate.jpg">
+  <a href="/images/midsummer-house/chocolate.jpg">
     <img src="http://www.malrase.com/images/midsummer-house/chocolate.jpg">
   </a>
   <div class="alt">
@@ -138,7 +201,7 @@
 <p>We ate at a neat burger place on Union Sq &ndash; the aptly-named <a href="http://www.burger-bar.com/">Burger Bar</a>.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/burger-bar-view.jpg">
+  <a href="/images/san-francisco/burger-bar-view.jpg">
     <img src="http://www.malrase.com/images/san-francisco/burger-bar-view.jpg">
   </a>
   <div class="alt">View from Burger Bar.</div>
@@ -148,7 +211,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/burger-bar.jpg">
+  <a href="/images/san-francisco/burger-bar.jpg">
     <img src="http://www.malrase.com/images/san-francisco/burger-bar.jpg">
   </a>
   <div class="alt">The burger I had. I think it was buffalo?</div>
@@ -160,7 +223,7 @@
 <p>We went to an awesome beach &ndash; China Beach. It was really quiet and had insane views of the Golden Gate and its bridge.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/china-beach.jpg">
+  <a href="/images/san-francisco/china-beach.jpg">
     <img src="http://www.malrase.com/images/san-francisco/china-beach.jpg">
   </a>
 </div>
@@ -182,7 +245,7 @@
 <p>The first night, we ate at <a href="http://www.brasseriegeorges.com/">Brasserie Georges</a>. It&rsquo;s apparently pretty famous (it has a <a href="http://en.wikipedia.org/wiki/Brasserie_Georges">Wikipedia article</a> &ndash; a sure sign of prominence). They served some traditional Lyon food &ndash; including a pistachio sausage thing, which was pretty nice. Also on the list of traditional Lyon foods were a mustard sausage and calf&rsquo;s head. I think I made the right choice with a pistachio sausage.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/lyon/georges.jpg">
+  <a href="/images/lyon/georges.jpg">
     <img src="http://www.malrase.com/images/lyon/georges.jpg">
   </a>
   <div class="alt">
@@ -194,7 +257,7 @@
 <p>The second evening, we went to a place called <a href="http://maps.google.com/maps/place?hl=en&amp;safe=off&amp;bav=on.2,or.r_gc.r_pw.&amp;biw=1256&amp;bih=738&amp;um=1&amp;ie=UTF-8&amp;q=Les+enfants+terribles+lyon&amp;fb=1&amp;hq=Les+enfants+terribles&amp;hnear=0x47f4ea516ae88797:0x408ab2ae4bb21f0,Lyon,+France&amp;cid=9879979365541420669">Les Enfants Terribles</a>&hellip; it was OK. Nothing too special. The duck salad I had to start had too much mustard dressing on it. The main was beef, coupled with some deeeeelicious dauphinoise potatoes. I think they must have used chicken stock or something. The dessert was pretty good&hellip; but that&rsquo;s not much of a surprise as I love all tartes au citron. The filling had a strange granular texture &ndash; I think they might have added ground almonds or something.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/lyon/duck-salad.jpg">
+  <a href="/images/lyon/duck-salad.jpg">
     <img src="http://www.malrase.com/images/lyon/duck-salad.jpg">
   </a>
   <div class="alt">
@@ -204,7 +267,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/lyon/beef.jpg">
+  <a href="/images/lyon/beef.jpg">
     <img src="http://www.malrase.com/images/lyon/beef.jpg">
   </a>
   <div class="alt">
@@ -214,7 +277,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/lyon/tarte-citron.jpg">
+  <a href="/images/lyon/tarte-citron.jpg">
     <img src="http://www.malrase.com/images/lyon/tarte-citron.jpg">
   </a>
   <div class="alt">
@@ -228,7 +291,7 @@
 <p>On our final night, we ended up at <a href="http://www.hippopotamus.fr/">Hippopotamus</a>. I&rsquo;ve seen a few in Paris. They&rsquo;re some kind of chain that serves vaguely French food &ndash; steaks, etc. It was, as we kinda expected, mediocre. I had an assortment of fried goods. It was very American.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/lyon/hippo.jpg">
+  <a href="/images/lyon/hippo.jpg">
     <img src="http://www.malrase.com/images/lyon/hippo.jpg">
   </a>
   <div class="alt">
@@ -240,7 +303,7 @@
 <p>One of the better meals I had was (strangely?) at the airport. It was the airport branch of the 2-Michelin-starred <a href="http://www.nicolaslebec.com/">Nicolas Le Bec</a>, which is in the centre of Lyon. It&rsquo;s called <a href="http://www.espace-lebec.com/">Espace Le Bec</a>. We both had a really delicious penne with bolognese. It had the most amazing cheese sliced over it, too. SO GOOD.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/lyon/lys-pasta.jpg">
+  <a href="/images/lyon/lys-pasta.jpg">
     <img src="http://www.malrase.com/images/lyon/lys-pasta.jpg">
   </a>
   <div class="alt">
@@ -261,7 +324,7 @@
     <content type="html"><![CDATA[<p>After our trip to Zürich, we went to Paris by train. As with most rail travel in Europe, it was a great way to move between cities. There was a lot of kerfuffle with the hotels when we arrived &ndash; but we ended up in the beautiful <a href="http://www.closmedicis.com/">Hotel de Clos Medicis</a>. We were in the attic, which had amazing exposed beams and an upstairs bathroom.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/paris/medicis.jpg">
+  <a href="/images/paris/medicis.jpg">
     <img src="http://www.malrase.com/images/paris/medicis.jpg">
   </a>
   <div class="alt">Our room (in the attic) in the hotel.</div>
@@ -273,7 +336,7 @@
 <p>Anyway, this time we tried to do the same thing. We ate a lot of good food. My favourite restaurant was <a href="http://www.tripadvisor.com/Restaurant_Review-g187147-d715085-Reviews-Fish_la_Boissonnerie-Paris_Ile_de_France.html">Fish Le Boissonnerie</a>. Some pictures follow.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/paris/boissonnerie.jpg">
+  <a href="/images/paris/boissonnerie.jpg">
     <img src="http://www.malrase.com/images/paris/boissonnerie.jpg">
   </a>
   <div class="alt">The outside of Le Boissonnerie</div>
@@ -283,7 +346,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/paris/bois-starter.jpg">
+  <a href="/images/paris/bois-starter.jpg">
     <img src="http://www.malrase.com/images/paris/bois-starter.jpg">
   </a>
   <div class="alt">The starter: smoked eel and marinated carrots.</div>
@@ -293,7 +356,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/paris/bois-main.jpg">
+  <a href="/images/paris/bois-main.jpg">
     <img src="http://www.malrase.com/images/paris/bois-main.jpg">
   </a>
   <div class="alt">The main: veal, pea risotto, chorizo puree and a parmesan crisp.</div>
@@ -303,7 +366,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/paris/bois-dessert.jpg">
+  <a href="/images/paris/bois-dessert.jpg">
     <img src="http://www.malrase.com/images/paris/bois-dessert.jpg">
   </a>
   <div class="alt">The dessert: crème brûlée.</div>
@@ -315,7 +378,7 @@
 <p>So, other random things we did in Paris. We went on a boat tour along the Seine, which was nice. But it was super hot (a lot warmer than Zürich, that&rsquo;s for sure).</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/paris/pont-neuf.jpg">
+  <a href="/images/paris/pont-neuf.jpg">
     <img src="http://www.malrase.com/images/paris/pont-neuf.jpg">
   </a>
   <div class="alt">Pont Neuf from the boat tour we did along the Seine.</div>
@@ -325,7 +388,7 @@
 <p>We visited the <a href="http://equipement.paris.fr/marche-aux-fleurs-et-aux-oiseaux-cite-4506">marché des oiseaux</a> on Sunday. Every Sunday, the flower market on the Île de la Cité also has a bunch of guys selling birds. It was bizarre, and unsettling how many birds they can fit into those tiny cages.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/paris/finches.jpg">
+  <a href="/images/paris/finches.jpg">
     <img src="http://www.malrase.com/images/paris/finches.jpg">
   </a>
   <div class="alt">So many birds in such a small cage.</div>
@@ -339,7 +402,7 @@
 <p>As the Royal Wedding is coming up, every French magazine seemed to have a cover story about the couple. This one really weirded me out:</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/paris/so-british.jpg">
+  <a href="/images/paris/so-british.jpg">
     <img src="http://www.malrase.com/images/paris/so-british.jpg">
   </a>
 </div>

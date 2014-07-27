@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Prague | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/prague/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2014-07-25T15:09:19+02:00</updated>
+  <updated>2014-07-27T11:35:15+02:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -14,6 +14,69 @@
 
   
   <entry>
+    <title type="html"><![CDATA[La Degustation]]></title>
+    <link href="http://www.malrase.com/blog/2014/07/27/la-degustation/"/>
+    <updated>2014-07-27T11:30:00+02:00</updated>
+    <id>http://www.malrase.com/blog/2014/07/27/la-degustation</id>
+    <content type="html"><![CDATA[<div itemprop="description">
+
+  <p><a href="http://www.ladegustation.cz/en/#index"><span itemprop="itemreviewed">La Degustation</span></a>, one of two restaurants in Prague to have <a href="http://www.viamichelin.com/web/Restaurants/Restaurants-Prague-_-Praha_hlavni_mesto-Czech_Republic?strLocid=31MzhkeDEwY05UQXVNRGczT0RFPWNNVFF1TkRJd05EWT0=">a Michelin star</a>, was our special treat as our time in Prague is coming to an end. Its slogan is "bohême bourgeoise," which I found amusing.</p>
+
+  <p>Inside, I don't know if anything can be gothic minimalist, but I think that's an accurate description. Arches ribbed the ceiling, and artfully-placed dim spotlights created wonderful shadows. The walls were bare and painted a light grey, and the furniture was all low-backed and dark wood. The windows onto the street had the restaurant's signature checkered pattern.</p>
+
+  <p>As we sat down, the waiter came over and gave us an envelope.</p>
+
+  <div class="img">
+    <a href="/images/the-journey/prague/degustation/envelope.jpg">
+      <img src="http://www.malrase.com/images/the-journey/prague/degustation/envelope.jpg">
+    </a>
+    <div class="alt">We were handed an envelope</div>
+  </div>
+
+  <div class="img">
+    <a href="/images/the-journey/prague/degustation/back-envelope.jpg">
+      <img src="http://www.malrase.com/images/the-journey/prague/degustation/back-envelope.jpg">
+    </a>
+    <div class="alt">The back of the envelope</div>
+  </div>
+
+  <div class="img">
+    <a href="/images/the-journey/prague/degustation/contents.jpg">
+      <img src="http://www.malrase.com/images/the-journey/prague/degustation/contents.jpg">
+    </a>
+    <div class="alt">Open it to find the checkered pattern</div>
+  </div>
+
+  <div class="img">
+    <a href="/images/the-journey/prague/degustation/menu.jpg">
+      <img src="http://www.malrase.com/images/the-journey/prague/degustation/menu.jpg">
+    </a>
+    <div class="alt">Two menu options</div>
+  </div>
+
+  <p>We went for the eleven-course menu, with wine pairings. It was definitely a lot of food, and I wish I hadn't eaten so much of the delicious bread they brought. The menu focussed on Czech ingredients and dishes, but with modern, vaguely molecular-gastronomic twists. Apparently a lot of the inspiration for their dishes comes from a late-19th century Czech cookbook.</p>
+
+  <p>I didn't take pictures and I won't bore you with a course-by-course detailing of everything. A couple of stand-out dishes, though: dijon mustard ice-cream with hot tomato sauce. The sauce was the perfect distillation of tomato flavour. Add that to the mustard (which wasn't too spicy), plus the mixing of the hot sauce with the cold ice-cream and you get an incredible dish that's not quite like anything I've had before.</p>
+
+  <p>There was a foie gras course where the liver had been finely grated over wine jelly and pistachio. I'd never eaten foie gras grated before, and it really helped take away the heaviness you sometimes get. Then there was the beef tongue "signature dish." </p>
+
+  <p>I really enjoyed the wine pairings. They used mostly Czech wines, and it was nice to see the variety in types they produce here. There was also a great unfiltered Slovenian wine called <a href="http://www.scurek.com/www/index.php/en/wines/white-wines">Kontra</a>. The cheese course came with a delicious IPA from the <a href="http://www.beeradvocate.com/beer/profile/23493/">Matuška Brewery</a>.</p>
+
+  <p><span itemprop="summary">If you're willing to splash out, this place is definitely worth it. It's a modern take on Czech flavours and ingredients, and the courses are presented beautifully.</span></p>
+
+  <p class="score">
+    <span itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating">
+      <span itemprop="value">9.3</span> 
+      <meta itemprop="best" content="10"/> / 10
+    </span> 
+  </p>
+
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Touring the Jewish Quarter of Prague]]></title>
     <link href="http://www.malrase.com/blog/2014/07/25/jewish-quarter-prague/"/>
     <updated>2014-07-25T12:58:05+02:00</updated>
@@ -21,7 +84,7 @@
     <content type="html"><![CDATA[<p>The <a href="http://en.wikipedia.org/wiki/Josefov">Jewish Quarter</a> (or Josefov) of Prague is in the Old Town, just north of the Old Town Square. We&rsquo;d been told that the <a href="http://www.jewishmuseum.cz/en/apinkas.htm">Pinkas Synagogue</a> was a must-see, so we set off on a visit without learning much about it. All I knew was that it&rsquo;s now a memorial to victims of the <a href="http://en.wikipedia.org/wiki/The_Holocaust">Holocaust</a>.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/prague/josefov/pinkas.jpg">
+  <a href="/images/the-journey/prague/josefov/pinkas.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/pinkas.jpg">
   </a>
   <div class="alt">Pinkas Synagogue from the outside</div>
@@ -31,17 +94,17 @@
 <p>We arrived at lunchtime and the queue was really long and slow-moving. Not good.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/prague/josefov/pinkas-queue.jpg">
+  <a href="/images/the-journey/prague/josefov/pinkas-queue.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/pinkas-queue.jpg">
   </a>
-  <div class="alt">Much queue wow</div>
+  <div class="alt">Long queue waiting for tickets</div>
 </div>
 
 
 <p>However! We found an EXPERT WORK-AROUND for buying tickets without having to wait in line. Head slightly east on the same road and take the first left. You&rsquo;ll find <a href="https://www.google.com/maps/place/Maiselova+38%2F15,+110+00+Praha-Praha+1,+Czech+Republic/@50.089592,14.4181715,17z/data=!3m1!4b1!4m2!3m1!1s0x470b94e8669ff2a5:0xb73abb80fc435169">a ticketing office</a>.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/prague/josefov/ticket-office.jpg">
+  <a href="/images/the-journey/prague/josefov/ticket-office.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/ticket-office.jpg">
   </a>
   <div class="alt">Just around the corner – under 2 mins walk.</div>
@@ -55,7 +118,7 @@
 <p>The inside of the Pinkas Synagogue serves as a memorial to the 80,000 Bohemian and Moravian Jews that were victims of the Holocaust.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/prague/josefov/pinkas-room.jpg">
+  <a href="/images/the-journey/prague/josefov/pinkas-room.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/pinkas-room.jpg">
   </a>
   <div class="alt">Inside the synagogue</div>
@@ -65,7 +128,7 @@
 <p>There were about five rooms like the one above – and see those red and black, floor-to-ceiling patches that line the walls? Those are the victims' names, birth-dates and death-dates. Across the rooms they&rsquo;re written out like that, in letters maybe a centimetre high.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/prague/josefov/pinkas-names.jpg">
+  <a href="/images/the-journey/prague/josefov/pinkas-names.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/pinkas-names.jpg">
   </a>
   <div class="alt">Names, births and deaths of victims</div>
@@ -77,7 +140,7 @@
 <p>After exiting the synagogue, you walk through the Old Jewish Cemetery. While not that large geographically, it apparently contains over 12,000 tombstones.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/prague/josefov/cemetery.jpg">
+  <a href="/images/the-journey/prague/josefov/cemetery.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/cemetery.jpg">
   </a>
   <div class="alt">Old Jewish Cemetery</div>
@@ -87,7 +150,7 @@
 <p>Needless to say, it was crowded with graves. The tombstones stuck out at all kinds of angles, and many were only just sticking out of the soil.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/prague/josefov/cemetery2.jpg">
+  <a href="/images/the-journey/prague/josefov/cemetery2.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/cemetery2.jpg">
   </a>
   <div class="alt">Another view of the cemetery</div>
@@ -97,7 +160,7 @@
 <p>The cemetary exit leaves you just outside of Ceremonial Hall and the Klausen Synagogue. As we already had the multi-ticket, we decided to give them a visit.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/prague/josefov/ceremonial-hall.jpg">
+  <a href="/images/the-journey/prague/josefov/ceremonial-hall.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/ceremonial-hall.jpg">
   </a>
   <div class="alt">Ceremonial Hall outside</div>
@@ -107,7 +170,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/prague/josefov/ceremonial-hall-floor.jpg">
+  <a href="/images/the-journey/prague/josefov/ceremonial-hall-floor.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/ceremonial-hall-floor.jpg">
   </a>
   <div class="alt">Ceremonial Hall tiled floor</div>
@@ -123,7 +186,7 @@
 <p>After leaving the Klausen Synagogue, the route to the next stop on our ticket took us past the Old New Synagogue. I only learnt afterwards that it&rsquo;s Europe&rsquo;s oldest active synagogue. Apparently, its attic is also the storage place for the infamous <a href="http://en.wikipedia.org/wiki/Golem#The_classic_narrative:_The_Golem_of_Prague">Golem of Prague</a> (<em>spooky noises</em>).</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/prague/josefov/old-new.jpg">
+  <a href="/images/the-journey/prague/josefov/old-new.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/old-new.jpg">
   </a>
   <div class="alt">Old New Synagogue</div>
@@ -133,7 +196,7 @@
 <p>We continued walking, made a couple of quick turns, and found ourselves at the Spanish Synagogue. Not much to look at from the outside, inside it&rsquo;s absolutely stunning.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/prague/josefov/spanish.jpg">
+  <a href="/images/the-journey/prague/josefov/spanish.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/spanish.jpg">
   </a>
   <div class="alt">Spanish Synagogue interior</div>
@@ -143,7 +206,7 @@
 <p>The walls are covered in intricate patterns, mostly using reds and golds. The Star of David appears in motifs everywhere, and I spent ages just following the patterns and their interplay across the walls. The central dome is beautiful and has a Star of David-shaped chandelier in the centre.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/prague/josefov/spanish-dome.jpg">
+  <a href="/images/the-journey/prague/josefov/spanish-dome.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/spanish-dome.jpg">
   </a>
   <div class="alt">Dome of the Spanish Synagogue</div>
@@ -168,7 +231,7 @@
   <p><a href="http://www.orangebar.cz/en/homepage.html"><span itemprop="itemreviewed">Orange Bar</span></a> is pretty close by to us and has decent reviews. It's a little tricky to find, down a couple of side-streets, but there's a nice orange-shaped sign outside to let you know when you're there.</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/orangebar/outside.jpg">
+    <a href="/images/the-journey/prague/orangebar/outside.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/orangebar/outside.jpg">
     </a>
     <div class="alt">From the street</div>
@@ -177,7 +240,7 @@
   <p>From the outside, it looks pretty normal, right? Inside, though, it reminded me of a bar in Dune or something. The only lights had orange filters, and all the walls were molded to give the appearance of being dug out of a cave.</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/orangebar/bar.jpg">
+    <a href="/images/the-journey/prague/orangebar/bar.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/orangebar/bar.jpg">
     </a>
     <div class="alt">The bar (I think the spice is kept on the top shelf)</div>
@@ -186,7 +249,7 @@
   <p>The bar shelves were all integrated into the back wall. The other walls had fake columns with cubbies for desert plants.</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/orangebar/plants.jpg">
+    <a href="/images/the-journey/prague/orangebar/plants.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/orangebar/plants.jpg">
     </a>
     <div class="alt">Walls with plants</div>
@@ -195,7 +258,7 @@
   <p>The cocktail list leaned heavily towards rum-based beach drinks – mai tais, piña coladas, zombies etc. There's also a good list of classics, too. Hampton went for (of course) a manhattan. I tried out the mai tai but it was a little too sweet for me.</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/orangebar/cocktails.jpg">
+    <a href="/images/the-journey/prague/orangebar/cocktails.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/orangebar/cocktails.jpg">
     </a>
     <div class="alt">Manhattan and a mai tai</div>
@@ -204,7 +267,7 @@
   <p>We were there during a massive thunderstorm and didn't have umbrellas, so we stayed for another round (or two). The moscow mule was <em>much</em> better. Get that! It had a <a href="http://en.wikipedia.org/wiki/Physalis_peruviana">physalis</a> garnish too, which is awesome.</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/orangebar/moscow-mule.jpg">
+    <a href="/images/the-journey/prague/orangebar/moscow-mule.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/orangebar/moscow-mule.jpg">
     </a>
     <div class="alt">Moscow mule</div>
@@ -236,14 +299,14 @@
   <p>First and foremost: this is a non-smoking bar! Yay! That automatically gets you points in my book. Most bars have smoking and non-smoking areas, but that's not quite the same. Location-wise, it's on a little intersection near the main train station (so great for people-watching), and has big windows. The decor is neat – they have a massive trompe-l'œil mural on one side so it looks like you're in a warehouse.</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/cocktails/hoffa-mural.jpg">
+    <a href="/images/the-journey/prague/cocktails/hoffa-mural.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/hoffa-mural.jpg">
     </a>
     <div class="alt">Mural in Hoffa</div>
   </div>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/cocktails/hoffa-bar.jpg">
+    <a href="/images/the-journey/prague/cocktails/hoffa-bar.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/hoffa-bar.jpg">
     </a>
     <div class="alt">The bar</div>
@@ -252,7 +315,7 @@
   <p>They have mostly traditional drinks, with some specials on a chalkboard. The drink I had was pretty good, but nothing amazing. I went for a glass of Pimm's as it was ridiculously hot outside.</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/cocktails/hoffa-pimms.jpg">
+    <a href="/images/the-journey/prague/cocktails/hoffa-pimms.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/hoffa-pimms.jpg">
     </a>
     <div class="alt">Pimm's!</div>
@@ -261,7 +324,7 @@
   <p>They offer decent bar snacks, too. We got some tortilla chips with salsa and sour cream.</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/cocktails/hoffa-tortillas.jpg">
+    <a href="/images/the-journey/prague/cocktails/hoffa-tortillas.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/hoffa-tortillas.jpg">
     </a>
     <div class="alt">Tortilla chips with salsa and sour cream</div>
@@ -272,7 +335,7 @@
   <p>The bathroom doors were pretty neat, too.</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/cocktails/hoffa-mural.jpg">
+    <a href="/images/the-journey/prague/cocktails/hoffa-mural.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/hoffa-bathroom.jpg">
     </a>
     <div class="alt">Bathroom door</div>
@@ -306,7 +369,7 @@
   <p>Inside, it's decorated like a dreary hotel lobby. Leather seats and low, round wooden tables. Holey partitions of wood try to separate the actual hotel lobby from the bar. Despite their best efforts, we were still drinking around a bunch of people loudly chatting on Skype (I assume there's free wi-fi in the lobby area) and wheeling their luggage around, waiting for their ride to the airport.</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/cocktails/zinc-bar.jpg">
+    <a href="/images/the-journey/prague/cocktails/zinc-bar.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/zinc-bar.jpg">
     </a>
     <div class="alt">Zinc Bar</div>
@@ -315,7 +378,7 @@
   <p>The menu consisted almost entirely of classic cocktails. There was nothing inventive or fancy like at Cloud 9. We stuck to our staples and got a gimlet and a manhattan. They were both OK – competently done and similar to what you could find at a lot of bars in Prague.</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/cocktails/zinc-cocktails.jpg">
+    <a href="/images/the-journey/prague/cocktails/zinc-cocktails.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/zinc-cocktails.jpg">
     </a>
     <div class="alt">Drinks: gimlet and a manhattan</div>
@@ -324,7 +387,7 @@
   <p>The thing is, these cocktails were 220Kč (~$11) each. And there was me going off on how expensive the Cloud 9 cocktails were, at 185Kč (~$9)! Like I said in the beginning, I'M SORRY CLOUD 9. The Cloud 9 cocktails were far more reasonably-priced (I still think they're expensive, though). At least you get something different, innovative. At Zinc you get a standard cocktail that at another bar (say, Groove Bar) would be 100Kč (~$5).</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/cocktails/zinc-interior.jpg">
+    <a href="/images/the-journey/prague/cocktails/zinc-interior.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/zinc-interior.jpg">
     </a>
     <div class="alt">Hampton looking SUPREMELY DISAPPOINTED</div>
@@ -339,126 +402,6 @@
     </span> 
   </p>
   
-</div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Cloud 9, Prague]]></title>
-    <link href="http://www.malrase.com/blog/2014/07/19/cloud-9-prague/"/>
-    <updated>2014-07-19T11:39:32+02:00</updated>
-    <id>http://www.malrase.com/blog/2014/07/19/cloud-9-prague</id>
-    <content type="html"><![CDATA[<div itemprop="description">
-
-  <p><a href="http://www.cloud9.cz/"><span itemprop="itemreviewed">Cloud 9</span></a> (or, in full, Cloud 9 Sky Bar & Lounge) is located in the <a href="https://www.google.com/maps/preview?safe=off&ie=UTF-8&fb=1&cid=4324379790027078551&q=Hilton+Prague+Hotel&ei=BVnGU-X9E-aV7Ab6loCQDQ&ved=0CMQBEPwSMAo">Hilton</a>, just east of the central Old Town district of Prague. It's got pretty good reviews, most extolling the views over Prague. So, of course we had to go.</p>
-
-  <p>Firstly: getting to the Hilton is surprisingly tricky. (<strong>NB</strong>: there are two Hiltons in Prague, the more central <a href="http://d1pa4et5htdsls.cloudfront.net/images/vfml/1/1/2/9/6/1/5/709926e0_prgothi_74095_s-original.jpg">Hilton Prague Old Town</a> and the <a href="http://www.hotels-in-czech.com/clfiles/photos/big/29-hilton-budova.jpg">Hilton Prague</a>. This is in the latter.) It's strange how much Prague changes between the first and eighth districts. It quickly goes from windy cobblestone streets to broad roads and unfriendly pedestrian crossings. The Hilton itself takes up a whole square block, yet finding the right route to get there – even finding the right entrance to use – was confusing. We just about managed by following the tourists forming a trail on their way to the Old Town.</p>
-
-  <p>Once you've found your way in (use the west entrance to the Hilton, and take a sharp right for the lift to the ninth floor), the views are the first thing that strike you. It was early evening as we came in, and the sun slowly setting gave some nice cloud patterns. However, I guess I was expecting more of a grand view of the <em>centre</em> of Prague. Instead, you get a beautiful view of the Allianz building next door.</p>
-
-  <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/cloud9/view-west.jpg">
-      <img src="http://www.malrase.com/images/the-journey/prague/cloud9/view-west.jpg">
-    </a>
-    <div class="alt">The view west, towards the centre of Prague</div>
-  </div>
-
-  <p>I suppose I'm being a little harsh – you can just see the top of <a href="http://en.wikipedia.org/wiki/Church_of_Our_Lady_before_T%C3%BDn">Church of Our Lady before Týn</a> on the left. </p>
-  
-  <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/cloud9/view-tyn.jpg">
-      <img src="http://www.malrase.com/images/the-journey/prague/cloud9/view-tyn.png">
-    </a>
-    <div class="alt">I found <span class="strike">Wally</span> the Church!</div>
-  </div>
-
-  <p>The north and east views are nicer – but more pastoral than the gothic spires I was imagining.</p>
-
-  <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/cloud9/view-north.jpg">
-      <img src="http://www.malrase.com/images/the-journey/prague/cloud9/view-north.jpg">
-    </a>
-    <div class="alt">The view north</div>
-  </div>
-
-  <p>The bar itself was decorated like a hotel bar. Clean lines, mirrors everywhere, leather-backed chairs. They had a couple of outside seating areas, but these were filled up with hotel guests.</p>
-
-  <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/cloud9/bar-interior.jpg">
-      <img src="http://www.malrase.com/images/the-journey/prague/cloud9/bar-interior.jpg">
-    </a>
-    <div class="alt">Interior of the bar.</div>
-  </div>
-
-  <p>Speaking of the clientele, I wasn't too surprised to find it filled with tourists. It was early (7pm), the bar is tricky to find, and it's a <em>hotel bar</em>, so you're not going to get an authentic Czech experience. Even so, the groups of English/North American tourists asking the waitress to pronounce "Na zdraví!" ("Cheers!") over and over was grating. But onto the cocktails!</p>
-
-  <p>The menu was interesting, and had a good mix of classics plus some that had been made up in the bar. Their inventions all had new-agey, etherial names like SUNSHINE and MYSTIC and DESIRE. Their most famous cocktail (according to them, at least) is the CHARISMA.</p>
-
-  <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/cloud9/charisma.jpg">
-      <img src="http://www.malrase.com/images/the-journey/prague/cloud9/charisma.jpg">
-    </a>
-    <div class="alt">Charisma</div>
-  </div>
-
-  <p>The Charisma is so famous that it has intricate instructions for drinking.</p>
-
-  <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/cloud9/charisma-instructions.jpg">
-      </a><img src="http://www.malrase.com/images/the-journey/prague/cloud9/charisma-instructions
-      .jpg">
-    <div class="alt">Instructions for drinking</div>
-  </div>
-
-  <p>Despite that, you still look like a wally drinking something with a giant chili pepper sticking out of it.</p>
-
-  <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/cloud9/charisma-drinking.jpg">
-      <img src="http://www.malrase.com/images/the-journey/prague/cloud9/charisma-drinking.jpg">
-    </a>
-    <div class="alt">Looking suave</div>
-  </div>
-
-  <p>My drinks weren't nearly as exciting. They didn't even have instructions on how to drink them. Sad times.</p>
-
-  <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/cloud9/mystic.jpg">
-      <img src="http://www.malrase.com/images/the-journey/prague/cloud9/mystic.jpg">
-    </a>
-    <div class="alt">Mystic</div>
-  </div>
-
-  <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/cloud9/desire.jpg">
-      <img src="http://www.malrase.com/images/the-journey/prague/cloud9/desire.jpg">
-    </a>
-    <div class="alt">Desire (the thumbs up is for size reference, not endorsement)</div>
-  </div>
-
-  <p>The Mystic was a vodka-ginger-lime-sugar thing and was delicious. The Desire, on the other hand, tasted like what I imagine pot pourri tastes like (i.e. gross).</p>
-
-  <p>The bar snacks were delicious. We never really found out what they were, due to the language barrier, but it seemed to be some kind of caramel-coated peanut in a crispy shell dusted in salt and dried tomato (? maybe). We scarfed them down in about five minutes.</p>
-
-  <div class="img">
-    <a href="{{ root_url }}/images/the-journey/prague/cloud9/bar-snack.jpg">
-      <img src="http://www.malrase.com/images/the-journey/prague/cloud9/bar-snack.jpg">
-    </a>
-    <div class="alt">Bar snacks</div>
-  </div>
-
-  <p>The prices were pretty crazy. I'm not sure if it's because it's in a hotel or because it has views (probably a little of both), it ran to about 185Kč (~$9) a drink. That may not sound like much, but they were easily the priciest cocktails we've had in Prague and the previous holder of that title was around 145Kč (~$7).</p>
-
-  <p><span itemprop="summary">For a hotel bar, Cloud 9 is pretty decent. You have good views of Prague and some tasty cocktails. The hassle of finding it plus the prices mean it's not really worthwhile to go unless you're staying at the Hilton.</span></p>
-
-  <p class="score">
-    <span itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating">
-      <span itemprop="value">6.3</span> 
-      <meta itemprop="best" content="10"/> / 10
-    </span> 
-  </p>
-
-  <p><strong>UPDATE</strong>: I went to the bar in the other Hilton and turns out, it was <a href="">way worse</a>.</p>
 </div>
 
 ]]></content>

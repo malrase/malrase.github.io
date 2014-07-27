@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Paris | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/paris/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2014-07-25T15:09:19+02:00</updated>
+  <updated>2014-07-27T11:35:15+02:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -101,7 +101,7 @@
 <p>The most famous (as far as I can tell) street art in the area is done by <a href="http://en.wikipedia.org/wiki/Sampsa_(street_artist)">Sampsa</a>, the &ldquo;Finnish Banksy.&rdquo;</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/paris/butte-art/hadopi-2.jpg">
+  <a href="/images/the-journey/paris/butte-art/hadopi-2.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/hadopi-2.jpg">
   </a>
   <div class="alt">HADOPI gang</div>
@@ -111,7 +111,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/paris/butte-art/hadopi.jpg">
+  <a href="/images/the-journey/paris/butte-art/hadopi.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/hadopi.jpg">
   </a>
   <div class="alt">Close-up of a HADOPI enforcer</div>
@@ -121,7 +121,7 @@
 <p>The two pieces by Sampsa were in protest of the <a href="http://en.wikipedia.org/wiki/HADOPI_law">HADOPI law</a> – a copyright infringement law from around 2009. Amusingly, the first logo for the HADOPI agency used <a href="http://www.telegraph.co.uk/news/worldnews/europe/france/6974249/Anti-piracy-agencys-logo-broke-copyright.html">a typeface without appropriate licensing</a>.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/paris/butte-art/blood-sucking.jpg">
+  <a href="/images/the-journey/paris/butte-art/blood-sucking.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/blood-sucking.jpg">
   </a>
   <div class="alt">The blood sucking HADOPI</div>
@@ -133,7 +133,7 @@
 <p>There are a bunch artworks done in mostly muted blues and greys. They&rsquo;re all of children. At first glance, they&rsquo;re kind of peaceful.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/paris/butte-art/boat.jpg">
+  <a href="/images/the-journey/paris/butte-art/boat.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/boat.jpg">
   </a>
   <div class="alt">Boat</div>
@@ -143,7 +143,7 @@
 <p>However when I started to study them there was something unnerving about them. The children never had faces.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/paris/butte-art/boy.jpg">
+  <a href="/images/the-journey/paris/butte-art/boy.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/boy.jpg">
   </a>
   <div class="alt">Painter boy</div>
@@ -153,7 +153,7 @@
 <p>As well as the lack of faces, the children are usually disappearing. They&rsquo;re walking through a waterfall or curtain into another world. Or they&rsquo;re being partially submerged. They&rsquo;re a little eerie.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/paris/butte-art/kneel.jpg">
+  <a href="/images/the-journey/paris/butte-art/kneel.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/kneel.jpg">
   </a>
   <div class="alt">Kneeling</div>
@@ -165,7 +165,7 @@
 <p>I&rsquo;ve done my best to translate the captions, but they&rsquo;ll no doubt be a little off. If anyone wants to correct me, please do!</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/paris/butte-art/miss-tic1.jpg">
+  <a href="/images/the-journey/paris/butte-art/miss-tic1.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/miss-tic1.jpg">
   </a>
   <div class="alt">"I have men-ancholy" (I think it's a pun on "avoir du vague à l'âme," meaning "to be melancholy")</div>
@@ -175,7 +175,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/paris/butte-art/miss-tic2.jpg">
+  <a href="/images/the-journey/paris/butte-art/miss-tic2.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/miss-tic2.jpg">
   </a>
   <div class="alt">"Abuse of pleasure is great for your health"</div>
@@ -185,7 +185,7 @@
 <p>Miss.tic doesn&rsquo;t only do scantily-clad ladies, though.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/paris/butte-art/miss-tic3.jpg">
+  <a href="/images/the-journey/paris/butte-art/miss-tic3.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/miss-tic3.jpg">
   </a>
   <div class="alt">"In our secret gardens, desire is created"</div>
@@ -195,7 +195,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/paris/butte-art/miss-tic4.jpg">
+  <a href="/images/the-journey/paris/butte-art/miss-tic4.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/miss-tic4.jpg">
   </a>
   <div class="alt">"Porn is an error of desire"</div>
@@ -205,7 +205,7 @@
 <p>There are a couple of sculptures by the Italian street art group <a href="http://www.urbansolid.org/">UrbanSolid</a>.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/paris/butte-art/ears.jpg">
+  <a href="/images/the-journey/paris/butte-art/ears.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/ears.jpg">
   </a>
   <div class="alt">"Listening Area"</div>
@@ -215,7 +215,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/paris/butte-art/sculpture-prison.jpg">
+  <a href="/images/the-journey/paris/butte-art/sculpture-prison.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/sculpture-prison.jpg">
   </a>
   <div class="alt">Out of Eden</div>
@@ -227,7 +227,7 @@
 <p>There are a few pieces by <a href="http://www.janaundjs.com/">Jana und JS</a>. They have a nice style, and do work in a number of European cities. I like their focus on photography/photographers, who appear in a lot of their works.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/paris/butte-art/photo.jpg">
+  <a href="/images/the-journey/paris/butte-art/photo.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/photo.jpg">
   </a>
   <div class="alt">Urban photographer</div>
@@ -237,7 +237,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/paris/butte-art/window.jpg">
+  <a href="/images/the-journey/paris/butte-art/window.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/window.jpg">
   </a>
   <div class="alt">Window</div>
@@ -249,7 +249,7 @@
 <p>Finally, here&rsquo;s a bunch of other neat stuff I saw that seemed to be one-offs by artists (at least, one-offs for this area).</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/paris/butte-art/moss-bird.jpg">
+  <a href="/images/the-journey/paris/butte-art/moss-bird.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/moss-bird.jpg">
   </a>
   <div class="alt">"Natural" street art: bird made of moss</div>
@@ -259,7 +259,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/paris/butte-art/skeleton.jpg">
+  <a href="/images/the-journey/paris/butte-art/skeleton.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/skeleton.jpg">
   </a>
   <div class="alt">Looks like something for Day of the Dead (by <a href="http://www.bunnym.com/">Bunny M</a>)</div>
@@ -269,7 +269,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/paris/butte-art/world.jpg">
+  <a href="/images/the-journey/paris/butte-art/world.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/world.jpg">
   </a>
   <div class="alt">Pixelated world</div>
@@ -290,7 +290,7 @@
     <content type="html"><![CDATA[<p>After our trip to Zürich, we went to Paris by train. As with most rail travel in Europe, it was a great way to move between cities. There was a lot of kerfuffle with the hotels when we arrived &ndash; but we ended up in the beautiful <a href="http://www.closmedicis.com/">Hotel de Clos Medicis</a>. We were in the attic, which had amazing exposed beams and an upstairs bathroom.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/paris/medicis.jpg">
+  <a href="/images/paris/medicis.jpg">
     <img src="http://www.malrase.com/images/paris/medicis.jpg">
   </a>
   <div class="alt">Our room (in the attic) in the hotel.</div>
@@ -302,7 +302,7 @@
 <p>Anyway, this time we tried to do the same thing. We ate a lot of good food. My favourite restaurant was <a href="http://www.tripadvisor.com/Restaurant_Review-g187147-d715085-Reviews-Fish_la_Boissonnerie-Paris_Ile_de_France.html">Fish Le Boissonnerie</a>. Some pictures follow.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/paris/boissonnerie.jpg">
+  <a href="/images/paris/boissonnerie.jpg">
     <img src="http://www.malrase.com/images/paris/boissonnerie.jpg">
   </a>
   <div class="alt">The outside of Le Boissonnerie</div>
@@ -312,7 +312,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/paris/bois-starter.jpg">
+  <a href="/images/paris/bois-starter.jpg">
     <img src="http://www.malrase.com/images/paris/bois-starter.jpg">
   </a>
   <div class="alt">The starter: smoked eel and marinated carrots.</div>
@@ -322,7 +322,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/paris/bois-main.jpg">
+  <a href="/images/paris/bois-main.jpg">
     <img src="http://www.malrase.com/images/paris/bois-main.jpg">
   </a>
   <div class="alt">The main: veal, pea risotto, chorizo puree and a parmesan crisp.</div>
@@ -332,7 +332,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/paris/bois-dessert.jpg">
+  <a href="/images/paris/bois-dessert.jpg">
     <img src="http://www.malrase.com/images/paris/bois-dessert.jpg">
   </a>
   <div class="alt">The dessert: crème brûlée.</div>
@@ -344,7 +344,7 @@
 <p>So, other random things we did in Paris. We went on a boat tour along the Seine, which was nice. But it was super hot (a lot warmer than Zürich, that&rsquo;s for sure).</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/paris/pont-neuf.jpg">
+  <a href="/images/paris/pont-neuf.jpg">
     <img src="http://www.malrase.com/images/paris/pont-neuf.jpg">
   </a>
   <div class="alt">Pont Neuf from the boat tour we did along the Seine.</div>
@@ -354,7 +354,7 @@
 <p>We visited the <a href="http://equipement.paris.fr/marche-aux-fleurs-et-aux-oiseaux-cite-4506">marché des oiseaux</a> on Sunday. Every Sunday, the flower market on the Île de la Cité also has a bunch of guys selling birds. It was bizarre, and unsettling how many birds they can fit into those tiny cages.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/paris/finches.jpg">
+  <a href="/images/paris/finches.jpg">
     <img src="http://www.malrase.com/images/paris/finches.jpg">
   </a>
   <div class="alt">So many birds in such a small cage.</div>
@@ -368,7 +368,7 @@
 <p>As the Royal Wedding is coming up, every French magazine seemed to have a cover story about the couple. This one really weirded me out:</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/paris/so-british.jpg">
+  <a href="/images/paris/so-british.jpg">
     <img src="http://www.malrase.com/images/paris/so-british.jpg">
   </a>
 </div>
