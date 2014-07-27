@@ -14,4 +14,5 @@ Hopefully this list will grow as I spend more time in various cities.
  - London (coming soon!)
  - Paris (coming soon!)
  - [Prague](/city-guides/prague)
- - San Francisco (coming soon!)
+ - San Francisco
+   - [Dogpatch](/city-guides/san-francisco/dogpatch)

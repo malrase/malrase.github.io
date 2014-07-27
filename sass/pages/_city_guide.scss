@@ -8,6 +8,22 @@
   li {
     margin-bottom: 10px;
   }
+  article > ul {
+    margin-top: 30px;
+    margin-bottom: 50px;
+  }
+  .city-view img {
+    max-width: 200px;
+    float: right;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    @media screen and (max-width: $small-break) {
+      margin: 0 auto 20px;
+      float: none;
+      display: block;
+    }
+  }
   .info {
     border-top: 1px solid #eee;
     border-bottom: 1px solid #eee;

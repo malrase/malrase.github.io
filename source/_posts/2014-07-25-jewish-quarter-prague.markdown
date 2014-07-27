@@ -21,7 +21,7 @@ We arrived at lunchtime and the queue was really long and slow-moving. Not good.
   <a href="{{ root_url }}/images/the-journey/prague/josefov/pinkas-queue.jpg">
     <img src="/images/the-journey/prague/josefov/pinkas-queue.jpg">
   </a>
-  <div class="alt">Much queue wow</div>
+  <div class="alt">Long queue waiting for tickets</div>
 </div>
 
 However! We found an EXPERT WORK-AROUND for buying tickets without having to wait in line. Head slightly east on the same road and take the first left. You'll find [a ticketing office](https://www.google.com/maps/place/Maiselova+38%2F15,+110+00+Praha-Praha+1,+Czech+Republic/@50.089592,14.4181715,17z/data=!3m1!4b1!4m2!3m1!1s0x470b94e8669ff2a5:0xb73abb80fc435169).

@@ -1,17 +1,18 @@
 ---
 layout: post
 title: "La Degustation"
-date: 2014-07-23 18:31:00 +0200
+date: 2014-07-27 11:30:00 +0200
 comments: true
 categories: tasting-menu food review prague czech-republic the-journey-2014
-published: false
 ---
 
 <div itemprop="description">
 
-  <p><a href="http://www.ladegustation.cz/en/#index"><span itemprop="itemreviewed">La Degustation</span></a>. One of two restaurants in Prague to have <a href="http://www.viamichelin.com/web/Restaurants/Restaurants-Prague-_-Praha_hlavni_mesto-Czech_Republic?strLocid=31MzhkeDEwY05UQXVNRGczT0RFPWNNVFF1TkRJd05EWT0=">a Michelin star</a>. Its slogan is "bohême bourgeoise," which I found amusing.</p>
+  <p><a href="http://www.ladegustation.cz/en/#index"><span itemprop="itemreviewed">La Degustation</span></a>, one of two restaurants in Prague to have <a href="http://www.viamichelin.com/web/Restaurants/Restaurants-Prague-_-Praha_hlavni_mesto-Czech_Republic?strLocid=31MzhkeDEwY05UQXVNRGczT0RFPWNNVFF1TkRJd05EWT0=">a Michelin star</a>, was our special treat as our time in Prague is coming to an end. Its slogan is "bohême bourgeoise," which I found amusing.</p>
 
-  <p>I don't know if anything can be gothic minimalist, but I think that's an accurate description. Arches ribbed the ceiling, and artfully-placed dim spotlights created wonderful shadows. The walls were bare and painted a light grey, and the furniture was all low-backed and dark wood. The windows onto the street had the restaurant's signature checkered pattern.</p>
+  <p>Inside, I don't know if anything can be gothic minimalist, but I think that's an accurate description. Arches ribbed the ceiling, and artfully-placed dim spotlights created wonderful shadows. The walls were bare and painted a light grey, and the furniture was all low-backed and dark wood. The windows onto the street had the restaurant's signature checkered pattern.</p>
+
+  <p>As we sat down, the waiter came over and gave us an envelope.</p>
 
   <div class="img">
     <a href="{{ root_url }}/images/the-journey/prague/degustation/envelope.jpg">
@@ -47,15 +48,15 @@ published: false
 
   <p>There was a foie gras course where the liver had been finely grated over wine jelly and pistachio. I'd never eaten foie gras grated before, and it really helped take away the heaviness you sometimes get. Then there was the beef tongue "signature dish." </p>
 
-  <p>I really enjoyed the wine pairings. They used mostly Czech wines, and it was nice to see the variety in types they produce here. There was also a great unfiltered Slovenian wine called <a href="http://www.scurek.com/www/index.php/en/wines/white-wines">Kontra</a>. The cheese course came with a delicious IPA.</p>
+  <p>I really enjoyed the wine pairings. They used mostly Czech wines, and it was nice to see the variety in types they produce here. There was also a great unfiltered Slovenian wine called <a href="http://www.scurek.com/www/index.php/en/wines/white-wines">Kontra</a>. The cheese course came with a delicious IPA from the <a href="http://www.beeradvocate.com/beer/profile/23493/">Matuška Brewery</a>.</p>
 
-  <p><span itemprop="summary">If you're willing to splash out, this place is definitely worth it. It's a modern take on Czech flavours and ingredients</span></p>
+  <p><span itemprop="summary">If you're willing to splash out, this place is definitely worth it. It's a modern take on Czech flavours and ingredients, and the courses are presented beautifully.</span></p>
 
   <p class="score">
     <span itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating">
-      <span itemprop="value">VALUE</span> 
+      <span itemprop="value">9.3</span> 
       <meta itemprop="best" content="10"/> / 10
     </span> 
   </p>
-  
+
 </div>

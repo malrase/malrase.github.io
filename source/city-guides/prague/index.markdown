@@ -6,7 +6,13 @@ sharing: true
 footer: true
 ---
 
-[Prague](http://en.wikipedia.org/wiki/Prague), the capital of the Czech Republic, is a beautiful city. Gothic and Renaissance buildings are everywhere, and it's wonderful just to walk around the city.
+<div class="city-view">
+  <a href="{{ root_url }}/images/the-journey/prague/castle.jpg">
+    <img src="/images/the-journey/prague/castle.jpg">
+  </a>
+</div>
+
+[Prague](http://en.wikipedia.org/wiki/Prague), the capital of the Czech Republic, is difficult not to love. Culture abounds, with concerts from baroque to techno happening all the time. The people are friendly, and are just the right mix of easy-going yet purposeful. On top of all this, it's a beautiful city: Gothic and Renaissance buildings are everywhere, and it's a treat just to wander the side streets.
 
 - [Where to Stay](#Where-to-Stay)
 - [Things to Do](#Things-to-Do)
@@ -16,7 +22,7 @@ footer: true
 <a name="Where-to-Stay"></a>
 ### Where to Stay
 
-Firstly, I'd recommend *not* staying in the centre of town. Unless you've stayed in Times Square and enjoyed it. The Old Town Square and its surrounding area are just way too touristy to enjoy.
+Firstly, I'd recommend *not* staying in the centre of town. Unless you've stayed in Times Square and thought it was the best thing ever, the Old Town Square and its surrounding area are going to be way too touristy.
 
 Try to keep south of the Old Town Square and east of Náměstí Republiky. We haven't really explored the west bank of the river, but it seems to be pretty nice. The town is so walkable it doesn't matter if you're a little outside the centre.
 
@@ -40,6 +46,8 @@ The level of cocktail competency in Prague is far, far higher than most other Eu
 
 **[Hemingway Bar](http://www.hemingwaybar.cz/bar-prague/)**: [Reviewed here](/blog/2014/06/20/hemingway-bar-prague/), overall: 8.1/10.
 
+**[Anonymous Bar]()**: overall: 8.0/10.
+
 **[Groove Bar](http://groovebar.cz/)**: This place became our preferred spot for drinks very quickly. The music is great and there's a wonderfully relaxed atmosphere. The drinks are far cheaper, and just as delicious, as most of the other places on this list. Get the signature Greenteani, it's refreshing, smooth and thoroughly drinkable. Also, this is where [Absinthe Prague](/blog/2014/07/11/absinthe-tasting-prague) happens.
 
 <div class="img">
@@ -49,9 +57,7 @@ The level of cocktail competency in Prague is far, far higher than most other Eu
 
 Overall: 7.9/10
 
-**[Tretter's](http://www.tretters.cz/en/)**: styled as a "New York" bar, this place has a great menu – a mix of classics and modern inventions. We're both a little tired of the faux-20s-New York thing that seems to be popular in Europe. Putting a bunch of black and white photos of Manhattan on your wall doesn't work. I'd like to see someone do an L.A.-style bar from the 40s. That'd be neat.
-
-Anyway, despite that, we really enjoyed this place. The cocktails were delicious and the bartenders were super-friendly. I'd recommend this place over Bugsy's Bar!
+**[Tretter's](http://www.tretters.cz/en/)**: styled as a "New York" bar, this place has a great menu – a mix of classics and modern inventions. The cocktails were delicious and the bartenders were super-friendly. I'd recommend this place over Bugsy's Bar!
 
 Overall: 7.5/10
 
@@ -63,16 +69,14 @@ Overall: 7.5/10
 
 **[Cloud 9 Bar (in the Hilton Prague)](http://cloud9.cz)**: [Reviewed here](/blog/2014/07/19/cloud-9-prague), overall: 6.3/10.
 
-**[Bonvivants](http://www.tripadvisor.com/Restaurant_Review-g274707-d6375998-Reviews-BONVIVANT_s_CTC-Prague_Bohemia.html)**: I really wanted to like this place, but it fell short in a number of ways. I read about it in the New York Times in a [36 Hours in Prague](http://www.nytimes.com/2014/04/20/travel/36-hours-in-prague.html) travel piece. It's a tapas restaurant/cocktail bar/café. We went early on a Friday, and it was pretty empty. The bar was strangely laid out – with a lot of empty space and some tables around the edges. The menu was good and we ordered a couple of tapas and a cocktail each. Mine was the Provence cocktail – it had gin, chartreuse, lemon and lavender in it. The bartender came over, lit a piece of lavender, and wafted it over the cocktail. It was super-tasty!
+**[Bonvivants](http://www.tripadvisor.com/Restaurant_Review-g274707-d6375998-Reviews-BONVIVANT_s_CTC-Prague_Bohemia.html)**: I really wanted to like this place, but it fell short in a number of ways. Hampton had a manhattan (obviously), and the vermouth was off. It took ages to get our food – and when it did come, only one plate of the two came out. The food was decent, but not spectacular, and not really worth the wait.
+
+Overall: 5.1/10
 
 <div class="img">
   <img src="/images/the-journey/prague/cocktails/bonvivants.jpg">
   <div class="alt">Provence Cocktail</div>
 </div>
-
-Hampton had a manhattan (obviously), and the vermouth was off. That's where things started going wrong. It took ages to get our food – and when it did come, only one plate of the two came out. The food was decent, but not spectacular, and not really worth the wait.
-
-Overall: 5.1/10
 
 **[Zinc Lounge (in the Hilton Prague Old Town)](http://www.hiltonpragueoldtown.com/loungebar-en.html)**: [Reviewed here](/blog/2014/07/21/zinc-loung-prague), overall: 4.6/10
 
@@ -83,7 +87,7 @@ Overall: 5.1/10
 
 Naturally, there's Czech food a-plenty in Prague. Much as in Paris you can't walk 100ft without finding a brasserie, in Prague there's a huge number of traditional restaurants.
 
-Lots of dumplings, cabbage, stewed meats. [picture] There's a surprising amount of rabbit on menus over here. It's nice when "unconventional" meats (I use quotes as it's relative to North American food) are regularly on the menu. I usually eat way too much lamb when I'm in Europe.
+Lots of dumplings, cabbage, stewed meats. There's a surprising amount of rabbit on menus over here. It's nice when "unconventional" meats (I use quotes as it's relative to North American food) are regularly on the menu. I usually eat way too much lamb when I'm in Europe.
 
 Our favourite Czech restaurant so far was [La Degustation](). For something cheaper and more traditional, try out [Rainer Maria Rilke](http://www.rmrilke.cz/) (which is conveniently just by [Hemingway Bar](/blog/2014/06/20/hemingway-bar-prague)). Other good places are [U Medvídků](http://www.umedvidku.cz/index.php/en/) or [Restaurace Ostrovní](http://www.restauraceostrovni.cz/en/).
 
@@ -97,11 +101,4 @@ Italian food is everywhere – especially pizza. There's really good delivery, 
 
 There is a large [Vietnamese community](http://en.wikipedia.org/wiki/Vietnamese_people_in_the_Czech_Republic) in the Czech Republic, and I've had some pretty great pho since I've been here. In particular, [Wok & Sushi](https://foursquare.com/v/wok--sushi/53839b8b498ebb8d532928ed) was delicious.
 
-Sansho, [already reviewed](/blog/2014/07/15/sansho-prague).
-
-We tried out a conveyor-belt all-you-can-eat sushi, also in the Palladium:
-[Makakiko](http://www.makakiko.cz/enmain.php). I know, it sounds absurd. And it was. I've only been to a couple of conveyor-belt sushi places before, and those were in the UK. It seemed
-
-### Blog Posts
-
-
+Sansho, which I [already reviewed](/blog/2014/07/15/sansho-prague), was really great and I'd recommend for an Asian-inspired meal.
