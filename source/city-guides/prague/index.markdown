@@ -16,8 +16,8 @@ footer: true
 
 - [Where to Stay](#Where-to-Stay)
 - [Things to Do](#Things-to-Do)
-- [Bars](#Bars)
-- [Restaurants](#Restaurants)
+- [Drink](#Drink)
+- [Food](#Food)
 
 <a name="Where-to-Stay"></a>
 ### Where to Stay
@@ -35,14 +35,19 @@ I didn't care for [Prague Castle](http://en.wikipedia.org/wiki/Prague_castle) or
 
 Aside from that, I'd suggest picking a church, synagogue, museum, or whatever, and walk there. Wander through the streets and take in all the architecture. It's extremely rewarding and in the Old Town, difficult to find anywhere that isn't gorgeous. To start, I'd suggest the [synagogues of the Jewish Quarter](/blog/2014/07/25/jewish-quarter-prague).
 
-<a name="Bars"></a>
-### Bars
+<a name="Drink"></a>
+### Drink
 
+[Handy map of drinking spots](https://mapsengine.google.com/map/edit?mid=zSa_dTkSRnX0.k-PlCRk2mXRs).
+
+#### Beer
 Beer is everywhere, and it's extremely cheap. You can easily get a pint for $1.30, and I'm sure even that would be considered expensive in some parts. I haven't particularly been looking to try new beers (the [Taste Local Beer tour](http://tastelocalbeer.com) would have been good for that), but most places seem to serve lagers (Pilsner Urquel is pretty popular). However, I did stumble upon the [Prague Beer Museum](http://www.praguebeermuseum.com) (note: it's not a museum) which had [thirty beers on tap](http://www.praguebeermuseum.com/en/beers-on-tap) and a make-your-own sampler of either five or ten beers. They had a wide range, and two great IPAs: one made for Prague Beer Museum itself, and [Matuška Brewery's](http://www.beeradvocate.com/beer/profile/23493/) Raptor IPA.
 
+#### Wine
 There's a fair amount of Czech wine (usually from the [Moravia region](http://en.wikipedia.org/wiki/Moravia)), and places usually have a house white and red. It's pretty good stuff, and I'd recommend drinking some while you're here, as I don't think I've seen it in many other places.
 
-The level of cocktail competency in Prague is far, far higher than most other European cities we've visited. However there are a number of over-hyped bars too. I've listed places we've been to by my ranking, from highest to lowest, so if you're visiting Prague... start at the top and work your way down. I also made a [handy map](https://mapsengine.google.com/map/edit?mid=zSa_dTkSRnX0.k-PlCRk2mXRs).
+#### Cocktails
+The level of cocktail competency in Prague is far, far higher than most other European cities we've visited. However there are a number of over-hyped bars too. I've listed places we've been to by my ranking, from highest to lowest, so if you're visiting Prague... start at the top and work your way down.
 
 **[Hemingway Bar](http://www.hemingwaybar.cz/bar-prague/)**: [Reviewed here](/blog/2014/06/20/hemingway-bar-prague/), overall: 8.1/10.
 
@@ -82,14 +87,14 @@ Overall: 5.1/10
 
 **[Bugsy's Bar](http://www.bugsysbar.cz/)**: [Reviewed here](/blog/2014/07/17/bugsys-bar-prague), overall: 3.4/10.
 
-<a name="Restaurants"></a>
-### Restaurants
+<a name="Food"></a>
+### Food
 
 Naturally, there's Czech food a-plenty in Prague. Much as in Paris you can't walk 100ft without finding a brasserie, in Prague there's a huge number of traditional restaurants.
 
 Lots of dumplings, cabbage, stewed meats. There's a surprising amount of rabbit on menus over here. It's nice when "unconventional" meats (I use quotes as it's relative to North American food) are regularly on the menu. I usually eat way too much lamb when I'm in Europe.
 
-Our favourite Czech restaurant so far was [La Degustation](). For something cheaper and more traditional, try out [Rainer Maria Rilke](http://www.rmrilke.cz/) (which is conveniently just by [Hemingway Bar](/blog/2014/06/20/hemingway-bar-prague)). Other good places are [U Medvídků](http://www.umedvidku.cz/index.php/en/) or [Restaurace Ostrovní](http://www.restauraceostrovni.cz/en/).
+Our favourite Czech restaurant so far was [La Degustation](/blog/2014/07/27/la-degustation). For something cheaper and more traditional, try out [Rainer Maria Rilke](http://www.rmrilke.cz/) (which is conveniently just by [Hemingway Bar](/blog/2014/06/20/hemingway-bar-prague)). Other good places are [U Medvídků](http://www.umedvidku.cz/index.php/en/) or [Restaurace Ostrovní](http://www.restauraceostrovni.cz/en/).
 
 There's also a number of great non-Czech restaurants, especially French and Italian cuisine. On the French side of things, the best we've eaten has been at [Renommé](http://renomme.cz/). We had a beautiful salmon-dill tartare and foie gras to start. We've been eating so much foie gras on this trip as you can [no longer buy it in California](http://en.wikipedia.org/wiki/California_foie_gras_law). For our main, Hampton got their hamburger (yes, I know that's not French, but whatever) and it was incredible. Layers of bacon, cheese, caramelised onions, truffle mayonnaise. I got the rabbit (duh), mainly for the herb spaetzle. The richness of the rabbit was cut with the herbiness of the spaetzle and it was amazing.
 

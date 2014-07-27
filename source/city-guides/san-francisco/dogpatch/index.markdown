@@ -6,45 +6,60 @@ sharing: true
 footer: true
 ---
 
-<!-- <div class="city-view">
-  <a href="{{ root_url }}/images/the-journey/prague/castle.jpg">
-    <img src="/images/the-journey/prague/castle.jpg">
-  </a>
-</div> -->
-
-My home neighbourhood in San Francisco, [Dogpatch](http://en.wikipedia.org/wiki/Dogpatch,_San_Francisco) is
+My home neighbourhood in San Francisco, [Dogpatch](http://en.wikipedia.org/wiki/Dogpatch,_San_Francisco) is great.
 
 - [Things to Do](#Things-to-Do)
-- [Bars](#Bars)
-- [Restaurants](#Restaurants)
+- [Drink](#Drink)
+- [Food](#Food)
 
 <a name="Things-to-Do"></a>
 ### Things to Do
 
-<a name="Bars"></a>
-### Bars
+[Museum of Craft and Design]()
+Wander around Pier 70
 
+
+<a name="Drink"></a>
+### Drink
+
+#### Beer
 **[Triple Voodoo]()**
 **[Smokestack]()**
 
+#### Wine
 **[Yield Wine Bar]()**
 
+#### Cocktails
 **[Third Rail]()**
 **[Dogpatch Saloon]()**
 **[Sea Star]()**
 
-<a name="Restaurants"></a>
-### Restaurants
+<a name="Food"></a>
+### Food
 
-Serpentine
-Piccino
+#### Brunch/Lunch
 The Lab
-Long Bridge Pizza
-Hard Knox
+
 Just for You
+
+Hard Knox
+
 The New Spot
-Dogpatch Café
+
+
+Cheating, but PLOW
+
+#### Dinner
+Serpentine
+
+Piccino
+
+Long Bridge Pizza
+
 Poquito
+
+#### Cafés/Snacks
+Dogpatch Café
 
 Mr & Mrs Miscellaneous
 
