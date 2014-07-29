@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Orange Bar, Prague"
 date: 2014-07-23 10:33:48 +0200
 comments: true

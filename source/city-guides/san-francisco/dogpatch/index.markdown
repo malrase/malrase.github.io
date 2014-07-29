@@ -22,44 +22,46 @@ Wander around Pier 70
 <a name="Drink"></a>
 ### Drink
 
+[Map](https://mapsengine.google.com/map/u/0/edit?mid=zSa_dTkSRnX0.k_Ff5BlXQakY)
+
 #### Beer
-**[Triple Voodoo]()**
-**[Smokestack]()**
+**[Triple Voodoo](http://www.triplevoodoo.com/triplevoodoo/faces/v2/home.xhtml)**
+**[Smokestack](http://www.magnoliasmokestack.com/)**
 
 #### Wine
-**[Yield Wine Bar]()**
+**[Yield Wine Bar](http://www.yieldandpause.com/)**
 
 #### Cocktails
-**[Third Rail]()**
-**[Dogpatch Saloon]()**
-**[Sea Star]()**
+**[Third Rail](http://www.thirdrailbarsf.com/)**
+**[Dogpatch Saloon](http://dogpatchsaloon.com/)**
+**[Sea Star](http://www.yelp.com/biz/sea-star-club-san-francisco-2)**
 
 <a name="Food"></a>
 ### Food
 
 #### Brunch/Lunch
-The Lab
+[The Lab](http://thelabcafesf.com/)
 
-Just for You
+[Just for You](http://www.justforyoucafe.com/)
 
-Hard Knox
+[Hard Knox](http://www.hardknoxcafe.com/)
 
 The New Spot
 
 
-Cheating, but PLOW
+Cheating, but [PLOW](http://www.eatatplow.com/)
 
 #### Dinner
-Serpentine
+[Serpentine](http://www.serpentinesf.com/)
 
-Piccino
+[Piccino](http://www.piccinocafe.com/)
 
-Long Bridge Pizza
+[Long Bridge Pizza](http://longbridgepizza.com/)
 
-Poquito
+[Poquito](http://www.poquitosf.com/)
 
 #### Cafés/Snacks
-Dogpatch Café
+[Dogpatch Café](http://www.dogpatchcafe.com/)
 
-Mr & Mrs Miscellaneous
+[Mr & Mrs Miscellaneous](https://www.facebook.com/pages/Mr-and-Mrs-Miscellaneous/126193770733086)
 

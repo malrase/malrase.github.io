@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "La Degustation"
 date: 2014-07-27 11:30:00 +0200
 comments: true

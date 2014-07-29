@@ -79,8 +79,26 @@ categories: review cocktails prague czech-republic the-journey-2014
 
   <p class="score">
     <span itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating">
-      <span itemprop="value">8.1</span> 
+      <span itemprop="value">8.6</span> 
       <meta itemprop="best" content="10"/> / 10
     </span> 
   </p>
+
+  <p><strong>EDIT</strong>: I had a couple more absolutely delicious cocktails, and had to append this post with two more recommendations. Both had <a href="http://en.wikipedia.org/wiki/Falernum">home-made Falernum</a> in them. The Save this Moment came on a floppy disk, and had a great gin/citrus base with a white chocolate syrup that gave it a really great flavour.</p>
+
+  <div class="img">
+    <a href="{{ root_url }}/images/the-journey/prague/hemingway/savemoment.jpg">
+      <img src="/images/the-journey/prague/hemingway/savemoment.jpg">
+    </a>
+    <div class="alt">Save this Moment</div>
+  </div>
+
+  <p>Le Swizzle Provençal was a rum-based version along the same lines. It was presented in a little metal bucket with a scoop of almonds. Très jolie!</p>
+
+  <div class="img">
+    <a href="{{ root_url }}/images/the-journey/prague/hemingway/swizzleprovencal.jpg">
+      <img src="/images/the-journey/prague/hemingway/swizzleprovencal.jpg">
+    </a>
+    <div class="alt">Le Swizzle Provençal</div>
+  </div>
 </div>

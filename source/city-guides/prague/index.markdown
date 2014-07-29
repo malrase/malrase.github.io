@@ -49,9 +49,9 @@ There's a fair amount of Czech wine (usually from the [Moravia region](http://en
 #### Cocktails
 The level of cocktail competency in Prague is far, far higher than most other European cities we've visited. However there are a number of over-hyped bars too. I've listed places we've been to by my ranking, from highest to lowest, so if you're visiting Prague... start at the top and work your way down.
 
-**[Hemingway Bar](http://www.hemingwaybar.cz/bar-prague/)**: [Reviewed here](/blog/2014/06/20/hemingway-bar-prague/), overall: 8.1/10.
+**[Hemingway Bar](http://www.hemingwaybar.cz/bar-prague/)**: [Reviewed here](/blog/2014/06/20/hemingway-bar-prague/), overall: 8.6/10.
 
-**[Anonymous Bar]()**: overall: 8.0/10.
+**[Anonymous Bar]()**: overall: 8.5/10.
 
 **[Groove Bar](http://groovebar.cz/)**: This place became our preferred spot for drinks very quickly. The music is great and there's a wonderfully relaxed atmosphere. The drinks are far cheaper, and just as delicious, as most of the other places on this list. Get the signature Greenteani, it's refreshing, smooth and thoroughly drinkable. Also, this is where [Absinthe Prague](/blog/2014/07/11/absinthe-tasting-prague) happens.
 

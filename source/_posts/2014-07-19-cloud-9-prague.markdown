@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 title: "Cloud 9, Prague"
 date: 2014-07-19 11:39:32 +0200
 comments: true
