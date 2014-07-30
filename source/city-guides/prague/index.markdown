@@ -17,7 +17,7 @@ footer: true
 - [Where to Stay](#Where-to-Stay)
 - [Things to Do](#Things-to-Do)
 - [Drink](#Drink)
-- [Food](#Food)
+- [Eat](#Eat)
 
 <a name="Where-to-Stay"></a>
 ### Where to Stay
@@ -87,8 +87,8 @@ Overall: 5.1/10
 
 **[Bugsy's Bar](http://www.bugsysbar.cz/)**: [Reviewed here](/blog/2014/07/17/bugsys-bar-prague), overall: 3.4/10.
 
-<a name="Food"></a>
-### Food
+<a name="Eat"></a>
+### Eat
 
 Naturally, there's Czech food a-plenty in Prague. Much as in Paris you can't walk 100ft without finding a brasserie, in Prague there's a huge number of traditional restaurants.
 
