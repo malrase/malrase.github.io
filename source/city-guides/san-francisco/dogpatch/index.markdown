@@ -26,7 +26,8 @@ Wander around Pier 70
 
 #### Beer
 **[Triple Voodoo](http://www.triplevoodoo.com/triplevoodoo/faces/v2/home.xhtml)**
-**[Smokestack](http://www.magnoliasmokestack.com/)**
+
+**[Smokestack](http://www.magnoliasmokestack.com/)**, from the folks at Magnolia Brewery, recently opened (in fact, it opened after we left on our trip so I haven't been there yet). As well as their brilliant, British-style beer, I hear they serve some overpriced BBQ.
 
 #### Wine
 **[Yield Wine Bar](http://www.yieldandpause.com/)**
@@ -39,29 +40,33 @@ Wander around Pier 70
 <a name="Food"></a>
 ### Food
 
-#### Brunch/Lunch
+#### Brunch/No-fuss
+[Just for You](http://www.justforyoucafe.com/) is a New Orleans/Southwest brunch place. The lines on weekends get crazy, so come early. Get the beignets!
+
 [The Lab](http://thelabcafesf.com/)
 
-[Just for You](http://www.justforyoucafe.com/)
-
-[Hard Knox](http://www.hardknoxcafe.com/)
+[Hard Knox](http://www.hardknoxcafe.com/) opens a little later, but 
 
 The New Spot
 
 
-Cheating, but [PLOW](http://www.eatatplow.com/)
+If you're down for a walk over a freeway overpass, head to Potrero's 18th street corridor. I know it's cheating, but [Plow](http://www.eatatplow.com/) has an amazing brunch. Again, watch out for the lines – we've shown up twenty minutes before they opened and been the last ones to get a table.
 
-#### Dinner
-[Serpentine](http://www.serpentinesf.com/)
+#### Dinner/Fancier
+These places also do lunch and brunch, but they're a little fancier, so they're probably better for dinner.
 
-[Piccino](http://www.piccinocafe.com/)
+[Serpentine](http://www.serpentinesf.com/) is the corner space of a converted warehouse. It's clean and fresh inside and serves some great new-American food. Oh, and get one of their delicious cocktails.
 
-[Long Bridge Pizza](http://longbridgepizza.com/)
+[Piccino](http://www.piccinocafe.com/) 
+
+[Long Bridge Pizza](http://longbridgepizza.com/) – finally, Dogpatch has a pizza place!
 
 [Poquito](http://www.poquitosf.com/)
 
 #### Cafés/Snacks
+[Mr & Mrs Miscellaneous](https://www.facebook.com/pages/Mr-and-Mrs-Miscellaneous/126193770733086) is amazing. Their flavours are 
+
 [Dogpatch Café](http://www.dogpatchcafe.com/)
 
-[Mr & Mrs Miscellaneous](https://www.facebook.com/pages/Mr-and-Mrs-Miscellaneous/126193770733086)
+
 
