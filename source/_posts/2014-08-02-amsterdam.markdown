@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Amsterdam: Touring"
+title: "Touring Amsterdam"
 date: 2014-08-02 16:57:53 +0200
 comments: true
 categories: amsterdam netherlands the-journey-2014
@@ -24,7 +24,7 @@ In a lot of ways, Amsterdam was exactly what I was expecting. Canals criss-cross
   <div class="alt">Hampton and his Dad as we wandered around the canals</div>
 </div>
 
-We walked to [Dam Square](http://en.wikipedia.org/wiki/Dam_Square), the centre of the city. It was nice, but touristy. You had to pay to go in the church or the palace, and we skipped both of them.
+We decided to do a walking tour on foot. We stayed near the [Leidseplein](http://en.wikipedia.org/wiki/Leidseplein), and walking all the way to the center took about 40 minutes. We walked to [Dam Square](http://en.wikipedia.org/wiki/Dam_Square), the centre of the city. It was nice, but touristy. You had to pay to go in the church or the palace, and we skipped both of them.
 
 <div class="img">
   <a href="{{ root_url }}/images/the-journey/amsterdam/dam-palace.jpg">
@@ -54,3 +54,5 @@ Another pro-tip: walk around at dusk. Especially in the summer, it's so relaxed 
   </a>
   <div class="alt">Dusk over houses</div>
 </div>
+
+There's definitely a lot more to the city than hookers and weed (although you can find those in certain areas if you must).
