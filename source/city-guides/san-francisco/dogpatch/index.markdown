@@ -20,13 +20,11 @@ My home neighbourhood (or "[micro-hood](http://www.thebolditalic.com/articles/28
 
 <a name="Things-to-Do"></a>
 ### Things to Do
+The **[Museum of Craft and Design](http://www.sfmcd.org/)** has a regularly-changing set of exhibits focussed on design. I've seen everything from an exhibit on Herman Miller and ergonomic design to an underwater scape of knitted jellyfish.
 
-The **[Museum of Craft and Design](http://www.sfmcd.org/)** has a regularly-changing set of exhibits focussed on design. 
+Wander around **[Pier 70](http://www.pier70sf.com/)**. Dogpatch is undergoing a transition at the moment, and one of the cornerstones of that is the rennovation of the Pier 70 area. If you're on Third St, head east (towards the bay) and stroll through the crumbling warehouses. These will soon be hip, trendy apartments.
 
-Wander around [Pier 70](http://www.pier70sf.com/)
-
-Sitting in [Esprit Park](http://sfrecpark.org/destination/esprit-park/)
-
+**[Esprit Park](http://sfrecpark.org/destination/esprit-park/)** (it was named after the clothing brand; their factory used to be next to here) is a dog-friendly park with lots of benches. It's nice to sit and watch dogs run back and forth. Plus there's some kind of training course/adult-oriented jungle gym thing stationed in the four corners, so if you like working out, there's that.
 
 <a name="Drink"></a>
 ### Drink
