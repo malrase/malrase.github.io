@@ -3,12 +3,10 @@ layout: post
 title: "Museums in Amsterdam"
 date: 2014-08-04 16:36:21 +0200
 comments: true
-categories: amsterdam netherlands the-journey-2014
+categories: anne-frank rijksmuseum van-gogh amsterdam netherlands the-journey-2014
 ---
 
 We toured the four main museums in Amsterdam: the [Rijksmuseum](http://en.wikipedia.org/wiki/Rijksmuseum), the [Van Gogh Museum](http://en.wikipedia.org/wiki/Van_Gogh_Museum), the [Anne Frank House](http://en.wikipedia.org/wiki/Anne_Frank_House) and the [Stedelijk Museum](http://en.wikipedia.org/wiki/Stedelijk_Museum_Amsterdam). For the first three Hampton's Dad bought tickets beforehand – which I'd highly recommend doing as the lines looked hellish. For the last one, Hampton and I rolled up at 4pm on a Sunday (with closing time at 6pm) and waltzed right in.
-
-The Rijksmuseum has recently undergone a huge rennovation, re-opening in April 2013. It certainly shows – the internal atrium is beautiful and the layout is intuitive. **Pro-tip**: don't pay €5 for the museum audio guide! The museum has a free app for iPhone/iPod – with all the same information on it. Use that instead! They even have free wi-fi in the museum if you forget to download it before you get there.
 
 <div class="img">
   <a href="{{ root_url }}/images/the-journey/amsterdam/rijksmuseum.jpg">
@@ -16,6 +14,16 @@ The Rijksmuseum has recently undergone a huge rennovation, re-opening in April 2
   </a>
   <div class="alt">Rijksmuseum, canal-side</div>
 </div>
+
+The Rijksmuseum has recently undergone a huge rennovation, re-opening in April 2013. It certainly shows – the internal atrium is beautiful and the layout is intuitive. **Pro-tip**: don't pay €5 for the museum audio guide! The museum has a free app for iPhone/iPod – with all the same information on it. Use that instead! They even have free wi-fi in the museum if you forget to download it before you get there.
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/rijksmuseum-atrium.jpg">
+    <img src="/images/the-journey/amsterdam/rijksmuseum-atrium.jpg">
+  </a>
+  <div class="alt">Rijksmuseum atrium</div>
+</div>
+
 
 The app offers a 90-minute "highlights" tour, which we did. I could have spent more time in the Dutch masters area (on the second floor) – the highlights tour only looked at a couple of paintings there. The impressionist and romantic areas were a little less exciting. 
 
@@ -99,5 +107,28 @@ There was also [a special exhibition/retrospective on Gijs+Emmy](http://www.sted
 
 The museum had a lot of works that seemed to be crafted for them specifically. It was nice catching glimpses of how the museum itself had fitted into the history of modern art – a self-awareness that's lacking in a lot of museums.
 
-*(I still need to write up about the Anne Frank House, sorry. I accidentally published this too early.)*
+The [Anne Frank House](http://en.wikipedia.org/wiki/Anne_Frank_House) is in the west of Amsterdam, and you should definitely pre-purchase tickets. The line to get in was about an hour long, even at night. We had timed tickets and didn't have to wait at all for our 8pm slot.
 
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/anne-frank-house.jpg">
+    <img src="/images/the-journey/amsterdam/anne-frank-house.jpg">
+  </a>
+  <div class="alt">The house itself</div>
+</div>
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/anne-frank-door.jpg">
+    <img src="/images/the-journey/amsterdam/anne-frank-door.jpg">
+  </a>
+  <div class="alt">Main door (you enter the museum a couple of doors down)</div>
+</div>
+
+I'd never read [The Diary of a Young Girl](http://en.wikipedia.org/wiki/The_Diary_of_a_Young_Girl) before, so I started it in preparation for visiting the house. I'm certainly glad I did – it made the house much more atmospheric. It was strange reading the diary and later on that day seeing quotes on the walls from the diary itself, or reading the actual page on which she wrote that entry.
+
+Inside the house, you can't take photos. But it was incredibly well-preserved. You walk through the old warehouse and offices in the front of the building, through a secret bookcase (the *actual bookcase* that was built in 1942 for the purpose of obscuring the hiding place) and into the annex. I was expecting an attic, but the living space was split over two floors and certainly more of an "annex" to the main house. 
+
+In Anne's room, she had glued pictures onto the wall from a magazine she used to have. The pictures were still there – it looked like a normal child's room. There were marks on the wall measuring how tall Anne and her sister had become over their two years in hiding. It was incredibly moving seeing remnants of a life that you knew didn't end well.
+
+There were also exhibits on the diary itself (the *actual* diary she wrote in) and her father's role in getting it published. Both [Anne's father](http://en.wikipedia.org/wiki/Otto_Frank) and the people who helped keep the annex a secret lived long after the war, and helped to put together the museum. There are video clips of them talking about their experiences, which adds an extra level to the museum.
+
+I'm not sure I can say I *enjoyed* the museum, but it was deeply humbling and emotional. Definitely a must-do if you're in Amsterdam.
