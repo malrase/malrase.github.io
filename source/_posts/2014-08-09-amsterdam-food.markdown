@@ -79,7 +79,7 @@ I got a trio of what were essentially mashed potatoes with other stuff in them. 
 
 The sauerkraut one was the best. Nom nom.
 
-The other thing that seemed to be everywhere was pancakes. We went to a pancake place and saw they had "[poffertjes](http://en.wikipedia.org/wiki/Poffertjes)" – a kind of cross between beignets and American-style pancakes. They were served with butter and icing sugar. Very healthy. 
+The other thing that seemed to be everywhere was pancakes. We went to a pancake place and saw they had [poffertjes](http://en.wikipedia.org/wiki/Poffertjes) – a kind of cross between beignets and American-style pancakes. They were served with butter and icing sugar. Very healthy. 
 
 <div class="img">
   <a href="{{ root_url }}/images/the-journey/amsterdam/food/poffertjes.jpg">
