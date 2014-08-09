@@ -4,7 +4,6 @@ title: "Food and Drink in Amsterdam"
 date: 2014-08-09 13:20:31 +0200
 comments: true
 categories: food cocktails amsterdam netherlands the-journey-2014
-published: false
 ---
 
 We visited a couple of great cocktail bars while in Amsterdam. The first was [Door 74](http://www.door-74.com/). You need to phone up to get a reservation, but we did that literally minutes before knocking on the door, and they had a table.
