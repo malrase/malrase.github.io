@@ -119,4 +119,45 @@ And there was a lady selling ice-lollies (or "popsicles").
   <div class="alt">Buttermilk and lemon</div>
 </div>
 
-OK, that's all my Markthalle photos. We did eat some fancy food as well – at [Sage](http://www.sage-restaurant.de/cms/). They h
+OK, that's all my Markthalle photos. We did eat some fancy food as well – at [Sage](http://www.sage-restaurant.de/cms/). I really like the interior of this place. It's in a warehouse and has lots of industrial touches – like giant chains hanging from the ceiling. But it's also bright due to the large windows and white canvases on the walls. 
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/berlin/food/sage-inside.jpg">
+    <img src="/images/the-journey/berlin/food/sage-inside.jpg">
+  </a>
+  <div class="alt">Sage interior</div>
+</div>
+
+We went for a four-course Chef's surprise menu. It was a great choice – full of interesting flavours and ingredients that I'd never come across before. Here's some pictures:
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/berlin/food/sage-octopus.jpg">
+    <img src="/images/the-journey/berlin/food/sage-octopus.jpg">
+  </a>
+  <div class="alt">Octopus, potato foam, chorizo</div>
+</div>
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/berlin/food/sage-monkfish.jpg">
+    <img src="/images/the-journey/berlin/food/sage-monkfish.jpg">
+  </a>
+  <div class="alt">Monkfish, black potato purée</div>
+</div>
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/berlin/food/sage-beef.jpg">
+    <img src="/images/the-journey/berlin/food/sage-beef.jpg">
+  </a>
+  <div class="alt">Beef, spinach polenta, mushrooms, spiced pumpkin</div>
+</div>
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/berlin/food/sage-icecream.jpg">
+    <img src="/images/the-journey/berlin/food/sage-icecream.jpg">
+  </a>
+  <div class="alt">Lemon sorbet, chocolate-covered marscapone ice-cream</div>
+</div>
+
+It was super-tasty and you should definitely go if you're in the area. Get an apéritif on the beach beforehand!
+
+Our time in Berlin is almost over, and next we'll be heading off to Stockholm for [HybridConf](http://hybridconf.net/).
