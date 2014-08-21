@@ -98,5 +98,5 @@ The door has a sign saying you have to "knock and smile" to enter, which I did. 
 
 The bartender came over and told us they had a gin-based special drink. I ordered that one, and Hampton ordered a manhattan (which elicited a big sigh from the bartender). I like the idea of a no-menu, bartender-curated drinks list but only if the bartender is nice. Anyway, the drinks came after about fifteen minutes (which was weird, as we were the only people in there). They were really bloody good, and served in equisite, delicate glassware.
 
-After we'd finished our drinks, we had to wait another twenty minutes of the bartender disappearing and/or ignoring our requests for the bill. Great cocktails, but not really worth the lacklustre service. Overall: 5.6 
+After we'd finished our drinks, we had to wait another twenty minutes of the bartender disappearing and/or ignoring our requests for the bill. Great cocktails, but not really worth the lacklustre service. Overall: 5.6
 

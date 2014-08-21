@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Markhalle Neun and Sage"
-date: 2014-08-17 16:43:03 +0200
+date: 2014-08-20 14:43:03 +0200
 comments: true
 categories: food kreuzberg berlin germany the-journey-2014
-published: false
 ---
 
 There's a great indoor market called [Markthalle Neun](http://www.markthalleneun.de/) that's about [a block away from where we're staying](https://www.google.com/maps/preview?ie=UTF-8&fb=1&cid=10953314371184579858&q=Markthalle+Neun+GmbH&ei=3sHwU4q8BLDQ7Aa4tYDgCg&ved=0CL0BEPwSMA4). It's not a traditional market in that there are people selling stuff every day. On a normal day there's a handful of stands or mini-kitchens selling locally-made food, wine, and other stuff.
