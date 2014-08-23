@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stockholm"
-date: 2014-08-22 15:03:14 +0200
+date: 2014-08-23 12:55:14 +0100
 comments: true
 categories: stockholm sweden the-journey-2014
 ---
@@ -58,7 +58,7 @@ It's one of the largest intact boats on display from the 1600s, and it's in grea
 
 You'll notice there's some areas of slightly lighter wood on the image above (the post on the top-left, and the cherub mid-right). Those are where the original carvings fell off and they re-carved them from new wood. It's kind of crazy to think that the rest of the carvings remained like that from when they were made in 1628.
 
-Finally we headed back to the city centre (just north of gamla stan) for some food. We ate at a great Scandinavian restaurant called [Rolf's Kök](). I had a super-rich ox cheek dish, and Hampton had a creamy fish stew. Both were delicious!
+Finally we headed back to the city centre (just north of gamla stan) for some food. We ate at a great Scandinavian restaurant called [Rolf's Kök](http://www.rolfskok.se/?lang=en). I had a super-rich ox cheek dish, and Hampton had a creamy fish stew. Both were delicious!
 
 <div class="img">
   <a href="{{ root_url }}/images/the-journey/stockholm/rolfs-bread.jpg">
@@ -74,7 +74,7 @@ Finally we headed back to the city centre (just north of gamla stan) for some fo
   <div class="alt">Ox cheek</div>
 </div>
 
-After that, we realised that there was a [Mikkeller Bar]() nearby. A Mikkeller Bar recently opened in San Francisco, but we never went. Why not go now, when we're half-way around the world?! So we went. I had a tasty IPA. Hampton tried asking the bartender if they had a British-style ale, but got a sassy reply, so had some wine instead.
+After that, we realised that there was a [Mikkeller Bar](http://mikkeller.dk/mikkeller-stockholm/) nearby. A Mikkeller Bar recently opened in San Francisco, but we never went. Why not go now, when we're half-way around the world?! So we went. I had a tasty IPA. Hampton tried asking the bartender if they had a British-style ale, but got a sassy reply, so had some wine instead.
 
 <div class="img">
   <a href="{{ root_url }}/images/the-journey/stockholm/mikkeller-ipa.jpg">
@@ -83,7 +83,7 @@ After that, we realised that there was a [Mikkeller Bar]() nearby. A Mikkeller B
   <div class="alt">Viking 25 IPA</div>
 </div>
 
-As if to remind me how silly it was going to a bar that's in my home city, they had the [Mission Chinese]() lager on the board, too.
+As if to remind me how silly it was going to a bar that's in my home city, they had the [Mission Chinese](http://insidescoopsf.sfgate.com/blog/2014/01/13/mikkeller-introduces-mission-chinese-food-beer/) lager on the board, too.
 
 <div class="img">
   <a href="{{ root_url }}/images/the-journey/stockholm/mikkeller-mission.jpg">
