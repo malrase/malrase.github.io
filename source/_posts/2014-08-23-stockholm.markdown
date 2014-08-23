@@ -94,7 +94,7 @@ As if to remind me how silly it was going to a bar that's in my home city, they 
 
 After that, we tried to find a decent, reasonably-priced cocktail. Pro-tip: don't try to find a decent, reasonably-priced cocktail in Stockholm. Cocktails are extremely expensive (think $20 up). We ended up in a hotel bar and got an overly-sweet Manhattan that barely covered the bottom of the glass it was served in. 
 
-*Having said that*, we did get a list of cocktail bar recommendations from someone in Stockholm. We'll have to go back, if only to do a local's tour. Most of them seemed to be in **SUD MALM**, which is apparently the hipster area of Stockholm.
+*Having said that*, we did get a list of cocktail bar recommendations from someone in Stockholm. We'll have to go back, if only to do a local's tour. Most of them seemed to be in [Södermalm](http://en.wikipedia.org/wiki/S%C3%B6dermalm), which is apparently the hipster area of Stockholm.
 
 Anyway, we had a lot of fun in the city and I'm sad to be leaving so soon. Like Vienna, I want to make a point of visiting again, and staying longer next time. 
 
