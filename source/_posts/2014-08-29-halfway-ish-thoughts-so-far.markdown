@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Halfway-ish: Thoughts So Far on Our Travels"
-date: 2014-08-22 16:03:24 +0100
+date: 2014-08-29 12:28:24 +0200
 comments: true
 categories: the-journey-2014
-published: false
 ---
 
 We're about to head back to North America. That's right, the European leg of our 2014 journey is almost over. In a lot of ways, I'm sad to be leaving. I feel a little short-changed – we only had *one day* in Vienna? Why didn't we make it to Budapest? Should we have spent time in a random British city, too?
@@ -43,6 +42,6 @@ Summer is wrapping up in Europe and I'm starting to wear my heavier clothes agai
 
 ### Things I'm *so* glad I brought
 
-**T-Mobile SIM card** – I can't sing the praises of (the USA company) T-Mobile enough. They have unlimited 3G data and texts for a large number of countries, and we switched to them just before we left the USA. Being able to use Google Maps, or check your e-mail, without having to worry about paying through the nose for every single megabyte is incredibly relieving.
+**T-Mobile SIM card** – I can't sing the praises of (the USA company) T-Mobile enough; we switched to them just before we left the USA.  They have unlimited 3G data and texts for a large number of countries, including every country we've visited. Being able to use Google Maps, or check your e-mail, without having to worry about paying through the nose for every single megabyte is incredibly relieving.
 
-**iPad** – this maybe goes without saying. I was never that into my iPad, but waiting in airports, taking train journeys, and other such times have made be really appreciate it.  
+**iPad** – this might be obvious for people who have and love their iPads. I was never that into my iPad, but waiting in airports, taking train journeys, and other such times have made be really appreciate it.  
