@@ -6,8 +6,25 @@ sharing: true
 footer: true
 ---
 
-### Overall
+<div class="city-view">
+  <a href="{{ root_url }}/images/pic.jpg">
+    <img src="/images/pic.jpg">
+  </a>
+</div>
 
-### Bars
+- [Where to Stay](#Where-to-Stay)
+- [Things to Do](#Things-to-Do)
+- [Drink](#Drink)
+- [Eat](#Eat)
 
-### Restaurants
+<a name="Where-to-Stay"></a>
+### Where to Stay
+
+<a name="Things-to-Do"></a>
+### Things to Do
+
+<a name="Drink"></a>
+### Drink
+
+<a name="Eat"></a>
+### Eat
