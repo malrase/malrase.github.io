@@ -44,7 +44,7 @@ Despite its nose-burning smell, it tasted fine. Harsh at first, it quickly becom
   <div class="alt">Time to make a cocktail</div>
 </div>
 
-Mike and Melissa have a well-stocked bar, so I had a lot of stuff to work with. But where to begin? I looked online for some brandy cocktails to see if I could modify them. One suggestion was the [Metropolitan](http://cocktails.about.com/od/atozcocktailrecipes/r/mtropltn_cktl.htm) – like a Manhattan but with brandy instead of whiskey. I used one part sweet vermouth to three parts paekrosul, plus some Angostura for good measure. It didn't taste that great, though. As the paekrosul was sweet already, the vermouth didn't contribute much. Plus the main off-putting thing about paekrosul was the smell. Neither the vermouth nor the bitters covered that up. Time to try a different route.
+Mike and Melissa have a well-stocked bar, so I had a lot of stuff to work with. But where to begin? I looked online for some brandy cocktails to see if I could modify them. One suggestion was the [metropolitan](http://cocktails.about.com/od/atozcocktailrecipes/r/mtropltn_cktl.htm) – like a manhattan but with brandy instead of whiskey. I used one part sweet vermouth to three parts Paekrosul, plus some Angostura for good measure. It didn't taste that great, though. As the Paekrosul was sweet already, the vermouth didn't contribute much. Plus the main off-putting thing about Paekrosul was the smell. Neither the vermouth nor the bitters covered that up. Time to try a different route.
 
 My favourite cocktails are all citrus-based. Citrus fruits also tend to have pretty strong aromas, so I thought using lemon or lime might be good.
 
@@ -68,7 +68,7 @@ I also ended up adding some [Cointreau triple sec](http://en.wikipedia.org/wiki/
   <div class="alt">The final drink</div>
 </div>
 
-Ta-da! It wasn't the best cocktail I've ever made, but I think I did a good job of mostly masking the worst flavours of the paekrosul while keeping its more distinctive flavours. I'm pretty sure by next summer it will be on every speakeasy menu from Brooklyn to the Mission.
+Ta-da! It wasn't the best cocktail I've ever made, but I think I did a good job of mostly masking the worst flavours of the Paekrosul while keeping its more distinctive flavours. I'm pretty sure by next summer it will be on every speakeasy menu from Brooklyn to the Mission.
 
 I haven't come up with a witty name yet, so suggestions are welcome. 
 
@@ -79,7 +79,7 @@ I haven't come up with a witty name yet, so suggestions are welcome.
   <div class="alt">Final ingredients</div>
 </div>
 
-The recipe, if you want to make this at home (!), is as follows:
+If you have some Paekrosul , is as follows:
 
 - 3 parts Paekrosul
 - 1 part Triple Sec
