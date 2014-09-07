@@ -15,7 +15,7 @@ We were staying in an area new to us: [Montmartre](http://en.wikipedia.org/wiki/
     <img src="/images/the-journey/paris/sept/cafe.jpg">
   </a>
   <div class="alt">Chilling in a café</div>
-</div> 
+</div>
 
 One of the first things we did was walk to the Sacré-Cœur. It's something you can see from most of Paris, perched on the top of Montmartre like a wedding cake topper. Neither of us had been before, so we trekked up the few hundred steps to the top.
 
