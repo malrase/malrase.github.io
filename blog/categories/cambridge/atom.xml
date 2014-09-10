@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Cambridge | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/cambridge/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2014-09-05T16:43:04-04:00</updated>
+  <updated>2014-09-07T14:45:39-04:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -23,7 +23,7 @@
 <p>As we entered the backroads of northern Cambridge, we realised we were going to <a href="http://www.midsummerhouse.co.uk/">Midsummer House</a>, the 2-Michelin-starred restaurant where we got married just over three years ago. Needless to say, we were both incredibly excited. We had the tasting menu with wine pairings, and it was incredible. I think it supersedes other meals I&rsquo;ve had there to be the best meal of my life. I took some pictures, so here you go:</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/midsummer-house/bloody-mary.jpg">
+  <a href="/images/midsummer-house/bloody-mary.jpg">
     <img src="http://www.malrase.com/images/midsummer-house/bloody-mary.jpg">
   </a>
   <div class="alt">
@@ -33,7 +33,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/midsummer-house/goats-cheese.jpg">
+  <a href="/images/midsummer-house/goats-cheese.jpg">
     <img src="http://www.malrase.com/images/midsummer-house/goats-cheese.jpg">
   </a>
   <div class="alt">
@@ -43,7 +43,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/midsummer-house/scallop.jpg">
+  <a href="/images/midsummer-house/scallop.jpg">
     <img src="http://www.malrase.com/images/midsummer-house/scallop.jpg">
   </a>
   <div class="alt">
@@ -53,7 +53,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/midsummer-house/trestle.jpg">
+  <a href="/images/midsummer-house/trestle.jpg">
     <img src="http://www.malrase.com/images/midsummer-house/trestle.jpg">
   </a>
   <div class="alt">
@@ -63,7 +63,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/midsummer-house/sweetbreads.jpg">
+  <a href="/images/midsummer-house/sweetbreads.jpg">
     <img src="http://www.malrase.com/images/midsummer-house/sweetbreads.jpg">
   </a>
   <div class="alt">
@@ -73,7 +73,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/midsummer-house/brill.jpg">
+  <a href="/images/midsummer-house/brill.jpg">
     <img src="http://www.malrase.com/images/midsummer-house/brill.jpg">
   </a>
   <div class="alt">
@@ -83,7 +83,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/midsummer-house/beef.jpg">
+  <a href="/images/midsummer-house/beef.jpg">
     <img src="http://www.malrase.com/images/midsummer-house/beef.jpg">
   </a>
   <div class="alt">
@@ -93,7 +93,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/midsummer-house/pousse-cafe.jpg">
+  <a href="/images/midsummer-house/pousse-cafe.jpg">
     <img src="http://www.malrase.com/images/midsummer-house/pousse-cafe.jpg">
   </a>
   <div class="alt">
@@ -103,7 +103,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/midsummer-house/kumkwats.jpg">
+  <a href="/images/midsummer-house/kumkwats.jpg">
     <img src="http://www.malrase.com/images/midsummer-house/kumkwats.jpg">
   </a>
   <div class="alt">
@@ -113,7 +113,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/midsummer-house/chocolate.jpg">
+  <a href="/images/midsummer-house/chocolate.jpg">
     <img src="http://www.malrase.com/images/midsummer-house/chocolate.jpg">
   </a>
   <div class="alt">

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Usa | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/usa/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2014-09-05T16:43:04-04:00</updated>
+  <updated>2014-09-07T14:45:39-04:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p>After a quick trip to Jacksonville for my father-in-law&rsquo;s birthday, our next stop was Philadelphia. I had only visited Philadelphia by passing through its airport, and I&rsquo;ve heard a lot about it as a city, so I was excited to spend a few days there. I was on my best behaviour and only made one joke about <a href="http://en.wikipedia.org/wiki/It's_Always_Sunny_in_Philadelphia">it being sunny</a>.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/phl/chesse-steak.jpg">
+  <a href="/images/the-journey/phl/chesse-steak.jpg">
     <img src="http://www.malrase.com/images/the-journey/phl/chesse-steak.jpg">
   </a>
   <div class="alt">Classic Philly chesse steak</div>
@@ -31,7 +31,7 @@
 <p>Our first night we went to <a href="http://www.yelp.com/biz/the-ranstead-room-philadelphia">the Ranstead Room</a>, at 20th and Ranstead. It&rsquo;s down an alley behind a modest black door.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/phl/ranstead.jpg">
+  <a href="/images/the-journey/phl/ranstead.jpg">
     <img src="http://www.malrase.com/images/the-journey/phl/ranstead.jpg">
   </a>
   <div class="alt">Door to Ranstead Room</div>
@@ -50,7 +50,7 @@
 <p>We stopped in <a href="http://www.yelp.com/biz/jinxed-tuckers-digs-philadelphia">a neat store</a> that seemed to sell a lot of odd items (including lamps made out of what looked like spinal columns). On the way out, I looked down a small alley – <a href="https://www.google.com/maps/@39.941169,-75.148958,3a,75y,102.7h,81.52t/data=!3m4!1e1!3m2!1sQadqWDkEoiNfRxrUPPZrGA!2e0">Kater St</a> – to see some incredible mosaic-murals.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/phl/kater-mural.jpg">
+  <a href="/images/the-journey/phl/kater-mural.jpg">
     <img src="http://www.malrase.com/images/the-journey/phl/kater-mural.jpg">
   </a>
   <div class="alt">South side of Kater St</div>
@@ -60,7 +60,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/phl/mural-selfie.jpg">
+  <a href="/images/the-journey/phl/mural-selfie.jpg">
     <img src="http://www.malrase.com/images/the-journey/phl/mural-selfie.jpg">
   </a>
   <div class="alt">Up close: mosaic selfie! </div>
@@ -70,7 +70,7 @@
 <p>The mosaics are the work of <a href="http://en.wikipedia.org/wiki/Isaiah_Zagar">Isaiah Zagar</a>, who has around 200 mosaics in the South Street area of Philadelphia. They use a lot of mirror pieces and include quotations and the address of the place. They were mesmerising and I felt I could have spent hours sitting in front of them. Apparently there&rsquo;s <a href="http://en.wikipedia.org/wiki/In_a_Dream_(film)">a movie about him</a>, so I&rsquo;ll have to check that out.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/phl/kater-mural2.jpg">
+  <a href="/images/the-journey/phl/kater-mural2.jpg">
     <img src="http://www.malrase.com/images/the-journey/phl/kater-mural2.jpg">
   </a>
   <div class="alt">North side of Kater St</div>
@@ -80,7 +80,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/phl/mural-selfie2.jpg">
+  <a href="/images/the-journey/phl/mural-selfie2.jpg">
     <img src="http://www.malrase.com/images/the-journey/phl/mural-selfie2.jpg">
   </a>
   <div class="alt">Up close</div>
@@ -119,7 +119,7 @@
   <p>The second drink, the Getaway, had two main ingredients: a black rum and <a href="http://en.wikipedia.org/wiki/Cynar">cynar</a> (<em>chee</em>-nar). </p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/dc/getaway-ingredients.jpg">
+    <a href="/images/the-journey/dc/getaway-ingredients.jpg">
       <img src="http://www.malrase.com/images/the-journey/dc/getaway-ingredients.jpg">
     </a>
     <div class="alt">Ingredients for the Getaway</div>
@@ -134,7 +134,7 @@
   <p>As the previous cocktails were so good, we decided to stay for another one each. We asked the bartender for two gin-based drinks – one with citrus and one without.</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/dc/dry-martini.jpg">
+    <a href="/images/the-journey/dc/dry-martini.jpg">
       <img src="http://www.malrase.com/images/the-journey/dc/dry-martini.jpg">
     </a>
     <div class="alt">Dry Martini</div>
@@ -143,7 +143,7 @@
   <p>Hampton got a dry martini with Plymouth gin. It was pretty delicious. The bartender recommended Plymouth as a good go-to gin that mixes well with other ingredients.</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/dc/last-word-ingredients.jpg">
+    <a href="/images/the-journey/dc/last-word-ingredients.jpg">
       <img src="http://www.malrase.com/images/the-journey/dc/last-word-ingredients.jpg">
     </a>
     <div class="alt">Last Word Ingredients</div>
@@ -154,7 +154,7 @@
   <p>The Maraschino liqueur was strange. I'm familiar with Luxardo-style maraschino cherries, so was expecting the liqueuer to be a deep purple syrup. However, it looked and tasted more like a simple syrup that had a hint of cherry flavour.</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/dc/last-word-cocktail.jpg">
+    <a href="/images/the-journey/dc/last-word-cocktail.jpg">
       <img src="http://www.malrase.com/images/the-journey/dc/last-word-cocktail.jpg">
     </a>
     <div class="alt">Last Word</div>
@@ -186,7 +186,7 @@
 <p>We ate at a neat burger place on Union Sq &ndash; the aptly-named <a href="http://www.burger-bar.com/">Burger Bar</a>.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/burger-bar-view.jpg">
+  <a href="/images/san-francisco/burger-bar-view.jpg">
     <img src="http://www.malrase.com/images/san-francisco/burger-bar-view.jpg">
   </a>
   <div class="alt">View from Burger Bar.</div>
@@ -196,7 +196,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/burger-bar.jpg">
+  <a href="/images/san-francisco/burger-bar.jpg">
     <img src="http://www.malrase.com/images/san-francisco/burger-bar.jpg">
   </a>
   <div class="alt">The burger I had. I think it was buffalo?</div>
@@ -208,7 +208,7 @@
 <p>We went to an awesome beach &ndash; China Beach. It was really quiet and had insane views of the Golden Gate and its bridge.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/china-beach.jpg">
+  <a href="/images/san-francisco/china-beach.jpg">
     <img src="http://www.malrase.com/images/san-francisco/china-beach.jpg">
   </a>
 </div>
@@ -230,7 +230,7 @@
 <p>We flew United 2623 from CLT to SFO. They had WIFI!!!!! Zomg. It&rsquo;s still a novelty for me. I don&rsquo;t have many photos of the CLT-SFO flight, just the food pretty much.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/plane/ua2623-pasta.jpg">
+  <a href="/images/plane/ua2623-pasta.jpg">
     <img src="http://www.malrase.com/images/plane/ua2623-pasta.jpg">
   </a>
   <div class="alt">
@@ -240,7 +240,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/plane/ua2623-dessert.jpg">
+  <a href="/images/plane/ua2623-dessert.jpg">
     <img src="http://www.malrase.com/images/plane/ua2623-dessert.jpg">
   </a>
   <div class="alt">
@@ -250,7 +250,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/plane/ua2623-wifi.jpg">
+  <a href="/images/plane/ua2623-wifi.jpg">
     <img src="http://www.malrase.com/images/plane/ua2623-wifi.jpg">
   </a>
   <div class="alt">
@@ -262,7 +262,7 @@
 <p>I&rsquo;d never been to San Francisco before, so it was a bit of an adventure. We only spent a couple of days doing touristy things, and the rest of the time was mostly Hampton working at Moovweb and me working on the book. Here&rsquo;s some tourist photos.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/pier-39.jpg">
+  <a href="/images/san-francisco/pier-39.jpg">
     <img src="http://www.malrase.com/images/san-francisco/pier-39.jpg">
   </a>
   <div class="alt">
@@ -272,7 +272,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/sea-lions.jpg">
+  <a href="/images/san-francisco/sea-lions.jpg">
     <img src="http://www.malrase.com/images/san-francisco/sea-lions.jpg">
   </a>
   <div class="alt">
@@ -282,7 +282,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/alcatraz-fog.jpg">
+  <a href="/images/san-francisco/alcatraz-fog.jpg">
     <img src="http://www.malrase.com/images/san-francisco/alcatraz-fog.jpg">
   </a>
   <div class="alt">
@@ -294,7 +294,7 @@
 <p>(We didn&rsquo;t actually go to Alcatraz, even though I reaaaaally wanted to.)</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/transam.jpg">
+  <a href="/images/san-francisco/transam.jpg">
     <img src="http://www.malrase.com/images/san-francisco/transam.jpg">
   </a>
   <div class="alt">
@@ -304,7 +304,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/hyatt-view.jpg">
+  <a href="/images/san-francisco/hyatt-view.jpg">
     <img src="http://www.malrase.com/images/san-francisco/hyatt-view.jpg">
   </a>
   <div class="alt">
