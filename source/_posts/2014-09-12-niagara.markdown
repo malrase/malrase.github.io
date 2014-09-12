@@ -1,0 +1,130 @@
+---
+layout: post
+title: "Niagara"
+date: 2014-09-12 16:05:23 -0400
+comments: true
+categories: wine niagara niagara-falls the-journey-2014 canada
+---
+
+Flying to Toronto, I saw the [Niagara Falls](http://en.wikipedia.org/wiki/Niagara_Falls) as a misty interruption of the [Niagara River](http://en.wikipedia.org/wiki/Niagara_River). Turns out they're only about a 1.5hr drive from Toronto, so we decided to head there for an overnight trip. Extra bonus: to get there you travel through [Ontario wine country](http://en.wikipedia.org/wiki/Ontario_wine), so we stopped off at a winery on the way back.
+
+Niagara Falls (the town) is very... commercial. It's almost like a damp Las Vegas. The Canada side (with the better views) has a bunch of casinos, super-tall hotels, chain restaurants. It's a little overwhelming, especially if you imagined it would just be a beautiful waterfall surrounded by nature. 
+
+We stayed at the Hilton, which had pretty neat views of the [American Falls](http://en.wikipedia.org/wiki/American_Falls).
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/toronto/niagara/hotel-view.jpg">
+    <img src="/images/the-journey/toronto/niagara/hotel-view.jpg">
+  </a>
+  <div class="alt">View from our room</div>
+</div>
+
+We arrived at 6pm, and headed straight for the [Hornblower](http://www.niagaracruises.com/). It's the Canadian version of the [Maid of the Mist](http://en.wikipedia.org/wiki/Maid_of_the_Mist) boat.
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/toronto/niagara/panorama.jpg">
+    <img src="/images/the-journey/toronto/niagara/panorama.jpg">
+  </a>
+  <div class="alt">Panorama on the Hornblower</div>
+</div>
+
+You take a route up the river, past the [American Falls](http://en.wikipedia.org/wiki/American_Falls) and [Bridal Veil Falls](http://en.wikipedia.org/wiki/Bridal_Veil_Falls_(Niagara_Falls\)).
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/toronto/niagara/american-bridal.jpg">
+    <img src="/images/the-journey/toronto/niagara/american-bridal.jpg">
+  </a>
+  <div class="alt">American Falls and Bridal Veil Falls</div>
+</div>
+
+After that, the boat goes right into the mist spray of the [Horseshoe Falls](http://en.wikipedia.org/wiki/Horseshoe_Falls). **Pro-tip**: if you have contact lenses, wear them. I was running out of dry bits of T-shirt to wipe my glasses with.
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/toronto/niagara/horseshoe.jpg">
+    <img src="/images/the-journey/toronto/niagara/horseshoe.jpg">
+  </a>
+  <div class="alt">Horseshoe Falls</div>
+</div>
+
+This next photo adequately captures what it feels like in the middle: it's windy and there's mist everywhere and it's loud.
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/toronto/niagara/in-horseshoe.jpg">
+    <img src="/images/the-journey/toronto/niagara/in-horseshoe.jpg">
+  </a>
+  <div class="alt">In the middle of the falls</div>
+</div>
+
+After we got off the boat (thankfully it was pretty warm, so we dried quickly), we headed to our evening meal at [Weinkeller](http://www.weinkeller.ca/). But on the way, we passed a haunted house: Dracula's Haunted Castle [on Clifton Hill](https://www.google.com/maps/@43.0912213,-79.0744428,3a,75y,21.98h,80.75t/data=!3m4!1e1!3m2!1siKb9ZlIUyOeNtBlIvdj2Tg!2e0). We like that sort of thing, so went inside. It was $10 each, and you can choose your scare level – we chose medium.
+
+We were the only ones in there, and after paying headed up some stairs in pitch-black darkness. The first few rooms are dull – mostly poorly-done wa figures. However, towards the latter half the scare actor(s?) come in. He was amazing – he growled and chased us through the maze. It was pretty terrifying, I have to admit. I've never been more relieved than seeing those stairs leading to the exit.
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/toronto/niagara/weinkeller-nextdoor.jpg">
+    <img src="/images/the-journey/toronto/niagara/weinkeller-nextdoor.jpg">
+  </a>
+  <div class="alt">Weinkeller</div>
+</div>
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/toronto/niagara/weinkeller-main.jpg">
+    <img src="/images/the-journey/toronto/niagara/weinkeller-main.jpg">
+  </a>
+  <div class="alt">Weinkeller</div>
+</div>
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/toronto/niagara/horseshoe-edge.jpg">
+    <img src="/images/the-journey/toronto/niagara/horseshoe-edge.jpg">
+  </a>
+  <div class="alt">The edge of Horseshoe Falls</div>
+</div>
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/toronto/niagara/horseshoe-tunnel.jpg">
+    <img src="/images/the-journey/toronto/niagara/horseshoe-tunnel.jpg">
+  </a>
+  <div class="alt">Tunnels underneath Horseshoe Falls</div>
+</div>
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/toronto/niagara/horseshoe-behind.jpg">
+    <img src="/images/the-journey/toronto/niagara/horseshoe-behind.jpg">
+  </a>
+  <div class="alt">Where Horseshoe Falls meets the river</div>
+</div>
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/toronto/niagara/horseshoe-back.jpg">
+    <img src="/images/the-journey/toronto/niagara/horseshoe-back.jpg">
+  </a>
+  <div class="alt">Behind Horseshoe Falls</div>
+</div>
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/toronto/niagara/fielding-entrance.jpg">
+    <img src="/images/the-journey/toronto/niagara/fielding-entrance.jpg">
+  </a>
+  <div class="alt">Entrance to Fielding Estates</div>
+</div>
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/toronto/niagara/fielding-inside.jpg">
+    <img src="/images/the-journey/toronto/niagara/fielding-inside.jpg">
+  </a>
+  <div class="alt">Inside the tasting room/shop</div>
+</div>
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/toronto/niagara/fielding-vats.jpg">
+    <img src="/images/the-journey/toronto/niagara/fielding-vats.jpg">
+  </a>
+  <div class="alt">Casks of wine</div>
+</div>
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/toronto/niagara/fielding-view.jpg">
+    <img src="/images/the-journey/toronto/niagara/fielding-view.jpg">
+  </a>
+  <div class="alt">View over the vinyards</div>
+</div>
