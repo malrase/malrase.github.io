@@ -17,6 +17,9 @@ a[rel=full-article] > span {
   @media screen and (max-width: $break) {
     margin-right: 10px;
   }
+  a {
+    border-bottom: none;
+  }
   .prev {
     width: 28%;
     display: inline-block;

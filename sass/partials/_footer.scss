@@ -10,6 +10,7 @@ body > footer {
   }
   a {
     color: lighten($nav-bar-color, 50%);
+    border-bottom: none;
     &:visited {
       color: lighten($nav-bar-color, 50%);
     }

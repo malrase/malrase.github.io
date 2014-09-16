@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Bar Chef"
+date: 2014-09-16 12:10:44 -0400
+comments: true
+categories: cocktails toronto canada the-journey-2014
+published: false
+---
+
+[Bar Chef](http://www.barcheftoronto.com/)
+
+It was dark inside, so most of my photos are a little grainy. 
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/toronto/barchef/barchef.jpg">
+    <img src="/images/the-journey/toronto/barchef/barchef.jpg">
+  </a>
+  <div class="alt">Bar Chef placemat</div>
+</div>
+
+<div class="img">
+  <a href="{{ root_url }}/images/the-journey/toronto/barchef/symphony-daiquiri.jpg">
+    <img src="/images/the-journey/toronto/barchef/symphony-daiquiri.jpg">
+  </a>
+  <div class="alt">Bar Chef placemat</div>
+</div>
+
+basil daiquiri
+symphony no 5
