@@ -4,7 +4,6 @@ title: "Momofuku and Other Toronto Eats"
 date: 2014-09-16 10:15:28 -0400
 comments: true
 categories: food toronto canada the-journey-2014
-published: false
 ---
 
 I've enjoyed watching [David Chang's](http://en.wikipedia.org/wiki/David_Chang) [Momofuku](http://en.wikipedia.org/wiki/Momofuku_(restaurants\)) empire grow, but I've never had the opportunity to eat at one of his restaurants. As he hasn't opened a restaurant in San Francisco, the closest I've got is reading [Lucky Peach](http://lky.ph/). I was super excited to go to one of his restaurants in Toronto.
