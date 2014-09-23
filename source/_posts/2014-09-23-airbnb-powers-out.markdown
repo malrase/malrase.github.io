@@ -1,19 +1,18 @@
 ---
 layout: post
 title: "AirBnB (Power's Out)"
-date: 2014-09-20 12:27:36 -0400
+date: 2014-09-23 12:27:36 -0400
 comments: true
-categories: 
-published: false
+categories: airbnb nyc usa the-journey-2014
 ---
 
 We're in New York City! The Big Apple! The city that never sleeps! Etc. etc.
 
-We'd booked a small but nicely-designed AirBnB in [Chelsea](http://en.wikipedia.org/wiki/Chelsea,_Manhattan). After a small mix-up with the address (turns out the listed address was one street off, for some reason), we arrived and settled in. It was a little dirty, and there were no towels, but a quick stop at Bed, Bath and Beyond sorted our need for cleaning supplies and linen.
+We'd booked a small but nicely-designed AirBnB in [Chelsea](http://en.wikipedia.org/wiki/Chelsea,_Manhattan). After a small mix-up with the address (turns out the listed address was one street off, for some reason), we arrived and settled in. It was a little dirty, and there were no towels, but a quick stop at [Bed, Bath and Beyond](https://www.google.com/maps/place/Bed+Bath+%26+Beyond/@40.7406703,-73.9942279,16z/data=!3m1!5s0x89c25d0c60996adb:0x480c0d194112b5d3!4m5!1m2!2m1!1sbed+bath+and+beyond+nyc!3m1!1s0x0:0x231ff6a484b76185) sorted our need for cleaning supplies and linen.
 
-Our first morning, we woke up and ran some quick errands. When we came back, the power was off at the apartment. We texted the host, who said that she was at work and wouldn't be able to sort anything out until after 4pm (!). So... we wandered over to the [Whitney](http://en.wikipedia.org/wiki/Whitney_Museum_of_American_Art) for the [Jeff Koons](http://en.wikipedia.org/wiki/Jeff_Koons) retrospective. I love the Whitney – give me their brutalist architecture over the Guggenheim any day. They're moving to a new building next year so I'm glad I got to visit their current space one last time.
+Our first morning, we woke up and ran some quick errands. When we came back, the power was off at the apartment. We texted the host, who said that she was at work and wouldn't be able to sort anything out until after 4pm – in about 6 hours (!). So... we wandered over to the [Whitney](http://en.wikipedia.org/wiki/Whitney_Museum_of_American_Art) for the [Jeff Koons](http://en.wikipedia.org/wiki/Jeff_Koons) retrospective. I love the Whitney – give me their brutalist architecture over the Guggenheim any day. They're moving to a new building next year so I'm glad I got to visit their current space one last time.
 
-The Koons retrospective was great. I was only familiar with a few of his works, and the exhibition did a great job of fleshing out the rest of his works. The Equillibrium stuff was mesmerising. Definitely check it out if you're around (it's on until the 19th October, I think) – and grab the free audioguide too!
+The Koons retrospective was great. I was only familiar with a few of his works, and the exhibition did a great job of fleshing out the rest. The Equillibrium stuff was mesmerising. Definitely check it out if you're around (it's on until the 19th October, I think) – and grab the free audioguide too!
 
 <div class="img">
   <a href="{{ root_url }}/images/the-journey/nyc/power-out/koons.jpg">
@@ -93,10 +92,6 @@ It was pretty comfortable, for a sofa-bed. Anyway, to make up for the weird room
   <div class="alt">Better things = wine</div>
 </div>
 
-The next morning we headed back to the apartment and the power was still off – however the host had arranged for the electricity company and the super to come and get it all sorted out. She also said she'd give us the previous night free, for all the hassle. 
+The next morning we headed back to the apartment and the power was still off – however the host had arranged for the electricity company and the super to come and get it all sorted out. 
 
-
-
-
-
-
+Although it was a bit of a nightmare, this is the first bad experience with AirBnB we've had in the five months we've been travelling. The AirBnB customer support was great, and the host also said she'd give us the previous night free. Still, it was a pretty stressful adventure.

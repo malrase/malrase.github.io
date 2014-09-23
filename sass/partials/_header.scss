@@ -12,6 +12,9 @@ body > header {
     &:visited {
       color: #444;
     }
+    &:hover {
+      border-bottom: none;
+    }
   }
 }
 
