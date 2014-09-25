@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AirBnB (Power's Out)"
-date: 2014-09-23 12:27:36 -0400
+date: 2014-09-25 09:20:36 -0400
 comments: true
 categories: airbnb nyc usa the-journey-2014
 ---
