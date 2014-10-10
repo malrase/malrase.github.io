@@ -1,295 +1,582 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
-    <url>
-        <loc>http://www.malrase.com/blog/2011/04/15/zurich/</loc>
-        <lastmod>2014-07-22T09:43:52-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2011/04/24/paris-april-2011/</loc>
-        <lastmod>2014-07-22T09:41:46-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2011/06/28/lyon-part-un/</loc>
-        <lastmod>2014-07-22T09:44:48-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2011/06/30/lyon-part-deux-la-cuisine/</loc>
-        <lastmod>2014-07-22T09:45:52-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2011/07/18/a-few-hours-in-london/</loc>
-        <lastmod>2014-07-22T09:40:30-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2011/09/25/the-amazing-trip/</loc>
-        <lastmod>2014-07-22T09:46:22-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2011/11/27/san-francisco-part-one/</loc>
-        <lastmod>2014-07-22T09:48:54-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2011/12/30/san-francisco-part-two/</loc>
-        <lastmod>2014-07-22T09:49:53-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2012/02/25/the-artist/</loc>
-        <lastmod>2014-05-14T12:30:32-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2013/01/05/midsummer-house/</loc>
-        <lastmod>2014-07-24T04:41:51-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2013/03/03/a-b-c/</loc>
-        <lastmod>2014-05-14T12:30:32-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2013/04/04/d-e-f/</loc>
-        <lastmod>2014-05-14T12:30:32-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2013/05/21/g-h-i/</loc>
-        <lastmod>2014-05-14T12:30:32-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2013/05/29/j-k-l/</loc>
-        <lastmod>2014-05-14T12:30:32-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2013/06/23/m-n-o/</loc>
-        <lastmod>2014-05-14T12:30:32-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2013/06/29/cocktail-breakfast-of-champions/</loc>
-        <lastmod>2014-07-22T09:37:51-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2013/07/27/cocktail-brass-check/</loc>
-        <lastmod>2014-07-22T09:37:29-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2013/08/17/p-q-r/</loc>
-        <lastmod>2014-05-14T12:30:32-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2013/10/06/s-t-u/</loc>
-        <lastmod>2014-05-14T12:30:32-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2013/11/05/v-w-x-y-z/</loc>
-        <lastmod>2014-05-14T12:30:32-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2013/12/30/2013-in-review/</loc>
-        <lastmod>2014-05-14T12:30:32-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/04/15/upcoming-travel/</loc>
-        <lastmod>2014-05-14T12:30:32-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/04/22/carry-on-packing-for-seven-months/</loc>
-        <lastmod>2014-07-22T09:37:06-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/04/25/the-columbia-room/</loc>
-        <lastmod>2014-07-24T04:41:39-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/05/02/philadelphia-revolutions-and-murals/</loc>
-        <lastmod>2014-07-22T09:32:05-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/05/13/linz/</loc>
-        <lastmod>2014-07-22T09:31:05-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/05/13/vienna/</loc>
-        <lastmod>2014-07-22T09:30:15-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/05/19/street-art-butte-aux-cailles/</loc>
-        <lastmod>2014-07-22T09:27:17-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/05/24/cocktails-in-paris/</loc>
-        <lastmod>2014-07-17T04:58:52-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/05/25/early-morning-cdg-flight/</loc>
-        <lastmod>2014-05-30T04:19:16-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/05/29/drinking-costa-del-sol/</loc>
-        <lastmod>2014-07-22T09:21:40-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/06/04/nightjar/</loc>
-        <lastmod>2014-07-22T09:28:44-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/06/10/map-of-flights/</loc>
-        <lastmod>2014-07-22T09:10:01-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/06/20/hemingway-bar-prague/</loc>
-        <lastmod>2014-07-29T11:29:57-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/06/26/the-anniversary-question/</loc>
-        <lastmod>2014-07-22T09:07:33-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/07/01/prague/</loc>
-        <lastmod>2014-07-22T09:05:50-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/07/07/day-trip-to-kutna-hora/</loc>
-        <lastmod>2014-07-22T09:04:37-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/07/11/absinthe-tasting-prague/</loc>
-        <lastmod>2014-07-22T09:02:24-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/07/15/sansho-prague/</loc>
-        <lastmod>2014-07-22T09:01:58-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/07/17/black-angels-bar-prague/</loc>
-        <lastmod>2014-07-17T04:37:30-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/07/17/bugsys-bar-prague/</loc>
-        <lastmod>2014-07-22T09:00:32-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/07/19/cloud-9-prague/</loc>
-        <lastmod>2014-07-29T11:18:05-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/07/21/zinc-lounge-prague/</loc>
-        <lastmod>2014-07-22T08:57:25-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/07/23/hoffa-prague/</loc>
-        <lastmod>2014-07-23T04:33:17-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/07/23/orange-bar-prague/</loc>
-        <lastmod>2014-07-29T11:17:53-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/07/25/jewish-quarter-prague/</loc>
-        <lastmod>2014-07-25T09:09:31-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/07/27/la-degustation/</loc>
-        <lastmod>2014-07-29T11:17:58-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/07/30/anonymous-bar-prague/</loc>
-        <lastmod>2014-07-30T04:22:29-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/08/02/amsterdam/</loc>
-        <lastmod>2014-08-04T11:11:47-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/08/04/amsterdam-museums/</loc>
-        <lastmod>2014-08-09T07:18:06-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/08/09/amsterdam-food/</loc>
-        <lastmod>2014-08-09T08:25:45-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/08/13/berlin-how-do-you-think-it-feels/</loc>
-        <lastmod>2014-08-14T13:55:05-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/08/17/drinking-around-kreuzberg/</loc>
-        <lastmod>2014-08-18T05:57:36-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/08/20/markhalle-neun-and-sage/</loc>
-        <lastmod>2014-08-21T09:20:32-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/08/23/stockholm/</loc>
-        <lastmod>2014-08-23T09:18:08-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/08/29/halfway-ish-thoughts-so-far/</loc>
-        <lastmod>2014-08-29T06:30:45-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/09/04/north-paris/</loc>
-        <lastmod>2014-09-07T11:29:15-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/09/10/north-korean-brandy-cocktail/</loc>
-        <lastmod>2014-09-10T15:38:44-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/09/15/niagara/</loc>
-        <lastmod>2014-09-16T11:55:18-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/09/16/daisho/</loc>
-        <lastmod>2014-09-20T12:46:27-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/09/20/bar-chef/</loc>
-        <lastmod>2014-09-20T12:20:57-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/09/25/airbnb-powers-out/</loc>
-        <lastmod>2014-09-25T09:20:04-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/2014/09/30/some-ninth-avenue-bars/</loc>
-        <lastmod>2014-09-30T12:11:46-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/about/</loc>
-        <lastmod>2014-07-20T07:48:08-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/blog/archives/</loc>
-        <lastmod>2014-09-30T12:11:46-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/city-guides/</loc>
-        <lastmod>2014-07-30T08:28:13-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/city-guides/london/</loc>
-        <lastmod>2014-07-27T12:10:09-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/city-guides/paris/</loc>
-        <lastmod>2014-09-05T16:32:12-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/city-guides/prague/</loc>
-        <lastmod>2014-08-17T09:56:54-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/city-guides/san-francisco/dogpatch/</loc>
-        <lastmod>2014-08-02T11:01:00-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/city-guides/san-francisco/</loc>
-        <lastmod>2014-07-27T12:10:09-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/</loc>
-        <lastmod>2014-09-30T12:11:46-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.malrase.com/robots.txt</loc>
-        <lastmod>2014-04-15T14:24:56-04:00</lastmod>
-    </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/09/30/some-ninth-avenue-bars/</loc>
+    
+    <lastmod>2014-09-30T11:36:49-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/09/25/airbnb-powers-out/</loc>
+    
+    <lastmod>2014-09-25T09:20:36-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/09/20/bar-chef/</loc>
+    
+    <lastmod>2014-09-20T12:10:44-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/09/16/daisho/</loc>
+    
+    <lastmod>2014-09-16T10:15:28-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/09/15/niagara/</loc>
+    
+    <lastmod>2014-09-15T16:05:23-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/09/10/north-korean-brandy-cocktail/</loc>
+    
+    <lastmod>2014-09-10T11:24:50-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/09/04/north-paris/</loc>
+    
+    <lastmod>2014-09-04T15:36:25-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/08/29/halfway-ish-thoughts-so-far/</loc>
+    
+    <lastmod>2014-08-29T06:28:24-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/08/23/stockholm/</loc>
+    
+    <lastmod>2014-08-23T07:55:14-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/08/20/markhalle-neun-and-sage/</loc>
+    
+    <lastmod>2014-08-20T08:43:03-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/08/17/drinking-around-kreuzberg/</loc>
+    
+    <lastmod>2014-08-17T09:39:07-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/08/13/berlin-how-do-you-think-it-feels/</loc>
+    
+    <lastmod>2014-08-13T08:17:16-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/08/09/amsterdam-food/</loc>
+    
+    <lastmod>2014-08-09T07:20:31-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/08/04/amsterdam-museums/</loc>
+    
+    <lastmod>2014-08-04T10:36:21-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/08/02/amsterdam/</loc>
+    
+    <lastmod>2014-08-02T10:57:53-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/07/30/anonymous-bar-prague/</loc>
+    
+    <lastmod>2014-07-30T04:10:05-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/07/27/la-degustation/</loc>
+    
+    <lastmod>2014-07-27T05:30:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/07/25/jewish-quarter-prague/</loc>
+    
+    <lastmod>2014-07-25T06:58:05-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/07/23/orange-bar-prague/</loc>
+    
+    <lastmod>2014-07-23T04:33:48-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/07/23/hoffa-prague/</loc>
+    
+    <lastmod>2014-07-23T04:32:20-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/07/21/zinc-lounge-prague/</loc>
+    
+    <lastmod>2014-07-21T05:52:10-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/07/19/cloud-9-prague/</loc>
+    
+    <lastmod>2014-07-19T05:39:32-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/07/17/bugsys-bar-prague/</loc>
+    
+    <lastmod>2014-07-17T04:37:25-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/07/17/black-angels-bar-prague/</loc>
+    
+    <lastmod>2014-07-17T04:35:09-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/07/15/sansho-prague/</loc>
+    
+    <lastmod>2014-07-15T07:25:28-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/07/11/absinthe-tasting-prague/</loc>
+    
+    <lastmod>2014-07-11T08:38:26-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/07/07/day-trip-to-kutna-hora/</loc>
+    
+    <lastmod>2014-07-07T11:44:03-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/07/01/prague/</loc>
+    
+    <lastmod>2014-07-01T08:43:53-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/06/26/the-anniversary-question/</loc>
+    
+    <lastmod>2014-06-26T06:02:36-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/06/20/hemingway-bar-prague/</loc>
+    
+    <lastmod>2014-06-20T05:38:18-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/06/10/map-of-flights/</loc>
+    
+    <lastmod>2014-06-10T05:35:59-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/06/04/nightjar/</loc>
+    
+    <lastmod>2014-06-04T07:49:00-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/05/29/drinking-costa-del-sol/</loc>
+    
+    <lastmod>2014-05-29T05:37:41-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/05/25/early-morning-cdg-flight/</loc>
+    
+    <lastmod>2014-05-25T07:59:34-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/05/24/cocktails-in-paris/</loc>
+    
+    <lastmod>2014-05-24T08:08:01-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/05/19/street-art-butte-aux-cailles/</loc>
+    
+    <lastmod>2014-05-19T06:43:05-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/05/13/vienna/</loc>
+    
+    <lastmod>2014-05-13T07:33:20-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/05/13/linz/</loc>
+    
+    <lastmod>2014-05-13T05:10:18-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/05/02/philadelphia-revolutions-and-murals/</loc>
+    
+    <lastmod>2014-05-02T16:00:41-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/04/25/the-columbia-room/</loc>
+    
+    <lastmod>2014-04-25T14:29:59-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/04/22/carry-on-packing-for-seven-months/</loc>
+    
+    <lastmod>2014-04-22T13:09:09-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2014/04/15/upcoming-travel/</loc>
+    
+    <lastmod>2014-04-15T16:40:14-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2013/12/30/2013-in-review/</loc>
+    
+    <lastmod>2013-12-30T13:42:14-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2013/11/05/v-w-x-y-z/</loc>
+    
+    <lastmod>2013-11-05T13:48:54-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2013/10/06/s-t-u/</loc>
+    
+    <lastmod>2013-10-06T14:50:48-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2013/08/17/p-q-r/</loc>
+    
+    <lastmod>2013-08-17T14:52:15-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2013/07/27/cocktail-brass-check/</loc>
+    
+    <lastmod>2013-07-27T14:53:41-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2013/06/29/cocktail-breakfast-of-champions/</loc>
+    
+    <lastmod>2013-06-29T14:55:01-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2013/06/23/m-n-o/</loc>
+    
+    <lastmod>2013-06-23T14:59:56-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2013/05/29/j-k-l/</loc>
+    
+    <lastmod>2013-05-29T15:02:33-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2013/05/21/g-h-i/</loc>
+    
+    <lastmod>2013-05-21T15:02:42-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2013/04/04/d-e-f/</loc>
+    
+    <lastmod>2013-04-04T15:02:50-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2013/03/03/a-b-c/</loc>
+    
+    <lastmod>2013-03-03T14:02:56-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2013/01/05/midsummer-house/</loc>
+    
+    <lastmod>2013-01-05T14:10:32-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2012/02/25/the-artist/</loc>
+    
+    <lastmod>2012-02-25T14:21:15-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2011/12/30/san-francisco-part-two/</loc>
+    
+    <lastmod>2011-12-30T14:25:25-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2011/11/27/san-francisco-part-one/</loc>
+    
+    <lastmod>2011-11-27T14:25:29-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2011/09/25/the-amazing-trip/</loc>
+    
+    <lastmod>2011-09-25T15:44:18-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2011/07/18/a-few-hours-in-london/</loc>
+    
+    <lastmod>2011-07-18T15:39:25-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2011/06/30/lyon-part-deux-la-cuisine/</loc>
+    
+    <lastmod>2011-06-30T15:46:56-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2011/06/28/lyon-part-un/</loc>
+    
+    <lastmod>2011-06-28T15:46:49-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2011/04/24/paris-april-2011/</loc>
+    
+    <lastmod>2011-04-24T16:45:02-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/blog/2011/04/15/zurich/</loc>
+    
+    <lastmod>2011-04-15T14:34:13-04:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://www.malrase.com/blog/archives/</loc>
+    <lastmod>2014-10-10T14:08:43-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/</loc>
+    <lastmod>2014-10-10T14:08:43-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/city-guides/prague/</loc>
+    <lastmod>2014-10-10T14:08:43-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/city-guides/london/</loc>
+    <lastmod>2014-10-10T14:08:43-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/city-guides/</loc>
+    <lastmod>2014-10-10T14:08:43-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/about/</loc>
+    <lastmod>2014-10-10T14:08:43-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/city-guides/san-francisco/dogpatch/</loc>
+    <lastmod>2014-10-10T14:08:43-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/states/</loc>
+    <lastmod>2014-10-10T14:08:43-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/city-guides/paris/</loc>
+    <lastmod>2014-10-10T14:08:43-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.malrase.com/city-guides/san-francisco/</loc>
+    <lastmod>2014-10-10T14:08:43-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
 </urlset>
