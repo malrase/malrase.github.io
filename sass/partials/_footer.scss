@@ -24,6 +24,9 @@ body > footer {
       display: inline-block;
       font-size: 20px;
       margin-left: 20px;
+      a:hover {
+        border-bottom: none;
+      }
     }
   }
 }
