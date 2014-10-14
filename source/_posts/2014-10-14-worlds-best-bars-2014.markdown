@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "World's Top Bars 2014"
+title: "World's Best Bars 2014"
 date: 2014-10-14 17:18:22 -0400
 comments: true
 categories: cocktails the-journey-2014
