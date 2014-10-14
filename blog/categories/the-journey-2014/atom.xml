@@ -4,7 +4,7 @@
   <title><![CDATA[Category: The-journey-2014 | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/the-journey-2014/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2014-10-14T17:34:05-04:00</updated>
+  <updated>2014-10-14T17:47:11-04:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -14,11 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[World's Top Bars 2014]]></title>
-    <link href="http://www.malrase.com/blog/2014/10/14/worlds-top-bars-2014/"/>
+    <title type="html"><![CDATA[World's Best Bars 2014]]></title>
+    <link href="http://www.malrase.com/blog/2014/10/14/worlds-best-bars-2014/"/>
     <updated>2014-10-14T17:18:22-04:00</updated>
-    <id>http://www.malrase.com/blog/2014/10/14/worlds-top-bars-2014</id>
-    <content type="html"><![CDATA[<p>I stumbled across <a href="http://www.drinksint.com/news/fullstory.php/aid/4841/Artesian_named_The_World_92s_50_Best_Bars_champion_2014.html">Drinks International&rsquo;s list of the top 50 cocktail bars</a> in the world. Sure, it&rsquo;s probably a list you can pay to appear on or whatever. On our trip we managed to hit six of them, though, so I&rsquo;m feeling pretty good about that.</p>
+    <id>http://www.malrase.com/blog/2014/10/14/worlds-best-bars-2014</id>
+    <content type="html"><![CDATA[<p>I stumbled across <a href="http://www.drinksint.com/news/fullstory.php/aid/4841/Artesian_named_The_World_92s_50_Best_Bars_champion_2014.html">Drinks International&rsquo;s list of the top 50 cocktail bars</a> in the world. Sure, it&rsquo;s probably a list you can pay to appear on or whatever, but I love lists.</p>
+
+<p>Turns out on our European trip we managed to hit six of them! So I&rsquo;m feeling pretty good about my cocktail game.</p>
 
 <ul>
 <li>3 - <a href="/blog/2014/06/04/nightjar/">Nightjar</a>, London</li>
@@ -30,7 +32,9 @@
 </ul>
 
 
-<p>The only other one I&rsquo;d been to was #16, <a href="http://smugglerscovesf.com/trapdoor/">Smuggler&rsquo;s Cove</a>, in San Francisco. I still haven&rsquo;t been to #33, <a href="http://www.trickdogbar.com/">Trick Dog</a> – although it&rsquo;s been on my &ldquo;to-do&rdquo; list for a while. I&rsquo;ll probably head there as soon as I get back to SF.</p>
+<p>The only other one I&rsquo;d been to was #16, <a href="http://smugglerscovesf.com/trapdoor/">Smuggler&rsquo;s Cove</a>, in San Francisco. I still haven&rsquo;t been to #33, <a href="http://www.trickdogbar.com/">Trick Dog</a> – although it&rsquo;s been on my to-do list for a while. I&rsquo;ll probably head there as soon as I get back to SF.</p>
+
+<p>As we&rsquo;ve only got two more nights in New York, I&rsquo;m not too sure we&rsquo;ll be able to hit the NYC ones on the list. But it&rsquo;s good to know they&rsquo;re out there.</p>
 ]]></content>
   </entry>
   
@@ -46,7 +50,7 @@
 <p>There were great talks by <a href="https://twitter.com/smithschwartz">Smith Schwartz</a> and <a href="https://twitter.com/patrickhamann">Patrick Hamann</a> on Monday night. On Wednesday there was a fireside chat with the Sass Design team. Hampton talked about the original concept behind Sass and its unconventional branding, then <a href="https://twitter.com/jina">Jina Bolton</a> walked through the complete redesign of the <a href="http://sass-lang.com">Sass website</a> that she spearheaded last year.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/sass-conf/fireside-chat.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/sass-conf/fireside-chat.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/sass-conf/fireside-chat.jpg">
   </a>
   <div class="alt">Wednesday&#8217;s Sass Design fireside chat</div>
@@ -60,7 +64,7 @@
 <p>It was also great to finally give <a href="https://twitter.com/nex3">Natalie</a> the <a href="https://thenetawards.com/">net Game-Changer of the Year award</a>. It was picked up by <a href="https://twitter.com/kaelig">Kaelig</a> back in May. He gave it to us when we were in London, then we asked my Mum to ship it to New York for SassConf.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/sass-conf/gamechanger.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/sass-conf/gamechanger.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/sass-conf/gamechanger.jpg">
   </a>
   <div class="alt">Natalie receiving the Game-Changer of the Year award</div>
@@ -74,7 +78,7 @@
 <p>Anyway, it was <em>awesome</em>. Seeing any city from a new perspective is great, and Manhattan is absolutely gorgeous at night.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/sass-conf/boat-wallst.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/sass-conf/boat-wallst.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/sass-conf/boat-wallst.jpg">
   </a>
   <div class="alt">World Trade Center from the boat</div>
@@ -84,7 +88,7 @@
 <p>We sailed from <a href="https://en.wikipedia.org/wiki/Chelsea_Piers">Chelsea Piers</a> to near the <a href="https://en.wikipedia.org/wiki/Brooklyn_Bridge">Brooklyn Bridge</a>. Then, on the way back, we got really close to the Statue of Liberty!</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/sass-conf/boat-liberty.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/sass-conf/boat-liberty.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/sass-conf/boat-liberty.jpg">
   </a>
   <div class="alt">Statue of Liberty</div>
@@ -98,7 +102,7 @@
 <p>I was very wrong.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/sass-conf/new-work-city.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/sass-conf/new-work-city.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/sass-conf/new-work-city.jpg">
   </a>
   <div class="alt">The unconference was held in the New Work City offices</div>
@@ -125,7 +129,7 @@
 <p>The <a href="http://tipsyparson.com/">Tipsy Parson</a> is a great restaurant as well as a pretty good cocktail bar. You know how often, a Southern-style restaurant can&rsquo;t beat the food you actually get in the South? Well, that&rsquo;s not the case here. I had fried catfish with gravy, and Hampton had shrimp and grits. Both were great – the catfish was crisp and the gravy wasn&rsquo;t too peppery (which happens a lot with Southern gravy).</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/ninth-ave-bars/catfish.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/catfish.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/catfish.jpg">
   </a>
   <div class="alt">Fried catfish</div>
@@ -135,7 +139,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/nyc/ninth-ave-bars/shrimp-grits.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/shrimp-grits.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/shrimp-grits.jpg">
   </a>
   <div class="alt">Shrimp and grits</div>
@@ -147,7 +151,7 @@
 <p>They also have seats at the bar. The cocktails are a little bit hit and miss. They&rsquo;re trying hard to be inventive, but a lot of them miss the mark. There was a ginger-based drink that was <em>way</em> too gingery, even for me. The Professor Plum was pretty good, although due to seasonal changes of the menu I don&rsquo;t think it&rsquo;s available any more.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/ninth-ave-bars/tipsy-plum.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/tipsy-plum.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/tipsy-plum.jpg">
   </a>
   <div class="alt">Professor Plum cocktail</div>
@@ -157,7 +161,7 @@
 <p><a href="http://bathtubginnyc.com/">Bathtub Gin</a> is a speakeasy behind a coffee shop. It&rsquo;s quite conspicuous for a speakeasy – walking past on a Saturday night you see a line of people outside an empty coffee bar. I&rsquo;m no fool! No coffee is that tasty. We booked for 6pm on a quiet night and even then the bouncer made us wait outside, despite it being empty when we were eventually let in.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/ninth-ave-bars/bathtub-logo.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/bathtub-logo.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/bathtub-logo.jpg">
   </a>
   <div class="alt">Bathtub Gin logo</div>
@@ -167,7 +171,7 @@
 <p>The drinks were quite good. We started out with a Martini and a Blushing Lady #2.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/ninth-ave-bars/bathtub-martini.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/bathtub-martini.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/bathtub-martini.jpg">
   </a>
   <div class="alt">Martini</div>
@@ -177,7 +181,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/nyc/ninth-ave-bars/blush.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/blush.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/blush.jpg">
   </a>
   <div class="alt">Blushing Lady #2</div>
@@ -187,7 +191,7 @@
 <p>The Blushing Lady #2 tasted like a sour grape candy. The Martini was OK. The secound round proved better – a Vesper and a Last Word.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/ninth-ave-bars/bathtub-vesper.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/bathtub-vesper.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/bathtub-vesper.jpg">
   </a>
   <div class="alt">Vesper</div>
@@ -197,7 +201,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/nyc/ninth-ave-bars/last-word.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/last-word.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/last-word.jpg">
   </a>
   <div class="alt">Last Word</div>
@@ -207,7 +211,7 @@
 <p>They had some great small plates to share – the mushroom gnocchi was my favourite. The pork belly sliders were also super-tasty.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/ninth-ave-bars/bathtub-sliders.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/bathtub-sliders.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/bathtub-sliders.jpg">
   </a>
   <div class="alt">Pork belly sliders</div>
@@ -223,7 +227,7 @@
 <p>The Park is in a beautiful converted parking garage, with an indoor &ldquo;garden&rdquo; area. The front bar was pretty crowded, so we sat in the garden area where – pro-tip – there&rsquo;s a secret back bar! We ordered drinks from both and the back bartender was way better. Plus there was no wait at the back bar.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/ninth-ave-bars/hendricks-mash.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/hendricks-mash.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/hendricks-mash.jpg">
   </a>
   <div class="alt">Hendrick&#8217;s Mash</div>
@@ -250,7 +254,7 @@
 <p>The Koons retrospective was great. I was only familiar with a few of his works, and the exhibition did a great job of fleshing out the rest. The Equillibrium stuff was mesmerising. Definitely check it out if you&rsquo;re around (it&rsquo;s on until the 19th October, I think) – and grab the free audioguide too!</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/power-out/koons.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/power-out/koons.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/power-out/koons.jpg">
   </a>
   <div class="alt">Selfie in a Koons balloon</div>
@@ -264,7 +268,7 @@
 <p>By this point, it was starting to get dark and our living area looked a little bit like this:</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/power-out/darkness.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/power-out/darkness.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/power-out/darkness.jpg">
   </a>
   <div class="alt">The sofa</div>
@@ -278,7 +282,7 @@
 <p>We got to the room and it was more of a suite or event space. One half had a library.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/power-out/library.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/power-out/library.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/power-out/library.jpg">
   </a>
   <div class="alt">Library</div>
@@ -288,7 +292,7 @@
 <p>And the other half had a dining room.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/power-out/dining-room.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/power-out/dining-room.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/power-out/dining-room.jpg">
   </a>
   <div class="alt">Dining Room</div>
@@ -298,7 +302,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/nyc/power-out/panorama.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/power-out/panorama.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/power-out/panorama.jpg">
   </a>
   <div class="alt">Panorama of the library</div>
@@ -308,7 +312,7 @@
 <p>The room was on the corner of the building and had a wrap-around balcony/veranda. From there you had a great view of the Empire State Building.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/power-out/veranda-view.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/power-out/veranda-view.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/power-out/veranda-view.jpg">
   </a>
   <div class="alt">The view from the veranda</div>
@@ -320,7 +324,7 @@
 <p>Turns out, they forgot to bring a bed into the room. We called down to the front desk and they promptly sent up a couple of guys to make up a sofa bed for us.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/power-out/bed.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/power-out/bed.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/power-out/bed.jpg">
   </a>
   <div class="alt">Our bed</div>
@@ -330,7 +334,7 @@
 <p>It was pretty comfortable, for a sofa-bed. Anyway, to make up for the weird room and lack of a proper bed, they gave us some credit for room service. As we&rsquo;d already eaten, we used the credit on better things.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/power-out/wine.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/power-out/wine.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/power-out/wine.jpg">
   </a>
   <div class="alt">Better things = wine</div>
@@ -357,7 +361,7 @@
   <p>Oh, it was dark inside, so most of my photos are a little grainy. Sorry.</p>
 
   <div class="img">
-    <a href="/images/the-journey/toronto/barchef/barchef.jpg">
+    <a href="{{ root_url }}/images/the-journey/toronto/barchef/barchef.jpg">
       <img src="http://www.malrase.com/images/the-journey/toronto/barchef/barchef.jpg">
     </a>
     <div class="alt">Bar Chef placemat</div>
@@ -366,7 +370,7 @@
   <p>We started out with two normal-ish cocktails. The Symphony No 5 was a gin/vanilla thing that was OK. The Basil Daiquiri was tasty – super-drinkable.
 
   <div class="img">
-    <a href="/images/the-journey/toronto/barchef/symphony-daiquiri.jpg">
+    <a href="{{ root_url }}/images/the-journey/toronto/barchef/symphony-daiquiri.jpg">
       <img src="http://www.malrase.com/images/the-journey/toronto/barchef/symphony-daiquiri.jpg">
     </a>
     <div class="alt">Symphony No. 5 and the Basil Daiquiri</div>
@@ -377,7 +381,7 @@
   <p>Hampton got a $45 (!) Manhattan. It came under a giant cloche filled with smoke.</p>
 
   <div class="img">
-    <a href="/images/the-journey/toronto/barchef/manhattan-cloche.jpg">
+    <a href="{{ root_url }}/images/the-journey/toronto/barchef/manhattan-cloche.jpg">
       <img src="http://www.malrase.com/images/the-journey/toronto/barchef/manhattan-cloche.jpg">
     </a>
     <div class="alt">Cloche full of smoke</div>
@@ -386,7 +390,7 @@
   <p>It rested on the table for a minute or two before the bartender came over and slowly swirled the cloche off the top of the pedestal. Underneath was the smokey Manhattan!</p>
 
   <div class="img">
-    <a href="/images/the-journey/toronto/barchef/manhattan.jpg">
+    <a href="{{ root_url }}/images/the-journey/toronto/barchef/manhattan.jpg">
       <img src="http://www.malrase.com/images/the-journey/toronto/barchef/manhattan.jpg">
     </a>
     <div class="alt">Manhattan</div>
@@ -397,7 +401,7 @@
   <p>The next modernist cocktail we got was the Black Truffle. It came with six tiny spoons. The spoons had a coconut foam/lime dust mixture on them. You were supposed to eat one of those, then drink the gin-based concoction. Those spoons were amazing, and they went well with the drink. The drink had elderflower in it, too, so I loved it.</p>
 
   <div class="img">
-    <a href="/images/the-journey/toronto/barchef/black-truffle.jpg">
+    <a href="{{ root_url }}/images/the-journey/toronto/barchef/black-truffle.jpg">
       <img src="http://www.malrase.com/images/the-journey/toronto/barchef/black-truffle.jpg">
     </a>
     <div class="alt">Black Truffle</div>
@@ -406,7 +410,7 @@
   <p>Next up, there was a Cedar. It came on a wood platter set up like a zen garden. There was a sprig of cedar in one corner, some cacao &#8220;soil&#8221; and chunks of pear. You dip the pear in the &#8220;soil,&#8221; and eat that before you drink. I didn&#8217;t get much from the food bit, but the drink (a gin-chamomile-pear thing) was clean and fresh.</p>
 
   <div class="img">
-    <a href="/images/the-journey/toronto/barchef/cedar.jpg">
+    <a href="{{ root_url }}/images/the-journey/toronto/barchef/cedar.jpg">
       <img src="http://www.malrase.com/images/the-journey/toronto/barchef/cedar.jpg">
     </a>
     <div class="alt">Cedar</div>
@@ -415,7 +419,7 @@
   <p>I think the weirdest drink of the night was the Spring Thaw. It came in a tiny glass surrounded by moss. The bartender came over and poured water (?) over the moss, and it started misting. I&#8217;m guessing there was perfumed dry ice in there somewhere – it smelled just like a spring forest.</p>
 
   <div class="img">
-    <a href="/images/the-journey/toronto/barchef/spring-thaw-mist.jpg">
+    <a href="{{ root_url }}/images/the-journey/toronto/barchef/spring-thaw-mist.jpg">
       <img src="http://www.malrase.com/images/the-journey/toronto/barchef/spring-thaw-mist.jpg">
     </a>
     <div class="alt">Spring thawing all over the table</div>
@@ -424,7 +428,7 @@
   <p>The cocktail itself was a gin-campari thing. It had a campari sorbet of some kind, and as you were drinking the sorbet melted into the rest. It&#8217;s a neat concept, but it was strange that the drink got more and more bitter as you went on.</p>
 
   <div class="img">
-    <a href="/images/the-journey/toronto/barchef/spring-thaw.jpg">
+    <a href="{{ root_url }}/images/the-journey/toronto/barchef/spring-thaw.jpg">
       <img src="http://www.malrase.com/images/the-journey/toronto/barchef/spring-thaw.jpg">
     </a>
     <div class="alt">The Spring Thaw cocktail itself</div>
