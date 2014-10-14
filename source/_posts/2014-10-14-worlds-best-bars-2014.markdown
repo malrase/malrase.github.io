@@ -6,7 +6,9 @@ comments: true
 categories: cocktails the-journey-2014
 ---
 
-I stumbled across [Drinks International's list of the top 50 cocktail bars](http://www.drinksint.com/news/fullstory.php/aid/4841/Artesian_named_The_World_92s_50_Best_Bars_champion_2014.html) in the world. Sure, it's probably a list you can pay to appear on or whatever. On our trip we managed to hit six of them, though, so I'm feeling pretty good about that.
+I stumbled across [Drinks International's list of the top 50 cocktail bars](http://www.drinksint.com/news/fullstory.php/aid/4841/Artesian_named_The_World_92s_50_Best_Bars_champion_2014.html) in the world. Sure, it's probably a list you can pay to appear on or whatever, but I love lists.
+
+Turns out on our European trip we managed to hit six of them! So I'm feeling pretty good about my cocktail game.
 
 - 3 - [Nightjar](/blog/2014/06/04/nightjar/), London
 - 12 - [Happiness Forgets](http://www.happinessforgets.com/), London
