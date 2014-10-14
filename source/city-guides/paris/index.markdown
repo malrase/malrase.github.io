@@ -7,10 +7,12 @@ footer: true
 ---
 
 <div class="city-view">
-  <a href="{{ root_url }}/images/pic.jpg">
-    <img src="/images/pic.jpg">
+  <a href="{{ root_url }}/images/paris/so-paris.jpg">
+    <img src="/images/paris/so-paris.jpg">
   </a>
 </div>
+
+[Paris](https://en.wikipedia.org/wiki/Paris) is one of my favourites cities. No matter how stressed I am, sitting in a café with a glass of wine will immediately calm me down.
 
 - [Where to Stay](#Where-to-Stay)
 - [Things to Do](#Things-to-Do)
@@ -20,8 +22,12 @@ footer: true
 <a name="Where-to-Stay"></a>
 ### Where to Stay
 
+[St. Germain de Prés]
+
 <a name="Things-to-Do"></a>
 ### Things to Do
+
+
 
 <a name="Drink"></a>
 ### Drink
