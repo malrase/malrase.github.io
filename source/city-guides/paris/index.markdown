@@ -22,7 +22,8 @@ footer: true
 <a name="Where-to-Stay"></a>
 ### Where to Stay
 
-[St. Germain de Prés]
+[Saint-Germain-des-Prés](https://en.wikipedia.org/wiki/Saint-Germain-des-Pr%C3%A9s)
+[Latin Quarter](https://en.wikipedia.org/wiki/Latin_Quarter,_Paris)
 
 <a name="Things-to-Do"></a>
 ### Things to Do
