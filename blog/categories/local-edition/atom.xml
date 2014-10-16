@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Local-edition | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/local-edition/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2014-10-14T17:48:18-04:00</updated>
+  <updated>2014-10-16T11:07:28-04:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -19,7 +19,7 @@
     <updated>2013-07-27T14:53:41-04:00</updated>
     <id>http://www.malrase.com/blog/2013/07/27/cocktail-brass-check</id>
     <content type="html"><![CDATA[<div class="img">
-  <a href="/images/cocktails/brass-check.jpg">
+  <a href="{{ root_url }}/images/cocktails/brass-check.jpg">
     <img src="http://www.malrase.com/images/cocktails/brass-check.jpg">
   </a>
   <div class="alt">Brass Check</div>
