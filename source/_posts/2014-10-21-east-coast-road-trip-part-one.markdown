@@ -3,7 +3,7 @@ layout: post
 title: "East Coast Road Trip: Part One"
 date: 2014-10-21 16:08:44 -0400
 comments: true
-categories: usa the-journey-2014
+categories: greenville south-carolina north-carolina furman usa the-journey-2014
 ---
 
 After leaving New York, we flew down to [Jacksonville](https://en.wikipedia.org/wiki/Jacksonville,_Florida), Florida. We borrowed a car from Hampton's grandfather and started the next portion of our journey: the East Cost road trip. Hampton had been invited to conferences in [Raleigh](https://en.wikipedia.org/wiki/Raleigh,_North_Carolina) and [Orlando](https://en.wikipedia.org/wiki/Orlando,_Florida), plus we have family in North Carolina and DC, so we decided to drive around a little and I'd get to see a few more of the off-the-beaten-track parts of the South.
@@ -93,7 +93,7 @@ The leaves were amazing – every road was a bordered with greens, yellows, oran
   <div class="alt">Autumnnnnn</div>
 </div>
 
-After spending a couple of nights in Highlands, we drove along the Blue Ridge Parkway through the forest. It's a gorgeous road – you're basically on the ridge of the mountain range and have epic views from both sides.
+After spending a couple of nights in Highlands, we drove along the [Blue Ridge Parkway](https://en.wikipedia.org/wiki/Blue_Ridge_Parkway) through the forest. It's a gorgeous road – you're basically on the ridge of the mountain range and have epic views from both sides.
 
 There's stopping points every few hundred yards because there's that many photogenic scenes.
 
@@ -110,7 +110,7 @@ Here's a panorama:
   <a href="{{ root_url }}/images/the-journey/east-coast/blue-ridge-parkway.jpg">
     <img src="/images/the-journey/east-coast/blue-ridge-parkway.jpg">
   </a>
-  <div class="alt">South Carolina had some pretty sweet gates</div>
+  <div class="alt">Panorama of the Blue Ridge Parkway</div>
 </div>
 
 We were heading east across North Carolina to our next destination: Asheville. I'll write about that and our time in Raleigh in my next post!
