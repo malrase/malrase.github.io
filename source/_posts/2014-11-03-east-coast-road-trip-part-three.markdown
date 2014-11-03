@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "East Coast Road Trip: Part Three"
-date: 2014-10-28 11:57:55 -0400
+date: 2014-11-03 11:57:55 -0400
 comments: true
 categories: monticello charlottesville washington-and-lee virginia usa the-journey-2014
-published: false
 ---
 
 Driving through Virginia is great – mostly because it reminds me of England. Gently rolling hills, lots of farms, big oak trees.
