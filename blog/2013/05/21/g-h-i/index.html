@@ -34,6 +34,22 @@ Ibsen, Henrik - Peer Gynt - 4.3/10 ">
 <link href='http://fonts.googleapis.com/css?family=Nixie+One' rel='stylesheet' type='text/css'>
 
 <script src="http://downloads.moovweb.com/uranium/1.0.162/uranium.js"></script>
+<script>
+function toggle_menu() {
+  var a = document.getElementById("menu");
+  var b = document.getElementById("menu_button");
+  console.log(a)
+  if(a) {
+    if(a.className == "open") {
+      a.className = "closed";
+      b.content = "Menu";
+    } else {
+      a.className = "open"
+      b.content = "x";
+    }
+  }
+};
+</script>
 
   
 
@@ -54,7 +70,12 @@ Ibsen, Henrik - Peer Gynt - 4.3/10 ">
   </fieldset>
 </form>
   
-
+<div id="menu_button" onClick="toggle_menu()">MENU</div>
+<div id="menu" class="closed">
+  <a href="/about">About</a>
+  <a href="/city-guides">City Guides</a>
+  <a href="/blog/archives">Archives</a>
+</div>
 
 </nav>
   <div id="main">
