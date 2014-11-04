@@ -20,9 +20,16 @@ body > header {
 
 body > nav {
   background: $nav-bar-color;
+  display: inline-block;
   padding: 10px;
   height: 55px;
-  margin-bottom: 30px;
+  width: 100%;
+  form {
+    @media screen and (max-width: $small-break) {
+      display: inline-block;
+      width: 80%;
+    }
+  }
   .search {
     padding: 5px;
     border: none;
@@ -48,17 +55,62 @@ body > nav {
 
     :-moz-placeholder { /* Firefox 18- */
        color: $input-color;
-       opacity: 0.6;  
+       opacity: 0.6;
     }
 
     ::-moz-placeholder {  /* Firefox 19+ */
        color: $input-color;
-       opacity: 0.6;  
+       opacity: 0.6;
     }
 
-    :-ms-input-placeholder {  
+    :-ms-input-placeholder {
        color: $input-color;
-       opacity: 0.6;  
+       opacity: 0.6;
+    }
+  }
+
+  #menu_button {
+    color: #BBB;
+    cursor: pointer;
+    float: right;
+    font-family: $head-sans;
+    margin-top: 8px;
+    margin-right: 2px;
+    text-align: right;
+    width: 18%;
+  }
+  #menu {
+    background: #444;
+    // display: block;
+    margin-left: -20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 112%;
+    z-index: 3;
+    a {
+      border-bottom: none;
+      color: #DDD;
+      display: block;
+      padding: 10px;
+      text-transform: uppercase;
+      font-family: $head-sans;
+
+    }
+    @include transition(0.8s);
+    a {
+      // @include transition(1s);
+    }
+    &.open {
+      // height: 130px;
+    }
+    &.closed {
+      display: none;
+    }
+  }
+  #menu_button, #menu {
+    @media screen and (min-width: $small-break) {
+      display: none;
     }
   }
 }
