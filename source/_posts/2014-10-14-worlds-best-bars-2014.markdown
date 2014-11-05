@@ -37,3 +37,5 @@ The drinks were OK – I got a Provençal and Hampton got the Billionaire Cockta
 It's mainly due to atmosphere. I've come to the conclusion that if you're a fancy cocktail bar, seating-only is the way to go. Maybe that means you have to take reservations, but the overall experience is far better. For example, I had a much better time at [Milk&Honey](http://www.mlkhny.com/newyork/), where you sat down and the waitstaff helped you choose a drink.
 
 I think that's the same reason I didn't enjoy Candelaria, in Paris, which is number 17 on the list. It was way too crowded and felt more like a sports bar during a Super Bowl than a nice cocktail place.
+
+**Update 2: (2014-11-05)**: Milk & Honey closed on the 25th October, according to [the most recent Yelp review](http://www.yelp.com/biz/milk-and-honey-new-york-3).
