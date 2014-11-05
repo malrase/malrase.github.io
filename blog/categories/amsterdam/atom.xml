@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Amsterdam | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/amsterdam/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2014-11-05T17:27:36-05:00</updated>
+  <updated>2014-11-05T17:45:12-05:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p>We visited a couple of great cocktail bars while in Amsterdam. The first was <a href="http://www.door-74.com/">Door 74</a>. You need to phone up to get a reservation, but we did that literally minutes before knocking on the door, and they had a table.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/drinks/door-74.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/drinks/door-74.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/drinks/door-74.jpg">
   </a>
   <div class="alt">Unassuming door</div>
@@ -31,7 +31,7 @@
 <p>The menu was neat. I got the impression it was seasonal, as it was heavily themed on 60s sci-fi despite the bar not having anything remotely about that. They had a few drinks from every planet. Each drink had a ray-gun indicator next to it showing how strong the drink was.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/drinks/door-74-menu.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/drinks/door-74-menu.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/drinks/door-74-menu.jpg">
   </a>
   <div class="alt">Menu</div>
@@ -41,7 +41,7 @@
 <p>Our friend got the special, some blend of vodka and fruit juice that was served in a tiki container. It was poured at the table, which was neat.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/drinks/door-74-kettle.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/drinks/door-74-kettle.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/drinks/door-74-kettle.jpg">
   </a>
   <div class="alt">The special – poured out of a dry-ice kettle</div>
@@ -51,7 +51,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/drinks/door-74-gin.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/drinks/door-74-gin.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/drinks/door-74-gin.jpg">
   </a>
   <div class="alt">Tezuka&#8217;s Lost World</div>
@@ -63,7 +63,7 @@
 <p>The menu was arranged into pretentious categories – each a supposed personality type. Are you an Alchemist or a Trendsetter? A Dreamer or a Connoisseur? The drinks were all novel and had some really interesting combinations of flavours. The bartenders were really friendly and the drinks were well-made and delicious – and that&rsquo;s why we kept coming back.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/drinks/njoy-chartreuse.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/drinks/njoy-chartreuse.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/drinks/njoy-chartreuse.jpg">
   </a>
   <div class="alt">Something with Chartreuse that I ordered</div>
@@ -73,7 +73,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/drinks/njoy-monkey.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/drinks/njoy-monkey.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/drinks/njoy-monkey.jpg">
   </a>
   <div class="alt">Monkey&#8217;s Martini</div>
@@ -96,7 +96,7 @@
 <p>(with a meatball in the middle)</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/food/potatoes.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/food/potatoes.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/food/potatoes.jpg">
   </a>
   <div class="alt">Mashed potatoes</div>
@@ -108,7 +108,7 @@
 <p>The other thing that seemed to be everywhere was pancakes. We went to a pancake place and saw they had <a href="http://en.wikipedia.org/wiki/Poffertjes">poffertjes</a> – a kind of cross between beignets and American-style pancakes. They were served with butter and icing sugar. Very healthy.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/food/poffertjes.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/food/poffertjes.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/food/poffertjes.jpg">
   </a>
   <div class="alt">Poffertjes</div>
@@ -118,7 +118,7 @@
 <p>We went for a memorable meal at a steak and ribs place – <a href="http://www.castellamsterdam.nl/en/">Castell</a>. We made a reservation, showed up on time, and the waiter showed us to our table. We were a little confused. Rather than a regular dining table, it was coffee table-height, and our seats were leather benches surrounding one end (another group was at the other end).</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/food/steak-table.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/food/steak-table.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/food/steak-table.jpg">
   </a>
   <div class="alt">Our table (we ordered some escargot)</div>
@@ -128,7 +128,7 @@
 <p>We weren&rsquo;t quite sure whether this was a pre-dinner drink table or what. But soon we received some wicker trays, one per person, on which to eat our steaks.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/food/steak-lap.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/food/steak-lap.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/food/steak-lap.jpg">
   </a>
   <div class="alt">Hampton with his tray</div>
@@ -153,7 +153,7 @@
     <content type="html"><![CDATA[<p>We toured the four main museums in Amsterdam: the <a href="http://en.wikipedia.org/wiki/Rijksmuseum">Rijksmuseum</a>, the <a href="http://en.wikipedia.org/wiki/Van_Gogh_Museum">Van Gogh Museum</a>, the <a href="http://en.wikipedia.org/wiki/Anne_Frank_House">Anne Frank House</a> and the <a href="http://en.wikipedia.org/wiki/Stedelijk_Museum_Amsterdam">Stedelijk Museum</a>. For the first three Hampton&rsquo;s Dad bought tickets beforehand – which I&rsquo;d highly recommend doing as the lines looked hellish. For the last one, Hampton and I rolled up at 4pm on a Sunday (with closing time at 6pm) and waltzed right in.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/rijksmuseum.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/rijksmuseum.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/rijksmuseum.jpg">
   </a>
   <div class="alt">Rijksmuseum, canal-side</div>
@@ -163,7 +163,7 @@
 <p>The Rijksmuseum has recently undergone a huge rennovation, re-opening in April 2013. It certainly shows – the internal atrium is beautiful and the layout is intuitive. <strong>Pro-tip</strong>: don&rsquo;t pay €5 for the museum audio guide! The museum has a free app for iPhone/iPod – with all the same information on it. Use that instead! They even have free wi-fi in the museum if you forget to download it before you get there.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/rijksmuseum-atrium.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/rijksmuseum-atrium.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/rijksmuseum-atrium.jpg">
   </a>
   <div class="alt">Rijksmuseum atrium</div>
@@ -177,7 +177,7 @@
 <p>There&rsquo;s a couple of super-famous paintings on the tour, the most famous being the <a href="http://en.wikipedia.org/wiki/The_Night_Watch">Night Watch</a> by Rembrandt. Of course, it was in an insanely-crowded room. It was pretty easy to get close, though.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/rijksmuseum-nightwatch.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/rijksmuseum-nightwatch.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/rijksmuseum-nightwatch.jpg">
   </a>
   <div class="alt">Who watches the Night Watch?</div>
@@ -189,7 +189,7 @@
 <p>I also really liked <a href="http://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)">The Milkmaid</a> by Vermeer. I could have spent a while looking at that painting. The rest of the museum was a little repetetive, especially the ground floor, which had a lot of medieval carvings.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/rijksmuseum-carcosa.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/rijksmuseum-carcosa.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/rijksmuseum-carcosa.jpg">
   </a>
   <div class="alt">Please show me to Carcosa, creepy chandelier lady</div>
@@ -199,7 +199,7 @@
 <p>The <a href="http://en.wikipedia.org/wiki/Van_Gogh_Museum">Van Gogh Museum</a> was quite different from what I was expecting. There was a heavy emphasis on his development as an artist and his interaction with contemporaries.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/van-gogh-museum.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/van-gogh-museum.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/van-gogh-museum.jpg">
   </a>
   <div class="alt">The Van Gogh Museum</div>
@@ -211,7 +211,7 @@
 <p>Being fans of contemporary art, it&rsquo;s probably no surprise that the <a href="http://en.wikipedia.org/wiki/Stedelijk_Museum_Amsterdam">Stedelijk Museum</a> was our favourite. The building has a <a href="http://en.wikipedia.org/wiki/Stedelijk_Museum_Amsterdam#mediaviewer/File:Stedelijk_Museum_1.jpg">giant bathtub-shaped</a> entrance, which is awesome. All the walls inside are painted white, and going from the ground floor to the first floor is a mesmerising experience – there&rsquo;s neon art all around the upstairs atrium, so you walk into a glowing otherworld.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/stede-atrium.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/stede-atrium.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/stede-atrium.jpg">
   </a>
   <div class="alt">Going up to the first floor</div>
@@ -221,7 +221,7 @@
 <p>On some of the columns downstairs, there&rsquo;s a cool set of porcelain plates by John Knight. They&rsquo;re from the Autotypes series. Each one has a blueprint of an extension to a city&rsquo;s modern art museum. They reduce the buildings to nothing but floor plans, and we both loved them. I want some for our house.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/stede-knight.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/stede-knight.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/stede-knight.jpg">
   </a>
   <div class="alt">Autotypes, John Knight</div>
@@ -231,7 +231,7 @@
 <p>Downstairs traces modern art from 1900-1950, whereas upstairs does 1950-present day. The art is mostly displayed chronologically, and they had some great unfamiliar pieces by famous artists. I love seeing new works by great artists (maybe that&rsquo;s why I don&rsquo;t like the &ldquo;greatest hits&rdquo; style of <a href="http://en.wikipedia.org/wiki/Museum_of_Modern_Art">MoMA</a>?).</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/stede-lichtenstein.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/stede-lichtenstein.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/stede-lichtenstein.jpg">
   </a>
   <div class="alt">Stunning and bold <a href="http://en.wikipedia.org/wiki/Roy_Lichtenstein">Lichtenstein</a></div>
@@ -241,7 +241,7 @@
 <p>As well as contemporary art, there was a large section of the museum devoted to design. There were lots of fun household items from the 1960s and 1970s.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/stede-tv.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/stede-tv.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/stede-tv.jpg">
   </a>
   <div class="alt">Futuristic TV</div>
@@ -251,7 +251,7 @@
 <p>There was also <a href="http://www.stedelijk.nl/en/exhibitions/the-gijsemmy-spectacle">a special exhibition/retrospective on Gijs+Emmy</a>, a couple who revolutionised jewelry in the 1960s. One of their first exhibitions was in the museum, and it was neat seeing videos of their models back then. Their necklaces were more like cowls than dainty chains, obscuring most of the model&rsquo;s face.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/stede-gijs+emmy.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/stede-gijs+emmy.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/stede-gijs+emmy.jpg">
   </a>
   <div class="alt">Gijs + Emmy necklace</div>
@@ -263,7 +263,7 @@
 <p>The <a href="http://en.wikipedia.org/wiki/Anne_Frank_House">Anne Frank House</a> is in the west of Amsterdam, and you should definitely pre-purchase tickets. The line to get in was about an hour long, even at night. We had timed tickets and didn&rsquo;t have to wait at all for our 8pm slot.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/anne-frank-house.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/anne-frank-house.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/anne-frank-house.jpg">
   </a>
   <div class="alt">The house itself</div>
@@ -273,7 +273,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/anne-frank-door.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/anne-frank-door.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/anne-frank-door.jpg">
   </a>
   <div class="alt">Main door (you enter the museum a couple of doors down)</div>
@@ -300,7 +300,7 @@
     <content type="html"><![CDATA[<p>I was always a little ashamed that I&rsquo;d never visited Amsterdam. It&rsquo;s only a short flight from London and people always list it as a highlight of Europe. Hampton&rsquo;s parents were in Amsterdam for a week, so we decided to join them and find out what all the fuss was about.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/canal.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/canal.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/canal.jpg">
   </a>
   <div class="alt">Houses along the canal, a bridge, and cyclists</div>
@@ -310,7 +310,7 @@
 <p>In a lot of ways, Amsterdam was exactly what I was expecting. Canals criss-crossed with beautiful bridges, cyclists going far too fast.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/touring.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/touring.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/touring.jpg">
   </a>
   <div class="alt">Hampton and his Dad as we wandered around the canals</div>
@@ -320,7 +320,7 @@
 <p>We decided to do a walking tour on foot. We stayed near the <a href="http://en.wikipedia.org/wiki/Leidseplein">Leidseplein</a>, and walking all the way to the center took about 40 minutes. We walked to <a href="http://en.wikipedia.org/wiki/Dam_Square">Dam Square</a>, the centre of the city. It was nice, but touristy. You had to pay to go in the church or the palace, and we skipped both of them.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/dam-palace.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/dam-palace.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/dam-palace.jpg">
   </a>
   <div class="alt">Royal Palace in Dam</div>
@@ -332,7 +332,7 @@
 <p>It stopped at most of the standard things – Dam Square, the Anne Frank House, Rembrandt&rsquo;s House, etc. – but it was nice to see some other bits of the city. In particular, the <a href="http://en.wikipedia.org/wiki/EYE_Film_Institute_Netherlands">Eye Film Institute</a> had a beautiful building.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/eyefilm.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/eyefilm.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/eyefilm.jpg">
   </a>
   <div class="alt">Eye Film Institute</div>
@@ -344,7 +344,7 @@
 <p>Another pro-tip: walk around at dusk. Especially in the summer, it&rsquo;s so relaxed and the houses look inviting. There are often people having parties on boats and people dining along the canals.</p>
 
 <div class="img">
-  <a href="/images/the-journey/amsterdam/dusk.jpg">
+  <a href="{{ root_url }}/images/the-journey/amsterdam/dusk.jpg">
     <img src="http://www.malrase.com/images/the-journey/amsterdam/dusk.jpg">
   </a>
   <div class="alt">Dusk over houses</div>

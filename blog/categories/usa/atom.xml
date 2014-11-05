@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Usa | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/usa/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2014-11-05T17:27:36-05:00</updated>
+  <updated>2014-11-05T17:45:12-05:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -23,7 +23,7 @@
 <p><a href="https://en.wikipedia.org/wiki/Charlottesville,_Virginia">Charlottesville</a> was our first stop in Virginia. It&rsquo;s extremely beautiful and worth a visit – it&rsquo;s only a couple of hours to drive from Washington D.C. Just south of Charlottesville is <a href="https://en.wikipedia.org/wiki/Monticello">Monticello</a>, the residence of <a href="https://en.wikipedia.org/wiki/Thomas_Jefferson">Thomas Jefferson</a>. Compared with <a href="/blog/2014/10/28/east-coast-road-trip-part-two">the absurd cost to visit Biltmore</a>, Monticello is a steal – $25 per person. I&rsquo;d suggest booking in advance, especially on busy days. You can only go through the main part of the house as part of a guided tour – and those are every 15 minutes or so. It&rsquo;s nice to know when you need to show up.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/virginia/monticello-entrance.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/virginia/monticello-entrance.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/virginia/monticello-entrance.jpg">
   </a>
   <div class="alt">Entrance to Monticello</div>
@@ -35,7 +35,7 @@
 <p>You have two options for getting to the house itself – a five-minute bus ride or a fifteen-minute walk. We arrived about half an hour before our allotted tour and walked up. It&rsquo;s a great walk (although mostly uphill) and I&rsquo;d recommend doing it if you have the time/physical capability.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/virginia/monticello-walk.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/virginia/monticello-walk.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/virginia/monticello-walk.jpg">
   </a>
   <div class="alt">Walk up to Monticello</div>
@@ -45,7 +45,7 @@
 <p>On the way up, you pass by the graveyard where Thomas Jefferson is buried.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/virginia/jefferson-grave.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/virginia/jefferson-grave.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/virginia/jefferson-grave.jpg">
   </a>
   <div class="alt">Jefferson&#8217;s Grave</div>
@@ -59,7 +59,7 @@
 <p>The house had some interesting areas. The entrance hall was used by Jefferson as a museum of sorts to prove to visitors that the Americas were ecologically and culturally distinct from the rest of Europe. Jefferson&rsquo;s bed was in an alcove that split his bedroom from his office. You can&rsquo;t take pictures inside, so I don&rsquo;t have any images of this stuff. But I do have a goofy photo of us standing outside the back of the house.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/virginia/monticello.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/virginia/monticello.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/virginia/monticello.jpg">
   </a>
   <div class="alt">&#8220;Back&#8221; of Monticello</div>
@@ -69,7 +69,7 @@
 <p>It&rsquo;s really picturesque on the grounds, and it&rsquo;s easy to take gorgeous photos.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/virginia/monticello-reflection.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/virginia/monticello-reflection.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/virginia/monticello-reflection.jpg">
   </a>
   <div class="alt">Reflection of Monticello</div>
@@ -89,7 +89,7 @@
 <p>The next day we drove to <a href="https://en.wikipedia.org/wiki/Lexington,_Virginia">Lexington, VA</a> – an even tinier town whose main attraction is the two universities. We were there to see <a href="https://en.wikipedia.org/wiki/Washington_and_Lee_University">Washington &amp; Lee</a>, where Hampton&rsquo;s father and brother both studied.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/virginia/washington-and-lee.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/virginia/washington-and-lee.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/virginia/washington-and-lee.jpg">
   </a>
   <div class="alt">Washington & Lee</div>
@@ -99,7 +99,7 @@
 <p><a href="https://en.wikipedia.org/wiki/Lee_Chapel">Lee Chapel</a> is opposite the main buildings of the university, and we were lucky enough to catch a historian giving a short tour of the chapel explaining its history.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/virginia/lee-chapel.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/virginia/lee-chapel.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/virginia/lee-chapel.jpg">
   </a>
   <div class="alt">Lee Chapel</div>
@@ -109,7 +109,7 @@
 <p>Inside it&rsquo;s all white. There are two portraits above the stage – one of <a href="https://en.wikipedia.org/wiki/George_Washington">George Washington</a> and one of <a href="https://en.wikipedia.org/wiki/Robert_E._Lee">Robert E. Lee</a>. I found the Washington one amusing as he&rsquo;s in his British Army uniform. It&rsquo;s by <a href="https://en.wikipedia.org/wiki/Charles_Willson_Peale">Charles Willson Peale</a>, and I had to get a photo of it.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/virginia/washington-british.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/virginia/washington-british.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/virginia/washington-british.jpg">
   </a>
   <div class="alt">George Washington in his British Army getup</div>
@@ -119,7 +119,7 @@
 <p>In the back of the chapel is a statue of Lee. It&rsquo;s not a tomb – he&rsquo;s actually buried underneath the chapel in a crypt.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/virginia/lee-statue.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/virginia/lee-statue.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/virginia/lee-statue.jpg">
   </a>
   <div class="alt">Recumbent statue of Lee</div>
@@ -129,7 +129,7 @@
 <p>They also have a reconstruction of his office under the chapel. Right outside is buried Lee&rsquo;s beloved horse, <a href="https://en.wikipedia.org/wiki/Traveller_(horse)">Traveller</a></p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/virginia/traveller.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/virginia/traveller.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/virginia/traveller.jpg">
   </a>
   <div class="alt">Traveller&#8217;s grave</div>
@@ -143,7 +143,7 @@
 <p>We made a brief family-history stop on the way there. I&rsquo;ll probably write a longer blog post about this in the future, as it might be handy for some Marshall descendants to know about. In short, we visited <a href="https://en.wikipedia.org/wiki/Happy_Creek,_Virginia">Happy Creek</a>. One of Hampton&rsquo;s family lineages is the Marshall family. They owned a property in Virginia called Happy Creek which, around 1912, burned down. Here&rsquo;s the ruins:</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/virginia/happy-creek.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/virginia/happy-creek.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/virginia/happy-creek.jpg">
   </a>
   <div class="alt">Happy Creek ruins</div>
@@ -153,7 +153,7 @@
 <p>Nearby, there&rsquo;s the Marshall family graveyard.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/virginia/marshall-grave.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/virginia/marshall-grave.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/virginia/marshall-grave.jpg">
   </a>
   <div class="alt">Marshall graveyard</div>
@@ -174,7 +174,7 @@
     <content type="html"><![CDATA[<p>On the southern outskirts of <a href="https://en.wikipedia.org/wiki/Asheville,_North_Carolina">Asheville</a> is the <a href="https://en.wikipedia.org/wiki/Biltmore_Estate">Biltmore Estate</a>. Built by the Vanderbilt family in the 1890s, it&rsquo;s the largest home in the U.S.A. and is open for tours. It&rsquo;s ridiculously expensive to visit – $60 per person is the cheapest adult ticket. Once you get in, there isn&rsquo;t much guidance on where to go, so the audio guide is well worth the extra $10. If you&rsquo;re spending $60 already&hellip; might as well, right?</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/biltmore.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/biltmore.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/biltmore.jpg">
   </a>
   <div class="alt">Front of Biltmore</div>
@@ -190,7 +190,7 @@
 <p>From the outside, it doesn&rsquo;t look like much.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/admiral.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/admiral.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/admiral.jpg">
   </a>
   <div class="alt">The Admiral</div>
@@ -200,7 +200,7 @@
 <p>It seems more like a dive bar than anything. Inside, it&rsquo;s even decorated like a bit of a dive bar. No tablecloths, neon beer signs on the wall. The menu is pretty high-falutin, though. Tasty cocktails to begin with.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/admiral-cocktails.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/admiral-cocktails.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/admiral-cocktails.jpg">
   </a>
   <div class="alt">Cocktails</div>
@@ -210,7 +210,7 @@
 <p>Then some fancy versions of mostly Southern food. We ended up getting a bunch of small plates and one large plate – the pork chop – as we&rsquo;d heard so much about it. By far the stand-out dish was the mussels.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/admiral-mussels.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/admiral-mussels.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/admiral-mussels.jpg">
   </a>
   <div class="alt">Mussels</div>
@@ -241,7 +241,7 @@
 <p>The drive up was lonnng – it took us about eight hours (including stops and some hellish traffic around Columbia). We passed through Georgia:</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/georgia.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/georgia.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/georgia.jpg">
   </a>
   <div class="alt">Is the 1996 Olympics the only thing Georgia is proud of?</div>
@@ -251,7 +251,7 @@
 <p>And into South Carolina:</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/sc-gates.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/sc-gates.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/sc-gates.jpg">
   </a>
   <div class="alt">South Carolina had some pretty sweet gates</div>
@@ -263,7 +263,7 @@
 <p>We went to Furman the next morning. It&rsquo;s a self-contained campus and is quite beautiful. There&rsquo;s a lake surrounded by trees and a bell tower on one end.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/furman.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/furman.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/furman.jpg">
   </a>
   <div class="alt">The bell tower</div>
@@ -273,7 +273,7 @@
 <p>It was weird being at Hampton&rsquo;s old university. I think it was a strange trip for him, as he started recalling tales of parties or particular professors. What was also cool to see was the football pitch where <a href="https://en.wikipedia.org/wiki/Clint_Dempsey">Clint Dempsey</a> got his start.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/furman-soccer.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/furman-soccer.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/furman-soccer.jpg">
   </a>
   <div class="alt">Furman&#8217;s football pitch</div>
@@ -283,7 +283,7 @@
 <p>After that, we continued into the <a href="https://en.wikipedia.org/wiki/Nantahala_National_Forest">Nantahala National Forest</a>. There were a ton of beautiful lookout spots and hiking bits on the way there. Here&rsquo;s a few:</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/slide-rock.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/slide-rock.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/slide-rock.jpg">
   </a>
   <div class="alt">Slide Rock: apparently kids slide down this. Seems pretty dangerous.</div>
@@ -293,7 +293,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/hiking.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/hiking.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/hiking.jpg">
   </a>
   <div class="alt">Some hiking trail that ended up being way too long</div>
@@ -303,7 +303,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/table-rock.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/table-rock.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/table-rock.jpg">
   </a>
   <div class="alt">Table Rock, an outcrop</div>
@@ -315,7 +315,7 @@
 <p>Of course, driving around the South you see some interesting decorations.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/drivers.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/drivers.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/drivers.jpg">
   </a>
   <div class="alt">Ahh, the South</div>
@@ -327,7 +327,7 @@
 <p>The leaves were amazing – every road was a bordered with greens, yellows, oranges, reds and browns.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/leaves.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/leaves.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/leaves.jpg">
   </a>
   <div class="alt">Autumnnnnn</div>
@@ -339,7 +339,7 @@
 <p>There&rsquo;s stopping points every few hundred yards because there&rsquo;s that many photogenic scenes.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/mountains.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/mountains.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/mountains.jpg">
   </a>
   <div class="alt">Vistas</div>
@@ -349,7 +349,7 @@
 <p>Here&rsquo;s a panorama:</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/blue-ridge-parkway.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/blue-ridge-parkway.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/blue-ridge-parkway.jpg">
   </a>
   <div class="alt">Panorama of the Blue Ridge Parkway</div>
@@ -372,7 +372,7 @@
 <p>There were great talks by <a href="https://twitter.com/smithschwartz">Smith Schwartz</a> and <a href="https://twitter.com/patrickhamann">Patrick Hamann</a> on Monday night. On Wednesday there was a fireside chat with the Sass Design team. Hampton talked about the original concept behind Sass and its unconventional branding, then <a href="https://twitter.com/jina">Jina Bolton</a> walked through the complete redesign of the <a href="http://sass-lang.com">Sass website</a> that she spearheaded last year.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/sass-conf/fireside-chat.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/sass-conf/fireside-chat.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/sass-conf/fireside-chat.jpg">
   </a>
   <div class="alt">Wednesday&#8217;s Sass Design fireside chat</div>
@@ -386,7 +386,7 @@
 <p>It was also great to finally give <a href="https://twitter.com/nex3">Natalie</a> the <a href="https://thenetawards.com/">net Game-Changer of the Year award</a>. It was picked up by <a href="https://twitter.com/kaelig">Kaelig</a> back in May. He gave it to us when we were in London, then we asked my Mum to ship it to New York for SassConf.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/sass-conf/gamechanger.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/sass-conf/gamechanger.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/sass-conf/gamechanger.jpg">
   </a>
   <div class="alt">Natalie receiving the Game-Changer of the Year award</div>
@@ -400,7 +400,7 @@
 <p>Anyway, it was <em>awesome</em>. Seeing any city from a new perspective is great, and Manhattan is absolutely gorgeous at night.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/sass-conf/boat-wallst.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/sass-conf/boat-wallst.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/sass-conf/boat-wallst.jpg">
   </a>
   <div class="alt">World Trade Center from the boat</div>
@@ -410,7 +410,7 @@
 <p>We sailed from <a href="https://en.wikipedia.org/wiki/Chelsea_Piers">Chelsea Piers</a> to near the <a href="https://en.wikipedia.org/wiki/Brooklyn_Bridge">Brooklyn Bridge</a>. Then, on the way back, we got really close to the Statue of Liberty!</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/sass-conf/boat-liberty.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/sass-conf/boat-liberty.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/sass-conf/boat-liberty.jpg">
   </a>
   <div class="alt">Statue of Liberty</div>
@@ -424,7 +424,7 @@
 <p>I was very wrong.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/sass-conf/new-work-city.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/sass-conf/new-work-city.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/sass-conf/new-work-city.jpg">
   </a>
   <div class="alt">The unconference was held in the New Work City offices</div>
@@ -451,7 +451,7 @@
 <p>The <a href="http://tipsyparson.com/">Tipsy Parson</a> is a great restaurant as well as a pretty good cocktail bar. You know how often, a Southern-style restaurant can&rsquo;t beat the food you actually get in the South? Well, that&rsquo;s not the case here. I had fried catfish with gravy, and Hampton had shrimp and grits. Both were great – the catfish was crisp and the gravy wasn&rsquo;t too peppery (which happens a lot with Southern gravy).</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/ninth-ave-bars/catfish.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/catfish.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/catfish.jpg">
   </a>
   <div class="alt">Fried catfish</div>
@@ -461,7 +461,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/nyc/ninth-ave-bars/shrimp-grits.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/shrimp-grits.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/shrimp-grits.jpg">
   </a>
   <div class="alt">Shrimp and grits</div>
@@ -473,7 +473,7 @@
 <p>They also have seats at the bar. The cocktails are a little bit hit and miss. They&rsquo;re trying hard to be inventive, but a lot of them miss the mark. There was a ginger-based drink that was <em>way</em> too gingery, even for me. The Professor Plum was pretty good, although due to seasonal changes of the menu I don&rsquo;t think it&rsquo;s available any more.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/ninth-ave-bars/tipsy-plum.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/tipsy-plum.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/tipsy-plum.jpg">
   </a>
   <div class="alt">Professor Plum cocktail</div>
@@ -483,7 +483,7 @@
 <p><a href="http://bathtubginnyc.com/">Bathtub Gin</a> is a speakeasy behind a coffee shop. It&rsquo;s quite conspicuous for a speakeasy – walking past on a Saturday night you see a line of people outside an empty coffee bar. I&rsquo;m no fool! No coffee is that tasty. We booked for 6pm on a quiet night and even then the bouncer made us wait outside, despite it being empty when we were eventually let in.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/ninth-ave-bars/bathtub-logo.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/bathtub-logo.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/bathtub-logo.jpg">
   </a>
   <div class="alt">Bathtub Gin logo</div>
@@ -493,7 +493,7 @@
 <p>The drinks were quite good. We started out with a Martini and a Blushing Lady #2.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/ninth-ave-bars/bathtub-martini.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/bathtub-martini.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/bathtub-martini.jpg">
   </a>
   <div class="alt">Martini</div>
@@ -503,7 +503,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/nyc/ninth-ave-bars/blush.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/blush.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/blush.jpg">
   </a>
   <div class="alt">Blushing Lady #2</div>
@@ -513,7 +513,7 @@
 <p>The Blushing Lady #2 tasted like a sour grape candy. The Martini was OK. The secound round proved better – a Vesper and a Last Word.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/ninth-ave-bars/bathtub-vesper.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/bathtub-vesper.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/bathtub-vesper.jpg">
   </a>
   <div class="alt">Vesper</div>
@@ -523,7 +523,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/nyc/ninth-ave-bars/last-word.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/last-word.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/last-word.jpg">
   </a>
   <div class="alt">Last Word</div>
@@ -533,7 +533,7 @@
 <p>They had some great small plates to share – the mushroom gnocchi was my favourite. The pork belly sliders were also super-tasty.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/ninth-ave-bars/bathtub-sliders.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/bathtub-sliders.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/bathtub-sliders.jpg">
   </a>
   <div class="alt">Pork belly sliders</div>
@@ -549,7 +549,7 @@
 <p>The Park is in a beautiful converted parking garage, with an indoor &ldquo;garden&rdquo; area. The front bar was pretty crowded, so we sat in the garden area where – pro-tip – there&rsquo;s a secret back bar! We ordered drinks from both and the back bartender was way better. Plus there was no wait at the back bar.</p>
 
 <div class="img">
-  <a href="/images/the-journey/nyc/ninth-ave-bars/hendricks-mash.jpg">
+  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/hendricks-mash.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/hendricks-mash.jpg">
   </a>
   <div class="alt">Hendrick&#8217;s Mash</div>
