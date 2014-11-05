@@ -95,12 +95,8 @@ body > nav {
       padding: 10px;
       text-transform: uppercase;
       font-family: $head-sans;
-
     }
     @include transition(0.8s);
-    a {
-      // @include transition(1s);
-    }
     &.open {
       // height: 130px;
     }
