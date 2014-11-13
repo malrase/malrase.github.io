@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Travel | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/travel/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2014-11-13T17:08:37-05:00</updated>
+  <updated>2014-11-13T17:13:57-05:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -34,7 +34,7 @@
 <p>Getting it into the suitcase was simple by rolling everything up. If you&rsquo;re not familiar with <a href="http://www.nytimes.com/slideshow/2010/05/06/business/businessspecial/20100506-pack-ss.html?_r=0">the &ldquo;roll&rdquo; style of packing</a>, it&rsquo;s excellent and allows you to fit a lot more in a suitcase (and keep things mostly wrinkle-free).</p>
 
 <div class="img">
-  <a href="/images/the-journey/side-one.JPG">
+  <a href="{{ root_url }}/images/the-journey/side-one.JPG">
     <img src="http://www.malrase.com/images/the-journey/side-one.JPG">
   </a>
   <div class="alt">First side</div>
@@ -44,7 +44,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/side-two.JPG">
+  <a href="{{ root_url }}/images/the-journey/side-two.JPG">
     <img src="http://www.malrase.com/images/the-journey/side-two.JPG">
   </a>
   <div class="alt">Second side</div>
@@ -102,7 +102,7 @@
 <p>We ate at a neat burger place on Union Sq - the aptly-named <a href="http://www.burger-bar.com/">Burger Bar</a>.</p>
 
 <div class="img">
-  <a href="/images/san-francisco/burger-bar-view.jpg">
+  <a href="{{ root_url }}/images/san-francisco/burger-bar-view.jpg">
     <img src="http://www.malrase.com/images/san-francisco/burger-bar-view.jpg">
   </a>
   <div class="alt">View from Burger Bar.</div>
@@ -112,7 +112,7 @@
 
 
 <div class="img">
-  <a href="/images/san-francisco/burger-bar.jpg">
+  <a href="{{ root_url }}/images/san-francisco/burger-bar.jpg">
     <img src="http://www.malrase.com/images/san-francisco/burger-bar.jpg">
   </a>
   <div class="alt">The burger I had. I think it was buffalo?</div>
@@ -124,7 +124,7 @@
 <p>We went to an awesome beach - China Beach. It was really quiet and had insane views of the Golden Gate and its bridge.</p>
 
 <div class="img">
-  <a href="/images/san-francisco/china-beach.jpg">
+  <a href="{{ root_url }}/images/san-francisco/china-beach.jpg">
     <img src="http://www.malrase.com/images/san-francisco/china-beach.jpg">
   </a>
 </div>
@@ -146,7 +146,7 @@
 <p>We flew United 2623 from CLT to SFO. They had WIFI!!!!! Zomg. It&rsquo;s still a novelty for me. I don&rsquo;t have many photos of the CLT-SFO flight, just the food pretty much.</p>
 
 <div class="img">
-  <a href="/images/plane/ua2623-pasta.jpg">
+  <a href="{{ root_url }}/images/plane/ua2623-pasta.jpg">
     <img src="http://www.malrase.com/images/plane/ua2623-pasta.jpg">
   </a>
   <div class="alt">
@@ -156,7 +156,7 @@
 
 
 <div class="img">
-  <a href="/images/plane/ua2623-dessert.jpg">
+  <a href="{{ root_url }}/images/plane/ua2623-dessert.jpg">
     <img src="http://www.malrase.com/images/plane/ua2623-dessert.jpg">
   </a>
   <div class="alt">
@@ -166,7 +166,7 @@
 
 
 <div class="img">
-  <a href="/images/plane/ua2623-wifi.jpg">
+  <a href="{{ root_url }}/images/plane/ua2623-wifi.jpg">
     <img src="http://www.malrase.com/images/plane/ua2623-wifi.jpg">
   </a>
   <div class="alt">
@@ -178,7 +178,7 @@
 <p>I&rsquo;d never been to San Francisco before, so it was a bit of an adventure. We only spent a couple of days doing touristy things, and the rest of the time was mostly Hampton working at Moovweb and me working on the book. Here&rsquo;s some tourist photos.</p>
 
 <div class="img">
-  <a href="/images/san-francisco/pier-39.jpg">
+  <a href="{{ root_url }}/images/san-francisco/pier-39.jpg">
     <img src="http://www.malrase.com/images/san-francisco/pier-39.jpg">
   </a>
   <div class="alt">
@@ -188,7 +188,7 @@
 
 
 <div class="img">
-  <a href="/images/san-francisco/sea-lions.jpg">
+  <a href="{{ root_url }}/images/san-francisco/sea-lions.jpg">
     <img src="http://www.malrase.com/images/san-francisco/sea-lions.jpg">
   </a>
   <div class="alt">
@@ -198,7 +198,7 @@
 
 
 <div class="img">
-  <a href="/images/san-francisco/alcatraz-fog.jpg">
+  <a href="{{ root_url }}/images/san-francisco/alcatraz-fog.jpg">
     <img src="http://www.malrase.com/images/san-francisco/alcatraz-fog.jpg">
   </a>
   <div class="alt">
@@ -210,7 +210,7 @@
 <p>(We didn&rsquo;t actually go to Alcatraz, even though I reaaaaally wanted to.)</p>
 
 <div class="img">
-  <a href="/images/san-francisco/transam.jpg">
+  <a href="{{ root_url }}/images/san-francisco/transam.jpg">
     <img src="http://www.malrase.com/images/san-francisco/transam.jpg">
   </a>
   <div class="alt">
@@ -220,7 +220,7 @@
 
 
 <div class="img">
-  <a href="/images/san-francisco/hyatt-view.jpg">
+  <a href="{{ root_url }}/images/san-francisco/hyatt-view.jpg">
     <img src="http://www.malrase.com/images/san-francisco/hyatt-view.jpg">
   </a>
   <div class="alt">
@@ -241,7 +241,7 @@
     <content type="html"><![CDATA[<p>So&hellip; I really need to start blogging about an amazing trip I&rsquo;ve been on. It&rsquo;s been going for about two months now. It started in July, when we moved out of our apartment in Cambridge, England.</p>
 
 <div class="img">
-  <a href="/images/cambridge/boxes.jpg">
+  <a href="{{ root_url }}/images/cambridge/boxes.jpg">
     <img src="http://www.malrase.com/images/cambridge/boxes.jpg">
   </a>
   <div class="alt">All our stuff in boxes hours before we left.</div>
