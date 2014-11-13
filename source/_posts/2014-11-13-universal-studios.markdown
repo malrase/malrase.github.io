@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Universal Studios' London/Diagon Alley"
-date: 2014-11-04 14:47:30 -0500
+date: 2014-11-13 14:47:30 -0500
 comments: true
 categories: orlando florida universal-studios the-journey-2014
-published: false
 ---
 
 Orlando is a strange place. Knowing a number of people who live (and have lived) there, we're always instructed to explore the city. "There's so much more than theme parks!" we're told. And that's true! We explored a little last year – we were recording with Treehouse and found a couple of great places. [Hanson's Shoe Repair](https://www.facebook.com/hansonsshoerepair) is a cool speakeasy hidden behind a downtown bar/club. The [Winter Park](https://en.wikipedia.org/wiki/Winter_Park,_Florida) area seems neat, too – we had a great meal at the [Ravenous Pig](http://www.theravenouspig.com/).
