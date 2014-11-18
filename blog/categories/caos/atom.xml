@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Caos | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/caos/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2014-11-13T17:13:57-05:00</updated>
+  <updated>2014-11-18T13:42:57-05:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -23,7 +23,7 @@
 <p>We ate at a neat burger place on Union Sq - the aptly-named <a href="http://www.burger-bar.com/">Burger Bar</a>.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/burger-bar-view.jpg">
+  <a href="/images/san-francisco/burger-bar-view.jpg">
     <img src="http://www.malrase.com/images/san-francisco/burger-bar-view.jpg">
   </a>
   <div class="alt">View from Burger Bar.</div>
@@ -33,7 +33,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/burger-bar.jpg">
+  <a href="/images/san-francisco/burger-bar.jpg">
     <img src="http://www.malrase.com/images/san-francisco/burger-bar.jpg">
   </a>
   <div class="alt">The burger I had. I think it was buffalo?</div>
@@ -45,7 +45,7 @@
 <p>We went to an awesome beach - China Beach. It was really quiet and had insane views of the Golden Gate and its bridge.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/china-beach.jpg">
+  <a href="/images/san-francisco/china-beach.jpg">
     <img src="http://www.malrase.com/images/san-francisco/china-beach.jpg">
   </a>
 </div>
