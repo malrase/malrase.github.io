@@ -79,9 +79,9 @@ body > nav {
     text-align: right;
     width: 18%;
   }
+
   #menu {
     background: #444;
-    // display: block;
     margin-left: -20px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -97,13 +97,11 @@ body > nav {
       font-family: $head-sans;
     }
     @include transition(0.8s);
-    &.open {
-      // height: 130px;
-    }
     &.closed {
       display: none;
     }
   }
+
   #menu_button, #menu {
     @media screen and (min-width: $small-break) {
       display: none;

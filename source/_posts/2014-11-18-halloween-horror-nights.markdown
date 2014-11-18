@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Halloween Horror Nights 24"
-date: 2014-11-04 16:37:17 -0500
+date: 2014-11-18 10:03:17 -0500
 comments: true
 categories: orlando halloween hhn florida the-journey-2014
-published: false
 ---
 
 [Halloween Horror Nights](https://en.wikipedia.org/wiki/Halloween_Horror_Nights) (also known as "HHN") is an annual even put on by the Universal Studios resort in Florida. On select evenings for some of September and most of October, the park is transformed into a halloween scare-park.
@@ -17,10 +16,6 @@ There are usually eight or so haunted houses built in soundstages. These will be
   </a>
   <div class="alt">Universal Studios' Entrance during Halloween Horror Nights</div>
 </div>
-
-Halloween Horror Nights isn't *that* scary. We've found that smaller, local events are far scarier. Scare-actors at Universal Studios can't touch you. You move through the houses in a giant conga-line, rather than small groups.
-
-With that said, Universal puts so much money into these houses that they're above and beyond anything you'll see at another horror event. The mazes are detailed and, for those based on films or TV shows, often amazingly accurate.
 
 This year's event was a blast. We were worried that attending on 31st October (Halloween itself), **and** because it was a Friday this year, the queues would be incredibly long. We bought the express pass (an extra cost on top of the regular cost) but we were still unsure as to whether we'd be stuck in two-hour-plus lines to see the houses. The express pass often only cuts the regular lines down by half.
 
@@ -47,7 +42,7 @@ We headed over to the [Halloween](https://en.wikipedia.org/wiki/Halloween_(1978_
 
 The house had every major scene from the 1978 classic. It was a lot of fun entering the (almost clichéd) house. The decor was perfectly 70s and I'm glad we had a second pass at the house later on in the evening. There were a number of scenes we missed the first time around.
 
-After these, we did the "non-property" houses. These are houses that aren't based on any existing intellectual property. This year, there were three: Giggles and Gore (about clowns), Roanoake (about cannibals), and Dollhouse of the Damned
+After these, we did the "non-property" houses. These are houses that aren't based on any existing intellectual property. This year, there were three: Giggles and Gore (about clowns), Roanoake (about cannibals), and Dollhouse of the Damned (about creepy dolls).
 
 <div class="img">
   <a href="{{ root_url }}/images/the-journey/orlando/hhn24/dollhouse.jpg">
@@ -55,6 +50,8 @@ After these, we did the "non-property" houses. These are houses that aren't base
   </a>
   <div class="alt">Front of Dollhouse of the Damned</div>
 </div>
+
+Once we'd done those, we were free to wander around the scare zones and attend the shows (they have special halloween-only live shows during HHN). My favourite scare zone was based around [The Purge](http://en.wikipedia.org/wiki/The_Purge). Hampton and I both enjoyed the films, and the theme fits well with the New York area of Universal Studios.
 
 <div class="img">
   <a href="{{ root_url }}/images/the-journey/orlando/hhn24/gone-purging.jpg">
@@ -77,12 +74,16 @@ After these, we did the "non-property" houses. These are houses that aren't base
   <div class="alt">Signature blue flowers</div>
 </div>
 
+We noticed all of the above while touring the park during the day. At night, they bring out some extra props, like this sign.
+
 <div class="img">
   <a href="{{ root_url }}/images/the-journey/orlando/hhn24/purge-sign.jpg">
     <img src="/images/the-journey/orlando/hhn24/purge-sign.jpg">
   </a>
   <div class="alt">Enjoy the Purge!</div>
 </div>
+
+The other scare zone I enjoyed was based around the reality show [Face Off](http://en.wikipedia.org/wiki/Face_Off_(TV_series\)). Some of the most famous make-ups they've had on the show were there.
 
 <div class="img">
   <a href="{{ root_url }}/images/the-journey/orlando/hhn24/face-off-1.jpg">
@@ -91,9 +92,15 @@ After these, we did the "non-property" houses. These are houses that aren't base
   <div class="alt">FaceOff scarecrow thing</div>
 </div>
 
+It was cool seeing them, but the scare zone just turned into a photo opportunity. We were guilty, too – we stood in front of the couple of make-ups we enjoyed from the series and took some photos. So not that scary, but fun nonetheless.
+
 <div class="img">
   <a href="{{ root_url }}/images/the-journey/orlando/hhn24/face-off-2.jpg">
     <img src="/images/the-journey/orlando/hhn24/face-off-2.jpg">
   </a>
   <div class="alt">FaceOff minotaur thing</div>
 </div>
+
+Halloween Horror Nights isn't *that* scary. We've found that smaller, local events are far scarier. Scare-actors at Universal Studios can't touch you. You move through the houses in a giant conga-line, rather than small groups.
+
+With that said, Universal puts so much money into these houses that they're above and beyond anything you'll see at another horror event. The mazes are detailed and, for those based on films or TV shows, often amazingly accurate.
