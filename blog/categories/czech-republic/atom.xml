@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Czech-republic | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/czech-republic/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2014-11-18T13:42:57-05:00</updated>
+  <updated>2014-11-29T16:24:30-05:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -27,7 +27,7 @@
   <p>The menu has a really great concept: a list of standard drinks on one page, paired up with an AnonymouS-bar twist on the classics. It was a goodway to quickly pick out a drink you&#8217;d be sure to like. I went for the St Marry&#8217;s Virus – again, that&#8217;s their weird spelling, and I&#8217;m not sure if it&#8217;s deliberate or not. It was a twist on the Piccadilly martini. The bartender came over with a biohazard box, which opened to reveal a giant syringe containing the cocktial.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/cocktails/anon-st-marrys.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/anon-st-marrys.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/anon-st-marrys.jpg">
     </a>
     <div class="alt">St Marry&#8217;s Virus</div>
@@ -36,7 +36,7 @@
   <p>Hampton went for a take on a gimlet, and it was really delicious! I think they added cucumber and some other stuff.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/cocktails/anon-butterfly.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/anon-butterfly.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/anon-butterfly.jpg">
     </a>
     <div class="alt">M. Butterfly</div>
@@ -47,7 +47,7 @@
   <p>Hampton got it after me, so I have photos of what it entailed. The bartender handed you a Guy Fawkes mask and took your photo.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/cocktails/anon-photo.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/anon-photo.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/anon-photo.jpg">
     </a>
     <div class="alt">They had to find more film</div>
@@ -56,7 +56,7 @@
   <p>After that, they make the drink. It involved lining a brandy snifter with liquor and setting it on fire. Once the fire had died down, they poured in a whisky-based old-fashioned-esque cocktail. They placed the photo on top to stop the smoke from the flames coming out.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/cocktails/anon-remember.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/anon-remember.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/anon-remember.jpg">
     </a>
     <div class="alt">Remember</div>
@@ -65,7 +65,7 @@
   <p>Here are the photos of our night. It&#8217;s nice to have something to keep after a night out. Especially once you&#8217;ve had a few cocktails.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/cocktails/anon-polaroid.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/anon-polaroid.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/anon-polaroid.jpg">
     </a>
     <div class="alt">Ahh, memories!</div>
@@ -99,28 +99,28 @@
   <p>As we sat down, the waiter came over and gave us an envelope.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/degustation/envelope.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/degustation/envelope.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/degustation/envelope.jpg">
     </a>
     <div class="alt">We were handed an envelope</div>
   </div>
 
   <div class="img">
-    <a href="/images/the-journey/prague/degustation/back-envelope.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/degustation/back-envelope.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/degustation/back-envelope.jpg">
     </a>
     <div class="alt">The back of the envelope</div>
   </div>
 
   <div class="img">
-    <a href="/images/the-journey/prague/degustation/contents.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/degustation/contents.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/degustation/contents.jpg">
     </a>
     <div class="alt">Open it to find the checkered pattern</div>
   </div>
 
   <div class="img">
-    <a href="/images/the-journey/prague/degustation/menu.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/degustation/menu.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/degustation/menu.jpg">
     </a>
     <div class="alt">Two menu options</div>
@@ -156,7 +156,7 @@
     <content type="html"><![CDATA[<p>The <a href="http://en.wikipedia.org/wiki/Josefov">Jewish Quarter</a> (or Josefov) of Prague is in the Old Town, just north of the Old Town Square. We&rsquo;d been told that the <a href="http://www.jewishmuseum.cz/en/apinkas.htm">Pinkas Synagogue</a> was a must-see, so we set off on a visit without learning much about it. All I knew was that it&rsquo;s now a memorial to victims of the <a href="http://en.wikipedia.org/wiki/The_Holocaust">Holocaust</a>.</p>
 
 <div class="img">
-  <a href="/images/the-journey/prague/josefov/pinkas.jpg">
+  <a href="{{ root_url }}/images/the-journey/prague/josefov/pinkas.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/pinkas.jpg">
   </a>
   <div class="alt">Pinkas Synagogue from the outside</div>
@@ -166,7 +166,7 @@
 <p>We arrived at lunchtime and the queue was really long and slow-moving. Not good.</p>
 
 <div class="img">
-  <a href="/images/the-journey/prague/josefov/pinkas-queue.jpg">
+  <a href="{{ root_url }}/images/the-journey/prague/josefov/pinkas-queue.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/pinkas-queue.jpg">
   </a>
   <div class="alt">Long queue waiting for tickets</div>
@@ -176,7 +176,7 @@
 <p>However! We found an EXPERT WORK-AROUND for buying tickets without having to wait in line. Head slightly east on the same road and take the first left. You&rsquo;ll find <a href="https://www.google.com/maps/place/Maiselova+38%2F15,+110+00+Praha-Praha+1,+Czech+Republic/@50.089592,14.4181715,17z/data=!3m1!4b1!4m2!3m1!1s0x470b94e8669ff2a5:0xb73abb80fc435169">a ticketing office</a>.</p>
 
 <div class="img">
-  <a href="/images/the-journey/prague/josefov/ticket-office.jpg">
+  <a href="{{ root_url }}/images/the-journey/prague/josefov/ticket-office.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/ticket-office.jpg">
   </a>
   <div class="alt">Just around the corner – under 2 mins walk.</div>
@@ -190,7 +190,7 @@
 <p>The inside of the Pinkas Synagogue serves as a memorial to the 80,000 Bohemian and Moravian Jews that were victims of the Holocaust.</p>
 
 <div class="img">
-  <a href="/images/the-journey/prague/josefov/pinkas-room.jpg">
+  <a href="{{ root_url }}/images/the-journey/prague/josefov/pinkas-room.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/pinkas-room.jpg">
   </a>
   <div class="alt">Inside the synagogue</div>
@@ -200,7 +200,7 @@
 <p>There were about five rooms like the one above – and see those red and black, floor-to-ceiling patches that line the walls? Those are the victims&#8217; names, birth-dates and death-dates. Across the rooms they&rsquo;re written out like that, in letters maybe a centimetre high.</p>
 
 <div class="img">
-  <a href="/images/the-journey/prague/josefov/pinkas-names.jpg">
+  <a href="{{ root_url }}/images/the-journey/prague/josefov/pinkas-names.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/pinkas-names.jpg">
   </a>
   <div class="alt">Names, births and deaths of victims</div>
@@ -212,7 +212,7 @@
 <p>After exiting the synagogue, you walk through the Old Jewish Cemetery. While not that large geographically, it apparently contains over 12,000 tombstones.</p>
 
 <div class="img">
-  <a href="/images/the-journey/prague/josefov/cemetery.jpg">
+  <a href="{{ root_url }}/images/the-journey/prague/josefov/cemetery.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/cemetery.jpg">
   </a>
   <div class="alt">Old Jewish Cemetery</div>
@@ -222,7 +222,7 @@
 <p>Needless to say, it was crowded with graves. The tombstones stuck out at all kinds of angles, and many were only just sticking out of the soil.</p>
 
 <div class="img">
-  <a href="/images/the-journey/prague/josefov/cemetery2.jpg">
+  <a href="{{ root_url }}/images/the-journey/prague/josefov/cemetery2.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/cemetery2.jpg">
   </a>
   <div class="alt">Another view of the cemetery</div>
@@ -232,7 +232,7 @@
 <p>The cemetary exit leaves you just outside of Ceremonial Hall and the Klausen Synagogue. As we already had the multi-ticket, we decided to give them a visit.</p>
 
 <div class="img">
-  <a href="/images/the-journey/prague/josefov/ceremonial-hall.jpg">
+  <a href="{{ root_url }}/images/the-journey/prague/josefov/ceremonial-hall.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/ceremonial-hall.jpg">
   </a>
   <div class="alt">Ceremonial Hall outside</div>
@@ -242,7 +242,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/prague/josefov/ceremonial-hall-floor.jpg">
+  <a href="{{ root_url }}/images/the-journey/prague/josefov/ceremonial-hall-floor.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/ceremonial-hall-floor.jpg">
   </a>
   <div class="alt">Ceremonial Hall tiled floor</div>
@@ -258,7 +258,7 @@
 <p>After leaving the Klausen Synagogue, the route to the next stop on our ticket took us past the Old New Synagogue. I only learnt afterwards that it&rsquo;s Europe&rsquo;s oldest active synagogue. Apparently, its attic is also the storage place for the infamous <a href="http://en.wikipedia.org/wiki/Golem#The_classic_narrative:_The_Golem_of_Prague">Golem of Prague</a> (<em>spooky noises</em>).</p>
 
 <div class="img">
-  <a href="/images/the-journey/prague/josefov/old-new.jpg">
+  <a href="{{ root_url }}/images/the-journey/prague/josefov/old-new.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/old-new.jpg">
   </a>
   <div class="alt">Old New Synagogue</div>
@@ -268,7 +268,7 @@
 <p>We continued walking, made a couple of quick turns, and found ourselves at the Spanish Synagogue. Not much to look at from the outside, inside it&rsquo;s absolutely stunning.</p>
 
 <div class="img">
-  <a href="/images/the-journey/prague/josefov/spanish.jpg">
+  <a href="{{ root_url }}/images/the-journey/prague/josefov/spanish.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/spanish.jpg">
   </a>
   <div class="alt">Spanish Synagogue interior</div>
@@ -278,7 +278,7 @@
 <p>The walls are covered in intricate patterns, mostly using reds and golds. The Star of David appears in motifs everywhere, and I spent ages just following the patterns and their interplay across the walls. The central dome is beautiful and has a Star of David-shaped chandelier in the centre.</p>
 
 <div class="img">
-  <a href="/images/the-journey/prague/josefov/spanish-dome.jpg">
+  <a href="{{ root_url }}/images/the-journey/prague/josefov/spanish-dome.jpg">
     <img src="http://www.malrase.com/images/the-journey/prague/josefov/spanish-dome.jpg">
   </a>
   <div class="alt">Dome of the Spanish Synagogue</div>
@@ -303,7 +303,7 @@
   <p><a href="http://www.orangebar.cz/en/homepage.html"><span itemprop="itemreviewed">Orange Bar</span></a> is pretty close by to us and has decent reviews. It&#8217;s a little tricky to find, down a couple of side-streets, but there&#8217;s a nice orange-shaped sign outside to let you know when you&#8217;re there.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/orangebar/outside.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/orangebar/outside.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/orangebar/outside.jpg">
     </a>
     <div class="alt">From the street</div>
@@ -312,7 +312,7 @@
   <p>From the outside, it looks pretty normal, right? Inside, though, it reminded me of a bar in Dune or something. The only lights had orange filters, and all the walls were molded to give the appearance of being dug out of a cave.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/orangebar/bar.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/orangebar/bar.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/orangebar/bar.jpg">
     </a>
     <div class="alt">The bar (I think the spice is kept on the top shelf)</div>
@@ -321,7 +321,7 @@
   <p>The bar shelves were all integrated into the back wall. The other walls had fake columns with cubbies for desert plants.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/orangebar/plants.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/orangebar/plants.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/orangebar/plants.jpg">
     </a>
     <div class="alt">Walls with plants</div>
@@ -330,7 +330,7 @@
   <p>The cocktail list leaned heavily towards rum-based beach drinks – mai tais, piña coladas, zombies etc. There&#8217;s also a good list of classics, too. Hampton went for (of course) a manhattan. I tried out the mai tai but it was a little too sweet for me.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/orangebar/cocktails.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/orangebar/cocktails.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/orangebar/cocktails.jpg">
     </a>
     <div class="alt">Manhattan and a mai tai</div>
@@ -339,7 +339,7 @@
   <p>We were there during a massive thunderstorm and didn&#8217;t have umbrellas, so we stayed for another round (or two). The moscow mule was <em>much</em> better. Get that! It had a <a href="http://en.wikipedia.org/wiki/Physalis_peruviana">physalis</a> garnish too, which is awesome.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/orangebar/moscow-mule.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/orangebar/moscow-mule.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/orangebar/moscow-mule.jpg">
     </a>
     <div class="alt">Moscow mule</div>
@@ -371,14 +371,14 @@
   <p>First and foremost: this is a non-smoking bar! Yay! That automatically gets you points in my book. Most bars have smoking and non-smoking areas, but that&#8217;s not quite the same. Location-wise, it&#8217;s on a little intersection near the main train station (so great for people-watching), and has big windows. The decor is neat – they have a massive trompe-l&#8217;œil mural on one side so it looks like you&#8217;re in a warehouse.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/cocktails/hoffa-mural.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/hoffa-mural.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/hoffa-mural.jpg">
     </a>
     <div class="alt">Mural in Hoffa</div>
   </div>
 
   <div class="img">
-    <a href="/images/the-journey/prague/cocktails/hoffa-bar.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/hoffa-bar.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/hoffa-bar.jpg">
     </a>
     <div class="alt">The bar</div>
@@ -387,7 +387,7 @@
   <p>They have mostly traditional drinks, with some specials on a chalkboard. The drink I had was pretty good, but nothing amazing. I went for a glass of Pimm&#8217;s as it was ridiculously hot outside.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/cocktails/hoffa-pimms.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/hoffa-pimms.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/hoffa-pimms.jpg">
     </a>
     <div class="alt">Pimm&#8217;s!</div>
@@ -396,7 +396,7 @@
   <p>They offer decent bar snacks, too. We got some tortilla chips with salsa and sour cream.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/cocktails/hoffa-tortillas.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/hoffa-tortillas.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/hoffa-tortillas.jpg">
     </a>
     <div class="alt">Tortilla chips with salsa and sour cream</div>
@@ -407,7 +407,7 @@
   <p>The bathroom doors were pretty neat, too.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/cocktails/hoffa-mural.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/hoffa-mural.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/hoffa-bathroom.jpg">
     </a>
     <div class="alt">Bathroom door</div>
