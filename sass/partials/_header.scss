@@ -96,7 +96,6 @@ body > nav {
       text-transform: uppercase;
       font-family: $head-sans;
     }
-
     @include transition(0.8s);
 
     &.closed {
