@@ -3,7 +3,7 @@ layout: post
 title: "Halloween Horror Nights 24"
 date: 2014-11-18 10:03:17 -0500
 comments: true
-categories: orlando halloween hhn florida the-journey-2014
+categories: orlando halloween hhn florida usa the-journey-2014
 ---
 
 [Halloween Horror Nights](https://en.wikipedia.org/wiki/Halloween_Horror_Nights) (also known as "HHN") is an annual even put on by the Universal Studios resort in Florida. On select evenings for some of September and most of October, the park is transformed into a halloween scare-park.
