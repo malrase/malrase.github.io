@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Biltmore | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/biltmore/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2014-11-29T16:24:30-05:00</updated>
+  <updated>2014-12-07T15:21:13-08:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -16,12 +16,12 @@
   <entry>
     <title type="html"><![CDATA[East Coast Road Trip: Part Two]]></title>
     <link href="http://www.malrase.com/blog/2014/10/28/east-coast-road-trip-part-two/"/>
-    <updated>2014-10-28T11:46:04-04:00</updated>
+    <updated>2014-10-28T08:46:04-07:00</updated>
     <id>http://www.malrase.com/blog/2014/10/28/east-coast-road-trip-part-two</id>
     <content type="html"><![CDATA[<p>On the southern outskirts of <a href="https://en.wikipedia.org/wiki/Asheville,_North_Carolina">Asheville</a> is the <a href="https://en.wikipedia.org/wiki/Biltmore_Estate">Biltmore Estate</a>. Built by the Vanderbilt family in the 1890s, it&rsquo;s the largest home in the U.S.A. and is open for tours. It&rsquo;s ridiculously expensive to visit – $60 per person is the cheapest adult ticket. Once you get in, there isn&rsquo;t much guidance on where to go, so the audio guide is well worth the extra $10. If you&rsquo;re spending $60 already&hellip; might as well, right?</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/east-coast/biltmore.jpg">
+  <a href="/images/the-journey/east-coast/biltmore.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/biltmore.jpg">
   </a>
   <div class="alt">Front of Biltmore</div>
@@ -37,7 +37,7 @@
 <p>From the outside, it doesn&rsquo;t look like much.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/east-coast/admiral.jpg">
+  <a href="/images/the-journey/east-coast/admiral.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/admiral.jpg">
   </a>
   <div class="alt">The Admiral</div>
@@ -47,7 +47,7 @@
 <p>It seems more like a dive bar than anything. Inside, it&rsquo;s even decorated like a bit of a dive bar. No tablecloths, neon beer signs on the wall. The menu is pretty high-falutin, though. Tasty cocktails to begin with.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/east-coast/admiral-cocktails.jpg">
+  <a href="/images/the-journey/east-coast/admiral-cocktails.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/admiral-cocktails.jpg">
   </a>
   <div class="alt">Cocktails</div>
@@ -57,7 +57,7 @@
 <p>Then some fancy versions of mostly Southern food. We ended up getting a bunch of small plates and one large plate – the pork chop – as we&rsquo;d heard so much about it. By far the stand-out dish was the mussels.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/east-coast/admiral-mussels.jpg">
+  <a href="/images/the-journey/east-coast/admiral-mussels.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/admiral-mussels.jpg">
   </a>
   <div class="alt">Mussels</div>

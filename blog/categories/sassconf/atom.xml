@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Sassconf | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/sassconf/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2014-11-29T16:24:30-05:00</updated>
+  <updated>2014-12-07T15:21:13-08:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[SassConf 2014]]></title>
     <link href="http://www.malrase.com/blog/2014/10/10/sass-conf-2014/"/>
-    <updated>2014-10-10T11:33:48-04:00</updated>
+    <updated>2014-10-10T08:33:48-07:00</updated>
     <id>http://www.malrase.com/blog/2014/10/10/sass-conf-2014</id>
     <content type="html"><![CDATA[<p>Last week was the second <a href="http://sassconf.com/">SassConf</a>. After having a blast last year, we had to come back (and it gave us a great excuse to be in New York City for a while).</p>
 
@@ -25,7 +25,7 @@
 <p>There were great talks by <a href="https://twitter.com/smithschwartz">Smith Schwartz</a> and <a href="https://twitter.com/patrickhamann">Patrick Hamann</a> on Monday night. On Wednesday there was a fireside chat with the Sass Design team. Hampton talked about the original concept behind Sass and its unconventional branding, then <a href="https://twitter.com/jina">Jina Bolton</a> walked through the complete redesign of the <a href="http://sass-lang.com">Sass website</a> that she spearheaded last year.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/nyc/sass-conf/fireside-chat.jpg">
+  <a href="/images/the-journey/nyc/sass-conf/fireside-chat.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/sass-conf/fireside-chat.jpg">
   </a>
   <div class="alt">Wednesday&#8217;s Sass Design fireside chat</div>
@@ -39,7 +39,7 @@
 <p>It was also great to finally give <a href="https://twitter.com/nex3">Natalie</a> the <a href="https://thenetawards.com/">net Game-Changer of the Year award</a>. It was picked up by <a href="https://twitter.com/kaelig">Kaelig</a> back in May. He gave it to us when we were in London, then we asked my Mum to ship it to New York for SassConf.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/nyc/sass-conf/gamechanger.jpg">
+  <a href="/images/the-journey/nyc/sass-conf/gamechanger.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/sass-conf/gamechanger.jpg">
   </a>
   <div class="alt">Natalie receiving the Game-Changer of the Year award</div>
@@ -53,7 +53,7 @@
 <p>Anyway, it was <em>awesome</em>. Seeing any city from a new perspective is great, and Manhattan is absolutely gorgeous at night.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/nyc/sass-conf/boat-wallst.jpg">
+  <a href="/images/the-journey/nyc/sass-conf/boat-wallst.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/sass-conf/boat-wallst.jpg">
   </a>
   <div class="alt">World Trade Center from the boat</div>
@@ -63,7 +63,7 @@
 <p>We sailed from <a href="https://en.wikipedia.org/wiki/Chelsea_Piers">Chelsea Piers</a> to near the <a href="https://en.wikipedia.org/wiki/Brooklyn_Bridge">Brooklyn Bridge</a>. Then, on the way back, we got really close to the Statue of Liberty!</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/nyc/sass-conf/boat-liberty.jpg">
+  <a href="/images/the-journey/nyc/sass-conf/boat-liberty.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/sass-conf/boat-liberty.jpg">
   </a>
   <div class="alt">Statue of Liberty</div>
@@ -77,7 +77,7 @@
 <p>I was very wrong.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/nyc/sass-conf/new-work-city.jpg">
+  <a href="/images/the-journey/nyc/sass-conf/new-work-city.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/sass-conf/new-work-city.jpg">
   </a>
   <div class="alt">The unconference was held in the New Work City offices</div>
