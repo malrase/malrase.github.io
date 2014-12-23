@@ -99,7 +99,7 @@ body > nav {
     @include transition(0.8s);
 
     &.closed {
-      // display: none;
+      display: none;
     }
   }
 
