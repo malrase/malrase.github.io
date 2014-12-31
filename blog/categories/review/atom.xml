@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Review | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/review/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2014-12-29T12:20:51-08:00</updated>
+  <updated>2014-12-31T12:05:35-08:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -12,6 +12,71 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[2014 in Review]]></title>
+    <link href="http://www.malrase.com/blog/2014/12/31/2014-in-review/"/>
+    <updated>2014-12-31T12:00:01-08:00</updated>
+    <id>http://www.malrase.com/blog/2014/12/31/2014-in-review</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve seen a lot of people talk about how difficult 2014 was for them, and I must admit, it&rsquo;s been a pretty stressful year for me too. From quitting my job to putting on a conference to the Mozilla stuff and then travelling for seven months&hellip; it&rsquo;s been hectic.</p>
+
+<p>I&rsquo;ve visited four new countries (Netherlands, Czech Republic, Austria and Mexico), stayed in many new cities (Prague, Stockholm, Vienna, Philadelphia, Raleigh, and Los Angeles – to name a few), and far too many airports.</p>
+
+<p>I&rsquo;m definitely looking forward to this upcoming year. It&rsquo;s filled with a lot of promise.</p>
+
+<p>Here&rsquo;s some of the things I&rsquo;ve enjoyed this year.</p>
+
+<h3>Films</h3>
+
+<ol>
+<li><a href="http://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)">Guardians of the Galaxy</a></li>
+<li><a href="http://en.wikipedia.org/wiki/The_Babadook">The Babadook</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Gone_Girl_(film)">Gone Girl</a></li>
+</ol>
+
+
+<p>Honorable mentions for <a href="http://en.wikipedia.org/wiki/Edge_of_Tomorrow_(film)">Edge of Tomorrow</a> and <a href="http://en.wikipedia.org/wiki/The_Grand_Budapest_Hotel">The Grand Budapest Hotel</a>.</p>
+
+<h3>TV Episodes</h3>
+
+<ol>
+<li><a href="http://en.wikipedia.org/wiki/The_Mountain_and_the_Viper">The Mountain and the Viper</a> (Game of Thrones, S4 E8)</li>
+<li><a href="http://en.wikipedia.org/wiki/The_Leftovers_%28TV_series%29#Season_1_.282014.29">Guest</a> (The Leftovers, S1 E6)</li>
+<li><a href="http://en.wikipedia.org/wiki/Buridan%27s_Ass_(Fargo)">Buridan&rsquo;s Ass</a> (Fargo, S1 E6)</li>
+</ol>
+
+
+<h3>Books</h3>
+
+<ol>
+<li><a href="http://en.wikipedia.org/wiki/The_Goldfinch_(novel)">The Goldfinch</a> by <a href="http://en.wikipedia.org/wiki/Donna_Tartt">Donna Tartt</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Tenth_of_December:_Stories">Tenth of December</a> by <a href="http://en.wikipedia.org/wiki/George_Saunders">George Saunders</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Hyperion_(Simmons_novel)">Hyperion</a> by <a href="http://en.wikipedia.org/wiki/Dan_Simmons">Dan Simmons</a></li>
+</ol>
+
+
+<h3>Songs</h3>
+
+<p>I haven&rsquo;t listened to that many albums, so I&rsquo;m just doing songs this year.</p>
+
+<ol>
+<li><a href="http://en.wikipedia.org/wiki/Too_Bright_(Perfume_Genius_album)">Queen</a> - <a href="http://en.wikipedia.org/wiki/Perfume_Genius">Perfume Genius</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Hunger_of_the_Pine">Hunger of the Pine</a> - <a href="http://en.wikipedia.org/wiki/Alt-J">alt-J</a></li>
+<li>The Way He Looks At Me - <a href="http://en.wikipedia.org/wiki/Trent_Reznor">Trent Reznor</a> &amp; <a href="http://en.wikipedia.org/wiki/Atticus_Ross">Atticus Ross</a> (from the <a href="http://en.wikipedia.org/wiki/Gone_Girl_%28soundtrack%29">Gone Girl</a> soundtrack)</li>
+</ol>
+
+
+<h3>Moments</h3>
+
+<ol>
+<li>Drinking with old friends at Nightjar in London</li>
+<li>Seeing Cabaret on Broadway (and just generally living in New York)</li>
+<li>Eating at La Degustation in Prague</li>
+<li>Visiting Disneyland and California&rsquo;s Great Adventure</li>
+</ol>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[AnonymouS Bar, Prague]]></title>
@@ -27,7 +92,7 @@
   <p>The menu has a really great concept: a list of standard drinks on one page, paired up with an AnonymouS-bar twist on the classics. It was a goodway to quickly pick out a drink you&#8217;d be sure to like. I went for the St Marry&#8217;s Virus – again, that&#8217;s their weird spelling, and I&#8217;m not sure if it&#8217;s deliberate or not. It was a twist on the Piccadilly martini. The bartender came over with a biohazard box, which opened to reveal a giant syringe containing the cocktial.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/cocktails/anon-st-marrys.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/anon-st-marrys.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/anon-st-marrys.jpg">
     </a>
     <div class="alt">St Marry&#8217;s Virus</div>
@@ -36,7 +101,7 @@
   <p>Hampton went for a take on a gimlet, and it was really delicious! I think they added cucumber and some other stuff.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/cocktails/anon-butterfly.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/anon-butterfly.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/anon-butterfly.jpg">
     </a>
     <div class="alt">M. Butterfly</div>
@@ -47,7 +112,7 @@
   <p>Hampton got it after me, so I have photos of what it entailed. The bartender handed you a Guy Fawkes mask and took your photo.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/cocktails/anon-photo.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/anon-photo.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/anon-photo.jpg">
     </a>
     <div class="alt">They had to find more film</div>
@@ -56,7 +121,7 @@
   <p>After that, they make the drink. It involved lining a brandy snifter with liquor and setting it on fire. Once the fire had died down, they poured in a whisky-based old-fashioned-esque cocktail. They placed the photo on top to stop the smoke from the flames coming out.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/cocktails/anon-remember.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/anon-remember.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/anon-remember.jpg">
     </a>
     <div class="alt">Remember</div>
@@ -65,7 +130,7 @@
   <p>Here are the photos of our night. It&#8217;s nice to have something to keep after a night out. Especially once you&#8217;ve had a few cocktails.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/cocktails/anon-polaroid.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/anon-polaroid.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/anon-polaroid.jpg">
     </a>
     <div class="alt">Ahh, memories!</div>
@@ -99,28 +164,28 @@
   <p>As we sat down, the waiter came over and gave us an envelope.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/degustation/envelope.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/degustation/envelope.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/degustation/envelope.jpg">
     </a>
     <div class="alt">We were handed an envelope</div>
   </div>
 
   <div class="img">
-    <a href="/images/the-journey/prague/degustation/back-envelope.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/degustation/back-envelope.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/degustation/back-envelope.jpg">
     </a>
     <div class="alt">The back of the envelope</div>
   </div>
 
   <div class="img">
-    <a href="/images/the-journey/prague/degustation/contents.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/degustation/contents.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/degustation/contents.jpg">
     </a>
     <div class="alt">Open it to find the checkered pattern</div>
   </div>
 
   <div class="img">
-    <a href="/images/the-journey/prague/degustation/menu.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/degustation/menu.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/degustation/menu.jpg">
     </a>
     <div class="alt">Two menu options</div>
@@ -158,7 +223,7 @@
   <p><a href="http://www.orangebar.cz/en/homepage.html"><span itemprop="itemreviewed">Orange Bar</span></a> is pretty close by to us and has decent reviews. It&#8217;s a little tricky to find, down a couple of side-streets, but there&#8217;s a nice orange-shaped sign outside to let you know when you&#8217;re there.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/orangebar/outside.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/orangebar/outside.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/orangebar/outside.jpg">
     </a>
     <div class="alt">From the street</div>
@@ -167,7 +232,7 @@
   <p>From the outside, it looks pretty normal, right? Inside, though, it reminded me of a bar in Dune or something. The only lights had orange filters, and all the walls were molded to give the appearance of being dug out of a cave.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/orangebar/bar.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/orangebar/bar.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/orangebar/bar.jpg">
     </a>
     <div class="alt">The bar (I think the spice is kept on the top shelf)</div>
@@ -176,7 +241,7 @@
   <p>The bar shelves were all integrated into the back wall. The other walls had fake columns with cubbies for desert plants.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/orangebar/plants.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/orangebar/plants.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/orangebar/plants.jpg">
     </a>
     <div class="alt">Walls with plants</div>
@@ -185,7 +250,7 @@
   <p>The cocktail list leaned heavily towards rum-based beach drinks – mai tais, piña coladas, zombies etc. There&#8217;s also a good list of classics, too. Hampton went for (of course) a manhattan. I tried out the mai tai but it was a little too sweet for me.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/orangebar/cocktails.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/orangebar/cocktails.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/orangebar/cocktails.jpg">
     </a>
     <div class="alt">Manhattan and a mai tai</div>
@@ -194,7 +259,7 @@
   <p>We were there during a massive thunderstorm and didn&#8217;t have umbrellas, so we stayed for another round (or two). The moscow mule was <em>much</em> better. Get that! It had a <a href="http://en.wikipedia.org/wiki/Physalis_peruviana">physalis</a> garnish too, which is awesome.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/orangebar/moscow-mule.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/orangebar/moscow-mule.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/orangebar/moscow-mule.jpg">
     </a>
     <div class="alt">Moscow mule</div>
@@ -226,14 +291,14 @@
   <p>First and foremost: this is a non-smoking bar! Yay! That automatically gets you points in my book. Most bars have smoking and non-smoking areas, but that&#8217;s not quite the same. Location-wise, it&#8217;s on a little intersection near the main train station (so great for people-watching), and has big windows. The decor is neat – they have a massive trompe-l&#8217;œil mural on one side so it looks like you&#8217;re in a warehouse.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/cocktails/hoffa-mural.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/hoffa-mural.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/hoffa-mural.jpg">
     </a>
     <div class="alt">Mural in Hoffa</div>
   </div>
 
   <div class="img">
-    <a href="/images/the-journey/prague/cocktails/hoffa-bar.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/hoffa-bar.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/hoffa-bar.jpg">
     </a>
     <div class="alt">The bar</div>
@@ -242,7 +307,7 @@
   <p>They have mostly traditional drinks, with some specials on a chalkboard. The drink I had was pretty good, but nothing amazing. I went for a glass of Pimm&#8217;s as it was ridiculously hot outside.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/cocktails/hoffa-pimms.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/hoffa-pimms.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/hoffa-pimms.jpg">
     </a>
     <div class="alt">Pimm&#8217;s!</div>
@@ -251,7 +316,7 @@
   <p>They offer decent bar snacks, too. We got some tortilla chips with salsa and sour cream.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/cocktails/hoffa-tortillas.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/hoffa-tortillas.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/hoffa-tortillas.jpg">
     </a>
     <div class="alt">Tortilla chips with salsa and sour cream</div>
@@ -262,7 +327,7 @@
   <p>The bathroom doors were pretty neat, too.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/cocktails/hoffa-mural.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/cocktails/hoffa-mural.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/cocktails/hoffa-bathroom.jpg">
     </a>
     <div class="alt">Bathroom door</div>
@@ -273,58 +338,6 @@
   <p class="score">
     <span itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating">
       <span itemprop="value">7.0</span> 
-      <meta itemprop="best" content="10"/> / 10
-    </span> 
-  </p>
-  
-</div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zinc Lounge, Prague]]></title>
-    <link href="http://www.malrase.com/blog/2014/07/21/zinc-lounge-prague/"/>
-    <updated>2014-07-21T02:52:10-07:00</updated>
-    <id>http://www.malrase.com/blog/2014/07/21/zinc-lounge-prague</id>
-    <content type="html"><![CDATA[<div itemprop="description">
-
-  <p>After the underwhelming experience at <a href="http://www.malrase.com/blog/2014/07/19/cloud-9-prague">Cloud 9</a>, I wanted to try out the bar at the other Prague-based Hilton: <a href="http://www.hiltonpragueoldtown.com/loungebar-en.html"><span itemprop="itemreviewed">Zinc Lounge and Bar</span></a>, found in the <a href="https://www.google.com/maps/place/Hilton+Prague+Old+Town/@50.088515,14.431864,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x63a407a250359dc7">Hilton Prague Old Town</a>. I wanted to see how it measured up, and in short: it was pretty bad. Please forgive me, Cloud 9, I didn&#8217;t realise your sister bar was so awful. I would have cut you some slack otherwise!</p>
-
-  <p>The Hilton Prague Old Town is pretty easy to find compared with the other Hilton. It&#8217;s just off Náměstí Republiky, one of the main squares in the Old Town. The Zinc Bar and Lounge is just to the right as you come in. &#8220;Zinc&#8221; is also the name of the hotel restaurant, just behind the bar</p>
-
-  <p>Inside, it&#8217;s decorated like a dreary hotel lobby. Leather seats and low, round wooden tables. Holey partitions of wood try to separate the actual hotel lobby from the bar. Despite their best efforts, we were still drinking around a bunch of people loudly chatting on Skype (I assume there&#8217;s free wi-fi in the lobby area) and wheeling their luggage around, waiting for their ride to the airport.</p>
-
-  <div class="img">
-    <a href="/images/the-journey/prague/cocktails/zinc-bar.jpg">
-      <img src="http://www.malrase.com/images/the-journey/prague/cocktails/zinc-bar.jpg">
-    </a>
-    <div class="alt">Zinc Bar</div>
-  </div>
-
-  <p>The menu consisted almost entirely of classic cocktails. There was nothing inventive or fancy like at Cloud 9. We stuck to our staples and got a gimlet and a manhattan. They were both OK – competently done and similar to what you could find at a lot of bars in Prague.</p>
-
-  <div class="img">
-    <a href="/images/the-journey/prague/cocktails/zinc-cocktails.jpg">
-      <img src="http://www.malrase.com/images/the-journey/prague/cocktails/zinc-cocktails.jpg">
-    </a>
-    <div class="alt">Drinks: gimlet and a manhattan</div>
-  </div>
-
-  <p>The thing is, these cocktails were 220Kč (~$11) each. And there was me going off on how expensive the Cloud 9 cocktails were, at 185Kč (~$9)! Like I said in the beginning, I&#8217;M SORRY CLOUD 9. The Cloud 9 cocktails were far more reasonably-priced (I still think they&#8217;re expensive, though). At least you get something different, innovative. At Zinc you get a standard cocktail that at another bar (say, Groove Bar) would be 100Kč (~$5).</p>
-
-  <div class="img">
-    <a href="/images/the-journey/prague/cocktails/zinc-interior.jpg">
-      <img src="http://www.malrase.com/images/the-journey/prague/cocktails/zinc-interior.jpg">
-    </a>
-    <div class="alt">Hampton looking SUPREMELY DISAPPOINTED</div>
-  </div>
-
-  <p><span itemprop="summary">Put together the atmosphere of the hotel lobby with the fact that the drinks were exceedinly expensive for what they were, and you get a disappointing experience. I&#8217;d suggest venturing a little out of the hotel to find a better cocktail bar.</span></p>
-
-  <p class="score">
-    <span itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating">
-      <span itemprop="value">4.6</span> 
       <meta itemprop="best" content="10"/> / 10
     </span> 
   </p>
