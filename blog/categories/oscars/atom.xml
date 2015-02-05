@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Oscars | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/oscars/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2015-01-10T17:29:57-08:00</updated>
+  <updated>2015-02-04T16:11:31-08:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Oscar Pool 2015]]></title>
+    <link href="http://www.malrase.com/blog/2015/02/04/oscar-pool-2015/"/>
+    <updated>2015-02-04T16:01:32-08:00</updated>
+    <id>http://www.malrase.com/blog/2015/02/04/oscar-pool-2015</id>
+    <content type="html"><![CDATA[<p>The last couple of years, I&rsquo;ve participated in pools for the Academy Awards. I like the Oscars anyway, but competing against other people to see who can guess the most winners adds an extra level of excitement.</p>
+
+<p>In preparation for this year, and to learn a bit of Rails, I decided to make my own pool site. It&rsquo;s found at <a href="http://pool.malrase.com">pool.malrase.com</a>.</p>
+
+<p>It costs $15 to enter and there&rsquo;s some more rules on the site. I&rsquo;d love for you to sign up, submit a ballot, and follow along with the 87th Academy Awards on the 22nd February!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Artist (2011)]]></title>
