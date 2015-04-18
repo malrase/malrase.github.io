@@ -17,9 +17,11 @@
 
   // STATES
 
-  @mixin state {
-    background-size: 20px;
+  @mixin state($color, $gif) {
+    background: $color;
     &:hover {
+      background: url("/images/gifs/" + $gif + ".gif");
+      background-size: 20px;
       -webkit-transform: scale(10);
       transform: scale(10);
       z-index: 33;
@@ -33,243 +35,195 @@
   // Mixins
 
   @mixin alabama {
-    background: url("/images/gifs/al.gif");
-    @include state;
+    @include state(blue, al);
   }
 
   @mixin arizona {
-    background: url("/images/gifs/az.gif");
-    @include state;
+    @include state(#DDD, az);
   }
 
   @mixin arkansas {
-    background: url("/images/gifs/ak.gif");
-    @include state;
+    @include state(#BBB, ak);
   }
 
   @mixin california {
-    background: url("/images/gifs/ca.gif");
-    @include state;
+    @include state(#BBB, ca);
   }
 
   @mixin colorado {
-    background: url("/images/gifs/co.gif");
-    @include state;
+    @include state(#BBB, co);
   }
 
   @mixin connecticut {
-    background: url("/images/gifs/ct.gif");
-    @include state;
+    @include state(#BBB, ct);
   }
 
   @mixin delaware {
-    background: url("/images/gifs/de.gif");
-    @include state;
+    @include state(#999, de);
   }
 
   @mixin florida {
-    background: url("/images/gifs/fl.gif");
-    @include state;
+    @include state(#BBB, fl);
   }
 
   @mixin georgia {
-    background: url("/images/gifs/ga.gif");
-    @include state;
+    @include state(#369, ga);
   }
 
   @mixin idaho {
-    background: url("/images/gifs/id.gif");
-    @include state;
+    @include state(#369, id);
   }
 
   @mixin illinois {
-    background: url("/images/gifs/il.gif");
-    @include state;
+    @include state(#369, il);
   }
 
   @mixin indiana {
-    background: url("/images/gifs/in.gif");
-    @include state;
+    @include state(#369, in);
   }
 
   @mixin iowa {
-    background: url("/images/gifs/ia.gif");
-    @include state;
+    @include state(#666, ia);
   }
 
   @mixin kansas {
-    background: url("/images/gifs/ks.gif");
-    @include state;
+    @include state(#666, ks);
   }
 
   @mixin kentucky {
-    background: url("/images/gifs/ky.gif");
-    @include state;
+    @include state(#999, ky);
   }
 
   @mixin louisiana {
-    background: url("/images/gifs/la.gif");
-    @include state;
+    @include state(#999, la);
   }
 
   @mixin maine {
-    background: url("/images/gifs/me.gif");
-    @include state;
+    @include state(#999, me);
   }
 
   @mixin maryland {
-    background: url("/images/gifs/md.gif");
-    @include state;
+    @include state(#999, md);
   }
 
   @mixin massachusetts {
-    background: url("/images/gifs/ma.gif");
-    @include state;
+    @include state(#999, ma);
   }
 
   @mixin michigan {
-    background: url("/images/gifs/mi.gif");
-    @include state;
+    @include state(#999, mi);
   }
 
   @mixin minnesota {
-    background: url("/images/gifs/mn.gif");
-    @include state;
+    @include state(#BBB, mn);
   }
 
   @mixin mississippi {
-    background: url("/images/gifs/ms.gif");
-    @include state;
+    @include state(#BBB, ms);
   }
 
   @mixin missouri {
-    background: url("/images/gifs/mo.gif");
-    @include state;
+    @include state(#BBB, mo);
   }
 
   @mixin montana {
-    background: url("/images/gifs/mt.gif");
-    @include state;
+    @include state(#BBB, mt);
   }
 
   @mixin nebraska {
-    background: url("/images/gifs/ne.gif");
-    @include state;
+    @include state(#BBB, ne);
   }
 
   @mixin nevada {
-    background: url("/images/gifs/nv.gif");
-    @include state;
+    @include state(#BBB, nv);
   }
 
   @mixin new-hampshire {
-    background: url("/images/gifs/nh.gif");
-    @include state;
+    @include state(#BBB, nh);
   }
 
   @mixin new-jersey {
-    background: url("/images/gifs/nj.gif");
-    @include state;
+    @include state(#BBB, nj);
   }
 
   @mixin new-mexico {
-    background: url("/images/gifs/nm.gif");
-    @include state;
+    @include state(#DDD, nm);
   }
 
   @mixin new-york {
-    background: url("/images/gifs/ny.gif");
-    @include state;
+    @include state(#DDD, ny);
   }
 
   @mixin north-carolina {
-    background: url("/images/gifs/nc.gif");
-    @include state;
+    @include state(#DDD, nc);
   }
 
   @mixin north-dakota {
-    background: url("/images/gifs/nd.gif");
-    @include state;
+    @include state(#DDD, nd);
   }
 
   @mixin ohio {
-    background: url("/images/gifs/oh.gif");
-    @include state;
+    @include state(#DDD, oh);
   }
 
   @mixin oklahoma {
-    background: url("/images/gifs/ok.gif");
-    @include state;
+    @include state(#DDD, ok);
   }
 
   @mixin oregon {
-    background: url("/images/gifs/or.gif");
-    @include state;
+    @include state(#333, og);
   }
 
   @mixin pennsylvania {
-    background: url("/images/gifs/pa.gif");
-    @include state;
+    @include state(#DDD, pa);
   }
 
   @mixin rhode-island {
-    background: url("/images/gifs/ri.gif");
-    @include state;
+    @include state(#DDD, ri);
   }
 
   @mixin south-carolina {
-    background: url("/images/gifs/sc.gif");
-    @include state;
+    @include state(#CCC, sc);
   }
 
   @mixin south-dakota {
-    background: url("/images/gifs/sd.gif");
-    @include state;
+    @include state(#CCC, sd);
   }
 
   @mixin tennessee {
-    background: url("/images/gifs/tn.gif");
-    @include state;
+    @include state(#CCC, tn);
   }
 
   @mixin texas {
-    background: url("/images/gifs/tx.gif");
-    @include state;
+    @include state(#CCC, tx);
   }
 
   @mixin utah {
-    background: url("/images/gifs/ut.gif");
-    @include state;
+    @include state(#CCC, ut);
   }
 
   @mixin vermont {
-    background: url("/images/gifs/vt.gif");
-    @include state;
+    @include state(#CCC, vt);
   }
 
   @mixin virginia {
-    background: url("/images/gifs/va.gif");
-    @include state;
+    @include state(#CCC, va);
   }
 
   @mixin washington {
-    background: url("/images/gifs/wa.gif");
-    @include state;
+    @include state(#888, wa);
   }
 
   @mixin west-virginia {
-    background: url("/images/gifs/wv.gif");
-    @include state;
+    @include state(#888, wv);
   }
 
   @mixin wisconsin {
-    background: url("/images/gifs/wi.gif");
-    @include state;
+    @include state(#888, wi);
   }
 
   @mixin wyoming {
-    background: url("/images/gifs/wy.gif");
-    @include state;
+    @include state(#888, wy);
   }
 
 
