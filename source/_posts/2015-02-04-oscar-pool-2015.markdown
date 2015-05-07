@@ -3,7 +3,7 @@ layout: post
 title: "Oscar Pool 2015"
 date: 2015-02-04 16:01:32 -0800
 comments: true
-categories: oscars movies
+categories: oscars movies pool-party
 ---
 
 The last couple of years, I've participated in pools for the Academy Awards. I like the Oscars anyway, but competing against other people to see who can guess the most winners adds an extra level of excitement.
