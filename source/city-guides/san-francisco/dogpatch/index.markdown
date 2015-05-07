@@ -31,20 +31,21 @@ Wander around **[Pier 70](http://www.pier70sf.com/)**. Dogpatch is undergoing a 
 
 Firstly, here's a [map](https://mapsengine.google.com/map/u/0/edit?mid=zSa_dTkSRnX0.k_Ff5BlXQakY) of important eating and drinking spots.
 
-#### Beer
-**[Triple Voodoo](http://www.triplevoodoo.com/triplevoodoo/faces/v2/home.xhtml)** just opened a sizeable tap room on Third Street. They have a good range of beers there, plus offer food from The New Spot (described later).
+#### Cocktails
 
-**[Smokestack](http://www.magnoliasmokestack.com/)**, from the folks at Magnolia Brewery, recently opened (in fact, it opened after we left on our trip so I haven't been there yet). As well as their brilliant, British-style beer, I hear they serve some overpriced BBQ.
+**[Third Rail](http://www.thirdrailbarsf.com/)** is easily our favourite bar in the neighbourhood. They have a bunch of great bartenders making delicious cocktails in a cosy, well-designed setting. It's difficult to go wrong in picking a cocktail, but one of my favourites is the Mt Tam. Oh, and you have to try their jerky. It's divine.
+
+**[Dogpatch Saloon](http://dogpatchsaloon.com/)** re-opened recently after a refurbishment. It's got a neighbourhood feel, and can get pretty busy. They have some cocktails and a good beer list.
+
+**[Sea Star](http://www.yelp.com/biz/sea-star-club-san-francisco-2)** is a dive bar that makes competent cocktails.
 
 #### Wine
 **[Yield Wine Bar](http://www.yieldandpause.com/)** has friendly, knowledgeable staff, with a relaxed atmosphere. They also serve great food (with some vegetarian/vegan options).
 
-#### Cocktails
-**[Dogpatch Saloon](http://dogpatchsaloon.com/)** re-opened recently after a refurbishment. This is our favourite bar – it's got a welcoming neighbourhood feel, bustling on a sunny afternoon as much as a late night. They have some great cocktails and a good beer list.
+#### Beer
+**[Triple Voodoo](http://www.triplevoodoo.com/triplevoodoo/faces/v2/home.xhtml)** is a sizeable tap room on Third Street. They have a good range of beers there, plus offer food from The New Spot (described later).
 
-**[Third Rail](http://www.thirdrailbarsf.com/)** makes high-end cocktails in a quiet, nicely-designed setting.
-
-**[Sea Star](http://www.yelp.com/biz/sea-star-club-san-francisco-2)** only just opened as we left on our trip. I only went a couple of times, and it was still finding its footing.
+**[Smokestack](http://www.magnoliasmokestack.com/)**, from the folks at Magnolia Brewery, recently opened. As well as their brilliant, British-style beer, they also serve some overpriced BBQ.
 
 <a name="Eat"></a>
 ### Eat
@@ -67,7 +68,7 @@ These places also do lunch and brunch, but they're a little fancier, so they're 
 
 **[Piccino](http://www.piccinocafe.com/)** has light, fresh Italian-inspired food. They only have a small regularly-changing menu, but it's difficult to go wrong. The funghi pizza is great, but I usually go for whatever pasta they have. They also have a café where you can grab coffee and some tasty pastries.
 
-**[Long Bridge Pizza](http://longbridgepizza.com/)** – finally, Dogpatch has a pizza place! I managed to eat there a couple of times before we left, and it was a thin-crust, traditional style pizza.
+**[Long Bridge Pizza](http://longbridgepizza.com/)** – finally, Dogpatch has a pizza place! It's a great thin-crust style place.
 
 **[Poquito](http://www.poquitosf.com/)** the food can be hit-or-miss at this place. It's Latin-American tapas. The drinks are good, though, so I'd recommend sitting at the bar and maybe grabbing a couple of snacks.
 
@@ -75,6 +76,3 @@ These places also do lunch and brunch, but they're a little fancier, so they're 
 **[Mr & Mrs Miscellaneous](https://www.facebook.com/pages/Mr-and-Mrs-Miscellaneous/126193770733086)** is amazing. Their flavours are innovative and I'd suggest going out of your comfort zone when picking one. They change ice-creams regularly, so it's difficult to recommend a flavour, but if they have bourbon caramel – get that. Or the boiled peanut.
 
 **[Olivier's Butchery](http://www.oliviersbutchery.com/)** – I'd never really been to a butcher before, usually relying on supermarket cuts of meat. However, I quickly became a convert. Sure, it's a little expensive, but that just means that it's a treat when you do get something. They offer delicious (and usual) cuts of meat, plus some pre-made items like rôtis or home-made sausages.
-
-
-
