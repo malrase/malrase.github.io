@@ -1,4 +1,4 @@
-.post { 
+.post {
   article {
     border-bottom: none;
   }
@@ -22,20 +22,23 @@
         width: 45%;
         text-align: right;
       }
+      &:hover {
+        color: $anchor-underline;
+      }
     }
   }
   .info {
     border-top: 1px solid #eee;
     border-bottom: 1px solid #eee;
-    padding: 20px 0;    
+    padding: 20px 0;
   }
   .sharing {
     > a {
-      color: $nav-bar-color;
+      color: $anchor;
       font-size: 18px;
       margin: 0 10px;
       &:hover {
-        color: $anchor;
+        color: $anchor-underline;
       }
     }
   }

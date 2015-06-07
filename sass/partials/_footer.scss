@@ -1,25 +1,25 @@
 body > footer {
-  background: $nav-bar-color;
-  color: lighten($nav-bar-color, 50%);
+  background: $footer-background;
+  color: $footer-color;
   text-align: center;
-  padding: 30px 0;
+  padding: 40px 0;
   position: relative;
   bottom: 0px;
   @media screen and (max-width: $small-break) {
     font-size: 13px;
   }
   a {
-    color: lighten($nav-bar-color, 50%);
+    color: $footer-color;
     border-bottom: none;
     &:visited {
-      color: lighten($nav-bar-color, 50%);
+      color: $footer-color;
     }
     &:hover {
-      color: $anchor;
+      color: $footer-hover-color;
     }
   }
   .follow {
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     > * {
       display: inline-block;
       font-size: 20px;
@@ -28,5 +28,8 @@ body > footer {
         border-bottom: none;
       }
     }
+  }
+  .credit {
+    margin-top: 20px;
   }
 }

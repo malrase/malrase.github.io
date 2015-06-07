@@ -1,21 +1,33 @@
 $head-serif: "Nixie One", Georgia, serif;
-$head-sans: "Raleway", Helvetica, sans-serif;
+$head-sans: Helvetica, sans-serif;
 
-$teal: #4FA490;
+$teal: #239fb0;
+$red: #EE352E;
+$blue: #2850AD;
+$black: #111111;
 $grey: #444444;
 $white: #FFFFFF;
 
 $primary: $grey;
-$secondary: $teal;
+$secondary: $grey;
+
+$header-color: $black;
 
 $nav-bar-color: $primary;
 $anchor: $secondary;
+$anchor-underline: $red;
 $input-color: $white; // white
 
 $body-margin-left: 10%;
 
+$footer-background: $white;
+$footer-color: $black;
+$footer-hover-color: $red;
+
 $small-break: 425px;
+$medium-break: 570px;
 $break: 850px;
+$large-break: 1100px;
 
 
 @mixin transition($time) {

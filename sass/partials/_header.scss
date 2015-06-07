@@ -6,11 +6,19 @@ body > header {
     }
   }
   a {
-    color: #444;
+    color: $header-color;
     border-bottom: none;
-    font-family: $head-serif;
+    font-family: Helvetica, sans-serif;
+    font-size: 2.2em;
+    font-weight: 600;
+    @media screen and (max-width: $large-break) {
+      font-size: 1.5em;
+    }
+    @media screen and (max-width: $break) {
+      font-size: 0.8em;
+    }
     &:visited {
-      color: #444;
+      color: $header-color;
     }
     &:hover {
       border-bottom: none;

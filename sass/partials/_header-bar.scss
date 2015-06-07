@@ -1,0 +1,21 @@
+.header-bar {
+  background: $red;
+  height: 40px;
+  position: absolute;
+  top: 50px;
+  width: 100%;
+  @media screen and (min-width: $medium-break) {
+    -webkit-transform: translate(30px) rotate(11deg);
+    -webkit-transform-origin: 58% 100%;
+    transform: translate(30px) rotate(11deg);
+    transform-origin: 58% 100%;
+  }
+  @media screen and (max-width: $large-break) {
+    height: 29px;
+    top: 36px;
+  }
+  @media screen and (max-width: $break) {
+    height: 18px;
+    top: 42px;
+  }
+}
