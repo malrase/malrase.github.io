@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Halloween | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/halloween/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2015-05-07T15:53:00-07:00</updated>
+  <updated>2015-06-07T14:19:01-07:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -23,7 +23,7 @@
 <p>There are usually eight or so haunted houses built in soundstages. These will be themed around something, and you walk through decorated rooms while loud noises play and actors jump out at you. There are also scare zones – areas of the park usually just for walking between rides. In these, there will be a few props around a theme, plus some scare actors who move amongst the crowds.</p>
 
 <div class="img">
-  <a href="/images/the-journey/orlando/hhn24/entrance.jpg">
+  <a href="{{ root_url }}/images/the-journey/orlando/hhn24/entrance.jpg">
     <img src="http://www.malrase.com/images/the-journey/orlando/hhn24/entrance.jpg">
   </a>
   <div class="alt">Universal Studios&#8217; Entrance during Halloween Horror Nights</div>
@@ -47,7 +47,7 @@
 <p>We headed over to the <a href="https://en.wikipedia.org/wiki/Halloween_(1978_film)">Halloween</a> house, which was over at the other end of the park. Here&rsquo;s another pro-tip: if the regular queue is pretty short, don&rsquo;t bother using your express pass. You can only use your express pass once per house. When we first went to the Halloween house, the queue was only 5 minutes – definitely not worth wasting our express on.</p>
 
 <div class="img">
-  <a href="/images/the-journey/orlando/hhn24/halloween.jpg">
+  <a href="{{ root_url }}/images/the-journey/orlando/hhn24/halloween.jpg">
     <img src="http://www.malrase.com/images/the-journey/orlando/hhn24/halloween.jpg">
   </a>
   <div class="alt">Front of the Halloween house</div>
@@ -59,7 +59,7 @@
 <p>After these, we did the &ldquo;non-property&rdquo; houses. These are houses that aren&rsquo;t based on any existing intellectual property. This year, there were three: Giggles and Gore (about clowns), Roanoake (about cannibals), and Dollhouse of the Damned (about creepy dolls).</p>
 
 <div class="img">
-  <a href="/images/the-journey/orlando/hhn24/dollhouse.jpg">
+  <a href="{{ root_url }}/images/the-journey/orlando/hhn24/dollhouse.jpg">
     <img src="http://www.malrase.com/images/the-journey/orlando/hhn24/dollhouse.jpg">
   </a>
   <div class="alt">Front of Dollhouse of the Damned</div>
@@ -69,7 +69,7 @@
 <p>Once we&rsquo;d done those, we were free to wander around the scare zones and attend the shows (they have special halloween-only live shows during HHN). My favourite scare zone was based around <a href="http://en.wikipedia.org/wiki/The_Purge">The Purge</a>. Hampton and I both enjoyed the films, and the theme fits well with the New York area of Universal Studios.</p>
 
 <div class="img">
-  <a href="/images/the-journey/orlando/hhn24/gone-purging.jpg">
+  <a href="{{ root_url }}/images/the-journey/orlando/hhn24/gone-purging.jpg">
     <img src="http://www.malrase.com/images/the-journey/orlando/hhn24/gone-purging.jpg">
   </a>
   <div class="alt">&#8220;Gone Purging&#8221; sign in the New York area</div>
@@ -79,7 +79,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/orlando/hhn24/purge-bus.jpg">
+  <a href="{{ root_url }}/images/the-journey/orlando/hhn24/purge-bus.jpg">
     <img src="http://www.malrase.com/images/the-journey/orlando/hhn24/purge-bus.jpg">
   </a>
   <div class="alt">Hampton supports our new founding fathers</div>
@@ -89,7 +89,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/orlando/hhn24/flowers.jpg">
+  <a href="{{ root_url }}/images/the-journey/orlando/hhn24/flowers.jpg">
     <img src="http://www.malrase.com/images/the-journey/orlando/hhn24/flowers.jpg">
   </a>
   <div class="alt">Signature blue flowers</div>
@@ -99,7 +99,7 @@
 <p>We noticed all of the above while touring the park during the day. At night, they bring out some extra props, like this sign.</p>
 
 <div class="img">
-  <a href="/images/the-journey/orlando/hhn24/purge-sign.jpg">
+  <a href="{{ root_url }}/images/the-journey/orlando/hhn24/purge-sign.jpg">
     <img src="http://www.malrase.com/images/the-journey/orlando/hhn24/purge-sign.jpg">
   </a>
   <div class="alt">Enjoy the Purge!</div>
@@ -109,7 +109,7 @@
 <p>The other scare zone I enjoyed was based around the reality show <a href="http://en.wikipedia.org/wiki/Face_Off_(TV_series)">Face Off</a>. Some of the most famous make-ups they&rsquo;ve had on the show were there.</p>
 
 <div class="img">
-  <a href="/images/the-journey/orlando/hhn24/face-off-1.jpg">
+  <a href="{{ root_url }}/images/the-journey/orlando/hhn24/face-off-1.jpg">
     <img src="http://www.malrase.com/images/the-journey/orlando/hhn24/face-off-1.jpg">
   </a>
   <div class="alt">FaceOff scarecrow thing</div>
@@ -119,7 +119,7 @@
 <p>It was cool seeing them, but the scare zone just turned into a photo opportunity. We were guilty, too – we stood in front of the couple of make-ups we enjoyed from the series and took some photos. So not that scary, but fun nonetheless.</p>
 
 <div class="img">
-  <a href="/images/the-journey/orlando/hhn24/face-off-2.jpg">
+  <a href="{{ root_url }}/images/the-journey/orlando/hhn24/face-off-2.jpg">
     <img src="http://www.malrase.com/images/the-journey/orlando/hhn24/face-off-2.jpg">
   </a>
   <div class="alt">FaceOff minotaur thing</div>
