@@ -19,6 +19,9 @@ a[rel=full-article] > span {
   }
   a {
     border-bottom: none;
+    &:hover {
+      color: $anchor-underline;
+    }
   }
   .prev {
     width: 28%;
