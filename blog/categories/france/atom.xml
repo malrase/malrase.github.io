@@ -4,7 +4,7 @@
   <title><![CDATA[Category: France | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/france/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2015-06-07T14:48:31-07:00</updated>
+  <updated>2015-06-20T14:56:07-07:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -23,7 +23,7 @@
 <p>We were staying in an area new to us: <a href="http://en.wikipedia.org/wiki/Montmartre">Montmartre</a>. We were situated on the north side of the hill, behind the <a href="http://en.wikipedia.org/wiki/Basilique_du_Sacr%C3%A9-C%C5%93ur,_Paris">Sacré-Cœur</a>. It was a little tricky (but by no means impossible) to get to other areas that we usually hang out in (mostly <a href="http://en.wikipedia.org/wiki/Saint-Germain-des-Pr%C3%A9s">St Germain</a> and the <a href="http://en.wikipedia.org/wiki/Latin_Quarter,_Paris">Latin Quarter</a>) – so we spent a lot of time in the neighbourhood.</p>
 
 <div class="img">
-  <a href="/images/the-journey/paris/sept/cafe.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/sept/cafe.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/sept/cafe.jpg">
   </a>
   <div class="alt">Chilling in a café</div>
@@ -33,7 +33,7 @@
 <p>One of the first things we did was walk to the Sacré-Cœur. It&rsquo;s something you can see from most of Paris, perched on the top of Montmartre like a wedding cake topper. Neither of us had been before, so we trekked up the few hundred steps to the top.</p>
 
 <div class="img">
-  <a href="/images/the-journey/paris/sept/sc.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/sept/sc.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/sept/sc.jpg">
   </a>
   <div class="alt">In front of the Sacré-Cœur</div>
@@ -45,7 +45,7 @@
 <p>It&rsquo;s certainly a beautiful church, but the view over Paris? It&rsquo;s&hellip; OK.</p>
 
 <div class="img">
-  <a href="/images/the-journey/paris/sept/view-sc.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/sept/view-sc.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/sept/view-sc.jpg">
   </a>
   <div class="alt">View from the Sacré-Cœur</div>
@@ -55,7 +55,7 @@
 <p>Sure, any vista over a city is kinda nice. But there just isn&rsquo;t much variation to make this one that interesting. It&rsquo;s just roofs – and you can maybe pick out the Centre Pompidou or Notre Dame in the distance if you&rsquo;re lucky.</p>
 
 <div class="img">
-  <a href="/images/the-journey/paris/sept/view-sc-annotated.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/sept/view-sc-annotated.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/sept/view-sc-annotated.jpg">
   </a>
   <div class="alt">View from the Sacré-Cœur, with annotations!</div>
@@ -71,7 +71,7 @@
 <p>We were wandering past on a Thursday at 2pm and there was no line whatsoever for tickets. Apparently that&rsquo;s the time to go! On a whim, we went inside.</p>
 
 <div class="img">
-  <a href="/images/the-journey/paris/sept/orsay.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/sept/orsay.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/sept/orsay.jpg">
   </a>
   <div class="alt">Musée d&#8217;Orsay</div>
@@ -85,7 +85,7 @@
 <p>I&rsquo;d never toured <a href="http://en.wikipedia.org/wiki/Les_Invalides">Les Invalides</a>, the building complex which houses the military history museum and home of Napoleon&rsquo;s tomb. We did that mostly to check off Parisian tourist things I hadn&rsquo;t yet done.</p>
 
 <div class="img">
-  <a href="/images/the-journey/paris/sept/tomb.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/sept/tomb.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/sept/tomb.jpg">
   </a>
   <div class="alt">Tomb of Napoleon, Les Invalides</div>
@@ -186,7 +186,7 @@
 <p>The most famous (as far as I can tell) street art in the area is done by <a href="http://en.wikipedia.org/wiki/Sampsa_(street_artist)">Sampsa</a>, the &ldquo;Finnish Banksy.&rdquo;</p>
 
 <div class="img">
-  <a href="/images/the-journey/paris/butte-art/hadopi-2.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/hadopi-2.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/hadopi-2.jpg">
   </a>
   <div class="alt">HADOPI gang</div>
@@ -196,7 +196,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/paris/butte-art/hadopi.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/hadopi.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/hadopi.jpg">
   </a>
   <div class="alt">Close-up of a HADOPI enforcer</div>
@@ -206,7 +206,7 @@
 <p>The two pieces by Sampsa were in protest of the <a href="http://en.wikipedia.org/wiki/HADOPI_law">HADOPI law</a> – a copyright infringement law from around 2009. Amusingly, the first logo for the HADOPI agency used <a href="http://www.telegraph.co.uk/news/worldnews/europe/france/6974249/Anti-piracy-agencys-logo-broke-copyright.html">a typeface without appropriate licensing</a>.</p>
 
 <div class="img">
-  <a href="/images/the-journey/paris/butte-art/blood-sucking.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/blood-sucking.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/blood-sucking.jpg">
   </a>
   <div class="alt">The blood sucking HADOPI</div>
@@ -218,7 +218,7 @@
 <p>There are a bunch artworks done in mostly muted blues and greys. They&rsquo;re all of children. At first glance, they&rsquo;re kind of peaceful.</p>
 
 <div class="img">
-  <a href="/images/the-journey/paris/butte-art/boat.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/boat.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/boat.jpg">
   </a>
   <div class="alt">Boat</div>
@@ -228,7 +228,7 @@
 <p>However when I started to study them there was something unnerving about them. The children never had faces.</p>
 
 <div class="img">
-  <a href="/images/the-journey/paris/butte-art/boy.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/boy.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/boy.jpg">
   </a>
   <div class="alt">Painter boy</div>
@@ -238,7 +238,7 @@
 <p>As well as the lack of faces, the children are usually disappearing. They&rsquo;re walking through a waterfall or curtain into another world. Or they&rsquo;re being partially submerged. They&rsquo;re a little eerie.</p>
 
 <div class="img">
-  <a href="/images/the-journey/paris/butte-art/kneel.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/kneel.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/kneel.jpg">
   </a>
   <div class="alt">Kneeling</div>
@@ -250,7 +250,7 @@
 <p>I&rsquo;ve done my best to translate the captions, but they&rsquo;ll no doubt be a little off. If anyone wants to correct me, please do!</p>
 
 <div class="img">
-  <a href="/images/the-journey/paris/butte-art/miss-tic1.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/miss-tic1.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/miss-tic1.jpg">
   </a>
   <div class="alt">&#8220;I have men-ancholy&#8221; (I think it&#8217;s a pun on &#8220;avoir du vague à l&#8217;âme,&#8221; meaning &#8220;to be melancholy&#8221;)</div>
@@ -260,7 +260,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/paris/butte-art/miss-tic2.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/miss-tic2.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/miss-tic2.jpg">
   </a>
   <div class="alt">&#8220;Abuse of pleasure is great for your health&#8221;</div>
@@ -270,7 +270,7 @@
 <p>Miss.tic doesn&rsquo;t only do scantily-clad ladies, though.</p>
 
 <div class="img">
-  <a href="/images/the-journey/paris/butte-art/miss-tic3.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/miss-tic3.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/miss-tic3.jpg">
   </a>
   <div class="alt">&#8220;In our secret gardens, desire is created&#8221;</div>
@@ -280,7 +280,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/paris/butte-art/miss-tic4.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/miss-tic4.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/miss-tic4.jpg">
   </a>
   <div class="alt">&#8220;Porn is an error of desire&#8221;</div>
@@ -290,7 +290,7 @@
 <p>There are a couple of sculptures by the Italian street art group <a href="http://www.urbansolid.org/">UrbanSolid</a>.</p>
 
 <div class="img">
-  <a href="/images/the-journey/paris/butte-art/ears.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/ears.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/ears.jpg">
   </a>
   <div class="alt">&#8220;Listening Area&#8221;</div>
@@ -300,7 +300,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/paris/butte-art/sculpture-prison.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/sculpture-prison.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/sculpture-prison.jpg">
   </a>
   <div class="alt">Out of Eden</div>
@@ -312,7 +312,7 @@
 <p>There are a few pieces by <a href="http://www.janaundjs.com/">Jana und JS</a>. They have a nice style, and do work in a number of European cities. I like their focus on photography/photographers, who appear in a lot of their works.</p>
 
 <div class="img">
-  <a href="/images/the-journey/paris/butte-art/photo.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/photo.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/photo.jpg">
   </a>
   <div class="alt">Urban photographer</div>
@@ -322,7 +322,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/paris/butte-art/window.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/window.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/window.jpg">
   </a>
   <div class="alt">Window</div>
@@ -334,7 +334,7 @@
 <p>Finally, here&rsquo;s a bunch of other neat stuff I saw that seemed to be one-offs by artists (at least, one-offs for this area).</p>
 
 <div class="img">
-  <a href="/images/the-journey/paris/butte-art/moss-bird.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/moss-bird.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/moss-bird.jpg">
   </a>
   <div class="alt">&#8220;Natural&#8221; street art: bird made of moss</div>
@@ -344,7 +344,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/paris/butte-art/skeleton.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/skeleton.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/skeleton.jpg">
   </a>
   <div class="alt">Looks like something for Day of the Dead (by <a href="http://www.bunnym.com/">Bunny M</a>)</div>
@@ -354,7 +354,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/paris/butte-art/world.jpg">
+  <a href="{{ root_url }}/images/the-journey/paris/butte-art/world.jpg">
     <img src="http://www.malrase.com/images/the-journey/paris/butte-art/world.jpg">
   </a>
   <div class="alt">Pixelated world</div>
@@ -377,7 +377,7 @@
 <p>The first night, we ate at <a href="http://www.brasseriegeorges.com/">Brasserie Georges</a>. It&rsquo;s apparently pretty famous (it has a <a href="http://en.wikipedia.org/wiki/Brasserie_Georges">Wikipedia article</a> - a sure sign of prominence). They served some traditional Lyon food - including a pistachio sausage thing, which was pretty nice. Also on the list of traditional Lyon foods were a mustard sausage and calf&rsquo;s head. I think I made the right choice with a pistachio sausage.</p>
 
 <div class="img">
-  <a href="/images/lyon/georges.jpg">
+  <a href="{{ root_url }}/images/lyon/georges.jpg">
     <img src="http://www.malrase.com/images/lyon/georges.jpg">
   </a>
   <div class="alt">
@@ -389,7 +389,7 @@
 <p>The second evening, we went to a place called <a href="http://maps.google.com/maps/place?hl=en&amp;safe=off&amp;bav=on.2,or.r_gc.r_pw.&amp;biw=1256&amp;bih=738&amp;um=1&amp;ie=UTF-8&amp;q=Les+enfants+terribles+lyon&amp;fb=1&amp;hq=Les+enfants+terribles&amp;hnear=0x47f4ea516ae88797:0x408ab2ae4bb21f0,Lyon,+France&amp;cid=9879979365541420669">Les Enfants Terribles</a>&hellip; it was OK. Nothing too special. The duck salad I had to start had too much mustard dressing on it. The main was beef, coupled with some deeeeelicious dauphinoise potatoes. I think they must have used chicken stock or something. The dessert was pretty good&hellip; but that&rsquo;s not much of a surprise as I love all tartes au citron. The filling had a strange granular texture - I think they might have added ground almonds or something.</p>
 
 <div class="img">
-  <a href="/images/lyon/duck-salad.jpg">
+  <a href="{{ root_url }}/images/lyon/duck-salad.jpg">
     <img src="http://www.malrase.com/images/lyon/duck-salad.jpg">
   </a>
   <div class="alt">
@@ -399,7 +399,7 @@
 
 
 <div class="img">
-  <a href="/images/lyon/beef.jpg">
+  <a href="{{ root_url }}/images/lyon/beef.jpg">
     <img src="http://www.malrase.com/images/lyon/beef.jpg">
   </a>
   <div class="alt">
@@ -409,7 +409,7 @@
 
 
 <div class="img">
-  <a href="/images/lyon/tarte-citron.jpg">
+  <a href="{{ root_url }}/images/lyon/tarte-citron.jpg">
     <img src="http://www.malrase.com/images/lyon/tarte-citron.jpg">
   </a>
   <div class="alt">
@@ -423,7 +423,7 @@
 <p>On our final night, we ended up at <a href="http://www.hippopotamus.fr/">Hippopotamus</a>. I&rsquo;ve seen a few in Paris. They&rsquo;re some kind of chain that serves vaguely French food - steaks, etc. It was, as we kinda expected, mediocre. I had an assortment of fried goods. It was very American.</p>
 
 <div class="img">
-  <a href="/images/lyon/hippo.jpg">
+  <a href="{{ root_url }}/images/lyon/hippo.jpg">
     <img src="http://www.malrase.com/images/lyon/hippo.jpg">
   </a>
   <div class="alt">
@@ -435,7 +435,7 @@
 <p>One of the better meals I had was (strangely?) at the airport. It was the airport branch of the 2-Michelin-starred <a href="http://www.nicolaslebec.com/">Nicolas Le Bec</a>, which is in the centre of Lyon. It&rsquo;s called <a href="http://www.espace-lebec.com/">Espace Le Bec</a>. We both had a really delicious penne with bolognese. It had the most amazing cheese sliced over it, too. SO GOOD.</p>
 
 <div class="img">
-  <a href="/images/lyon/lys-pasta.jpg">
+  <a href="{{ root_url }}/images/lyon/lys-pasta.jpg">
     <img src="http://www.malrase.com/images/lyon/lys-pasta.jpg">
   </a>
   <div class="alt">

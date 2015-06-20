@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Furman | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/furman/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2015-06-07T14:48:31-07:00</updated>
+  <updated>2015-06-20T14:56:07-07:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -25,7 +25,7 @@
 <p>The drive up was lonnng – it took us about eight hours (including stops and some hellish traffic around Columbia). We passed through Georgia:</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/georgia.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/georgia.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/georgia.jpg">
   </a>
   <div class="alt">Is the 1996 Olympics the only thing Georgia is proud of?</div>
@@ -35,7 +35,7 @@
 <p>And into South Carolina:</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/sc-gates.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/sc-gates.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/sc-gates.jpg">
   </a>
   <div class="alt">South Carolina had some pretty sweet gates</div>
@@ -47,7 +47,7 @@
 <p>We went to Furman the next morning. It&rsquo;s a self-contained campus and is quite beautiful. There&rsquo;s a lake surrounded by trees and a bell tower on one end.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/furman.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/furman.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/furman.jpg">
   </a>
   <div class="alt">The bell tower</div>
@@ -57,7 +57,7 @@
 <p>It was weird being at Hampton&rsquo;s old university. I think it was a strange trip for him, as he started recalling tales of parties or particular professors. What was also cool to see was the football pitch where <a href="https://en.wikipedia.org/wiki/Clint_Dempsey">Clint Dempsey</a> got his start.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/furman-soccer.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/furman-soccer.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/furman-soccer.jpg">
   </a>
   <div class="alt">Furman&#8217;s football pitch</div>
@@ -67,7 +67,7 @@
 <p>After that, we continued into the <a href="https://en.wikipedia.org/wiki/Nantahala_National_Forest">Nantahala National Forest</a>. There were a ton of beautiful lookout spots and hiking bits on the way there. Here&rsquo;s a few:</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/slide-rock.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/slide-rock.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/slide-rock.jpg">
   </a>
   <div class="alt">Slide Rock: apparently kids slide down this. Seems pretty dangerous.</div>
@@ -77,7 +77,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/hiking.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/hiking.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/hiking.jpg">
   </a>
   <div class="alt">Some hiking trail that ended up being way too long</div>
@@ -87,7 +87,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/table-rock.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/table-rock.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/table-rock.jpg">
   </a>
   <div class="alt">Table Rock, an outcrop</div>
@@ -99,7 +99,7 @@
 <p>Of course, driving around the South you see some interesting decorations.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/drivers.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/drivers.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/drivers.jpg">
   </a>
   <div class="alt">Ahh, the South</div>
@@ -111,7 +111,7 @@
 <p>The leaves were amazing – every road was a bordered with greens, yellows, oranges, reds and browns.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/leaves.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/leaves.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/leaves.jpg">
   </a>
   <div class="alt">Autumnnnnn</div>
@@ -123,7 +123,7 @@
 <p>There&rsquo;s stopping points every few hundred yards because there&rsquo;s that many photogenic scenes.</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/mountains.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/mountains.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/mountains.jpg">
   </a>
   <div class="alt">Vistas</div>
@@ -133,7 +133,7 @@
 <p>Here&rsquo;s a panorama:</p>
 
 <div class="img">
-  <a href="/images/the-journey/east-coast/blue-ridge-parkway.jpg">
+  <a href="{{ root_url }}/images/the-journey/east-coast/blue-ridge-parkway.jpg">
     <img src="http://www.malrase.com/images/the-journey/east-coast/blue-ridge-parkway.jpg">
   </a>
   <div class="alt">Panorama of the Blue Ridge Parkway</div>

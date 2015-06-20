@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Philadelphia | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/philadelphia/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2015-06-07T14:48:31-07:00</updated>
+  <updated>2015-06-20T14:56:07-07:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p>After a quick trip to Jacksonville for my father-in-law&rsquo;s birthday, our next stop was Philadelphia. I had only visited Philadelphia by passing through its airport, and I&rsquo;ve heard a lot about it as a city, so I was excited to spend a few days there. I was on my best behaviour and only made one joke about <a href="http://en.wikipedia.org/wiki/It's_Always_Sunny_in_Philadelphia">it being sunny</a>.</p>
 
 <div class="img">
-  <a href="/images/the-journey/phl/chesse-steak.jpg">
+  <a href="{{ root_url }}/images/the-journey/phl/chesse-steak.jpg">
     <img src="http://www.malrase.com/images/the-journey/phl/chesse-steak.jpg">
   </a>
   <div class="alt">Classic Philly chesse steak</div>
@@ -31,7 +31,7 @@
 <p>Our first night we went to <a href="http://www.yelp.com/biz/the-ranstead-room-philadelphia">the Ranstead Room</a>, at 20th and Ranstead. It&rsquo;s down an alley behind a modest black door.</p>
 
 <div class="img">
-  <a href="/images/the-journey/phl/ranstead.jpg">
+  <a href="{{ root_url }}/images/the-journey/phl/ranstead.jpg">
     <img src="http://www.malrase.com/images/the-journey/phl/ranstead.jpg">
   </a>
   <div class="alt">Door to Ranstead Room</div>
@@ -50,7 +50,7 @@
 <p>We stopped in <a href="http://www.yelp.com/biz/jinxed-tuckers-digs-philadelphia">a neat store</a> that seemed to sell a lot of odd items (including lamps made out of what looked like spinal columns). On the way out, I looked down a small alley – <a href="https://www.google.com/maps/@39.941169,-75.148958,3a,75y,102.7h,81.52t/data=!3m4!1e1!3m2!1sQadqWDkEoiNfRxrUPPZrGA!2e0">Kater St</a> – to see some incredible mosaic-murals.</p>
 
 <div class="img">
-  <a href="/images/the-journey/phl/kater-mural.jpg">
+  <a href="{{ root_url }}/images/the-journey/phl/kater-mural.jpg">
     <img src="http://www.malrase.com/images/the-journey/phl/kater-mural.jpg">
   </a>
   <div class="alt">South side of Kater St</div>
@@ -60,7 +60,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/phl/mural-selfie.jpg">
+  <a href="{{ root_url }}/images/the-journey/phl/mural-selfie.jpg">
     <img src="http://www.malrase.com/images/the-journey/phl/mural-selfie.jpg">
   </a>
   <div class="alt">Up close: mosaic selfie! </div>
@@ -70,7 +70,7 @@
 <p>The mosaics are the work of <a href="http://en.wikipedia.org/wiki/Isaiah_Zagar">Isaiah Zagar</a>, who has around 200 mosaics in the South Street area of Philadelphia. They use a lot of mirror pieces and include quotations and the address of the place. They were mesmerising and I felt I could have spent hours sitting in front of them. Apparently there&rsquo;s <a href="http://en.wikipedia.org/wiki/In_a_Dream_(film)">a movie about him</a>, so I&rsquo;ll have to check that out.</p>
 
 <div class="img">
-  <a href="/images/the-journey/phl/kater-mural2.jpg">
+  <a href="{{ root_url }}/images/the-journey/phl/kater-mural2.jpg">
     <img src="http://www.malrase.com/images/the-journey/phl/kater-mural2.jpg">
   </a>
   <div class="alt">North side of Kater St</div>
@@ -80,7 +80,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/phl/mural-selfie2.jpg">
+  <a href="{{ root_url }}/images/the-journey/phl/mural-selfie2.jpg">
     <img src="http://www.malrase.com/images/the-journey/phl/mural-selfie2.jpg">
   </a>
   <div class="alt">Up close</div>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Napa | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/napa/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2015-06-07T14:48:31-07:00</updated>
+  <updated>2015-06-20T14:56:07-07:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p>When you eat at a fancy restaurant (or at least a restaurant with a world-renowned chef), you have to get the weirdest thing on the menu. That chef (or restaurant) is famous for a reason - it creates flavour profiles that are going to be pleasing. So why waste your time on something standard?</p>
 
 <div class="img">
-  <a href="/images/cocktails/breakfast-of-champions.jpg">
+  <a href="{{ root_url }}/images/cocktails/breakfast-of-champions.jpg">
     <img src="http://www.malrase.com/images/cocktails/breakfast-of-champions.jpg">
   </a>
   <div class="alt">Breakfast of Champions</div>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Stockholm | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/stockholm/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2015-06-07T14:48:31-07:00</updated>
+  <updated>2015-06-20T14:56:07-07:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -36,7 +36,7 @@
 <p>Stockholm is built on a bunch of islands – an archipelago, really. The centralmost island is <a href="http://en.wikipedia.org/wiki/Gamla_stan">Gamla Stan</a>, &ldquo;Old Town&rdquo;. It has winding cobbled streets and alleyways and it&rsquo;s also the home of the royal palace. That&rsquo;s where we started our walking tour.</p>
 
 <div class="img">
-  <a href="/images/the-journey/stockholm/gamla-stan.jpg">
+  <a href="{{ root_url }}/images/the-journey/stockholm/gamla-stan.jpg">
     <img src="http://www.malrase.com/images/the-journey/stockholm/gamla-stan.jpg">
   </a>
   <div class="alt">Hampton looking over Gamla Stan</div>
@@ -48,7 +48,7 @@
 <p>It was pretty, but full of tourist shops. We quickly headed over to the neighbouring island to check out the <a href="http://en.wikipedia.org/wiki/Moderna_Museet">Moderna Museet</a>. Although not as big as, say, MoMA or the Tate Modern, the collection is really good. It&rsquo;s manageable in size but also offers a great narrative over 20th century art.</p>
 
 <div class="img">
-  <a href="/images/the-journey/stockholm/moderna-calder.jpg">
+  <a href="{{ root_url }}/images/the-journey/stockholm/moderna-calder.jpg">
     <img src="http://www.malrase.com/images/the-journey/stockholm/moderna-calder.jpg">
   </a>
   <div class="alt">Calder sculptures outside the museum</div>
@@ -62,7 +62,7 @@
 <p>It&rsquo;s one of the largest intact boats on display from the 1600s, and it&rsquo;s in great shape.</p>
 
 <div class="img">
-  <a href="/images/the-journey/stockholm/vasa-front.jpg">
+  <a href="{{ root_url }}/images/the-journey/stockholm/vasa-front.jpg">
     <img src="http://www.malrase.com/images/the-journey/stockholm/vasa-front.jpg">
   </a>
   <div class="alt">Front of the Vasa</div>
@@ -72,7 +72,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/stockholm/vasa-back.jpg">
+  <a href="{{ root_url }}/images/the-journey/stockholm/vasa-back.jpg">
     <img src="http://www.malrase.com/images/the-journey/stockholm/vasa-back.jpg">
   </a>
   <div class="alt">Intricate carvings on the back of the Vasa</div>
@@ -84,7 +84,7 @@
 <p>Finally we headed back to the city centre (just north of gamla stan) for some food. We ate at a great Scandinavian restaurant called <a href="http://www.rolfskok.se/?lang=en">Rolf&rsquo;s Kök</a>. I had a super-rich ox cheek dish, and Hampton had a creamy fish stew. Both were delicious!</p>
 
 <div class="img">
-  <a href="/images/the-journey/stockholm/rolfs-bread.jpg">
+  <a href="{{ root_url }}/images/the-journey/stockholm/rolfs-bread.jpg">
     <img src="http://www.malrase.com/images/the-journey/stockholm/rolfs-bread.jpg">
   </a>
   <div class="alt">Bread on a skewer (?) with homemade butter</div>
@@ -94,7 +94,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/stockholm/rolfs-oxcheek.jpg">
+  <a href="{{ root_url }}/images/the-journey/stockholm/rolfs-oxcheek.jpg">
     <img src="http://www.malrase.com/images/the-journey/stockholm/rolfs-oxcheek.jpg">
   </a>
   <div class="alt">Ox cheek</div>
@@ -104,7 +104,7 @@
 <p>After that, we realised that there was a <a href="http://mikkeller.dk/mikkeller-stockholm/">Mikkeller Bar</a> nearby. A Mikkeller Bar recently opened in San Francisco, but we never went. Why not go now, when we&rsquo;re half-way around the world?! So we went. I had a tasty IPA. Hampton tried asking the bartender if they had a British-style ale, but got a sassy reply, so had some wine instead.</p>
 
 <div class="img">
-  <a href="/images/the-journey/stockholm/mikkeller-ipa.jpg">
+  <a href="{{ root_url }}/images/the-journey/stockholm/mikkeller-ipa.jpg">
     <img src="http://www.malrase.com/images/the-journey/stockholm/mikkeller-ipa.jpg">
   </a>
   <div class="alt">Viking 25 IPA</div>
@@ -114,7 +114,7 @@
 <p>As if to remind me how silly it was going to a bar that&rsquo;s in my home city, they had the <a href="http://insidescoopsf.sfgate.com/blog/2014/01/13/mikkeller-introduces-mission-chinese-food-beer/">Mission Chinese</a> lager on the board, too.</p>
 
 <div class="img">
-  <a href="/images/the-journey/stockholm/mikkeller-mission.jpg">
+  <a href="{{ root_url }}/images/the-journey/stockholm/mikkeller-mission.jpg">
     <img src="http://www.malrase.com/images/the-journey/stockholm/mikkeller-mission.jpg">
   </a>
   <div class="alt">Mission Chinese beer</div>

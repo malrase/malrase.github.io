@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Zurich | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/zurich/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2015-06-07T14:48:31-07:00</updated>
+  <updated>2015-06-20T14:56:07-07:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -23,7 +23,7 @@
 <p>It all started with a two-hour flight from the abysmal &ldquo;London&rdquo; Luton Airport, which brought us to ZRH. We arrived at 17:30 and got a brief train to the central station. Walking outside, we could easily see the architectural monstrosity that was the Marriott Zürich - our hotel for four days. The <a href="http://www.marriott.com/hotels/travel/zrhdt-zurich-marriott-hotel/">Marriott</a> was far enough out of town to make it a nuisance to get to. It was a 15-minute walk to our friends&#8217; hotel, the much more conveniently-located <a href="http://www.hotel-adler.ch/">Hotel Adler</a> on Niederdorfstrasse.</p>
 
 <div class="img">
-  <a href="/images/zurich/waiting.jpg">
+  <a href="{{ root_url }}/images/zurich/waiting.jpg">
     <img src="http://www.malrase.com/images/zurich/waiting.jpg">
   </a>
   <div class="alt">Waiting outside Hotel Adler</div>
@@ -37,7 +37,7 @@
 <p>We tried to eat fairly traditionally. We ate at a couple of &ldquo;bierhalles&rdquo; - bench-style seating with various schnitzels and wursts on offer. The <a href="http://www.trymarket.ch/zeughauskeller/index.htm">Zeughauskeller</a>, at the southern end of Banhofstrasse, was very good. I wanted to take home vats of their potato salad.</p>
 
 <div class="img">
-  <a href="/images/zurich/potato-salad.jpg">
+  <a href="{{ root_url }}/images/zurich/potato-salad.jpg">
     <img src="http://www.malrase.com/images/zurich/potato-salad.jpg">
   </a>
   <div class="alt">Delicious potato salad</div>
@@ -47,7 +47,7 @@
 <p>We (of course) also ate at a fondue restaurant (underneath Hotel Adler, the <a href="http://www.hotel-adler.ch/restaurant-swiss-chuchi/">Chuchi</a>). Fondue is difficult to get wrong, really. Melt some cheese, add some alcohol and boom goes the dynamite. We ordered a &ldquo;traditional&rdquo; and a &ldquo;speciality&rdquo; pot, and found we were evenly split as to which we thought was the best.</p>
 
 <div class="img">
-  <a href="/images/zurich/fondue.jpg">
+  <a href="{{ root_url }}/images/zurich/fondue.jpg">
     <img src="http://www.malrase.com/images/zurich/fondue.jpg">
   </a>
   <div class="alt">Fondue at Chuchi</div>
@@ -57,7 +57,7 @@
 <p>On our first night (Melissa&rsquo;s birthday), we ate at <a href="http://www.hiltl.ch/">Hiltl</a>, the oldest vegetarian restaurant in Europe. It was pretty good - I had some amazing fried tofu, and stole some of Hampton&rsquo;s truffle risotto. Nom nom, indeed.</p>
 
 <div class="img">
-  <a href="/images/zurich/hiltl.jpg">
+  <a href="{{ root_url }}/images/zurich/hiltl.jpg">
     <img src="http://www.malrase.com/images/zurich/hiltl.jpg">
   </a>
   <div class="alt">Hiltl had its twitter mentions projected on a wall</div>
@@ -68,7 +68,7 @@
 Activity-wise, I think there&rsquo;s a fair amount to do in Zürich. However, we didn&rsquo;t do a whole lot. We went on a boat-tour of the lake and river, which was pleasant (especially in the gorgeous sunshine we received). We also went to the <a href="http://www.museum-gestaltung.ch/">Museum für Gestaltung Zürich</a> (a design museum), which was neat. It had a cool exhibition on the visual use of text, with a few music videos (including <a href="http://www.youtube.com/watch?v=-J4O2-nsFBA">Subterranean Homesick Blues</a> by Dylan) and opening titles to movies (e.g. <a href="http://www.youtube.com/watch?v=SEZK7mJoPLY">Se7en</a> and <a href="http://www.youtube.com/watch?v=sqIclb4qsJI">Panic Room</a>).</p>
 
 <div class="img">
-  <a href="/images/zurich/museum.jpg">
+  <a href="{{ root_url }}/images/zurich/museum.jpg">
     <img src="http://www.malrase.com/images/zurich/museum.jpg">
   </a>
   <div class="alt">Outside the Museum für Gestaltung</div>
