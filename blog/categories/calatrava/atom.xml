@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Calatrava | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/calatrava/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2015-06-20T14:56:07-07:00</updated>
+  <updated>2015-08-30T13:17:06-07:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -23,7 +23,7 @@
 <p>However! Hampton was invited to a conference in Lyon (<a href="http://rulu.eu/">Ruby Lugdunum</a>, named after the Roman moniker for the town). As we were mostly either at the conference or eating, I didn&rsquo;t get a chance to look around most of the city. But I&rsquo;m still going to judge it based on what I did see.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/lyon/rhone.jpg">
+  <a href="/images/lyon/rhone.jpg">
     <img src="http://www.malrase.com/images/lyon/rhone.jpg">
   </a>
   <div class="alt">Hampton on the Rhone</div>
@@ -37,14 +37,14 @@
 <p>The architecture was odd. I guess the city had mostly grown in the 60s/70s. There was lots of brutalist stuff - not that I&rsquo;m complaining, as I love the <a href="http://en.wikipedia.org/wiki/B%C3%A9ton_brut">béton</a> look. <a href="http://en.wikipedia.org/wiki/Claude_Bernard_University_Lyon_1">The Université Lyon 1</a> (where the conference was held) was made up pretty much exclusively of this stuff.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/lyon/college-1.jpg">
+  <a href="/images/lyon/college-1.jpg">
     <img src="http://www.malrase.com/images/lyon/college-1.jpg">
   </a>
 </div>
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/lyon/college-hut.jpg">
+  <a href="/images/lyon/college-hut.jpg">
     <img src="http://www.malrase.com/images/lyon/college-hut.jpg">
   </a>
 </div>
@@ -55,14 +55,14 @@
 <p>Oh, and on the topic of architecture, LYS had an awesome <a href="http://en.wikipedia.org/wiki/Gare_de_Lyon_Saint-Exup%C3%A9ry">train station</a>, designed by Santiago Calatrava.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/lyon/gare-from-plane.jpg">
+  <a href="/images/lyon/gare-from-plane.jpg">
     <img src="http://www.malrase.com/images/lyon/gare-from-plane.jpg">
   </a>
 </div>
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/lyon/gare-lys.jpg">
+  <a href="/images/lyon/gare-lys.jpg">
     <img src="http://www.malrase.com/images/lyon/gare-lys.jpg">
   </a>
 </div>

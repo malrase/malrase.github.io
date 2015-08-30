@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Art | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/art/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2015-06-20T14:56:07-07:00</updated>
+  <updated>2015-08-30T13:17:06-07:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p><a href="http://www.for-site.org/project/ai-weiwei-alcatraz/">@Large</a> is an art exhibition created by <a href="http://en.wikipedia.org/wiki/Ai_Weiwei">Ai Weiwei</a> to be displayed specifically at <a href="http://en.wikipedia.org/wiki/Alcatraz_Federal_Penitentiary">Alcatraz</a>. You don&rsquo;t need special tickets to view it – you just buy <a href="http://www.alcatrazcruises.com/">regular tickets to Alcatraz</a>. The art is scattered across a number of buildings/areas of the island, so you can explore it while you&rsquo;re on the regular Alcatraz tour.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/aiweiwei/dock.jpg">
+  <a href="/images/san-francisco/aiweiwei/dock.jpg">
     <img src="http://www.malrase.com/images/san-francisco/aiweiwei/dock.jpg">
   </a>
   <div class="alt">Poster at the Entrance</div>
@@ -33,7 +33,7 @@
 <p>Inside are three of the installations: <a href="http://www.for-site.org/project/ai-weiwei-alcatraz-with-wind/">With Wind</a>, <a href="http://www.for-site.org/project/ai-weiwei-alcatraz-trace/">Trace</a>, and <a href="http://www.for-site.org/project/ai-weiwei-alcatraz-refraction/">Refraction</a>. With Wind consists of traditional kite sculptures – one large dragon snaking through the room, plus a number of other smaller kites.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/aiweiwei/with-wind.jpg">
+  <a href="/images/san-francisco/aiweiwei/with-wind.jpg">
     <img src="http://www.malrase.com/images/san-francisco/aiweiwei/with-wind.jpg">
   </a>
   <div class="alt">With Wind</div>
@@ -43,7 +43,7 @@
 <p>The dragon had &ldquo;subversive&rdquo; quotes written on it. The smaller kites were made of fabric printed with birds and animals from nations that have less-than-stellar human rights records.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/aiweiwei/with-wind-2.jpg">
+  <a href="/images/san-francisco/aiweiwei/with-wind-2.jpg">
     <img src="http://www.malrase.com/images/san-francisco/aiweiwei/with-wind-2.jpg">
   </a>
   <div class="alt">With Wind</div>
@@ -55,7 +55,7 @@
 <p>The next room contained Trace. A series of portraits of political prisoners made in Lego covered the floor.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/aiweiwei/trace.jpg">
+  <a href="/images/san-francisco/aiweiwei/trace.jpg">
     <img src="http://www.malrase.com/images/san-francisco/aiweiwei/trace.jpg">
   </a>
   <div class="alt">Trace – <a href="http://en.wikipedia.org/wiki/Shin_Suk-ja">Shin Suk-ja</a></div>
@@ -67,7 +67,7 @@
 <p>Looking at a couple, though, is worthwhile. The most surprising for me was <a href="http://en.wikipedia.org/wiki/John_Kiriakou">John Kiriakou</a>, who was the first agent to relase the information that the CIA was using waterboarding to torture prisoners. He&rsquo;s currently serving jail time for this. <a href="http://www.for-site.org/project/ai-weiwei-alcatraz-trace/">You can see a list of the political prisoners featured in the artwork on the installation&rsquo;s website.</a></p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/aiweiwei/trace-2.jpg">
+  <a href="/images/san-francisco/aiweiwei/trace-2.jpg">
     <img src="http://www.malrase.com/images/san-francisco/aiweiwei/trace-2.jpg">
   </a>
   <div class="alt">Trace – <a href="http://en.wikipedia.org/wiki/John_Kiriakou">John Kiriakou</a></div>
@@ -77,7 +77,7 @@
 <p>In the old dining room, there&rsquo;s another part of @Large – <a href="http://www.for-site.org/project/ai-weiwei-alcatraz-yours-truly/">Yours Truly</a>. Here you can write postcards to the prisoners depicted in Trace. The postcards are already addressed, and on the front have national plants or animals from the prisoner&rsquo;s home country.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/aiweiwei/yours-truly.jpg">
+  <a href="/images/san-francisco/aiweiwei/yours-truly.jpg">
     <img src="http://www.malrase.com/images/san-francisco/aiweiwei/yours-truly.jpg">
   </a>
   <div class="alt">Yours Truly</div>
@@ -89,7 +89,7 @@
 <p>The hospital wing had an installation called <a href="http://www.for-site.org/project/ai-weiwei-alcatraz-blossom/">Blossom</a>.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/aiweiwei/blossom.jpg">
+  <a href="/images/san-francisco/aiweiwei/blossom.jpg">
     <img src="http://www.malrase.com/images/san-francisco/aiweiwei/blossom.jpg">
   </a>
   <div class="alt">Blossom</div>
@@ -99,7 +99,7 @@
 <p>It consisted of beautiful and delicate porcelain flowers arranged in the toilets, bathtubs, and sinks of the wing.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/aiweiwei/blossom-2.jpg">
+  <a href="/images/san-francisco/aiweiwei/blossom-2.jpg">
     <img src="http://www.malrase.com/images/san-francisco/aiweiwei/blossom-2.jpg">
   </a>
   <div class="alt">Blossom</div>
@@ -109,7 +109,7 @@
 <p>The flowers chosen were, again, national symbols of countries with serious human rights infractions.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/san-francisco/aiweiwei/blossom-3.jpg">
+  <a href="/images/san-francisco/aiweiwei/blossom-3.jpg">
     <img src="http://www.malrase.com/images/san-francisco/aiweiwei/blossom-3.jpg">
   </a>
   <div class="alt">Blossom</div>
