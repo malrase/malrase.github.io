@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Travel | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/travel/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2016-01-23T11:36:50-08:00</updated>
+  <updated>2016-02-22T12:18:52+09:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Travelling While LGBT: A Justified Anxiety?]]></title>
-    <link href="http://www.malrase.com/blog/2015/01/10/travelling-while-lgbt-justified-anxiety/"/>
-    <updated>2015-01-10T16:34:01-08:00</updated>
-    <id>http://www.malrase.com/blog/2015/01/10/travelling-while-lgbt-justified-anxiety</id>
+    <link href="http://www.malrase.com/blog/2015/01/11/travelling-while-lgbt-justified-anxiety/"/>
+    <updated>2015-01-11T09:34:01+09:00</updated>
+    <id>http://www.malrase.com/blog/2015/01/11/travelling-while-lgbt-justified-anxiety</id>
     <content type="html"><![CDATA[<p>The New York Times released its list of the <a href="http://www.nytimes.com/interactive/2015/01/11/travel/52-places-to-go-in-2015.html?hp&amp;action=click&amp;pgtype=Homepage&amp;module=photo-spot-region&amp;region=top-news&amp;WT.nav=top-news">top places to go to in 2015</a>. It puts together two of my favourite things: easy-to-digest lists and travel destinations. This year&rsquo;s list was pretty exciting – among some places that we&rsquo;d visited on this past trip (Manhattan, Philadelphia, and, surprisingly, Orlando), there were a lot of places I&rsquo;m interested in visiting.</p>
 
 <p><a href="http://en.wikipedia.org/wiki/Singapore">Singapore</a> and <a href="http://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines">St Vincent and the Grenadines</a> in particular caught my eye. Singapore for its city-state strangeness and St Vincent for its diving. That <a href="http://graphics8.nytimes.com/newsgraphics/2015/01/08/places-to-go/assets/images/stvincent-1254.jpg">coral reef photo</a> looks so inviting! But wait.</p>
@@ -42,9 +42,9 @@
   
   <entry>
     <title type="html"><![CDATA[Packing for Seven Months in a Carry-on]]></title>
-    <link href="http://www.malrase.com/blog/2014/04/22/carry-on-packing-for-seven-months/"/>
-    <updated>2014-04-22T10:09:09-07:00</updated>
-    <id>http://www.malrase.com/blog/2014/04/22/carry-on-packing-for-seven-months</id>
+    <link href="http://www.malrase.com/blog/2014/04/23/carry-on-packing-for-seven-months/"/>
+    <updated>2014-04-23T02:09:09+09:00</updated>
+    <id>http://www.malrase.com/blog/2014/04/23/carry-on-packing-for-seven-months</id>
     <content type="html"><![CDATA[<p>A <a href="http://twitter.com/melissaiscool">good friend</a> converted us to <a href="http://melissadreamsofsushi.com/?p=7432">always packing carry-ons</a> when going on trips. It&rsquo;s far easier to travel with a carry-on – especially when taking low-cost airlines that charge to check luggage.</p>
 
 <p>The longest we have spent living out of a carry-on has been about three months. The benefits definitely outweighed the negatives. If we ran out of clothes, we could often find laundry facilities. Anything we forgot could usually be bought locally. So, for this trip we took the plunge and aimed to pack only a carry-on for seven months of travel.</p>
@@ -61,7 +61,7 @@
 <p>Getting it into the suitcase was simple by rolling everything up. If you&rsquo;re not familiar with <a href="http://www.nytimes.com/slideshow/2010/05/06/business/businessspecial/20100506-pack-ss.html?_r=0">the &ldquo;roll&rdquo; style of packing</a>, it&rsquo;s excellent and allows you to fit a lot more in a suitcase (and keep things mostly wrinkle-free).</p>
 
 <div class="img">
-  <a href="/images/the-journey/side-one.JPG">
+  <a href="{{ root_url }}/images/the-journey/side-one.JPG">
     <img src="http://www.malrase.com/images/the-journey/side-one.JPG">
   </a>
   <div class="alt">First side</div>
@@ -71,7 +71,7 @@
 
 
 <div class="img">
-  <a href="/images/the-journey/side-two.JPG">
+  <a href="{{ root_url }}/images/the-journey/side-two.JPG">
     <img src="http://www.malrase.com/images/the-journey/side-two.JPG">
   </a>
   <div class="alt">Second side</div>
@@ -110,9 +110,9 @@
   
   <entry>
     <title type="html"><![CDATA[Upcoming Travel]]></title>
-    <link href="http://www.malrase.com/blog/2014/04/15/upcoming-travel/"/>
-    <updated>2014-04-15T13:40:14-07:00</updated>
-    <id>http://www.malrase.com/blog/2014/04/15/upcoming-travel</id>
+    <link href="http://www.malrase.com/blog/2014/04/16/upcoming-travel/"/>
+    <updated>2014-04-16T05:40:14+09:00</updated>
+    <id>http://www.malrase.com/blog/2014/04/16/upcoming-travel</id>
     <content type="html"><![CDATA[<p>For the next seven months, Hampton and I will be travelling around Europe and the East Coast. We have few solid plans aside from some conferences (<a href="http://codefront.io/">Codefront.io</a>, <a href="http://2014.la-conf.org/">La Conf</a>, <a href="http://hybridconf.net/">HybridConf</a> and <a href="http://sassconf.com/">SassConf</a>).</p>
 
 <p>A friend gave me the idea to blog as we travel. I&rsquo;ve been lax with this blog recently, and I hope that switching platforms (from WordPress to Octopress) will spur me to write more.</p>
@@ -121,15 +121,15 @@
   
   <entry>
     <title type="html"><![CDATA[San Francisco: Part Two]]></title>
-    <link href="http://www.malrase.com/blog/2011/12/30/san-francisco-part-two/"/>
-    <updated>2011-12-30T11:25:25-08:00</updated>
-    <id>http://www.malrase.com/blog/2011/12/30/san-francisco-part-two</id>
+    <link href="http://www.malrase.com/blog/2011/12/31/san-francisco-part-two/"/>
+    <updated>2011-12-31T04:25:25+09:00</updated>
+    <id>http://www.malrase.com/blog/2011/12/31/san-francisco-part-two</id>
     <content type="html"><![CDATA[<p>My first post on SF was a bit tourist-y. This one will be more focused on food and drink. And other funstuff.</p>
 
 <p>We ate at a neat burger place on Union Sq - the aptly-named <a href="http://www.burger-bar.com/">Burger Bar</a>.</p>
 
 <div class="img">
-  <a href="/images/san-francisco/burger-bar-view.jpg">
+  <a href="{{ root_url }}/images/san-francisco/burger-bar-view.jpg">
     <img src="http://www.malrase.com/images/san-francisco/burger-bar-view.jpg">
   </a>
   <div class="alt">View from Burger Bar.</div>
@@ -139,7 +139,7 @@
 
 
 <div class="img">
-  <a href="/images/san-francisco/burger-bar.jpg">
+  <a href="{{ root_url }}/images/san-francisco/burger-bar.jpg">
     <img src="http://www.malrase.com/images/san-francisco/burger-bar.jpg">
   </a>
   <div class="alt">The burger I had. I think it was buffalo?</div>
@@ -151,7 +151,7 @@
 <p>We went to an awesome beach - China Beach. It was really quiet and had insane views of the Golden Gate and its bridge.</p>
 
 <div class="img">
-  <a href="/images/san-francisco/china-beach.jpg">
+  <a href="{{ root_url }}/images/san-francisco/china-beach.jpg">
     <img src="http://www.malrase.com/images/san-francisco/china-beach.jpg">
   </a>
 </div>
@@ -165,15 +165,15 @@
   
   <entry>
     <title type="html"><![CDATA[San Francisco: Part One]]></title>
-    <link href="http://www.malrase.com/blog/2011/11/27/san-francisco-part-one/"/>
-    <updated>2011-11-27T11:25:29-08:00</updated>
-    <id>http://www.malrase.com/blog/2011/11/27/san-francisco-part-one</id>
+    <link href="http://www.malrase.com/blog/2011/11/28/san-francisco-part-one/"/>
+    <updated>2011-11-28T04:25:29+09:00</updated>
+    <id>http://www.malrase.com/blog/2011/11/28/san-francisco-part-one</id>
     <content type="html"><![CDATA[<p>After Jacksonville, we headed on to San Francisco. Hampton&rsquo;s company (Moovweb) is based there.</p>
 
 <p>We flew United 2623 from CLT to SFO. They had WIFI!!!!! Zomg. It&rsquo;s still a novelty for me. I don&rsquo;t have many photos of the CLT-SFO flight, just the food pretty much.</p>
 
 <div class="img">
-  <a href="/images/plane/ua2623-pasta.jpg">
+  <a href="{{ root_url }}/images/plane/ua2623-pasta.jpg">
     <img src="http://www.malrase.com/images/plane/ua2623-pasta.jpg">
   </a>
   <div class="alt">
@@ -183,7 +183,7 @@
 
 
 <div class="img">
-  <a href="/images/plane/ua2623-dessert.jpg">
+  <a href="{{ root_url }}/images/plane/ua2623-dessert.jpg">
     <img src="http://www.malrase.com/images/plane/ua2623-dessert.jpg">
   </a>
   <div class="alt">
@@ -193,7 +193,7 @@
 
 
 <div class="img">
-  <a href="/images/plane/ua2623-wifi.jpg">
+  <a href="{{ root_url }}/images/plane/ua2623-wifi.jpg">
     <img src="http://www.malrase.com/images/plane/ua2623-wifi.jpg">
   </a>
   <div class="alt">
@@ -205,7 +205,7 @@
 <p>I&rsquo;d never been to San Francisco before, so it was a bit of an adventure. We only spent a couple of days doing touristy things, and the rest of the time was mostly Hampton working at Moovweb and me working on the book. Here&rsquo;s some tourist photos.</p>
 
 <div class="img">
-  <a href="/images/san-francisco/pier-39.jpg">
+  <a href="{{ root_url }}/images/san-francisco/pier-39.jpg">
     <img src="http://www.malrase.com/images/san-francisco/pier-39.jpg">
   </a>
   <div class="alt">
@@ -215,7 +215,7 @@
 
 
 <div class="img">
-  <a href="/images/san-francisco/sea-lions.jpg">
+  <a href="{{ root_url }}/images/san-francisco/sea-lions.jpg">
     <img src="http://www.malrase.com/images/san-francisco/sea-lions.jpg">
   </a>
   <div class="alt">
@@ -225,7 +225,7 @@
 
 
 <div class="img">
-  <a href="/images/san-francisco/alcatraz-fog.jpg">
+  <a href="{{ root_url }}/images/san-francisco/alcatraz-fog.jpg">
     <img src="http://www.malrase.com/images/san-francisco/alcatraz-fog.jpg">
   </a>
   <div class="alt">
@@ -237,7 +237,7 @@
 <p>(We didn&rsquo;t actually go to Alcatraz, even though I reaaaaally wanted to.)</p>
 
 <div class="img">
-  <a href="/images/san-francisco/transam.jpg">
+  <a href="{{ root_url }}/images/san-francisco/transam.jpg">
     <img src="http://www.malrase.com/images/san-francisco/transam.jpg">
   </a>
   <div class="alt">
@@ -247,7 +247,7 @@
 
 
 <div class="img">
-  <a href="/images/san-francisco/hyatt-view.jpg">
+  <a href="{{ root_url }}/images/san-francisco/hyatt-view.jpg">
     <img src="http://www.malrase.com/images/san-francisco/hyatt-view.jpg">
   </a>
   <div class="alt">

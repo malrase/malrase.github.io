@@ -4,7 +4,7 @@
   <title><![CDATA[Category: United | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/united/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2016-01-23T11:36:50-08:00</updated>
+  <updated>2016-02-22T12:18:52+09:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -15,15 +15,15 @@
   
   <entry>
     <title type="html"><![CDATA[San Francisco: Part One]]></title>
-    <link href="http://www.malrase.com/blog/2011/11/27/san-francisco-part-one/"/>
-    <updated>2011-11-27T11:25:29-08:00</updated>
-    <id>http://www.malrase.com/blog/2011/11/27/san-francisco-part-one</id>
+    <link href="http://www.malrase.com/blog/2011/11/28/san-francisco-part-one/"/>
+    <updated>2011-11-28T04:25:29+09:00</updated>
+    <id>http://www.malrase.com/blog/2011/11/28/san-francisco-part-one</id>
     <content type="html"><![CDATA[<p>After Jacksonville, we headed on to San Francisco. Hampton&rsquo;s company (Moovweb) is based there.</p>
 
 <p>We flew United 2623 from CLT to SFO. They had WIFI!!!!! Zomg. It&rsquo;s still a novelty for me. I don&rsquo;t have many photos of the CLT-SFO flight, just the food pretty much.</p>
 
 <div class="img">
-  <a href="/images/plane/ua2623-pasta.jpg">
+  <a href="{{ root_url }}/images/plane/ua2623-pasta.jpg">
     <img src="http://www.malrase.com/images/plane/ua2623-pasta.jpg">
   </a>
   <div class="alt">
@@ -33,7 +33,7 @@
 
 
 <div class="img">
-  <a href="/images/plane/ua2623-dessert.jpg">
+  <a href="{{ root_url }}/images/plane/ua2623-dessert.jpg">
     <img src="http://www.malrase.com/images/plane/ua2623-dessert.jpg">
   </a>
   <div class="alt">
@@ -43,7 +43,7 @@
 
 
 <div class="img">
-  <a href="/images/plane/ua2623-wifi.jpg">
+  <a href="{{ root_url }}/images/plane/ua2623-wifi.jpg">
     <img src="http://www.malrase.com/images/plane/ua2623-wifi.jpg">
   </a>
   <div class="alt">
@@ -55,7 +55,7 @@
 <p>I&rsquo;d never been to San Francisco before, so it was a bit of an adventure. We only spent a couple of days doing touristy things, and the rest of the time was mostly Hampton working at Moovweb and me working on the book. Here&rsquo;s some tourist photos.</p>
 
 <div class="img">
-  <a href="/images/san-francisco/pier-39.jpg">
+  <a href="{{ root_url }}/images/san-francisco/pier-39.jpg">
     <img src="http://www.malrase.com/images/san-francisco/pier-39.jpg">
   </a>
   <div class="alt">
@@ -65,7 +65,7 @@
 
 
 <div class="img">
-  <a href="/images/san-francisco/sea-lions.jpg">
+  <a href="{{ root_url }}/images/san-francisco/sea-lions.jpg">
     <img src="http://www.malrase.com/images/san-francisco/sea-lions.jpg">
   </a>
   <div class="alt">
@@ -75,7 +75,7 @@
 
 
 <div class="img">
-  <a href="/images/san-francisco/alcatraz-fog.jpg">
+  <a href="{{ root_url }}/images/san-francisco/alcatraz-fog.jpg">
     <img src="http://www.malrase.com/images/san-francisco/alcatraz-fog.jpg">
   </a>
   <div class="alt">
@@ -87,7 +87,7 @@
 <p>(We didn&rsquo;t actually go to Alcatraz, even though I reaaaaally wanted to.)</p>
 
 <div class="img">
-  <a href="/images/san-francisco/transam.jpg">
+  <a href="{{ root_url }}/images/san-francisco/transam.jpg">
     <img src="http://www.malrase.com/images/san-francisco/transam.jpg">
   </a>
   <div class="alt">
@@ -97,7 +97,7 @@
 
 
 <div class="img">
-  <a href="/images/san-francisco/hyatt-view.jpg">
+  <a href="{{ root_url }}/images/san-francisco/hyatt-view.jpg">
     <img src="http://www.malrase.com/images/san-francisco/hyatt-view.jpg">
   </a>
   <div class="alt">

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Washington-dc | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/washington-dc/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2016-01-23T11:36:50-08:00</updated>
+  <updated>2016-02-22T12:18:52+09:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Columbia Room]]></title>
-    <link href="http://www.malrase.com/blog/2014/04/25/the-columbia-room/"/>
-    <updated>2014-04-25T11:29:59-07:00</updated>
-    <id>http://www.malrase.com/blog/2014/04/25/the-columbia-room</id>
+    <link href="http://www.malrase.com/blog/2014/04/26/the-columbia-room/"/>
+    <updated>2014-04-26T03:29:59+09:00</updated>
+    <id>http://www.malrase.com/blog/2014/04/26/the-columbia-room</id>
     <content type="html"><![CDATA[<div itemprop="description">
 
   <p>I was glad our friend had already been to <a href="http://columbiaroomdc.com/"><span itemprop="itemreviewed">The Columbia Room</span></a> and met us outside, otherwise I don&#8217;t think we would have been able to find it. It&#8217;s hidden in the back of an upscale dive bar called The Passenger on 7th St in D.C. Inside, it&#8217;s tiny (I think there were ten seats) and sparsely-decorated (some apothecary-style bottles with herbs were behind the bar). The service, level of expertise from the bartenders, and the inventiveness of flavour pairings reminded me of the few Michelin-starred restaurants I&#8217;ve been to. Except with liquor instead of food.</p>
@@ -31,7 +31,7 @@
   <p>The second drink, the Getaway, had two main ingredients: a black rum and <a href="http://en.wikipedia.org/wiki/Cynar">cynar</a> (<em>chee</em>-nar). </p>
 
   <div class="img">
-    <a href="/images/the-journey/dc/getaway-ingredients.jpg">
+    <a href="{{ root_url }}/images/the-journey/dc/getaway-ingredients.jpg">
       <img src="http://www.malrase.com/images/the-journey/dc/getaway-ingredients.jpg">
     </a>
     <div class="alt">Ingredients for the Getaway</div>
@@ -46,7 +46,7 @@
   <p>As the previous cocktails were so good, we decided to stay for another one each. We asked the bartender for two gin-based drinks – one with citrus and one without.</p>
 
   <div class="img">
-    <a href="/images/the-journey/dc/dry-martini.jpg">
+    <a href="{{ root_url }}/images/the-journey/dc/dry-martini.jpg">
       <img src="http://www.malrase.com/images/the-journey/dc/dry-martini.jpg">
     </a>
     <div class="alt">Dry Martini</div>
@@ -55,7 +55,7 @@
   <p>Hampton got a dry martini with Plymouth gin. It was pretty delicious. The bartender recommended Plymouth as a good go-to gin that mixes well with other ingredients.</p>
 
   <div class="img">
-    <a href="/images/the-journey/dc/last-word-ingredients.jpg">
+    <a href="{{ root_url }}/images/the-journey/dc/last-word-ingredients.jpg">
       <img src="http://www.malrase.com/images/the-journey/dc/last-word-ingredients.jpg">
     </a>
     <div class="alt">Last Word Ingredients</div>
@@ -66,7 +66,7 @@
   <p>The Maraschino liqueur was strange. I&#8217;m familiar with Luxardo-style maraschino cherries, so was expecting the liqueuer to be a deep purple syrup. However, it looked and tasted more like a simple syrup that had a hint of cherry flavour.</p>
 
   <div class="img">
-    <a href="/images/the-journey/dc/last-word-cocktail.jpg">
+    <a href="{{ root_url }}/images/the-journey/dc/last-word-cocktail.jpg">
       <img src="http://www.malrase.com/images/the-journey/dc/last-word-cocktail.jpg">
     </a>
     <div class="alt">Last Word</div>

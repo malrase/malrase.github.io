@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Lgbt | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/lgbt/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2016-01-23T11:36:50-08:00</updated>
+  <updated>2016-02-22T12:18:52+09:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Travelling While LGBT: A Justified Anxiety?]]></title>
-    <link href="http://www.malrase.com/blog/2015/01/10/travelling-while-lgbt-justified-anxiety/"/>
-    <updated>2015-01-10T16:34:01-08:00</updated>
-    <id>http://www.malrase.com/blog/2015/01/10/travelling-while-lgbt-justified-anxiety</id>
+    <link href="http://www.malrase.com/blog/2015/01/11/travelling-while-lgbt-justified-anxiety/"/>
+    <updated>2015-01-11T09:34:01+09:00</updated>
+    <id>http://www.malrase.com/blog/2015/01/11/travelling-while-lgbt-justified-anxiety</id>
     <content type="html"><![CDATA[<p>The New York Times released its list of the <a href="http://www.nytimes.com/interactive/2015/01/11/travel/52-places-to-go-in-2015.html?hp&amp;action=click&amp;pgtype=Homepage&amp;module=photo-spot-region&amp;region=top-news&amp;WT.nav=top-news">top places to go to in 2015</a>. It puts together two of my favourite things: easy-to-digest lists and travel destinations. This year&rsquo;s list was pretty exciting – among some places that we&rsquo;d visited on this past trip (Manhattan, Philadelphia, and, surprisingly, Orlando), there were a lot of places I&rsquo;m interested in visiting.</p>
 
 <p><a href="http://en.wikipedia.org/wiki/Singapore">Singapore</a> and <a href="http://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines">St Vincent and the Grenadines</a> in particular caught my eye. Singapore for its city-state strangeness and St Vincent for its diving. That <a href="http://graphics8.nytimes.com/newsgraphics/2015/01/08/places-to-go/assets/images/stvincent-1254.jpg">coral reef photo</a> looks so inviting! But wait.</p>
@@ -43,12 +43,12 @@
   <entry>
     <title type="html"><![CDATA[The Anniversary Question: Civil Unions and Same-Sex Marriage]]></title>
     <link href="http://www.malrase.com/blog/2014/06/26/the-anniversary-question/"/>
-    <updated>2014-06-26T03:02:36-07:00</updated>
+    <updated>2014-06-26T19:02:36+09:00</updated>
     <id>http://www.malrase.com/blog/2014/06/26/the-anniversary-question</id>
     <content type="html"><![CDATA[<p>Today is the one-year anniversary of two historic decisions by the Supreme Court. <a href="http://en.wikipedia.org/wiki/United_States_v._Windsor">United States v. Windsor</a> permitted federal recognition of same-sex marriages, and <a href="http://en.wikipedia.org/wiki/Hollingsworth_v._Perry">Hollingsworth v. Perry</a> allowed same-sex marriages in California to resume. Here&rsquo;s us on the front page of the New York Times website one year ago today:</p>
 
 <div class="img">
-  <a href="/images/marriage/nytimes.png">
+  <a href="{{ root_url }}/images/marriage/nytimes.png">
     <img src="http://www.malrase.com/images/marriage/nytimes.png">
   </a>
   <div class="alt">26th June 2013 – that&#8217;s us in the top left!</div>
@@ -73,7 +73,7 @@
 <p>In the UK you can only get a civil partnership in a council office (<a href="http://en.wikipedia.org/wiki/Cambridgeshire_County_Council#mediaviewer/File:Shire_Hall,_Cambridge_-_geograph.org.uk_-_84489.jpg">this is Cambridge&rsquo;s</a>). It&rsquo;s not a pretty building, so we decided to do it with just us and our witnesses (my dad and my brother). It was in tiny office and was over in about five minutes. We read out the legally-required pre-written lines, signed some paper, and we were set.</p>
 
 <div class="img">
-  <a href="/images/marriage/civilpartnership.jpg">
+  <a href="{{ root_url }}/images/marriage/civilpartnership.jpg">
     <img src="http://www.malrase.com/images/marriage/civilpartnership.jpg">
   </a>
   <div class="alt">Our Civil Partnership certificate</div>
@@ -87,7 +87,7 @@
 <p>Soon after our civil partnership ceremony, on 11th November 2009, we had a gathering of our friends and family for a celebration. We went to <a href="http://www.midsummerhouse.co.uk/">Midsummer House</a>, a fancy restaurant in Cambridge. Twelve people attended (including us) – both of our immediate families, and some of our closest friends.</p>
 
 <div class="img">
-  <a href="/images/marriage/uk-couple.jpg">
+  <a href="{{ root_url }}/images/marriage/uk-couple.jpg">
     <img src="http://www.malrase.com/images/marriage/uk-couple.jpg">
   </a>
   <div class="alt">I should have got a hair cut</div>
@@ -97,7 +97,7 @@
 <p>We had written some short vows to say to each other. Before the meal we had Hampton&rsquo;s dad do a little ceremony where we read them out in front of our families.</p>
 
 <div class="img">
-  <a href="/images/marriage/uk-vows.jpg">
+  <a href="{{ root_url }}/images/marriage/uk-vows.jpg">
     <img src="http://www.malrase.com/images/marriage/uk-vows.jpg">
   </a>
   <div class="alt">Saying our vows</div>
@@ -133,7 +133,7 @@
 <p>So, we booked an appointment at San Francisco City Hall and on 10th July 2013 we got married. Again.</p>
 
 <div class="img">
-  <a href="/images/marriage/us-cityhall.jpg">
+  <a href="{{ root_url }}/images/marriage/us-cityhall.jpg">
     <img src="http://www.malrase.com/images/marriage/us-cityhall.jpg">
   </a>
   <div class="alt">In San Francisco City Hall</div>

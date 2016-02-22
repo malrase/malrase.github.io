@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Absinthe | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/absinthe/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2016-01-23T11:36:50-08:00</updated>
+  <updated>2016-02-22T12:18:52+09:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Absinthe Tasting in Prague]]></title>
     <link href="http://www.malrase.com/blog/2014/07/11/absinthe-tasting-prague/"/>
-    <updated>2014-07-11T05:38:26-07:00</updated>
+    <updated>2014-07-11T21:38:26+09:00</updated>
     <id>http://www.malrase.com/blog/2014/07/11/absinthe-tasting-prague</id>
     <content type="html"><![CDATA[<div itemprop="description">
 
@@ -31,7 +31,7 @@
   <p>The tasting covered six absinthes – two each from France, Switzerland and the Czech Republic. They all had unique characters and it was a lot of fun comparing notes with what others thought.</p>
 
   <div class="img">
-    <a href="/images/the-journey/prague/absinthe.jpg">
+    <a href="{{ root_url }}/images/the-journey/prague/absinthe.jpg">
       <img src="http://www.malrase.com/images/the-journey/prague/absinthe.jpg">
     </a>
     <div class="alt">The absinthes we tasted</div>

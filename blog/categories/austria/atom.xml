@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Austria | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/austria/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2016-01-23T11:36:50-08:00</updated>
+  <updated>2016-02-22T12:18:52+09:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Vienna]]></title>
     <link href="http://www.malrase.com/blog/2014/05/13/vienna/"/>
-    <updated>2014-05-13T04:33:20-07:00</updated>
+    <updated>2014-05-13T20:33:20+09:00</updated>
     <id>http://www.malrase.com/blog/2014/05/13/vienna</id>
     <content type="html"><![CDATA[<p>We took the <a href="https://westbahn.at/en/">Westbahn</a> from Linz to Vienna. It leaves every 30mins and takes about 1hr 20mins to get there. The train was swish – clean, with free wi-fi, power ports next to every seat. Plus a conductor (?) came through so you could buy tickets and drinks/snacks. I wish all trains were this nice.</p>
 
@@ -29,7 +29,7 @@
 <p>The next morning it was beautiful out, so Sebastian took us on a quick yet thorough walking tour of Vienna. We started in the <a href="http://en.wikipedia.org/wiki/Museumsquartier">Museumsquartier</a> (or &ldquo;MQ&rdquo;), a quadrangle with a number of museums.</p>
 
 <div class="img">
-  <a href="/images/the-journey/aus/mumok.jpg">
+  <a href="{{ root_url }}/images/the-journey/aus/mumok.jpg">
     <img src="http://www.malrase.com/images/the-journey/aus/mumok.jpg">
   </a>
   <div class="alt">Modern art museum – &#8220;mumok&#8221;</div>
@@ -39,7 +39,7 @@
 <p>Unfortunately, we didn&rsquo;t have time to stop in any of them. Next time, I promise. We wandered past the Natural History Museum to the <a href="http://en.wikipedia.org/wiki/Hofburg_Palace">Hofburg Palace</a>, the winter residence of the Hapsburgs and the current residence of the President of Austria.</p>
 
 <div class="img">
-  <a href="/images/the-journey/aus/palace.jpg">
+  <a href="{{ root_url }}/images/the-journey/aus/palace.jpg">
     <img src="http://www.malrase.com/images/the-journey/aus/palace.jpg">
   </a>
   <div class="alt">Hofburg Palace</div>
@@ -51,7 +51,7 @@
 <p>We ended up in <a href="http://en.wikipedia.org/wiki/Stephansplatz,_Vienna">Stephansplatz</a>, containing the impressive <a href="http://en.wikipedia.org/wiki/Stephansdom">Stephansdom</a>. The roof in particular, a mosaic of coloured tiles, was spectacular.</p>
 
 <div class="img">
-  <a href="/images/the-journey/aus/stephansplatz.jpg">
+  <a href="{{ root_url }}/images/the-journey/aus/stephansplatz.jpg">
     <img src="http://www.malrase.com/images/the-journey/aus/stephansplatz.jpg">
   </a>
   <div class="alt">Stephansplatz</div>
@@ -67,7 +67,7 @@
   <entry>
     <title type="html"><![CDATA[Linz]]></title>
     <link href="http://www.malrase.com/blog/2014/05/13/linz/"/>
-    <updated>2014-05-13T02:10:18-07:00</updated>
+    <updated>2014-05-13T18:10:18+09:00</updated>
     <id>http://www.malrase.com/blog/2014/05/13/linz</id>
     <content type="html"><![CDATA[<p>I had never been to Austria before, so I was excited for my first visit. I wondered how much like Germany and Switzerland it would be.</p>
 
@@ -76,7 +76,7 @@
 <p>We made a bee-line for the <a href="http://www.yelp.at/biz/cocktailbar-easy-linz">best-rated cocktail bar on Yelp</a>: <a href="http://www.cocktailbareasy.at/">Cocktailbar Easy</a> (yeah, I&rsquo;m not sure about the name either).</p>
 
 <div class="img">
-  <a href="/images/the-journey/aus/easybar.jpg">
+  <a href="{{ root_url }}/images/the-journey/aus/easybar.jpg">
     <img src="http://www.malrase.com/images/the-journey/aus/easybar.jpg">
   </a>
   <div class="alt">Gimlet and Manhattan</div>
@@ -94,7 +94,7 @@
 <p>A nice bit about the bar: as you come out of the smokey room into the fresh air, you&rsquo;re right in front of the <a href="http://en.wikipedia.org/wiki/New_Cathedral,_Linz">Linz Neuerdom</a>.</p>
 
 <div class="img">
-  <a href="/images/the-journey/aus/linz-dom.jpg">
+  <a href="{{ root_url }}/images/the-journey/aus/linz-dom.jpg">
     <img src="http://www.malrase.com/images/the-journey/aus/linz-dom.jpg">
   </a>
   <div class="alt">Linz Neuerdom</div>
@@ -104,7 +104,7 @@
 <p>The next day we attended the conference, which was at Johannes Kepler University. We had to grab a quick bite to eat, and found a kiosk just <a href="https://www.google.com/maps/place/Altenbergerstra%C3%9Fe+49/@48.3352722,14.3200481,17z/data=!3m1!4b1!4m2!3m1!1s0x47739842e4c97287:0x985fb68ad982b98a">outside the Universität stop</a>. It had pretty cheap schnitzel, so we thought we&rsquo;d give it a go.</p>
 
 <div class="img">
-  <a href="/images/the-journey/aus/kiosk.jpg">
+  <a href="{{ root_url }}/images/the-journey/aus/kiosk.jpg">
     <img src="http://www.malrase.com/images/the-journey/aus/kiosk.jpg">
   </a>
   <div class="alt">The kiosk (yes, it served wine)</div>
@@ -114,7 +114,7 @@
 <p>It looked super-sketchy and we weren&rsquo;t quite sure what to make of it. You ordered at the window, then you stood at a ledge and ate. Hampton ordered schnitzel. We expected the guy to reach down into a freezer and throw some partially-thawed thing into a deep-fat fryer. However, he got out a fresh chicken breast, beat it with a mallet, put it in an egg-bath, etc. It was the tastiest schnitzel we had while in Austria.</p>
 
 <div class="img">
-  <a href="/images/the-journey/aus/schnitzel.jpg">
+  <a href="{{ root_url }}/images/the-journey/aus/schnitzel.jpg">
     <img src="http://www.malrase.com/images/the-journey/aus/schnitzel.jpg">
   </a>
   <div class="alt">Kiosk schnitzel</div>
