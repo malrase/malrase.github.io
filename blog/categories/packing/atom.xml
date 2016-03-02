@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Packing | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/packing/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2016-02-22T12:18:52+09:00</updated>
+  <updated>2016-03-02T15:34:01-08:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Packing for Seven Months in a Carry-on]]></title>
-    <link href="http://www.malrase.com/blog/2014/04/23/carry-on-packing-for-seven-months/"/>
-    <updated>2014-04-23T02:09:09+09:00</updated>
-    <id>http://www.malrase.com/blog/2014/04/23/carry-on-packing-for-seven-months</id>
+    <link href="http://www.malrase.com/blog/2014/04/22/carry-on-packing-for-seven-months/"/>
+    <updated>2014-04-22T10:09:09-07:00</updated>
+    <id>http://www.malrase.com/blog/2014/04/22/carry-on-packing-for-seven-months</id>
     <content type="html"><![CDATA[<p>A <a href="http://twitter.com/melissaiscool">good friend</a> converted us to <a href="http://melissadreamsofsushi.com/?p=7432">always packing carry-ons</a> when going on trips. It&rsquo;s far easier to travel with a carry-on – especially when taking low-cost airlines that charge to check luggage.</p>
 
 <p>The longest we have spent living out of a carry-on has been about three months. The benefits definitely outweighed the negatives. If we ran out of clothes, we could often find laundry facilities. Anything we forgot could usually be bought locally. So, for this trip we took the plunge and aimed to pack only a carry-on for seven months of travel.</p>
@@ -34,7 +34,7 @@
 <p>Getting it into the suitcase was simple by rolling everything up. If you&rsquo;re not familiar with <a href="http://www.nytimes.com/slideshow/2010/05/06/business/businessspecial/20100506-pack-ss.html?_r=0">the &ldquo;roll&rdquo; style of packing</a>, it&rsquo;s excellent and allows you to fit a lot more in a suitcase (and keep things mostly wrinkle-free).</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/side-one.JPG">
+  <a href="/images/the-journey/side-one.JPG">
     <img src="http://www.malrase.com/images/the-journey/side-one.JPG">
   </a>
   <div class="alt">First side</div>
@@ -44,7 +44,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/side-two.JPG">
+  <a href="/images/the-journey/side-two.JPG">
     <img src="http://www.malrase.com/images/the-journey/side-two.JPG">
   </a>
   <div class="alt">Second side</div>

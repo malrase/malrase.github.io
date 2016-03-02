@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Cocktails | malrase dot com]]></title>
   <link href="http://www.malrase.com/blog/categories/cocktails/atom.xml" rel="self"/>
   <link href="http://www.malrase.com/"/>
-  <updated>2016-02-22T12:18:52+09:00</updated>
+  <updated>2016-03-02T15:34:01-08:00</updated>
   <id>http://www.malrase.com/</id>
   <author>
     <name><![CDATA[Michael]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Savoy Cocktail Book]]></title>
-    <link href="http://www.malrase.com/blog/2015/08/31/the-savoy-cocktail-book/"/>
-    <updated>2015-08-31T04:47:32+09:00</updated>
-    <id>http://www.malrase.com/blog/2015/08/31/the-savoy-cocktail-book</id>
+    <link href="http://www.malrase.com/blog/2015/08/30/the-savoy-cocktail-book/"/>
+    <updated>2015-08-30T12:47:32-07:00</updated>
+    <id>http://www.malrase.com/blog/2015/08/30/the-savoy-cocktail-book</id>
     <content type="html"><![CDATA[<p>It was my birthday a couple of days ago, and I got a copy of <a href="https://en.wikipedia.org/wiki/Savoy_Hotel#The_Savoy_Cocktail_Book">The Savoy Cocktail Book</a>. It&rsquo;s been in publication since 1930, with over 700 recipes inside.</p>
 
 <p>To be honest, a lot of the recipes are very similar. Most are based on whiskey, rum, or dry gin. Then, you add varying amounts of sweet and dry vermouths (called Italian and French vermouths, respectively) – plus dashes of bitters or other liqueurs.</p>
@@ -25,7 +25,7 @@
 <p>The presentation is top-notch, though, with gorgeous art deco illustrations every few pages. Check out the page where the Savoy Cocktail is presented.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/cocktails/savoy-pages.jpg">
+  <a href="/images/cocktails/savoy-pages.jpg">
     <img src="http://www.malrase.com/images/cocktails/savoy-pages.jpg">
   </a>
   <div class="alt">R.A.C. Special Cocktail</div>
@@ -43,7 +43,7 @@
 <p>My first cocktail ended up being the R.A.C. Special Cocktail. Their recipe: &frac12; dry gin, &frac14; sweet vermouth, &frac14; dry vermouth, and two dashes of orange bitters. Shake well, serve , and garnish with an orange peel. Here&rsquo;s the outcome.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/cocktails/savoy-rac.jpg">
+  <a href="/images/cocktails/savoy-rac.jpg">
     <img src="http://www.malrase.com/images/cocktails/savoy-rac.jpg">
   </a>
   <div class="alt">R.A.C. Special Cocktail</div>
@@ -58,9 +58,9 @@
   
   <entry>
     <title type="html"><![CDATA[Drinking Spots in Jacksonville]]></title>
-    <link href="http://www.malrase.com/blog/2014/12/16/drinking-spots-in-jacksonville/"/>
-    <updated>2014-12-16T05:05:17+09:00</updated>
-    <id>http://www.malrase.com/blog/2014/12/16/drinking-spots-in-jacksonville</id>
+    <link href="http://www.malrase.com/blog/2014/12/15/drinking-spots-in-jacksonville/"/>
+    <updated>2014-12-15T12:05:17-08:00</updated>
+    <id>http://www.malrase.com/blog/2014/12/15/drinking-spots-in-jacksonville</id>
     <content type="html"><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Jacksonville,_Florida">Jacksonville</a>, Hampton&rsquo;s hometown, is pretty sprawling. As such, it&rsquo;s difficult to get to different areas of the city without driving. Thankfully, Uber recently arrived so you can drink and get home safely (although with all the recent controversy, I don&rsquo;t know how comfortable you might be with using Uber).</p>
 
 <p>The main areas of town we went to were Downtown, San Marco, and Avondale.</p>
@@ -79,9 +79,9 @@
   
   <entry>
     <title type="html"><![CDATA[World's Best Bars 2014]]></title>
-    <link href="http://www.malrase.com/blog/2014/10/15/worlds-best-bars-2014/"/>
-    <updated>2014-10-15T06:18:22+09:00</updated>
-    <id>http://www.malrase.com/blog/2014/10/15/worlds-best-bars-2014</id>
+    <link href="http://www.malrase.com/blog/2014/10/14/worlds-best-bars-2014/"/>
+    <updated>2014-10-14T14:18:22-07:00</updated>
+    <id>http://www.malrase.com/blog/2014/10/14/worlds-best-bars-2014</id>
     <content type="html"><![CDATA[<p>I stumbled across <a href="http://www.drinksint.com/news/fullstory.php/aid/4841/Artesian_named_The_World_92s_50_Best_Bars_champion_2014.html">Drinks International&rsquo;s list of the top 50 cocktail bars</a> in the world. Sure, it&rsquo;s probably a list you can pay to appear on or whatever, but I love lists.</p>
 
 <p>Turns out on our European trip we managed to hit six of them! So I&rsquo;m feeling pretty good about my cocktail game.</p>
@@ -107,7 +107,7 @@
 <p>The drinks were OK – I got a Provençal and Hampton got the Billionaire Cocktail. Hampton&rsquo;s was way better; mine was a little bland, to be honest. Some subtle lavender flavour but that was about it. Anyway, I didn&rsquo;t really enjoy it there – and definitely don&rsquo;t think it deserves the number five spot.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/nyc/employees-only.jpg">
+  <a href="/images/the-journey/nyc/employees-only.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/employees-only.jpg">
   </a>
   <div class="alt">Provençal (in front) and a Billionaire Cocktail</div>
@@ -124,9 +124,9 @@
   
   <entry>
     <title type="html"><![CDATA[Some Ninth Avenue Bars]]></title>
-    <link href="http://www.malrase.com/blog/2014/10/01/some-ninth-avenue-bars/"/>
-    <updated>2014-10-01T00:36:49+09:00</updated>
-    <id>http://www.malrase.com/blog/2014/10/01/some-ninth-avenue-bars</id>
+    <link href="http://www.malrase.com/blog/2014/09/30/some-ninth-avenue-bars/"/>
+    <updated>2014-09-30T08:36:49-07:00</updated>
+    <id>http://www.malrase.com/blog/2014/09/30/some-ninth-avenue-bars</id>
     <content type="html"><![CDATA[<p>This post has an awkward title. That&rsquo;s chiefly because the bars in New York are so numerous that I couldn&rsquo;t claim knowledge of even 0.1 percent. I couldn&rsquo;t even claim to have exhausted bars in <a href="http://en.wikipedia.org/wiki/Chelsea,_Manhattan">Chelsea</a> (our current neighbourhood), or even the Ninth Avenue bit of Chelsea. In fact, a more accurate title for this post would be &ldquo;Bars Between 20th and 17th Streets on Ninth Avenue: A Small Sampling.&rdquo; It&rsquo;s strange coming from Prague, where we managed to check off almost all of the decent cocktail bars in the centre, to a city where we&rsquo;ve barely scratched the surface of our neighbourhood.</p>
 
 <p>Anyway, we&rsquo;ve been trying out some of the recommended bars in the area. We haven&rsquo;t found a bar we&rsquo;re completely comfortable with – the nice mix of decent cocktails and relaxed atmosphere has eluded us so far in Chelsea.</p>
@@ -134,7 +134,7 @@
 <p>The <a href="http://tipsyparson.com/">Tipsy Parson</a> is a great restaurant as well as a pretty good cocktail bar. You know how often, a Southern-style restaurant can&rsquo;t beat the food you actually get in the South? Well, that&rsquo;s not the case here. I had fried catfish with gravy, and Hampton had shrimp and grits. Both were great – the catfish was crisp and the gravy wasn&rsquo;t too peppery (which happens a lot with Southern gravy).</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/catfish.jpg">
+  <a href="/images/the-journey/nyc/ninth-ave-bars/catfish.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/catfish.jpg">
   </a>
   <div class="alt">Fried catfish</div>
@@ -144,7 +144,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/shrimp-grits.jpg">
+  <a href="/images/the-journey/nyc/ninth-ave-bars/shrimp-grits.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/shrimp-grits.jpg">
   </a>
   <div class="alt">Shrimp and grits</div>
@@ -156,7 +156,7 @@
 <p>They also have seats at the bar. The cocktails are a little bit hit and miss. They&rsquo;re trying hard to be inventive, but a lot of them miss the mark. There was a ginger-based drink that was <em>way</em> too gingery, even for me. The Professor Plum was pretty good, although due to seasonal changes of the menu I don&rsquo;t think it&rsquo;s available any more.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/tipsy-plum.jpg">
+  <a href="/images/the-journey/nyc/ninth-ave-bars/tipsy-plum.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/tipsy-plum.jpg">
   </a>
   <div class="alt">Professor Plum cocktail</div>
@@ -166,7 +166,7 @@
 <p><a href="http://bathtubginnyc.com/">Bathtub Gin</a> is a speakeasy behind a coffee shop. It&rsquo;s quite conspicuous for a speakeasy – walking past on a Saturday night you see a line of people outside an empty coffee bar. I&rsquo;m no fool! No coffee is that tasty. We booked for 6pm on a quiet night and even then the bouncer made us wait outside, despite it being empty when we were eventually let in.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/bathtub-logo.jpg">
+  <a href="/images/the-journey/nyc/ninth-ave-bars/bathtub-logo.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/bathtub-logo.jpg">
   </a>
   <div class="alt">Bathtub Gin logo</div>
@@ -176,7 +176,7 @@
 <p>The drinks were quite good. We started out with a Martini and a Blushing Lady #2.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/bathtub-martini.jpg">
+  <a href="/images/the-journey/nyc/ninth-ave-bars/bathtub-martini.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/bathtub-martini.jpg">
   </a>
   <div class="alt">Martini</div>
@@ -186,7 +186,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/blush.jpg">
+  <a href="/images/the-journey/nyc/ninth-ave-bars/blush.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/blush.jpg">
   </a>
   <div class="alt">Blushing Lady #2</div>
@@ -196,7 +196,7 @@
 <p>The Blushing Lady #2 tasted like a sour grape candy. The Martini was OK. The secound round proved better – a Vesper and a Last Word.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/bathtub-vesper.jpg">
+  <a href="/images/the-journey/nyc/ninth-ave-bars/bathtub-vesper.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/bathtub-vesper.jpg">
   </a>
   <div class="alt">Vesper</div>
@@ -206,7 +206,7 @@
 
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/last-word.jpg">
+  <a href="/images/the-journey/nyc/ninth-ave-bars/last-word.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/last-word.jpg">
   </a>
   <div class="alt">Last Word</div>
@@ -216,7 +216,7 @@
 <p>They had some great small plates to share – the mushroom gnocchi was my favourite. The pork belly sliders were also super-tasty.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/bathtub-sliders.jpg">
+  <a href="/images/the-journey/nyc/ninth-ave-bars/bathtub-sliders.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/bathtub-sliders.jpg">
   </a>
   <div class="alt">Pork belly sliders</div>
@@ -232,7 +232,7 @@
 <p>The Park is in a beautiful converted parking garage, with an indoor &ldquo;garden&rdquo; area. The front bar was pretty crowded, so we sat in the garden area where – pro-tip – there&rsquo;s a secret back bar! We ordered drinks from both and the back bartender was way better. Plus there was no wait at the back bar.</p>
 
 <div class="img">
-  <a href="{{ root_url }}/images/the-journey/nyc/ninth-ave-bars/hendricks-mash.jpg">
+  <a href="/images/the-journey/nyc/ninth-ave-bars/hendricks-mash.jpg">
     <img src="http://www.malrase.com/images/the-journey/nyc/ninth-ave-bars/hendricks-mash.jpg">
   </a>
   <div class="alt">Hendrick&#8217;s Mash</div>
@@ -247,9 +247,9 @@
   
   <entry>
     <title type="html"><![CDATA[Bar Chef]]></title>
-    <link href="http://www.malrase.com/blog/2014/09/21/bar-chef/"/>
-    <updated>2014-09-21T01:10:44+09:00</updated>
-    <id>http://www.malrase.com/blog/2014/09/21/bar-chef</id>
+    <link href="http://www.malrase.com/blog/2014/09/20/bar-chef/"/>
+    <updated>2014-09-20T09:10:44-07:00</updated>
+    <id>http://www.malrase.com/blog/2014/09/20/bar-chef</id>
     <content type="html"><![CDATA[<div itemprop="description">
 
   <p>We&#8217;ve been using <a href="http://www.worldsbestbars.com/">World&#8217;s Best Bars</a> to find bars when we&#8217;ve been travelling. It&#8217;s a little hit-and-miss, and you need to do some extra research before you randomly pick one. But it&#8217;s great if you&#8217;re in a place that doesn&#8217;t really use Yelp or FourSquare. We showed it to Mike and Melissa, and they laughed at a lot of the choices for Toronto. One, however, they recommended: <a href="http://www.barcheftoronto.com/"><span itemprop="itemreviewed">Bar Chef</span></a>.</p>
@@ -259,7 +259,7 @@
   <p>Oh, it was dark inside, so most of my photos are a little grainy. Sorry.</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/toronto/barchef/barchef.jpg">
+    <a href="/images/the-journey/toronto/barchef/barchef.jpg">
       <img src="http://www.malrase.com/images/the-journey/toronto/barchef/barchef.jpg">
     </a>
     <div class="alt">Bar Chef placemat</div>
@@ -268,7 +268,7 @@
   <p>We started out with two normal-ish cocktails. The Symphony No 5 was a gin/vanilla thing that was OK. The Basil Daiquiri was tasty – super-drinkable.
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/toronto/barchef/symphony-daiquiri.jpg">
+    <a href="/images/the-journey/toronto/barchef/symphony-daiquiri.jpg">
       <img src="http://www.malrase.com/images/the-journey/toronto/barchef/symphony-daiquiri.jpg">
     </a>
     <div class="alt">Symphony No. 5 and the Basil Daiquiri</div>
@@ -279,7 +279,7 @@
   <p>Hampton got a $45 (!) Manhattan. It came under a giant cloche filled with smoke.</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/toronto/barchef/manhattan-cloche.jpg">
+    <a href="/images/the-journey/toronto/barchef/manhattan-cloche.jpg">
       <img src="http://www.malrase.com/images/the-journey/toronto/barchef/manhattan-cloche.jpg">
     </a>
     <div class="alt">Cloche full of smoke</div>
@@ -288,7 +288,7 @@
   <p>It rested on the table for a minute or two before the bartender came over and slowly swirled the cloche off the top of the pedestal. Underneath was the smokey Manhattan!</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/toronto/barchef/manhattan.jpg">
+    <a href="/images/the-journey/toronto/barchef/manhattan.jpg">
       <img src="http://www.malrase.com/images/the-journey/toronto/barchef/manhattan.jpg">
     </a>
     <div class="alt">Manhattan</div>
@@ -299,7 +299,7 @@
   <p>The next modernist cocktail we got was the Black Truffle. It came with six tiny spoons. The spoons had a coconut foam/lime dust mixture on them. You were supposed to eat one of those, then drink the gin-based concoction. Those spoons were amazing, and they went well with the drink. The drink had elderflower in it, too, so I loved it.</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/toronto/barchef/black-truffle.jpg">
+    <a href="/images/the-journey/toronto/barchef/black-truffle.jpg">
       <img src="http://www.malrase.com/images/the-journey/toronto/barchef/black-truffle.jpg">
     </a>
     <div class="alt">Black Truffle</div>
@@ -308,7 +308,7 @@
   <p>Next up, there was a Cedar. It came on a wood platter set up like a zen garden. There was a sprig of cedar in one corner, some cacao &#8220;soil&#8221; and chunks of pear. You dip the pear in the &#8220;soil,&#8221; and eat that before you drink. I didn&#8217;t get much from the food bit, but the drink (a gin-chamomile-pear thing) was clean and fresh.</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/toronto/barchef/cedar.jpg">
+    <a href="/images/the-journey/toronto/barchef/cedar.jpg">
       <img src="http://www.malrase.com/images/the-journey/toronto/barchef/cedar.jpg">
     </a>
     <div class="alt">Cedar</div>
@@ -317,7 +317,7 @@
   <p>I think the weirdest drink of the night was the Spring Thaw. It came in a tiny glass surrounded by moss. The bartender came over and poured water (?) over the moss, and it started misting. I&#8217;m guessing there was perfumed dry ice in there somewhere – it smelled just like a spring forest.</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/toronto/barchef/spring-thaw-mist.jpg">
+    <a href="/images/the-journey/toronto/barchef/spring-thaw-mist.jpg">
       <img src="http://www.malrase.com/images/the-journey/toronto/barchef/spring-thaw-mist.jpg">
     </a>
     <div class="alt">Spring thawing all over the table</div>
@@ -326,7 +326,7 @@
   <p>The cocktail itself was a gin-campari thing. It had a campari sorbet of some kind, and as you were drinking the sorbet melted into the rest. It&#8217;s a neat concept, but it was strange that the drink got more and more bitter as you went on.</p>
 
   <div class="img">
-    <a href="{{ root_url }}/images/the-journey/toronto/barchef/spring-thaw.jpg">
+    <a href="/images/the-journey/toronto/barchef/spring-thaw.jpg">
       <img src="http://www.malrase.com/images/the-journey/toronto/barchef/spring-thaw.jpg">
     </a>
     <div class="alt">The Spring Thaw cocktail itself</div>
